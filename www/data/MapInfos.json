@@ -3,304 +3,304 @@
     {
         "id": 1,
         "expanded": true,
-        "name": "Experiment Lab",
+        "name": "実験他",
         "order": 1,
         "parentId": 0,
-        "scrollX": 618,
-        "scrollY": 914
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 2,
         "expanded": true,
-        "name": "Church",
+        "name": "教会",
         "order": 11,
         "parentId": 21,
-        "scrollX": 774.8571428571428,
-        "scrollY": 513.4285714285714
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 3,
         "expanded": true,
-        "name": "Weapon and Tool Shop",
+        "name": "武器道具屋",
         "order": 8,
         "parentId": 21,
-        "scrollX": 766.2857142857142,
-        "scrollY": 513.4285714285714
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 4,
         "expanded": true,
-        "name": "Tavern",
+        "name": "酒場",
         "order": 20,
         "parentId": 21,
-        "scrollX": 915.4285714285713,
-        "scrollY": 774
+        "scrollX": 1131,
+        "scrollY": 710
     },
     {
         "id": 5,
         "expanded": false,
-        "name": "Checkpoint",
+        "name": "詰め所",
         "order": 9,
         "parentId": 21,
-        "scrollX": 862.2857142857142,
-        "scrollY": 513.4285714285714
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 6,
         "expanded": true,
-        "name": "Goblin Confinement Room",
+        "name": "ゴブリン　監禁部屋",
         "order": 132,
         "parentId": 22,
-        "scrollX": 1404,
-        "scrollY": 790.2857142857142
+        "scrollX": 1129,
+        "scrollY": 618
     },
     {
         "id": 7,
         "expanded": true,
-        "name": "Inn",
+        "name": "宿",
         "order": 6,
         "parentId": 21,
-        "scrollX": 876,
-        "scrollY": 686.5714285714286
+        "scrollX": 1129,
+        "scrollY": 618
     },
     {
         "id": 8,
         "expanded": false,
-        "name": "Dungeon",
+        "name": "地下牢",
         "order": 10,
         "parentId": 5,
-        "scrollX": 918,
-        "scrollY": 492
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 9,
         "expanded": false,
-        "name": "Template",
+        "name": "テンプレート",
         "order": 197,
         "parentId": 0,
-        "scrollX": 516,
-        "scrollY": 894.8571428571428
+        "scrollX": 1121,
+        "scrollY": 822
     },
     {
         "id": 10,
         "expanded": false,
-        "name": "Adventurer's Guild",
+        "name": "冒険者ギルド",
         "order": 12,
         "parentId": 21,
-        "scrollX": 958.2857142857142,
-        "scrollY": 513.4285714285714
+        "scrollX": 1012.4444444444445,
+        "scrollY": 558.2222222222222
     },
     {
         "id": 11,
         "expanded": false,
-        "name": "Monster Scholar's Residence",
+        "name": "モンスター学者宅",
         "order": 13,
         "parentId": 21,
-        "scrollX": 766.2857142857142,
-        "scrollY": 513.4285714285714
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 12,
         "expanded": true,
-        "name": "Mary's House",
+        "name": "メアリ宅",
         "order": 14,
         "parentId": 21,
-        "scrollX": 1054.2857142857142,
-        "scrollY": 513.4285714285714
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 13,
         "expanded": true,
-        "name": "Goblin Cave 1 - Escape Time",
+        "name": "ゴブリン洞窟　１　脱出時",
         "order": 134,
         "parentId": 6,
-        "scrollX": 519.4285714285714,
-        "scrollY": 506.57142857142856
+        "scrollX": 1121,
+        "scrollY": 628
     },
     {
         "id": 14,
         "expanded": true,
-        "name": "Hot Spring Changing Room",
+        "name": "温泉　脱衣所",
         "order": 18,
         "parentId": 21,
-        "scrollX": 622.2857142857142,
-        "scrollY": 513.4285714285714
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 15,
         "expanded": false,
-        "name": "Barn",
+        "name": "畜舎",
         "order": 21,
         "parentId": 21,
-        "scrollX": 766.2857142857142,
-        "scrollY": 513.4285714285714
+        "scrollX": 1129,
+        "scrollY": 618
     },
     {
         "id": 16,
         "expanded": false,
-        "name": "Start Map",
+        "name": "スタートマップ",
         "order": 196,
         "parentId": 0,
-        "scrollX": 529.7142857142857,
-        "scrollY": 545.1428571428571
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 17,
         "expanded": true,
-        "name": "Roper's Habitat 1",
+        "name": "ローパーの住処　１",
         "order": 140,
         "parentId": 103,
-        "scrollX": 876,
-        "scrollY": 790.2857142857142
+        "scrollX": 1121,
+        "scrollY": 628
     },
     {
         "id": 18,
         "expanded": false,
-        "name": "Underground Waterway Confinement Room",
+        "name": "地下水路　監禁部屋",
         "order": 90,
         "parentId": 71,
-        "scrollX": 832,
-        "scrollY": 640
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 19,
-        "expanded": false,
-        "name": "Fortress",
+        "expanded": true,
+        "name": "砦",
         "order": 158,
         "parentId": 54,
-        "scrollX": 516,
-        "scrollY": 518.5714285714286
+        "scrollX": 1131,
+        "scrollY": 640
     },
     {
         "id": 20,
         "expanded": true,
-        "name": "Road to the Abandoned Village 2",
+        "name": "廃村への道２",
         "order": 30,
         "parentId": 120,
-        "scrollX": 923.9999999999999,
-        "scrollY": 791.1428571428571
+        "scrollX": 1121,
+        "scrollY": 748
     },
     {
         "id": 21,
-        "expanded": false,
-        "name": "Hot Spring Town",
+        "expanded": true,
+        "name": "温泉街",
         "order": 5,
         "parentId": 0,
-        "scrollX": 1390.2857142857142,
-        "scrollY": 1611.4285714285713
+        "scrollX": 1461,
+        "scrollY": 636
     },
     {
         "id": 22,
         "expanded": true,
-        "name": "Goblin Cave 1",
+        "name": "ゴブリン洞窟　１",
         "order": 130,
         "parentId": 139,
-        "scrollX": 1390.2857142857142,
-        "scrollY": 793.7142857142857
+        "scrollX": 1121,
+        "scrollY": 618
     },
     {
         "id": 23,
         "expanded": false,
-        "name": "Catherine Clinic - Battle",
+        "name": "カトリーヌ医院　戦闘",
         "order": 66,
         "parentId": 75,
-        "scrollX": 915.4285714285713,
-        "scrollY": 774
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 24,
         "expanded": false,
-        "name": "Civilian House 3",
+        "name": "民家３",
         "order": 15,
         "parentId": 21,
-        "scrollX": 622.2857142857142,
-        "scrollY": 513.4285714285714
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 25,
         "expanded": false,
-        "name": "Meeting Place with the City Guard",
+        "name": "市警との待ち合わせ場所",
         "order": 51,
         "parentId": 82,
-        "scrollX": 529.7142857142857,
-        "scrollY": 527.1428571428571
+        "scrollX": 1129,
+        "scrollY": 618
     },
     {
         "id": 26,
         "expanded": false,
-        "name": "Barn",
+        "name": "納屋",
         "order": 16,
         "parentId": 21,
-        "scrollX": 670.2857142857142,
-        "scrollY": 513.4285714285714
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 27,
         "expanded": true,
-        "name": "Clinic",
+        "name": "医院",
         "order": 17,
         "parentId": 21,
-        "scrollX": 670.2857142857142,
-        "scrollY": 513.4285714285714
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 28,
         "expanded": false,
-        "name": "Town Toilet",
+        "name": "街トイレ",
         "order": 172,
         "parentId": 54,
-        "scrollX": 574.2857142857142,
-        "scrollY": 518.5714285714286
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 29,
         "expanded": true,
-        "name": "Abandoned Village",
+        "name": "廃村",
         "order": 26,
         "parentId": 120,
-        "scrollX": 1404,
-        "scrollY": 790.2857142857142
+        "scrollX": 1129,
+        "scrollY": 618
     },
     {
         "id": 30,
         "expanded": false,
-        "name": "Confinement Room",
+        "name": "監禁部屋",
         "order": 28,
         "parentId": 29,
-        "scrollX": 529.7142857142857,
-        "scrollY": 527.1428571428571
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 31,
         "expanded": true,
-        "name": "Hot Spring with Partitions",
+        "name": "温泉仕切り付き",
         "order": 19,
         "parentId": 14,
-        "scrollX": 732,
-        "scrollY": 590.5714285714286
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 32,
         "expanded": false,
-        "name": "Inside the Abandoned Village",
+        "name": "廃村の中",
         "order": 27,
         "parentId": 29,
-        "scrollX": 766.2857142857142,
-        "scrollY": 513.4285714285714
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 33,
         "expanded": true,
-        "name": "Goblin Cave 2 - Escape Time",
+        "name": "ゴブリン洞窟　２　脱出時",
         "order": 135,
         "parentId": 6,
-        "scrollX": 822.8571428571428,
-        "scrollY": 768.8571428571428
+        "scrollX": 1121,
+        "scrollY": 769
     },
     {
         "id": 34,
         "expanded": true,
-        "name": "Underground Waterway Boss Room Battle",
+        "name": "地下水路　ボス部屋戦闘",
         "order": 89,
         "parentId": 71,
         "scrollX": 529.7142857142857,
@@ -309,965 +309,997 @@
     {
         "id": 35,
         "expanded": true,
-        "name": "Underground Waterway Slime Defeat",
+        "name": "地下水路 スライム敗北",
         "order": 91,
         "parentId": 70,
-        "scrollX": 519.4285714285714,
-        "scrollY": 513.4285714285714
+        "scrollX": 1131,
+        "scrollY": 628
     },
     {
         "id": 36,
         "expanded": false,
-        "name": "Old Bookstore - Event Exterior",
+        "name": "古本屋　イベント用外観",
         "order": 54,
         "parentId": 86,
-        "scrollX": 529.7142857142857,
-        "scrollY": 527.1428571428571
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 37,
         "expanded": true,
-        "name": "East Town - Event Use",
+        "name": "東の町　イベント用",
         "order": 113,
         "parentId": 54,
-        "scrollX": 458.6666666666667,
-        "scrollY": 367.1111111111111
+        "scrollX": 1012.4444444444445,
+        "scrollY": 558.2222222222222
     },
     {
         "id": 38,
         "expanded": true,
-        "name": "Slime Excretion Event Use",
+        "name": "スライム排泄イベント用",
         "order": 122,
         "parentId": 37,
-        "scrollX": 529.7142857142857,
-        "scrollY": 475.71428571428567
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 39,
         "expanded": true,
-        "name": "City Guard Erotic Event Use",
+        "name": "市警エロイベント用",
         "order": 123,
         "parentId": 37,
-        "scrollX": 601.7142857142857,
-        "scrollY": 776.5714285714286
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 40,
         "expanded": true,
-        "name": "Slum Tool Shop",
+        "name": "スラム道具屋",
         "order": 102,
         "parentId": 185,
-        "scrollX": 529.7142857142857,
-        "scrollY": 527.1428571428571
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 41,
         "expanded": true,
-        "name": "Vagrant's Hut",
+        "name": "浮浪者小屋",
         "order": 104,
         "parentId": 185,
-        "scrollX": 718.2857142857142,
-        "scrollY": 518.5714285714286
+        "scrollX": 1012.4444444444445,
+        "scrollY": 558.2222222222222
     },
     {
         "id": 42,
         "expanded": true,
-        "name": "Supply Escort Quest: On the Way",
+        "name": "物資護衛依頼　道中",
         "order": 119,
         "parentId": 37,
-        "scrollX": 906.8571428571428,
-        "scrollY": 475.71428571428567
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 43,
         "expanded": true,
-        "name": "Supply Escort Quest: Battle",
+        "name": "物資護衛依頼　戦闘",
         "order": 120,
         "parentId": 42,
-        "scrollX": 966.8571428571428,
-        "scrollY": 742.2857142857142
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 44,
         "expanded": false,
-        "name": "Guild: VIP's Room",
+        "name": "ギルド　偉い人の部屋",
         "order": 59,
         "parentId": 57,
-        "scrollX": 529.7142857142857,
-        "scrollY": 527.1428571428571
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 45,
-        "expanded": false,
-        "name": "Opening Area",
+        "expanded": true,
+        "name": "オープニングエリア",
         "order": 3,
         "parentId": 0,
-        "scrollX": 848.5714285714286,
-        "scrollY": 518.5714285714286
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 46,
         "expanded": true,
-        "name": "Slasher John's Hideout",
+        "name": "通り魔ジョン隠れ家",
         "order": 84,
         "parentId": 47,
-        "scrollX": 618,
-        "scrollY": 523
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 47,
         "expanded": true,
-        "name": "City Dungeon",
+        "name": "シティーダンジョン",
         "order": 83,
         "parentId": 54,
-        "scrollX": 529.7142857142857,
-        "scrollY": 527.1428571428571
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 48,
         "expanded": true,
-        "name": "Thieves' Fort Rooftop",
+        "name": "盗賊砦　屋上",
         "order": 42,
         "parentId": 121,
-        "scrollX": 516,
-        "scrollY": 542.5714285714286
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 49,
         "expanded": true,
-        "name": "Pigman Cave Entrance",
+        "name": "ピッグマン洞窟前",
         "order": 136,
         "parentId": 103,
-        "scrollX": 1404,
-        "scrollY": 790.2857142857142
+        "scrollX": 1129,
+        "scrollY": 618
     },
     {
         "id": 50,
         "expanded": false,
-        "name": "Recollection Scene",
+        "name": "回想用",
         "order": 200,
         "parentId": 0,
-        "scrollX": 533.1428571428571,
-        "scrollY": 489.4285714285714
+        "scrollX": 1129,
+        "scrollY": 618
     },
     {
         "id": 51,
         "expanded": true,
-        "name": "Ero Event: Guild",
+        "name": "エロイベント用　ギルド",
         "order": 60,
         "parentId": 57,
-        "scrollX": 718.2857142857142,
-        "scrollY": 590.5714285714286
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 52,
         "expanded": true,
-        "name": "1F Brothel",
+        "name": "１F　娼館",
         "order": 76,
         "parentId": 54,
-        "scrollX": 790,
-        "scrollY": 611
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 53,
         "expanded": true,
-        "name": "Battle Tutorial",
+        "name": "バトルチュートリアル",
         "order": 4,
         "parentId": 45,
-        "scrollX": 618,
-        "scrollY": 489
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 54,
         "expanded": true,
-        "name": "Eastern Town",
+        "name": "東の町",
         "order": 47,
         "parentId": 0,
-        "scrollX": 4848,
-        "scrollY": 2100.8571428571427
+        "scrollX": 2234.6666666666665,
+        "scrollY": 3864.8888888888887
     },
     {
         "id": 55,
         "expanded": true,
-        "name": "2F Brothel",
+        "name": "２F　娼館",
         "order": 78,
         "parentId": 52,
-        "scrollX": 602,
-        "scrollY": 507
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 56,
         "expanded": false,
-        "name": "Tool Shop",
+        "name": "道具屋",
         "order": 48,
         "parentId": 54,
-        "scrollX": 529.7142857142857,
-        "scrollY": 527.1428571428571
+        "scrollX": 1012.4444444444445,
+        "scrollY": 558.2222222222222
     },
     {
         "id": 57,
-        "expanded": false,
-        "name": "Guild",
+        "expanded": true,
+        "name": "ギルド",
         "order": 58,
         "parentId": 54,
-        "scrollX": 529.7142857142857,
-        "scrollY": 585.4285714285714
+        "scrollX": 1012.4444444444445,
+        "scrollY": 558.2222222222222
     },
     {
         "id": 58,
         "expanded": false,
-        "name": "Weapons & Armor Shop",
+        "name": "武器・防具屋",
         "order": 49,
         "parentId": 54,
-        "scrollX": 529.7142857142857,
-        "scrollY": 527.1428571428571
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 59,
         "expanded": true,
-        "name": "Underground 2F Auction Hall",
+        "name": "地下２Ｆ　オークション会場",
         "order": 163,
         "parentId": 19,
-        "scrollX": 858.8571428571428,
-        "scrollY": 518.5714285714286
+        "scrollX": 1129,
+        "scrollY": 618
     },
     {
         "id": 60,
         "expanded": true,
-        "name": "Orphanage",
+        "name": "孤児院",
         "order": 71,
         "parentId": 54,
-        "scrollX": 610.6666666666666,
-        "scrollY": 499.55555555555554
+        "scrollX": 1012.4444444444445,
+        "scrollY": 558.2222222222222
     },
     {
         "id": 61,
         "expanded": true,
-        "name": "Eastern Town Field Map",
+        "name": "東の町フィールドマップ",
         "order": 125,
         "parentId": 54,
-        "scrollX": 1404,
-        "scrollY": 790.2857142857142
+        "scrollX": 1012.4444444444445,
+        "scrollY": 558.2222222222222
     },
     {
         "id": 62,
         "expanded": true,
-        "name": "Gekuran Residence",
+        "name": "ゲクラン家",
         "order": 94,
         "parentId": 47,
-        "scrollX": 516,
-        "scrollY": 585.4285714285714
+        "scrollX": 1131,
+        "scrollY": 628
     },
     {
         "id": 63,
         "expanded": true,
-        "name": "Albert Residence",
+        "name": "アルベール家",
         "order": 92,
         "parentId": 47,
-        "scrollX": 533.1428571428571,
-        "scrollY": 513.4285714285714
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 64,
         "expanded": true,
-        "name": "Orc Bad End",
+        "name": "オーク　バッドエンド",
         "order": 151,
         "parentId": 105,
-        "scrollX": 533.1428571428571,
-        "scrollY": 487.71428571428567
+        "scrollX": 1129,
+        "scrollY": 618
     },
-    null,
+    {
+        "id": 65,
+        "expanded": true,
+        "name": "拾い部屋ファンMODマップ",
+        "order": 201,
+        "parentId": 0,
+        "scrollX": 1012.4444444444445,
+        "scrollY": 558.2222222222222
+    },
     {
         "id": 66,
         "expanded": true,
-        "name": "Fort Escape 4",
+        "name": "砦脱出４",
         "order": 160,
         "parentId": 19,
-        "scrollX": 529.7142857142857,
-        "scrollY": 532.2857142857142
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 67,
         "expanded": true,
-        "name": "Roper's Dwelling: Seedbed Transformation",
+        "name": "ローパーの住処　苗床化",
         "order": 143,
         "parentId": 141,
-        "scrollX": 832,
-        "scrollY": 640
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 68,
         "expanded": true,
-        "name": "Roper's Dwelling 2",
+        "name": "ローパーの住処　２",
         "order": 141,
         "parentId": 17,
-        "scrollX": 876,
-        "scrollY": 668.5714285714286
+        "scrollX": 1129,
+        "scrollY": 610
     },
     {
         "id": 69,
         "expanded": true,
-        "name": "Eastern Town Gatefront",
+        "name": "東の町門前",
         "order": 126,
         "parentId": 61,
-        "scrollX": 1390.2857142857142,
-        "scrollY": 790.2857142857142
+        "scrollX": 1005.3333333333334,
+        "scrollY": 1292.4444444444443
     },
     {
         "id": 70,
         "expanded": true,
-        "name": "Underground Waterway",
+        "name": "地下水路",
         "order": 87,
         "parentId": 47,
-        "scrollX": 1208.5714285714284,
-        "scrollY": 1044.857142857143
+        "scrollX": 1121,
+        "scrollY": 942
     },
     {
         "id": 71,
         "expanded": true,
-        "name": "Underground Waterway Boss Room",
+        "name": "地下水路　ボス部屋",
         "order": 88,
         "parentId": 70,
-        "scrollX": 516,
-        "scrollY": 518.5714285714286
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 72,
         "expanded": false,
-        "name": "Ending",
+        "name": "エンディング",
         "order": 198,
         "parentId": 0,
-        "scrollX": 529.7142857142857,
-        "scrollY": 776.5714285714286
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 73,
         "expanded": false,
-        "name": "Mathias Residence",
+        "name": "マチアス家",
         "order": 93,
         "parentId": 47,
-        "scrollX": 574.2857142857142,
-        "scrollY": 513.4285714285714
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 74,
         "expanded": true,
-        "name": "Ganuron Brothel Hall",
+        "name": "ガヌロン娼館　ホール",
         "order": 107,
         "parentId": 185,
-        "scrollX": 602,
-        "scrollY": 534
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 75,
-        "expanded": false,
-        "name": "Catherine Clinic",
+        "expanded": true,
+        "name": "カトリーヌ医院",
         "order": 65,
         "parentId": 54,
-        "scrollX": 516.4444444444445,
-        "scrollY": 532.4444444444445
+        "scrollX": 1131,
+        "scrollY": 628
     },
     {
         "id": 76,
         "expanded": false,
-        "name": "Western Eastern Town Big Bridge",
+        "name": "東の町西　大橋",
         "order": 127,
         "parentId": 69,
-        "scrollX": 1404,
-        "scrollY": 790.2857142857142
+        "scrollX": 1131,
+        "scrollY": 820
     },
     {
         "id": 77,
         "expanded": true,
-        "name": "Cheap Lodging",
+        "name": "安宿",
         "order": 101,
         "parentId": 185,
-        "scrollX": 656.5714285714286,
-        "scrollY": 537.4285714285714
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 78,
-        "expanded": false,
-        "name": "Bathhouse: Reception and Changing Room",
+        "expanded": true,
+        "name": "浴場　受付脱衣所",
         "order": 61,
         "parentId": 54,
-        "scrollX": 718.2857142857142,
-        "scrollY": 518.5714285714286
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 79,
         "expanded": true,
-        "name": "Prison",
+        "name": "刑務所",
         "order": 115,
         "parentId": 37,
-        "scrollX": 766.2222222222222,
-        "scrollY": 742.2222222222222
+        "scrollX": 1005.3333333333334,
+        "scrollY": 668.4444444444445
     },
     {
         "id": 80,
         "expanded": true,
-        "name": "Slums: Deal Shack",
+        "name": "スラム　取引小屋",
         "order": 98,
         "parentId": 185,
-        "scrollX": 529.7142857142857,
-        "scrollY": 527.1428571428571
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 81,
         "expanded": true,
-        "name": "Auction Hall",
+        "name": "オークション会場",
         "order": 164,
         "parentId": 59,
-        "scrollX": 670.2857142857142,
-        "scrollY": 518.5714285714286
+        "scrollX": 1121,
+        "scrollY": 628
     },
     {
         "id": 82,
-        "expanded": false,
-        "name": "Nicola Patrol Base",
+        "expanded": true,
+        "name": "警邏隊　ニコラ拠点",
         "order": 50,
         "parentId": 54,
-        "scrollX": 516,
-        "scrollY": 532.2857142857142
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 83,
         "expanded": true,
-        "name": "Ganulon Reception Room",
+        "name": "ガヌロン応接間",
         "order": 108,
         "parentId": 74,
-        "scrollX": 529.7142857142857,
-        "scrollY": 531.4285714285714
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 84,
         "expanded": false,
-        "name": "Ganulon Room",
+        "name": "ガヌロン部屋",
         "order": 109,
         "parentId": 83,
-        "scrollX": 529.7142857142857,
-        "scrollY": 545.1428571428571
+        "scrollX": 1129,
+        "scrollY": 618
     },
     {
         "id": 85,
         "expanded": false,
-        "name": "Childbirth Woman's Room",
+        "name": "子産み女部屋",
         "order": 110,
         "parentId": 83,
-        "scrollX": 529.7142857142857,
-        "scrollY": 545.1428571428571
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 86,
-        "expanded": false,
-        "name": "Old Bookstore",
+        "expanded": true,
+        "name": "古本屋",
         "order": 53,
         "parentId": 54,
-        "scrollX": 529.7142857142857,
-        "scrollY": 545.1428571428571
+        "scrollX": 1129,
+        "scrollY": 618
     },
     {
         "id": 87,
         "expanded": false,
-        "name": "Empty Map 5",
+        "name": "空マップ５",
         "order": 112,
         "parentId": 74,
-        "scrollX": 529.7142857142857,
-        "scrollY": 756
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 88,
         "expanded": true,
-        "name": "Renovated Bookstore",
+        "name": "改修後本屋",
         "order": 55,
         "parentId": 86,
-        "scrollX": 529.7142857142857,
-        "scrollY": 527.1428571428571
+        "scrollX": 1129,
+        "scrollY": 618
     },
     {
         "id": 89,
         "expanded": true,
-        "name": "1F Theater and Casino",
+        "name": "１Ｆ　劇場とカジノ",
         "order": 159,
         "parentId": 19,
-        "scrollX": 1390.2857142857142,
-        "scrollY": 791.1428571428571
+        "scrollX": 1131,
+        "scrollY": 752
     },
     {
         "id": 90,
         "expanded": true,
-        "name": "Prison Basement",
+        "name": "刑務所地下",
         "order": 116,
         "parentId": 79,
-        "scrollX": 451.55555555555554,
-        "scrollY": 400.8888888888889
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 91,
         "expanded": true,
-        "name": "Fort Escape 1",
+        "name": "砦脱出１",
         "order": 166,
         "parentId": 59,
-        "scrollX": 516,
-        "scrollY": 518.5714285714286
+        "scrollX": 816,
+        "scrollY": 816
     },
     {
         "id": 92,
         "expanded": false,
-        "name": "Warehouse",
+        "name": "倉庫",
         "order": 169,
         "parentId": 59,
-        "scrollX": 529.7142857142857,
-        "scrollY": 518.5714285714286
+        "scrollX": 1129,
+        "scrollY": 618
     },
     {
         "id": 93,
         "expanded": true,
-        "name": "Goblin Cave 2",
+        "name": "ゴブリン洞窟　２",
         "order": 131,
         "parentId": 22,
-        "scrollX": 1404,
-        "scrollY": 790.2857142857142
+        "scrollX": 1121,
+        "scrollY": 798
     },
     {
         "id": 94,
         "expanded": true,
-        "name": "Tavern Inn 1F",
+        "name": "酒場宿屋　１F",
         "order": 74,
         "parentId": 54,
-        "scrollX": 704.5714285714286,
-        "scrollY": 585.4285714285714
+        "scrollX": 1012.4444444444445,
+        "scrollY": 558.2222222222222
     },
     {
         "id": 95,
         "expanded": true,
-        "name": "East Town East Mountain Path 2",
+        "name": "東の町東　山道２",
         "order": 152,
         "parentId": 96,
-        "scrollX": 1404,
-        "scrollY": 790.2857142857142
+        "scrollX": 1129,
+        "scrollY": 618
     },
     {
         "id": 96,
         "expanded": true,
-        "name": "East Town East Highway",
+        "name": "東の町東　街道",
         "order": 144,
         "parentId": 69,
-        "scrollX": 618,
-        "scrollY": 489
+        "scrollX": 1012.4444444444445,
+        "scrollY": 558.2222222222222
     },
     {
         "id": 97,
         "expanded": true,
-        "name": "Pigman Cave",
+        "name": "ピッグマン洞窟",
         "order": 137,
         "parentId": 49,
-        "scrollX": 684,
-        "scrollY": 585.4285714285714
+        "scrollX": 1129,
+        "scrollY": 618
     },
     {
         "id": 98,
         "expanded": true,
-        "name": "Orc Forest 1",
+        "name": "オークの森　1",
         "order": 146,
         "parentId": 119,
-        "scrollX": 1404,
-        "scrollY": 790.2857142857142
+        "scrollX": 1121,
+        "scrollY": 822
     },
     {
         "id": 99,
         "expanded": true,
-        "name": "Orc Forest 2",
+        "name": "オークの森　２",
         "order": 147,
         "parentId": 98,
-        "scrollX": 1404,
-        "scrollY": 790.2857142857142
+        "scrollX": 1121,
+        "scrollY": 726
     },
     {
         "id": 100,
         "expanded": false,
-        "name": "Fort Escape 5",
+        "name": "砦脱出５",
         "order": 161,
         "parentId": 66,
-        "scrollX": 529.7142857142857,
-        "scrollY": 532.2857142857142
+        "scrollX": 1129,
+        "scrollY": 618
     },
     {
         "id": 101,
         "expanded": false,
-        "name": "Fort Escape 3",
+        "name": "砦脱出３",
         "order": 162,
         "parentId": 66,
-        "scrollX": 704.5714285714286,
-        "scrollY": 518.5714285714286
+        "scrollX": 832,
+        "scrollY": 640
     },
     {
         "id": 102,
         "expanded": false,
-        "name": "Fort Escape 2",
+        "name": "砦脱出２",
         "order": 168,
         "parentId": 91,
-        "scrollX": 1260,
-        "scrollY": 537.4285714285714
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 103,
         "expanded": true,
-        "name": "East Town South Forest",
+        "name": "東の町南　森",
         "order": 128,
         "parentId": 69,
-        "scrollX": 1390.2857142857142,
-        "scrollY": 1513.7142857142856
+        "scrollX": 1121,
+        "scrollY": 1694
     },
     {
         "id": 104,
         "expanded": false,
-        "name": "Tavern Inn 2F",
+        "name": "酒場宿屋　２F",
         "order": 75,
         "parentId": 94,
-        "scrollX": 838.2857142857142,
-        "scrollY": 579.4285714285714
+        "scrollX": 1005.3333333333334,
+        "scrollY": 593.7777777777778
     },
     {
         "id": 105,
         "expanded": true,
-        "name": "Orc Boss Room",
+        "name": "オーク　ボス部屋",
         "order": 149,
         "parentId": 99,
-        "scrollX": 574.2857142857142,
-        "scrollY": 518.5714285714286
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 106,
         "expanded": false,
-        "name": "Slasher John's Hideout Battle",
+        "name": "通り魔ジョン隠れ家　戦闘",
         "order": 85,
         "parentId": 46,
-        "scrollX": 618,
-        "scrollY": 550
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 107,
         "expanded": true,
-        "name": "Orc Confinement Room",
+        "name": "オーク　監禁部屋",
         "order": 148,
         "parentId": 99,
-        "scrollX": 529.7142857142857,
-        "scrollY": 518.5714285714286
+        "scrollX": 1129,
+        "scrollY": 618
     },
     {
         "id": 108,
         "expanded": true,
-        "name": "Basement",
+        "name": "地下室",
         "order": 56,
         "parentId": 86,
-        "scrollX": 529.7142857142857,
-        "scrollY": 756
+        "scrollX": 1129,
+        "scrollY": 618
     },
     {
         "id": 109,
         "expanded": true,
-        "name": "Basement Battle",
+        "name": "地下室 戦闘",
         "order": 57,
         "parentId": 108,
-        "scrollX": 618,
-        "scrollY": 603
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 110,
         "expanded": true,
-        "name": "Ganulon Reception Room Battle",
+        "name": "ガヌロン応接間　戦闘",
         "order": 111,
         "parentId": 83,
-        "scrollX": 670.2857142857142,
-        "scrollY": 531.4285714285714
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 111,
         "expanded": true,
-        "name": "Lighting Room",
+        "name": "照明室",
         "order": 167,
         "parentId": 91,
-        "scrollX": 529.7142857142857,
-        "scrollY": 532.2857142857142
+        "scrollX": 832,
+        "scrollY": 640
     },
-    null,
+    {
+        "id": 112,
+        "expanded": true,
+        "name": "レナイベント ごろつき戦闘",
+        "order": 202,
+        "parentId": 65,
+        "scrollX": 1012.4444444444445,
+        "scrollY": 558.2222222222222
+    },
     {
         "id": 113,
         "expanded": false,
-        "name": "Fort Battlefield",
+        "name": "砦　バトルフィールド",
         "order": 170,
         "parentId": 19,
-        "scrollX": 529.7142857142857,
-        "scrollY": 743.1428571428571
+        "scrollX": 1131,
+        "scrollY": 640
     },
     {
         "id": 114,
         "expanded": true,
-        "name": "Inn 2F",
+        "name": "宿　２Ｆ",
         "order": 7,
         "parentId": 7,
-        "scrollX": 516,
-        "scrollY": 681.4285714285713
+        "scrollX": 1005.3333333333334,
+        "scrollY": 628.4444444444445
     },
     {
         "id": 115,
         "expanded": false,
-        "name": "Bad End",
+        "name": "バッドエンド",
         "order": 171,
         "parentId": 54,
-        "scrollX": 519.4285714285714,
-        "scrollY": 518.5714285714286
+        "scrollX": 1005.3333333333334,
+        "scrollY": 558.2222222222222
     },
     {
         "id": 116,
         "expanded": true,
-        "name": "Bardan Event Cabin",
+        "name": "バーダンイベント　小屋",
         "order": 124,
         "parentId": 37,
-        "scrollX": 533.1428571428571,
-        "scrollY": 487.71428571428567
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 117,
         "expanded": true,
-        "name": "Forest Near the Hot Spring Town 1",
+        "name": "温泉街近くの森１",
         "order": 22,
         "parentId": 21,
-        "scrollX": 1404,
-        "scrollY": 790.2857142857142
+        "scrollX": 1139,
+        "scrollY": 628
     },
-    null,
+    {
+        "id": 118,
+        "expanded": true,
+        "name": "レナイベント ごろつきイベント",
+        "order": 203,
+        "parentId": 112,
+        "scrollX": 1012.4444444444445,
+        "scrollY": 558.2222222222222
+    },
     {
         "id": 119,
         "expanded": true,
-        "name": "East Town Mountain Path",
+        "name": "東の町　山道",
         "order": 145,
         "parentId": 96,
-        "scrollX": 1390.2857142857142,
-        "scrollY": 1753.7142857142856
+        "scrollX": 1010.6666666666666,
+        "scrollY": 1753.7777777777778
     },
     {
         "id": 120,
         "expanded": true,
-        "name": "Road to the Abandoned Village 1",
+        "name": "廃村への道１",
         "order": 25,
         "parentId": 21,
-        "scrollX": 1390.2857142857142,
-        "scrollY": 894.8571428571428
+        "scrollX": 1390,
+        "scrollY": 895
     },
     {
         "id": 121,
         "expanded": true,
-        "name": "Thieves' Fort",
+        "name": "盗賊砦",
         "order": 36,
         "parentId": 21,
-        "scrollX": 1404,
-        "scrollY": 790.2857142857142
+        "scrollX": 1131,
+        "scrollY": 628
     },
     {
         "id": 122,
         "expanded": false,
-        "name": "Thieves' Fort 1F",
+        "name": "盗賊砦１Ｆ",
         "order": 37,
         "parentId": 121,
-        "scrollX": 971.9999999999999,
-        "scrollY": 926.5714285714286
+        "scrollX": 1121,
+        "scrollY": 812
     },
     {
         "id": 123,
         "expanded": true,
-        "name": "Minotaur Return Path",
+        "name": "ミノタウロス　帰路",
         "order": 32,
         "parentId": 129,
-        "scrollX": 602,
-        "scrollY": 603
+        "scrollX": 1131,
+        "scrollY": 812
     },
     {
         "id": 124,
         "expanded": true,
-        "name": "Thieves' Fortress 2F",
+        "name": "盗賊砦２Ｆ",
         "order": 38,
         "parentId": 121,
-        "scrollX": 1390.2857142857142,
-        "scrollY": 1064.5714285714284
+        "scrollX": 1221,
+        "scrollY": 1065
     },
     {
         "id": 125,
         "expanded": true,
-        "name": "Forest Near the Hot Spring Town 2",
+        "name": "温泉街近くの森２",
         "order": 23,
         "parentId": 117,
         "scrollX": 1404,
-        "scrollY": 776.5714285714286
+        "scrollY": 777
     },
     {
         "id": 126,
         "expanded": true,
-        "name": "Thieves' Hideout - Prison Cell",
+        "name": "盗賊アジト　牢屋",
         "order": 39,
         "parentId": 124,
-        "scrollX": 766.2857142857142,
-        "scrollY": 513.4285714285714
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 127,
         "expanded": true,
-        "name": "Thieves' Fortress Escape - Minotaur Battle",
+        "name": "盗賊砦脱出　ミノタウロス戦",
         "order": 41,
         "parentId": 121,
-        "scrollX": 516,
-        "scrollY": 938.5714285714286
+        "scrollX": 1131,
+        "scrollY": 928
     },
     {
         "id": 128,
         "expanded": false,
-        "name": "Undecided",
+        "name": "未定",
         "order": 29,
         "parentId": 29,
-        "scrollX": 838.2857142857142,
-        "scrollY": 825.4285714285713
+        "scrollX": 1121,
+        "scrollY": 812
     },
     {
         "id": 129,
-        "expanded": false,
-        "name": "Minotaur - Erika on Standby",
+        "expanded": true,
+        "name": "ミノタウロス　エリカ待機",
         "order": 31,
         "parentId": 21,
-        "scrollX": 1404,
-        "scrollY": 790.2857142857142
+        "scrollX": 1129,
+        "scrollY": 618
     },
     {
         "id": 130,
-        "expanded": false,
-        "name": "Abandoned Children's Forest",
+        "expanded": true,
+        "name": "子捨ての森",
         "order": 33,
         "parentId": 21,
-        "scrollX": 1390.2857142857142,
-        "scrollY": 790.2857142857142
+        "scrollX": 1131,
+        "scrollY": 790
     },
     {
         "id": 131,
         "expanded": false,
-        "name": "Forest Near the Hot Spring Town 3",
+        "name": "温泉街近くの森３",
         "order": 24,
         "parentId": 117,
-        "scrollX": 1019.9999999999999,
-        "scrollY": 777.4285714285713
+        "scrollX": 1121,
+        "scrollY": 777
     },
     {
         "id": 132,
         "expanded": false,
-        "name": "Abandoned Children's Forest - Flower Garden",
+        "name": "子捨ての森　花園",
         "order": 34,
         "parentId": 130,
-        "scrollX": 886,
-        "scrollY": 807
+        "scrollX": 1131,
+        "scrollY": 668
     },
     {
         "id": 133,
         "expanded": true,
-        "name": "Smuggler's Path",
+        "name": "密輸人の道",
         "order": 35,
         "parentId": 21,
-        "scrollX": 1404,
-        "scrollY": 790.2857142857142
+        "scrollX": 1129,
+        "scrollY": 618
     },
     {
         "id": 134,
         "expanded": true,
-        "name": "Thieves' Fortress - Rooftop Infiltration Path",
+        "name": "盗賊砦　屋上侵入路",
         "order": 43,
         "parentId": 121,
-        "scrollX": 529.7142857142857,
-        "scrollY": 513.4285714285714
+        "scrollX": 1129,
+        "scrollY": 618
     },
     {
         "id": 135,
         "expanded": false,
-        "name": "Thieves' Fortress 3F",
+        "name": "盗賊砦３Ｆ",
         "order": 44,
         "parentId": 121,
-        "scrollX": 516,
-        "scrollY": 684.8571428571428
+        "scrollX": 1131,
+        "scrollY": 668
     },
     {
         "id": 136,
         "expanded": false,
-        "name": "Thieves' Hideout - Prison Cell Battle",
+        "name": "盗賊アジト　牢屋　戦闘",
         "order": 40,
         "parentId": 126,
-        "scrollX": 766.2857142857142,
-        "scrollY": 513.4285714285714
+        "scrollX": 1129,
+        "scrollY": 618
     },
-    null,
+    {
+        "id": 137,
+        "expanded": true,
+        "name": "東の町　スタリオン戦場",
+        "order": 204,
+        "parentId": 65,
+        "scrollX": 1139,
+        "scrollY": 628
+    },
     {
         "id": 138,
         "expanded": true,
-        "name": "1F Brothel - Reception Automatic Event",
+        "name": "１F　娼館 接待自動イベント用",
         "order": 77,
         "parentId": 52,
-        "scrollX": 591.4285714285714,
-        "scrollY": 684
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 139,
         "expanded": true,
-        "name": "Eastern Town - In Front of Goblin Cave",
+        "name": "東の町　ゴブリン洞窟前",
         "order": 129,
         "parentId": 103,
-        "scrollX": 1404,
-        "scrollY": 790.2857142857142
+        "scrollX": 1129,
+        "scrollY": 618
     },
     {
         "id": 140,
         "expanded": false,
-        "name": "Slum Trading Hut - Basement",
+        "name": "スラム取引小屋　地下",
         "order": 99,
         "parentId": 80,
-        "scrollX": 529.7142857142857,
-        "scrollY": 527.1428571428571
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 141,
         "expanded": true,
-        "name": "Roper's Dwelling - Confinement Room",
+        "name": "ローパーの住処　監禁部屋",
         "order": 142,
         "parentId": 68,
-        "scrollX": 529.7142857142857,
-        "scrollY": 545.1428571428571
+        "scrollX": 1129,
+        "scrollY": 618
     },
     {
         "id": 142,
         "expanded": true,
-        "name": "Thieves' Fortress - Dodge Battle Defeat Scene",
+        "name": "盗賊砦　ドッヂ戦敗北演出用",
         "order": 45,
         "parentId": 121,
-        "scrollX": 529.7142857142857,
-        "scrollY": 513.4285714285714
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 143,
         "expanded": true,
-        "name": "Auction Venue",
+        "name": "オークション会場",
         "order": 165,
         "parentId": 81,
-        "scrollX": 519.4285714285714,
-        "scrollY": 518.5714285714286
+        "scrollX": 1131,
+        "scrollY": 628
     },
     {
         "id": 144,
         "expanded": false,
-        "name": "Part Three - Hot Spring Town",
+        "name": "第三部　温泉街",
         "order": 173,
         "parentId": 0,
-        "scrollX": 529.7142857142857,
-        "scrollY": 756
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 145,
         "expanded": true,
-        "name": "Part Three - Inn",
+        "name": "第三部　宿",
         "order": 174,
         "parentId": 144,
         "scrollX": 790,
@@ -1276,43 +1308,43 @@
     {
         "id": 146,
         "expanded": true,
-        "name": "Thieves' Fortress - Dodge Battle",
+        "name": "盗賊砦 ドッヂ戦",
         "order": 46,
         "parentId": 121,
-        "scrollX": 516,
-        "scrollY": 791.1428571428571
+        "scrollX": 1121,
+        "scrollY": 791
     },
     {
         "id": 147,
         "expanded": false,
-        "name": "Slum Trading Hut - Basement Battle",
+        "name": "スラム取引小屋　地下戦闘",
         "order": 100,
         "parentId": 80,
-        "scrollX": 519.4285714285714,
-        "scrollY": 506.57142857142856
+        "scrollX": 1012.4444444444445,
+        "scrollY": 558.2222222222222
     },
     {
         "id": 148,
         "expanded": false,
-        "name": "Church",
+        "name": "教会",
         "order": 70,
         "parentId": 54,
-        "scrollX": 915.4285714285713,
-        "scrollY": 774
+        "scrollX": 1005.3333333333334,
+        "scrollY": 593.7777777777778
     },
     {
         "id": 149,
-        "expanded": false,
-        "name": "City Police Headquarters",
+        "expanded": true,
+        "name": "市警拠点",
         "order": 67,
         "parentId": 54,
-        "scrollX": 601.7777777777778,
-        "scrollY": 519.1111111111111
+        "scrollX": 1131,
+        "scrollY": 764
     },
     {
         "id": 150,
         "expanded": false,
-        "name": "Part Three - Opening",
+        "name": "第三部　オープニング",
         "order": 189,
         "parentId": 144,
         "scrollX": 1404,
@@ -1321,7 +1353,7 @@
     {
         "id": 151,
         "expanded": true,
-        "name": "Part Three - Inn 2F",
+        "name": "第三部　宿　２Ｆ",
         "order": 175,
         "parentId": 145,
         "scrollX": 886,
@@ -1329,35 +1361,35 @@
     },
     {
         "id": 152,
-        "expanded": false,
-        "name": "Mansion 1F",
+        "expanded": true,
+        "name": "洋館 1F",
         "order": 72,
         "parentId": 54,
-        "scrollX": 519.1111111111111,
-        "scrollY": 531.5555555555555
+        "scrollX": 1131,
+        "scrollY": 688
     },
     {
         "id": 153,
         "expanded": true,
-        "name": "Mansion 2F",
+        "name": "洋館 2F",
         "order": 73,
         "parentId": 152,
-        "scrollX": 864,
+        "scrollX": 1131,
         "scrollY": 774
     },
     {
         "id": 154,
         "expanded": true,
-        "name": "City Police - Prison Cell",
+        "name": "市警　牢",
         "order": 68,
         "parentId": 149,
-        "scrollX": 533.1428571428571,
-        "scrollY": 475.71428571428567
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 155,
         "expanded": true,
-        "name": "Part Three - Weapon and Tool Shop",
+        "name": "第三部　武器道具屋",
         "order": 177,
         "parentId": 144,
         "scrollX": 1404,
@@ -1366,7 +1398,7 @@
     {
         "id": 156,
         "expanded": false,
-        "name": "Part Three - Guardhouse",
+        "name": "第三部　詰め所",
         "order": 178,
         "parentId": 144,
         "scrollX": 756,
@@ -1375,7 +1407,7 @@
     {
         "id": 157,
         "expanded": false,
-        "name": "Part Three - Underground Prison",
+        "name": "第三部　地下牢",
         "order": 179,
         "parentId": 156,
         "scrollX": 900.8571428571428,
@@ -1384,7 +1416,7 @@
     {
         "id": 158,
         "expanded": false,
-        "name": "Part Three - Church Trial",
+        "name": "第三部　教会 裁判",
         "order": 191,
         "parentId": 169,
         "scrollX": 1404,
@@ -1393,7 +1425,7 @@
     {
         "id": 159,
         "expanded": false,
-        "name": "Part Three - Monster Scholar's Residence",
+        "name": "第三部　モンスター学者宅",
         "order": 180,
         "parentId": 144,
         "scrollX": 1404,
@@ -1402,7 +1434,7 @@
     {
         "id": 160,
         "expanded": true,
-        "name": "Part Three - Mary's House",
+        "name": "第三部　メアリ宅",
         "order": 181,
         "parentId": 144,
         "scrollX": 1404,
@@ -1411,7 +1443,7 @@
     {
         "id": 161,
         "expanded": false,
-        "name": "Part Three - Serena's Temporary Home",
+        "name": "第三部　セレナ仮家",
         "order": 182,
         "parentId": 144,
         "scrollX": 1404,
@@ -1420,7 +1452,7 @@
     {
         "id": 162,
         "expanded": false,
-        "name": "Part Three - Barn",
+        "name": "第三部　納屋",
         "order": 195,
         "parentId": 144,
         "scrollX": 635.1428571428571,
@@ -1429,7 +1461,7 @@
     {
         "id": 163,
         "expanded": true,
-        "name": "Part Three - Clinic",
+        "name": "第三部　医院",
         "order": 183,
         "parentId": 144,
         "scrollX": 1404,
@@ -1438,7 +1470,7 @@
     {
         "id": 164,
         "expanded": false,
-        "name": "Part Three - Toilet",
+        "name": "第三部　トイレ",
         "order": 184,
         "parentId": 144,
         "scrollX": 618,
@@ -1447,7 +1479,7 @@
     {
         "id": 165,
         "expanded": true,
-        "name": "Part Three: Hot Spring Changing Room",
+        "name": "第三部　温泉　脱衣所",
         "order": 185,
         "parentId": 144,
         "scrollX": 1404,
@@ -1456,7 +1488,7 @@
     {
         "id": 166,
         "expanded": true,
-        "name": "Part Three: Hot Spring with Partitions",
+        "name": "第三部　温泉仕切り付き",
         "order": 186,
         "parentId": 165,
         "scrollX": 1404,
@@ -1465,7 +1497,7 @@
     {
         "id": 167,
         "expanded": true,
-        "name": "Part Three: Tavern",
+        "name": "第三部　酒場",
         "order": 187,
         "parentId": 144,
         "scrollX": 1404,
@@ -1474,7 +1506,7 @@
     {
         "id": 168,
         "expanded": false,
-        "name": "Part Three: Barn",
+        "name": "第三部　畜舎",
         "order": 188,
         "parentId": 144,
         "scrollX": 1404,
@@ -1483,7 +1515,7 @@
     {
         "id": 169,
         "expanded": true,
-        "name": "Part Three: Church",
+        "name": "第三部　教会",
         "order": 190,
         "parentId": 144,
         "scrollX": 1404,
@@ -1492,7 +1524,7 @@
     {
         "id": 170,
         "expanded": true,
-        "name": "Part Three: Innkeeper's Room",
+        "name": "第三部　宿屋主人部屋",
         "order": 176,
         "parentId": 145,
         "scrollX": 1404,
@@ -1501,7 +1533,7 @@
     {
         "id": 171,
         "expanded": true,
-        "name": "Part Three: Deeper into the Forest",
+        "name": "第三部　森の奥へ",
         "order": 192,
         "parentId": 144,
         "scrollX": 1404,
@@ -1510,7 +1542,7 @@
     {
         "id": 172,
         "expanded": false,
-        "name": "Part Three: Abandoned Child's Forest Flower Garden",
+        "name": "第三部　子捨ての森　花園",
         "order": 193,
         "parentId": 171,
         "scrollX": 1404,
@@ -1519,7 +1551,7 @@
     {
         "id": 173,
         "expanded": false,
-        "name": "Part Three: Adventurer's Guild",
+        "name": "第三部　冒険者ギルド",
         "order": 194,
         "parentId": 144,
         "scrollX": 1404,
@@ -1528,79 +1560,79 @@
     {
         "id": 174,
         "expanded": false,
-        "name": "Template Map for Production",
+        "name": "製作用テンプレマップ",
         "order": 2,
         "parentId": 1,
-        "scrollX": 529.7142857142857,
-        "scrollY": 599.1428571428571
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 175,
         "expanded": false,
-        "name": "Demuran Battle Map",
+        "name": "デムーラン　戦闘マップ",
         "order": 52,
         "parentId": 82,
-        "scrollX": 618,
-        "scrollY": 505
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 176,
         "expanded": true,
-        "name": "East Town East Mountain Path 3",
+        "name": "東の町東　山道３",
         "order": 153,
         "parentId": 95,
-        "scrollX": 1393.7142857142856,
-        "scrollY": 790.2857142857142
+        "scrollX": 1394,
+        "scrollY": 790
     },
     {
         "id": 177,
         "expanded": false,
-        "name": "East Town Warg Captivity",
+        "name": "東の町　ワーグ監禁",
         "order": 154,
         "parentId": 176,
-        "scrollX": 1404,
-        "scrollY": 790.2857142857142
+        "scrollX": 1129,
+        "scrollY": 618
     },
     {
         "id": 178,
         "expanded": true,
-        "name": "East Town Stallion Battlefield",
+        "name": "東の町　スタリオン戦場",
         "order": 155,
         "parentId": 176,
-        "scrollX": 536.5714285714286,
-        "scrollY": 676.2857142857142
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 179,
         "expanded": false,
-        "name": "Private Room",
+        "name": "個室",
         "order": 80,
         "parentId": 52,
-        "scrollX": 915.4285714285713,
-        "scrollY": 774
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 180,
         "expanded": true,
-        "name": "Boss Room: Pigman",
+        "name": "ボス部屋　ピッグマン",
         "order": 139,
         "parentId": 97,
-        "scrollX": 519.4285714285714,
-        "scrollY": 475.71428571428567
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 181,
         "expanded": true,
-        "name": "Bathhouse Interior",
+        "name": "浴場内",
         "order": 62,
         "parentId": 78,
-        "scrollX": 1404,
-        "scrollY": 585.4285714285714
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 182,
         "expanded": true,
-        "name": "Bathhouse Interior for Events",
+        "name": "浴場内　イベント用",
         "order": 63,
         "parentId": 181,
         "scrollX": 519.4285714285714,
@@ -1609,188 +1641,196 @@
     {
         "id": 183,
         "expanded": true,
-        "name": "Bathhouse Interior Battle",
+        "name": "浴場内　戦闘",
         "order": 64,
         "parentId": 182,
-        "scrollX": 533.1428571428571,
-        "scrollY": 475.71428571428567
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 184,
         "expanded": true,
-        "name": "2F Brothel Prostitution Event",
+        "name": "２F　娼館 売春イベント用",
         "order": 79,
         "parentId": 55,
-        "scrollX": 516,
-        "scrollY": 518.5714285714286
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 185,
         "expanded": true,
-        "name": "Slums",
+        "name": "スラム",
         "order": 95,
         "parentId": 54,
-        "scrollX": 529.7142857142857,
-        "scrollY": 532.2857142857142
+        "scrollX": 1012.4444444444445,
+        "scrollY": 558.2222222222222
     },
     {
         "id": 186,
         "expanded": true,
-        "name": "City Police Headquarters Battle",
+        "name": "市警拠点　戦闘",
         "order": 69,
         "parentId": 149,
-        "scrollX": 602,
-        "scrollY": 505
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 187,
         "expanded": false,
-        "name": "Training Room",
+        "name": "調教部屋",
         "order": 103,
         "parentId": 40,
-        "scrollX": 516,
-        "scrollY": 528.8571428571428
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 188,
         "expanded": false,
-        "name": "Slum Street Event",
+        "name": "スラム街 イベント",
         "order": 97,
         "parentId": 189,
-        "scrollX": 533.1428571428571,
-        "scrollY": 501.4285714285714
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 189,
         "expanded": true,
-        "name": "Slum Street Battle",
+        "name": "スラム街 戦闘",
         "order": 96,
         "parentId": 185,
-        "scrollX": 529.7142857142857,
-        "scrollY": 527.1428571428571
+        "scrollX": 1012.4444444444445,
+        "scrollY": 558.2222222222222
     },
     {
         "id": 190,
         "expanded": false,
-        "name": "Pigman Seedbed Room",
+        "name": "ピッグマン苗床部屋",
         "order": 138,
         "parentId": 97,
-        "scrollX": 529.7142857142857,
-        "scrollY": 518.5714285714286
+        "scrollX": 1129,
+        "scrollY": 618
     },
     {
         "id": 191,
         "expanded": true,
-        "name": "Crucifixion Gangbang Map",
+        "name": "磔輪姦　マップ",
         "order": 114,
         "parentId": 37,
-        "scrollX": 519.4285714285714,
-        "scrollY": 475.71428571428567
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 192,
         "expanded": true,
-        "name": "Thug Hideout",
+        "name": "ごろつきアジト",
         "order": 105,
         "parentId": 185,
-        "scrollX": 718.2857142857142,
-        "scrollY": 668.5714285714286
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 193,
         "expanded": false,
-        "name": "Thug Hideout Captivity Room",
+        "name": "ごろつきアジト　監禁部屋",
         "order": 106,
         "parentId": 192,
-        "scrollX": 529.7142857142857,
-        "scrollY": 440.57142857142856
+        "scrollX": 1129,
+        "scrollY": 618
     },
     {
         "id": 194,
         "expanded": true,
-        "name": "East Town East Mountain Path 2 Defeat Event",
+        "name": "東の町東　山道２　敗北イベント用",
         "order": 157,
         "parentId": 95,
-        "scrollX": 1520.5714285714284,
-        "scrollY": 742.2857142857142
+        "scrollX": 1165,
+        "scrollY": 620
     },
     {
         "id": 195,
         "expanded": false,
-        "name": "Prison Common Cell",
+        "name": "刑務所雑居房",
         "order": 117,
         "parentId": 79,
-        "scrollX": 451.55555555555554,
-        "scrollY": 360
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 196,
         "expanded": false,
-        "name": "Outside the Prison",
+        "name": "刑務所　外",
         "order": 118,
         "parentId": 79,
-        "scrollX": 1404,
-        "scrollY": 790.2857142857142
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 197,
         "expanded": false,
-        "name": "Goblin Captivity Room Battle Event",
+        "name": "ゴブリン　監禁部屋 戦闘イベント",
         "order": 133,
         "parentId": 6,
-        "scrollX": 1404,
-        "scrollY": 790.2857142857142
+        "scrollX": 1129,
+        "scrollY": 618
     },
     {
         "id": 198,
         "expanded": true,
-        "name": "East Town Mountain Path Defeat Event",
+        "name": "東の町　山道 敗北イベント用",
         "order": 150,
         "parentId": 105,
-        "scrollX": 1404,
-        "scrollY": 790.2857142857142
+        "scrollX": 1129,
+        "scrollY": 618
     },
     {
         "id": 199,
         "expanded": false,
-        "name": "East Town Stallion Battlefield Event",
+        "name": "東の町　スタリオン戦場 イベント用",
         "order": 156,
         "parentId": 178,
-        "scrollX": 519.4285714285714,
-        "scrollY": 518.5714285714286
+        "scrollX": 1139,
+        "scrollY": 628
     },
-    null,
+    {
+        "id": 200,
+        "expanded": true,
+        "name": "東の町　スタリオン戦場 イベント用",
+        "order": 205,
+        "parentId": 137,
+        "scrollX": 1139,
+        "scrollY": 628
+    },
     {
         "id": 201,
         "expanded": true,
-        "name": "1F Brothel After Incident",
+        "name": "１F　事件後娼館",
         "order": 81,
         "parentId": 52,
-        "scrollX": 862.2857142857142,
-        "scrollY": 664.2857142857142
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 202,
         "expanded": true,
-        "name": "2F Brothel After Incident",
+        "name": "２F　事件後娼館",
         "order": 82,
         "parentId": 201,
-        "scrollX": 728.5714285714286,
-        "scrollY": 664.2857142857142
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 203,
         "expanded": false,
-        "name": "Heresy Bad End",
+        "name": "異教徒バッドエンド",
         "order": 121,
         "parentId": 42,
-        "scrollX": 533.1428571428571,
-        "scrollY": 489.4285714285714
+        "scrollX": 1139,
+        "scrollY": 628
     },
     {
         "id": 204,
         "expanded": false,
-        "name": "Mugger John's Hideout Front of House",
+        "name": "通り魔ジョン隠れ家　家前",
         "order": 86,
         "parentId": 46,
         "scrollX": 618,
@@ -1799,10 +1839,262 @@
     {
         "id": 205,
         "expanded": true,
-        "name": "Staff Roll",
+        "name": "スタッフロール",
         "order": 199,
         "parentId": 0,
-        "scrollX": 533.1428571428571,
-        "scrollY": 489.4285714285714
+        "scrollX": 1139,
+        "scrollY": 628
+    },
+    {
+        "id": 206,
+        "expanded": true,
+        "name": "東の町　スタリオン戦場復活時",
+        "order": 206,
+        "parentId": 137,
+        "scrollX": 1129,
+        "scrollY": 618
+    },
+    {
+        "id": 207,
+        "expanded": false,
+        "name": "東の町　スタリオン戦場 復活イベント用",
+        "order": 207,
+        "parentId": 137,
+        "scrollX": 1005.3333333333334,
+        "scrollY": 593.7777777777778
+    },
+    {
+        "id": 208,
+        "expanded": true,
+        "name": "拾い部屋製作用テンプレマップ",
+        "order": 208,
+        "parentId": 65,
+        "scrollX": 1012.4444444444445,
+        "scrollY": 558.2222222222222
+    },
+    {
+        "id": 209,
+        "expanded": true,
+        "name": "拾い部屋スタッフロール",
+        "order": 229,
+        "parentId": 65,
+        "scrollX": 1012.4444444444445,
+        "scrollY": 558.2222222222222
+    },
+    {
+        "id": 210,
+        "expanded": true,
+        "name": "<拾い部屋>ギルド序盤",
+        "order": 209,
+        "parentId": 65,
+        "scrollX": 1012.4444444444445,
+        "scrollY": 558.2222222222222
+    },
+    {
+        "id": 211,
+        "expanded": true,
+        "name": "<拾い部屋>ギルドジビエ会",
+        "order": 214,
+        "parentId": 65,
+        "scrollX": 1012.4444444444445,
+        "scrollY": 558.2222222222222
+    },
+    {
+        "id": 212,
+        "expanded": false,
+        "name": "<拾い部屋>ジビエのアジト",
+        "order": 210,
+        "parentId": 65,
+        "scrollX": 1012.4444444444445,
+        "scrollY": 558.2222222222222
+    },
+    {
+        "id": 213,
+        "expanded": true,
+        "name": "<拾い部屋>真のジビエ会",
+        "order": 211,
+        "parentId": 65,
+        "scrollX": 1012.4444444444445,
+        "scrollY": 558.2222222222222
+    },
+    {
+        "id": 214,
+        "expanded": true,
+        "name": "<拾い部屋>新たな冒険",
+        "order": 212,
+        "parentId": 65,
+        "scrollX": 1012.4444444444445,
+        "scrollY": 558.2222222222222
+    },
+    {
+        "id": 215,
+        "expanded": false,
+        "name": "<拾い部屋>待合室",
+        "order": 213,
+        "parentId": 65,
+        "scrollX": 1012.4444444444445,
+        "scrollY": 558.2222222222222
+    },
+    {
+        "id": 216,
+        "expanded": true,
+        "name": "<拾い部屋>東の町東　街道",
+        "order": 215,
+        "parentId": 65,
+        "scrollX": 1012.4444444444445,
+        "scrollY": 558.2222222222222
+    },
+    {
+        "id": 217,
+        "expanded": false,
+        "name": "<拾い部屋>カスットルムへの地下道",
+        "order": 216,
+        "parentId": 65,
+        "scrollX": 1005.3333333333334,
+        "scrollY": 1100.4444444444443
+    },
+    {
+        "id": 218,
+        "expanded": false,
+        "name": "<拾い部屋>倉庫",
+        "order": 217,
+        "parentId": 65,
+        "scrollX": 1012.4444444444445,
+        "scrollY": 558.2222222222222
+    },
+    {
+        "id": 219,
+        "expanded": true,
+        "name": "<拾い部屋>砦脱出１",
+        "order": 218,
+        "parentId": 65,
+        "scrollX": 1346.6666666666667,
+        "scrollY": 888.8888888888889
+    },
+    {
+        "id": 220,
+        "expanded": true,
+        "name": "<拾い部屋>照明室",
+        "order": 219,
+        "parentId": 65,
+        "scrollX": 1012.4444444444445,
+        "scrollY": 558.2222222222222
+    },
+    {
+        "id": 221,
+        "expanded": false,
+        "name": "<拾い部屋>砦脱出２",
+        "order": 220,
+        "parentId": 65,
+        "scrollX": 1139,
+        "scrollY": 628
+    },
+    {
+        "id": 222,
+        "expanded": false,
+        "name": "<拾い部屋>砦脱出３",
+        "order": 221,
+        "parentId": 65,
+        "scrollX": 1139,
+        "scrollY": 628
+    },
+    {
+        "id": 223,
+        "expanded": true,
+        "name": "<拾い部屋>砦脱出４",
+        "order": 222,
+        "parentId": 65,
+        "scrollX": 1139,
+        "scrollY": 628
+    },
+    {
+        "id": 224,
+        "expanded": true,
+        "name": "<拾い部屋>１Ｆ　劇場とカジノ",
+        "order": 223,
+        "parentId": 65,
+        "scrollX": 1130.6666666666667,
+        "scrollY": 1100.4444444444443
+    },
+    {
+        "id": 225,
+        "expanded": true,
+        "name": "<拾い部屋>砦",
+        "order": 224,
+        "parentId": 65,
+        "scrollX": 1005.3333333333334,
+        "scrollY": 558.2222222222222
+    },
+    {
+        "id": 226,
+        "expanded": false,
+        "name": "<拾い部屋>砦　バトルフィールド",
+        "order": 225,
+        "parentId": 65,
+        "scrollX": 1005.3333333333334,
+        "scrollY": 628.4444444444445
+    },
+    {
+        "id": 227,
+        "expanded": true,
+        "name": "<拾い部屋>冒険者ギルド",
+        "order": 226,
+        "parentId": 65,
+        "scrollX": 1005.3333333333334,
+        "scrollY": 593.7777777777778
+    },
+    {
+        "id": 228,
+        "expanded": false,
+        "name": "<拾い部屋>砦　復活後バトルフィールド",
+        "order": 227,
+        "parentId": 65,
+        "scrollX": 1005.3333333333334,
+        "scrollY": 640
+    },
+    {
+        "id": 229,
+        "expanded": true,
+        "name": "<拾い部屋>黒スライム後",
+        "order": 228,
+        "parentId": 65,
+        "scrollX": 1139,
+        "scrollY": 628
+    },
+    {
+        "id": 230,
+        "expanded": false,
+        "name": "<拾い部屋>黒スライムと子作り",
+        "order": 230,
+        "parentId": 65,
+        "scrollX": 1005.3333333333334,
+        "scrollY": 748.4444444444445
+    },
+    {
+        "id": 231,
+        "expanded": true,
+        "name": "<拾い部屋>父との初セックス",
+        "order": 231,
+        "parentId": 65,
+        "scrollX": 1005.3333333333334,
+        "scrollY": 593.7777777777778
+    },
+    {
+        "id": 232,
+        "expanded": false,
+        "name": "<拾い部屋>調教部屋",
+        "order": 232,
+        "parentId": 65,
+        "scrollX": 1012.4444444444445,
+        "scrollY": 558.2222222222222
+    },
+    {
+        "id": 233,
+        "expanded": false,
+        "name": "<拾い部屋>教会",
+        "order": 233,
+        "parentId": 65,
+        "scrollX": 1005.3333333333334,
+        "scrollY": 593.7777777777778
     }
 ]
