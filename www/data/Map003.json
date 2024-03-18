@@ -11364,7 +11364,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Item Shopkeeper>A ring, huh... I've got ones that assist with\nmagic, but nothing suitable for combat."
+                                "\\n< Item Shopkeeper >A ring, huh... I've got ones that assist with\nmagic, but nothing suitable for combat."
                             ]
                         },
                         {
@@ -11381,7 +11381,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Item Shopkeeper>If you'd like, try asking the person next door.\nThey might be able to make something related to\nmetalwork?"
+                                "\\n< Item Shopkeeper >If you'd like, try asking the person next door.\nThey might be able to make something related to\nmetalwork?"
                             ]
                         },
                         {
@@ -11529,7 +11529,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Undergarments, huh? I've got some used ones if\nthat's alright...\\n< Item Shopkeeper>"
+                                "Undergarments, huh? I've got some used ones if\nthat's alright...\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -11589,7 +11589,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Silk undergarments? I've never even seen such\nluxury items. There's also been a ban on\nextravagance, you know.\\n< Item Shopkeeper>"
+                                "Silk undergarments? I've never even seen such\nluxury items. There's also been a ban on\nextravagance, you know.\\n< Item Shopkeeper >"
                             ]
                         },
                         {

@@ -3509,7 +3509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Guild Master>So you failed to collect the goblin noses."
+                                "\\n< Guild Master >So you failed to collect the goblin noses."
                             ]
                         },
                         {
@@ -3642,7 +3642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Guild Master>The opponent is a monster, you know?"
+                                "\\n< Guild Master >The opponent is a monster, you know?"
                             ]
                         },
                         {
@@ -3797,7 +3797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Guild Master>..."
+                                "\\n< Guild Master >..."
                             ]
                         },
                         {
@@ -3814,7 +3814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Guild Master>Well... you're free to stick to your principles."
+                                "\\n< Guild Master >Well... you're free to stick to your principles."
                             ]
                         },
                         {
@@ -3831,7 +3831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Anyway, it's about the agreement. The contract was\nfor 10 goblin noses at 3G each, right?\\n< Guild Master>"
+                                "Anyway, it's about the agreement. The contract was\nfor 10 goblin noses at 3G each, right?\\n< Guild Master >"
                             ]
                         },
                         {
@@ -3848,7 +3848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Guild Master>Since you brought back zero, your reward is also\nzero."
+                                "\\n< Guild Master >Since you brought back zero, your reward is also\nzero."
                             ]
                         },
                         {
@@ -3981,7 +3981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Guild Master>Right. Normally, this would be recorded as a\nfailure..."
+                                "\\n< Guild Master >Right. Normally, this would be recorded as a\nfailure..."
                             ]
                         },
                         {
@@ -3998,7 +3998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But since there are witnesses this time, let's\nmark it as a success. This is truly unprecedented.\nA successful request without a reward.\\n< Guild Master>"
+                                "But since there are witnesses this time, let's\nmark it as a success. This is truly unprecedented.\nA successful request without a reward.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -4149,7 +4149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Guild Master>That's right. How many times have we gone over\nthis...?"
+                                "\\n< Guild Master >That's right. How many times have we gone over\nthis...?"
                             ]
                         },
                         {
@@ -4287,7 +4287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Guild Master>And take this with you."
+                                "\\n< Guild Master >And take this with you."
                             ]
                         },
                         {
@@ -4364,7 +4364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's issued to adventurers after their first\njob... well, it's an ID of sorts.\\n< Guild Master>"
+                                "It's issued to adventurers after their first\njob... well, it's an ID of sorts.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -4381,7 +4381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Achievements and evaluations are also recorded\nhere. Don't lose it.\\n< Guild Master>"
+                                "Achievements and evaluations are also recorded\nhere. Don't lose it.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -5051,7 +5051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Guild Master>Hey there, good morning. Have you gotten used to\nthis town yet?"
+                                "\\n< Guild Master >Hey there, good morning. Have you gotten used to\nthis town yet?"
                             ]
                         },
                         {
@@ -5099,7 +5099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Guild Master>Heh, that's true."
+                                "\\n< Guild Master >Heh, that's true."
                             ]
                         },
                         {
@@ -5274,7 +5274,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>You haven't finished the request yet, have you?\nCome back after you've completed it."
+                                "\\n< Guild Master >You haven't finished the request yet, have you?\nCome back after you've completed it."
                             ]
                         },
                         {
@@ -5362,7 +5362,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>Hey, hey, you don't seem like you've been... to a\ntavern, have you?"
+                                "\\n< Guild Master >Hey, hey, you don't seem like you've been... to a\ntavern, have you?"
                             ]
                         },
                         {
@@ -5410,7 +5410,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>I see... Well, there's no need for it... at your\nage, not yet..."
+                                "\\n< Guild Master >I see... Well, there's no need for it... at your\nage, not yet..."
                             ]
                         },
                         {
@@ -5427,7 +5427,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>If you don't know how things work, it might not be\nthe right job for you, young lady."
+                                "\\n< Guild Master >If you don't know how things work, it might not be\nthe right job for you, young lady."
                             ]
                         },
                         {
@@ -5444,7 +5444,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>Basically, you take orders from customers and\ncarry drinks and food to the table. It's a request\nto help out at the shop."
+                                "\\n< Guild Master >Basically, you take orders from customers and\ncarry drinks and food to the table. It's a request\nto help out at the shop."
                             ]
                         },
                         {
@@ -5492,7 +5492,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>No one's asking you to do it if you don't like it.\nYou don't have to do it if you don't want to."
+                                "\\n< Guild Master >No one's asking you to do it if you don't like it.\nYou don't have to do it if you don't want to."
                             ]
                         },
                         {
@@ -5564,7 +5564,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>I don't know which clothes you're talking about,\nbut I think you'll be given a uniform. Whether\nthey have one in your size, I can't say..."
+                                "\\n< Guild Master >I don't know which clothes you're talking about,\nbut I think you'll be given a uniform. Whether\nthey have one in your size, I can't say..."
                             ]
                         },
                         {
@@ -5581,7 +5581,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>By the way, the payment is commission- based. How\nmuch you earn is up to you."
+                                "\\n< Guild Master >By the way, the payment is commission- based. How\nmuch you earn is up to you."
                             ]
                         },
                         {
@@ -5658,7 +5658,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Guild Master>Then take this paper with you as is. That will get\nthe conversation going."
+                                "\\n< Guild Master >Then take this paper with you as is. That will get\nthe conversation going."
                             ]
                         },
                         {
@@ -5737,7 +5737,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Guild Master>Ah- take care now-."
+                                "\\n< Guild Master >Ah- take care now-."
                             ]
                         },
                         {
@@ -5878,7 +5878,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Guild Master>...damn, I got carried away. Felt like sending my\ndaughter on an errand for the first time."
+                                "\\n< Guild Master >...damn, I got carried away. Felt like sending my\ndaughter on an errand for the first time."
                             ]
                         },
                         {
@@ -6065,7 +6065,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>What, are you interested in that kind of work?"
+                                "\\n< Guild Master >What, are you interested in that kind of work?"
                             ]
                         },
                         {
@@ -6137,7 +6137,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>Uh, this time it's... milking cows."
+                                "\\n< Guild Master >Uh, this time it's... milking cows."
                             ]
                         },
                         {
@@ -6154,7 +6154,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>Farmers are always short on hands. That's why\nthese kinds of requests keep coming in one after\nanother."
+                                "\\n< Guild Master >Farmers are always short on hands. That's why\nthese kinds of requests keep coming in one after\nanother."
                             ]
                         },
                         {
@@ -6171,7 +6171,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>And the adventurers who take these requests are\nmostly former farmers themselves."
+                                "\\n< Guild Master >And the adventurers who take these requests are\nmostly former farmers themselves."
                             ]
                         },
                         {
@@ -6188,7 +6188,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>Those who are just starting out and desperately\nneed money take these small jobs to earn a bit of\ncoin."
+                                "\\n< Guild Master >Those who are just starting out and desperately\nneed money take these small jobs to earn a bit of\ncoin."
                             ]
                         },
                         {
@@ -6236,7 +6236,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>So, it's no job for anyone but former farmers."
+                                "\\n< Guild Master >So, it's no job for anyone but former farmers."
                             ]
                         },
                         {
@@ -6253,7 +6253,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>This is probably not a job for you, young lady."
+                                "\\n< Guild Master >This is probably not a job for you, young lady."
                             ]
                         },
                         {
@@ -6342,7 +6342,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>Even so... the reward is just 1G, are you\nseriously considering taking it?"
+                                "\\n< Guild Master >Even so... the reward is just 1G, are you\nseriously considering taking it?"
                             ]
                         },
                         {
@@ -6436,7 +6436,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Guild Master>...well, even if you fail, it's not like anyone\nwill die. And all the former farmers are out\nanyway."
+                                "\\n< Guild Master >...well, even if you fail, it's not like anyone\nwill die. And all the former farmers are out\nanyway."
                             ]
                         },
                         {
@@ -6453,7 +6453,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Guild Master>Better than putting it off till tomorrow. Here,\ntake this request certificate with you."
+                                "\\n< Guild Master >Better than putting it off till tomorrow. Here,\ntake this request certificate with you."
                             ]
                         },
                         {
@@ -6501,7 +6501,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Guild Master>Yeah. The client will be working in the fields, so\nshow it to them and they should guide you to the\nworkplace."
+                                "\\n< Guild Master >Yeah. The client will be working in the fields, so\nshow it to them and they should guide you to the\nworkplace."
                             ]
                         },
                         {
@@ -6549,7 +6549,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Guild Master>Ah, take care."
+                                "\\n< Guild Master >Ah, take care."
                             ]
                         },
                         {
@@ -6837,7 +6837,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "First, you need to set the item you want to use in\na slot. To do this, open the menu and select the\nslot option.\\n< Guild Master>"
+                                "First, you need to set the item you want to use in\na slot. To do this, open the menu and select the\nslot option.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -6854,7 +6854,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Then you'll be taken to a list of registerable\nitems. Choose the necessary item and register it\nto your slot. That's all for the preparation.\\n< Guild Master>"
+                                "Then you'll be taken to a list of registerable\nitems. Choose the necessary item and register it\nto your slot. That's all for the preparation.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -6871,7 +6871,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "During battle, you use items from the slot. Select\nwith 1 and 2 or LR, and activate the item's effect\nwith the slot use key.\\n< Guild Master>"
+                                "During battle, you use items from the slot. Select\nwith 1 and 2 or LR, and activate the item's effect\nwith the slot use key.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -6988,7 +6988,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>They've been quite frequent lately... Maybe a\nwoman has been captured somewhere. We've also had\nsome missing persons here..."
+                                "\\n< Guild Master >They've been quite frequent lately... Maybe a\nwoman has been captured somewhere. We've also had\nsome missing persons here..."
                             ]
                         },
                         {
@@ -7036,7 +7036,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>Well..."
+                                "\\n< Guild Master >Well..."
                             ]
                         },
                         {
@@ -7084,7 +7084,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>...uh...hmm. Ah...well...you know. That's how it\nis."
+                                "\\n< Guild Master >...uh...hmm. Ah...well...you know. That's how it\nis."
                             ]
                         },
                         {
@@ -7132,7 +7132,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>Anyway, what appeared this time are also \"strays.\""
+                                "\\n< Guild Master >Anyway, what appeared this time are also \"strays.\""
                             ]
                         },
                         {
@@ -7149,7 +7149,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>They're just a few goblins, but if women and\nchildren encounter them, they could lose their\nlives."
+                                "\\n< Guild Master >They're just a few goblins, but if women and\nchildren encounter them, they could lose their\nlives."
                             ]
                         },
                         {
@@ -7166,7 +7166,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>It's best to exterminate them quickly. The reward\nfor success is 3G. Is it okay to take on this\nrequest?"
+                                "\\n< Guild Master >It's best to exterminate them quickly. The reward\nfor success is 3G. Is it okay to take on this\nrequest?"
                             ]
                         },
                         {
@@ -7247,7 +7247,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Guild Master>I'm counting on you."
+                                "\\n< Guild Master >I'm counting on you."
                             ]
                         },
                         {
@@ -7293,7 +7293,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "By the way, miss, do you know how to use items\nduring battle?\\n< Guild Master>"
+                                "By the way, miss, do you know how to use items\nduring battle?\\n< Guild Master >"
                             ]
                         },
                         {
@@ -7343,7 +7343,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Alright, then let me give you a quick lesson.\\n< Guild Master>"
+                                "Alright, then let me give you a quick lesson.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -7360,7 +7360,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "During battle, you use items from the slot. If\nyou're using a keyboard, select with 1 or 2. If\nyou're using a pad, select with LR and then\nactivate the item with the slot use button.\\n< Guild Master>"
+                                "During battle, you use items from the slot. If\nyou're using a keyboard, select with 1 or 2. If\nyou're using a pad, select with LR and then\nactivate the item with the slot use button.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -7377,7 +7377,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "There are two slots. You need to register items to\nthe slots beforehand through the menu screen.\\n< Guild Master>"
+                                "There are two slots. You need to register items to\nthe slots beforehand through the menu screen.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -7394,7 +7394,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "To do this, go to the slot option in the menu\nscreen, press the 'register' button, and just\nselect the item.\\n< Guild Master>"
+                                "To do this, go to the slot option in the menu\nscreen, press the 'register' button, and just\nselect the item.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -7411,7 +7411,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Oh, and naturally, you can't register if you don't\nhave the item in advance.\\n< Guild Master>"
+                                "Oh, and naturally, you can't register if you don't\nhave the item in advance.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -7428,7 +7428,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Items are sold at the tool shop. Make sure to buy\nat least one before heading out on an adventure.\\n< Guild Master>"
+                                "Items are sold at the tool shop. Make sure to buy\nat least one before heading out on an adventure.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -7445,7 +7445,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "If you skimp because it's expensive, you might end\nup paying a much higher price later.\\n< Guild Master>"
+                                "If you skimp because it's expensive, you might end\nup paying a much higher price later.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -7493,7 +7493,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Yeah, make sure to come back safely.\\n< Guild Master>"
+                                "Yeah, make sure to come back safely.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -7523,7 +7523,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Is that so? Looks like you'll be fine then. Make\nsure to come back safely.\\n< Guild Master>"
+                                "Is that so? Looks like you'll be fine then. Make\nsure to come back safely.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -7753,7 +7753,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>You don't know the place? It's in the western\ndirection."
+                                "\\n< Guild Master >You don't know the place? It's in the western\ndirection."
                             ]
                         },
                         {
@@ -7902,7 +7902,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "It's a request from Erika. The reward is 1G.\\n< Guild Master>"
+                                "It's a request from Erika. The reward is 1G.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -7919,7 +7919,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Deliver supplies and a lunch box to the camp in\nthe forest.\\n< Guild Master>"
+                                "Deliver supplies and a lunch box to the camp in\nthe forest.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -7967,7 +7967,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...Ricott, her elder sister figure, was killed by\na Minotaur.\\n< Guild Master>"
+                                "...Ricott, her elder sister figure, was killed by\na Minotaur.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -7984,7 +7984,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "She's been searching for her nemesis to the limits\nof her strength, occasionally coming down to town\nfor a brief rest before heading back to the\nforest.\\n< Guild Master>"
+                                "She's been searching for her nemesis to the limits\nof her strength, occasionally coming down to town\nfor a brief rest before heading back to the\nforest.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -8032,7 +8032,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "There's no one without circumstances. Especially\nthose who are adventurers.\\n< Guild Master>"
+                                "There's no one without circumstances. Especially\nthose who are adventurers.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -8049,7 +8049,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You're the same, aren't you, young lady?\\n< Guild Master>"
+                                "You're the same, aren't you, young lady?\\n< Guild Master >"
                             ]
                         },
                         {
@@ -8097,7 +8097,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "That's how adult relationships work.\\n< Guild Master>"
+                                "That's how adult relationships work.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -8114,7 +8114,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Now, back to the topic at hand.\\n< Guild Master>"
+                                "Now, back to the topic at hand.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -8131,7 +8131,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The job is simply transporting supplies. There\nshould be hardly any danger.\\n< Guild Master>"
+                                "The job is simply transporting supplies. There\nshould be hardly any danger.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -8179,7 +8179,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Just a small bag. It's mostly just delivering\nlunch.\\n< Guild Master>"
+                                "Just a small bag. It's mostly just delivering\nlunch.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -8227,7 +8227,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Heh...\\n< Guild Master>"
+                                "Heh...\\n< Guild Master >"
                             ]
                         },
                         {
@@ -8275,7 +8275,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...It's nothing. Her camp is always in the same\nplace.\\n< Guild Master>"
+                                "...It's nothing. Her camp is always in the same\nplace.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -8292,7 +8292,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The location is inside the western forest. I'll\nattach a map, so follow it and go there.\\n< Guild Master>"
+                                "The location is inside the western forest. I'll\nattach a map, so follow it and go there.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -8340,7 +8340,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "This will be your cargo... I don't worry about\nyou, but don't handle it too roughly, okay?\\n< Guild Master>"
+                                "This will be your cargo... I don't worry about\nyou, but don't handle it too roughly, okay?\\n< Guild Master >"
                             ]
                         },
                         {
@@ -8538,7 +8538,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Why don't you play and laugh a little more? Act\nlike a child while you still can.\\n< Guild Master>"
+                                "Why don't you play and laugh a little more? Act\nlike a child while you still can.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -8572,7 +8572,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>Hey, young lady, there's a message for you."
+                                "\\n< Guild Master >Hey, young lady, there's a message for you."
                             ]
                         },
                         {
@@ -8620,7 +8620,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>The woman you saved from the goblins wants to\nthank you for that time."
+                                "\\n< Guild Master >The woman you saved from the goblins wants to\nthank you for that time."
                             ]
                         },
                         {
@@ -8668,7 +8668,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>You're not very gracious. Charm and amiability are\na kid's best assets. You'll only be doted on while\nyou're still young, you know?"
+                                "\\n< Guild Master >You're not very gracious. Charm and amiability are\na kid's best assets. You'll only be doted on while\nyou're still young, you know?"
                             ]
                         },
                         {
@@ -8740,7 +8740,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Tough luck, there's no job left that I can hand\nover to you right now.\\n< Guild Master>"
+                                "Tough luck, there's no job left that I can hand\nover to you right now.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -8788,7 +8788,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "In a backwater town like this, there aren't that\nmany requests to begin with. It's more common to\nhave days without work.\\n< Guild Master>"
+                                "In a backwater town like this, there aren't that\nmany requests to begin with. It's more common to\nhave days without work.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -8805,7 +8805,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Well, it's better than having a mountain of\nneglected requests, right?\\n< Guild Master>"
+                                "Well, it's better than having a mountain of\nneglected requests, right?\\n< Guild Master >"
                             ]
                         },
                         {
@@ -8853,7 +8853,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>There's nothing for it but to wait. But don't\nworry, you won't be left hanging for days on end."
+                                "\\n< Guild Master >There's nothing for it but to wait. But don't\nworry, you won't be left hanging for days on end."
                             ]
                         },
                         {
@@ -8870,7 +8870,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>We've been having some trouble with a bandit\nsubjugation request. I was thinking of sending\nsomeone to check on it soon..."
+                                "\\n< Guild Master >We've been having some trouble with a bandit\nsubjugation request. I was thinking of sending\nsomeone to check on it soon..."
                             ]
                         },
                         {
@@ -8918,7 +8918,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Look, the guild doesn't just issue requests willy-\nnilly.\\n< Guild Master>"
+                                "Look, the guild doesn't just issue requests willy-\nnilly.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -8935,7 +8935,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "There are budget limits, processing limits, rules\nand regulations. We operate at the edge of\nefficiency within those constraints.\\n< Guild Master>"
+                                "There are budget limits, processing limits, rules\nand regulations. We operate at the edge of\nefficiency within those constraints.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -8952,7 +8952,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ah, well... Anyway, go home for today. Or rather,\ngo on. A hardworking young lady like you needs a\nbreak.\\n< Guild Master>"
+                                "Ah, well... Anyway, go home for today. Or rather,\ngo on. A hardworking young lady like you needs a\nbreak.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -9106,7 +9106,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Yeah, yeah, got it.\\n< Guild Master>"
+                                "Yeah, yeah, got it.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -9123,7 +9123,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Her house is on the south side of town. Take it\neasy for now.\\n< Guild Master>"
+                                "Her house is on the south side of town. Take it\neasy for now.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -9326,7 +9326,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>The request isn't finished yet. Come back after\nyou've completed it."
+                                "\\n< Guild Master >The request isn't finished yet. Come back after\nyou've completed it."
                             ]
                         },
                         {
@@ -9414,7 +9414,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>What do you mean... You don't know what an Orc is?\nThis is the first time I've been asked to explain."
+                                "\\n< Guild Master >What do you mean... You don't know what an Orc is?\nThis is the first time I've been asked to explain."
                             ]
                         },
                         {
@@ -9431,7 +9431,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>Well... Think of them as goblins that have grown\nup. They seem to be a different species though."
+                                "\\n< Guild Master >Well... Think of them as goblins that have grown\nup. They seem to be a different species though."
                             ]
                         },
                         {
@@ -9479,7 +9479,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>They're muscular and brutally aggressive.\nExtremely warlike monsters that enjoy attacking\npeople."
+                                "\\n< Guild Master >They're muscular and brutally aggressive.\nExtremely warlike monsters that enjoy attacking\npeople."
                             ]
                         },
                         {
@@ -9496,7 +9496,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "And it seems an Orc scout has been lurking around\nthis area. Take it down before it becomes a\nserious problem, or at least drive it away.\\n< Guild Master>"
+                                "And it seems an Orc scout has been lurking around\nthis area. Take it down before it becomes a\nserious problem, or at least drive it away.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -9544,7 +9544,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hard to say. We don't understand the habits of\nmonsters. But before an Orc outbreak, there's\nusually a small group that appears.\\n< Guild Master>"
+                                "Hard to say. We don't understand the habits of\nmonsters. But before an Orc outbreak, there's\nusually a small group that appears.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -9561,7 +9561,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Whether they call for reinforcements or breed, I\ndon't know, but we refer to them as scouts anyway.\\n< Guild Master>"
+                                "Whether they call for reinforcements or breed, I\ndon't know, but we refer to them as scouts anyway.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -9609,7 +9609,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>The eastern forest. There are two of them. For\nnow, they're just wandering around."
+                                "\\n< Guild Master >The eastern forest. There are two of them. For\nnow, they're just wandering around."
                             ]
                         },
                         {
@@ -9626,7 +9626,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The reward is 1G per Orc, with a success bonus of\n2G. That makes 4G in total. How about it, will you\ngive it a try?\\n< Guild Master>"
+                                "The reward is 1G per Orc, with a success bonus of\n2G. That makes 4G in total. How about it, will you\ngive it a try?\\n< Guild Master >"
                             ]
                         },
                         {
@@ -9707,7 +9707,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "What is it?\\n< Guild Master>"
+                                "What is it?\\n< Guild Master >"
                             ]
                         },
                         {
@@ -9772,7 +9772,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Ah... There aren't any books, but there's someone\nin town who knows a lot about such things.\\n< Guild Master>"
+                                "Ah... There aren't any books, but there's someone\nin town who knows a lot about such things.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -9820,7 +9820,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "His name is Toma. Everyone calls him the Monster\nProfessor, though it's half in jest.\\n< Guild Master>"
+                                "His name is Toma. Everyone calls him the Monster\nProfessor, though it's half in jest.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -9837,7 +9837,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "He's probably the only one in town who can be said\nto be knowledgeable about monsters.\\n< Guild Master>"
+                                "He's probably the only one in town who can be said\nto be knowledgeable about monsters.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -9885,7 +9885,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "...Toma is what you'd call an eccentric. It's hard\nto tell what he's thinking sometimes.\\n< Guild Master>"
+                                "...Toma is what you'd call an eccentric. It's hard\nto tell what he's thinking sometimes.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -9902,7 +9902,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "He doesn't seem to be a bad person or a heretic,\nbut...\\n< Guild Master>"
+                                "He doesn't seem to be a bad person or a heretic,\nbut...\\n< Guild Master >"
                             ]
                         },
                         {
@@ -9950,7 +9950,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Yeah. But maybe you'll get along with him better\nthan most.\\n< Guild Master>"
+                                "Yeah. But maybe you'll get along with him better\nthan most.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -10112,7 +10112,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>Yeah. It's become quite popular lately. We haven't\nseen much of it around here though."
+                                "\\n< Guild Master >Yeah. It's become quite popular lately. We haven't\nseen much of it around here though."
                             ]
                         },
                         {
@@ -10160,7 +10160,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>You don't know? It's called inheritance medicine."
+                                "\\n< Guild Master >You don't know? It's called inheritance medicine."
                             ]
                         },
                         {
@@ -10177,7 +10177,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>Ah, I'm so short on money. If only my father-in-\nlaw would die, I could get his fortune. Oh, what a\ncoincidence--"
+                                "\\n< Guild Master >Ah, I'm so short on money. If only my father-in-\nlaw would die, I could get his fortune. Oh, what a\ncoincidence--"
                             ]
                         },
                         {
@@ -10225,7 +10225,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>There's been a tip-off. Seems there are people\ntrying to bring it into our town."
+                                "\\n< Guild Master >There's been a tip-off. Seems there are people\ntrying to bring it into our town."
                             ]
                         },
                         {
@@ -10242,7 +10242,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>It's not fitting for our peaceful town. I'd like\nthem taken care of."
+                                "\\n< Guild Master >It's not fitting for our peaceful town. I'd like\nthem taken care of."
                             ]
                         },
                         {
@@ -10259,7 +10259,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>So this is a request from the guild. Or rather,\nfrom me."
+                                "\\n< Guild Master >So this is a request from the guild. Or rather,\nfrom me."
                             ]
                         },
                         {
@@ -10307,7 +10307,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>Yeah, it should be right up your alley. They're\nsmall fry without much backing. Go ahead and take\ncare of them thoroughly."
+                                "\\n< Guild Master >Yeah, it should be right up your alley. They're\nsmall fry without much backing. Go ahead and take\ncare of them thoroughly."
                             ]
                         },
                         {
@@ -10379,7 +10379,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>If that were possible, we wouldn't be having this\ntrouble. Well, we'll deal with that gradually."
+                                "\\n< Guild Master >If that were possible, we wouldn't be having this\ntrouble. Well, we'll deal with that gradually."
                             ]
                         },
                         {
@@ -10396,7 +10396,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>I'll pay you 4G for this job. Will you take it?"
+                                "\\n< Guild Master >I'll pay you 4G for this job. Will you take it?"
                             ]
                         },
                         {
@@ -10477,7 +10477,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Guild Master>Thanks. Here's the request form. It also includes\nthe likely route they'll take."
+                                "\\n< Guild Master >Thanks. Here's the request form. It also includes\nthe likely route they'll take."
                             ]
                         },
                         {
@@ -10494,7 +10494,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Guild Master>The location is off the eastern highway. It's out\nof sight, so it's perfect for this kind of thing."
+                                "\\n< Guild Master >The location is off the eastern highway. It's out\nof sight, so it's perfect for this kind of thing."
                             ]
                         },
                         {
@@ -10511,7 +10511,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Guild Master>They're not much in number or quality, but there's\nalways a chance of something unexpected. Be\ncareful, okay?"
+                                "\\n< Guild Master >They're not much in number or quality, but there's\nalways a chance of something unexpected. Be\ncareful, okay?"
                             ]
                         },
                         {
@@ -10770,7 +10770,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>You haven't finished your current request yet.\nCome back after you've completed it."
+                                "\\n< Guild Master >You haven't finished your current request yet.\nCome back after you've completed it."
                             ]
                         },
                         {
@@ -10857,7 +10857,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>What's wrong, young lady? You seem frozen."
+                                "\\n< Guild Master >What's wrong, young lady? You seem frozen."
                             ]
                         },
                         {
@@ -10905,7 +10905,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>Oh, okay."
+                                "\\n< Guild Master >Oh, okay."
                             ]
                         },
                         {
@@ -10953,7 +10953,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>It's rare to see you so flustered... Here, these\nare the documents."
+                                "\\n< Guild Master >It's rare to see you so flustered... Here, these\nare the documents."
                             ]
                         },
                         {
@@ -10970,7 +10970,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>The client is apparently at the inn, so go and\nhear the details from them."
+                                "\\n< Guild Master >The client is apparently at the inn, so go and\nhear the details from them."
                             ]
                         },
                         {
@@ -11189,7 +11189,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Guild Master>Hmm?"
+                                "\\n< Guild Master >Hmm?"
                             ]
                         },
                         {
@@ -11524,7 +11524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...\\n< Guild Master>"
+                                "...\\n< Guild Master >"
                             ]
                         },
                         {
@@ -11620,7 +11620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Just as you see.\\n< Guild Master>"
+                                "Just as you see.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -11637,7 +11637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That idiot took on a quest to subdue bandits, but\nfailed and got captured, it seems.\\n< Guild Master>"
+                                "That idiot took on a quest to subdue bandits, but\nfailed and got captured, it seems.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -11654,7 +11654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The woman Erika saved came to tell us. Saving this\nwoman was the original quest, but...\\n< Guild Master>"
+                                "The woman Erika saved came to tell us. Saving this\nwoman was the original quest, but...\\n< Guild Master >"
                             ]
                         },
                         {
@@ -11671,7 +11671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's no good if you get captured in exchange...\\n< Guild Master>"
+                                "It's no good if you get captured in exchange...\\n< Guild Master >"
                             ]
                         },
                         {
@@ -11688,7 +11688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Adventurers face such situations. That's why\nyou prepare by depositing money with the guild in\ncase you screw up.\\n< Guild Master>"
+                                "...Adventurers face such situations. That's why\nyou prepare by depositing money with the guild in\ncase you screw up.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -11705,7 +11705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If you don't make it back, you want this money to\nbe used to issue a rescue request.\\n< Guild Master>"
+                                "If you don't make it back, you want this money to\nbe used to issue a rescue request.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -11722,7 +11722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's why Erika is listed as the client for this\nrequest.\\n< Guild Master>"
+                                "That's why Erika is listed as the client for this\nrequest.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -11770,7 +11770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You gonna take it?\\n< Guild Master>"
+                                "You gonna take it?\\n< Guild Master >"
                             ]
                         },
                         {
@@ -11818,7 +11818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This request is different from the others. It\ninvolves humans, and there are many of them.\\n< Guild Master>"
+                                "This request is different from the others. It\ninvolves humans, and there are many of them.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -11835,7 +11835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Moreover, you have to infiltrate their stronghold\nand rescue the hostage. Girl, you can't do stealth\nactions, can you?\\n< Guild Master>"
+                                "Moreover, you have to infiltrate their stronghold\nand rescue the hostage. Girl, you can't do stealth\nactions, can you?\\n< Guild Master >"
                             ]
                         },
                         {
@@ -11883,7 +11883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So, you'll have to fight the bandits head-on.\\n< Guild Master>"
+                                "So, you'll have to fight the bandits head-on.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -11900,7 +11900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "They're country bandits. Not very well- equipped,\nbut still, a group of armed humans is a terrifying\nopponent.\\n< Guild Master>"
+                                "They're country bandits. Not very well- equipped,\nbut still, a group of armed humans is a terrifying\nopponent.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -11917,7 +11917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Even trained and experienced adventurers usually\navoid fighting.\\n< Guild Master>"
+                                "Even trained and experienced adventurers usually\navoid fighting.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -11965,7 +11965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yeah, because she's an idiot. To her, it doesn't\nmatter if she doesn't know the person's name. I\ntold her to abandon her.\\n< Guild Master>"
+                                "Yeah, because she's an idiot. To her, it doesn't\nmatter if she doesn't know the person's name. I\ntold her to abandon her.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -12013,7 +12013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...\\n< Guild Master>"
+                                "...\\n< Guild Master >"
                             ]
                         },
                         {
@@ -12078,7 +12078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Has your resolve not changed?\\n< Guild Master>"
+                                "...Has your resolve not changed?\\n< Guild Master >"
                             ]
                         },
                         {
@@ -12126,7 +12126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Understood.\\n< Guild Master>"
+                                "Understood.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -12143,7 +12143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Then let me formally... ask this of you as well.\nPlease save her.\\n< Guild Master>"
+                                "Then let me formally... ask this of you as well.\nPlease save her.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -12262,7 +12262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You'll be infiltrating the bandits' stronghold.\nNaturally, you'll have to deal with them.\\n< Guild Master>"
+                                "You'll be infiltrating the bandits' stronghold.\nNaturally, you'll have to deal with them.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -12279,7 +12279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But don't go straight in. If it comes to a fight,\nErika will certainly become a hostage.\\n< Guild Master>"
+                                "But don't go straight in. If it comes to a fight,\nErika will certainly become a hostage.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -12296,7 +12296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Then no matter how strong you are, girl, you'll be\nat a loss.\\n< Guild Master>"
+                                "Then no matter how strong you are, girl, you'll be\nat a loss.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -12313,7 +12313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So first secure Erika. Head straight for her and\nrescue her.\\n< Guild Master>"
+                                "So first secure Erika. Head straight for her and\nrescue her.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -12330,7 +12330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Then take down the bandits who come at you. If\nthere's going to be a fight, that's the order to\ndo it in.\\n< Guild Master>"
+                                "Then take down the bandits who come at you. If\nthere's going to be a fight, that's the order to\ndo it in.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -12378,7 +12378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The bandits are using a ruin in the forest as\ntheir base.\\n< Guild Master>"
+                                "The bandits are using a ruin in the forest as\ntheir base.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -12395,7 +12395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "An ancient temple or fortress or something. It's\nnot a very big box though.\\n< Guild Master>"
+                                "An ancient temple or fortress or something. It's\nnot a very big box though.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -12412,7 +12412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The ruins are built against a sheer cliff,\nsurrounded by hills, like they're standing in a\ndepression.\\n< Guild Master>"
+                                "The ruins are built against a sheer cliff,\nsurrounded by hills, like they're standing in a\ndepression.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -12460,7 +12460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's not that grand. The slope is gentle enough to\nwalk up normally.\\n< Guild Master>"
+                                "It's not that grand. The slope is gentle enough to\nwalk up normally.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -12477,7 +12477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The reason they're using this as a base is\nprobably more to do with a desire to hide away\nthan anything else.\\n< Guild Master>"
+                                "The reason they're using this as a base is\nprobably more to do with a desire to hide away\nthan anything else.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -12525,7 +12525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Probably. Especially the cliff side, they're less\nvigilant. This is according to Erika's assessment.\\n< Guild Master>"
+                                "Probably. Especially the cliff side, they're less\nvigilant. This is according to Erika's assessment.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -12542,7 +12542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Her strategy was to descend quickly using a rope\nfrom the cliff side, then enter the building from\nthe rooftop and rescue the hostage.\\n< Guild Master>"
+                                "Her strategy was to descend quickly using a rope\nfrom the cliff side, then enter the building from\nthe rooftop and rescue the hostage.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -12559,7 +12559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This rope has pulleys and weights rigged to it.\nLight the fuse from below, and the weight fixed\nabove drops, rapidly winding up the rope.\\n< Guild Master>"
+                                "This rope has pulleys and weights rigged to it.\nLight the fuse from below, and the weight fixed\nabove drops, rapidly winding up the rope.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -12576,7 +12576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "After rescuing the hostage, you return to the\nrooftop and use this mechanism to escape quickly.\nThen you run back to town.\\n< Guild Master>"
+                                "After rescuing the hostage, you return to the\nrooftop and use this mechanism to escape quickly.\nThen you run back to town.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -12593,7 +12593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Despite being able to enter from anywhere around,\nshe specifically chose the cliff. It was supposed\nto catch the bandits off guard.\\n< Guild Master>"
+                                "Despite being able to enter from anywhere around,\nshe specifically chose the cliff. It was supposed\nto catch the bandits off guard.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -12641,7 +12641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No, she didn't even use it.\\n< Guild Master>"
+                                "No, she didn't even use it.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -12658,7 +12658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It seems she found the woman being taken outside\nand spontaneously took her back. That's according\nto the woman's story.\\n< Guild Master>"
+                                "It seems she found the woman being taken outside\nand spontaneously took her back. That's according\nto the woman's story.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -12675,7 +12675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It was an unexpected move. Maybe she saw an\nopportunity... or simply couldn't stand by and\nwatch...\\n< Guild Master>"
+                                "It was an unexpected move. Maybe she saw an\nopportunity... or simply couldn't stand by and\nwatch...\\n< Guild Master >"
                             ]
                         },
                         {
@@ -12723,7 +12723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "She managed to let the woman escape, but got\ncaught herself.\\n< Guild Master>"
+                                "She managed to let the woman escape, but got\ncaught herself.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -12740,7 +12740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But fortunately or unfortunately, the strategy\nErika was supposed to use is still intact.\\n< Guild Master>"
+                                "But fortunately or unfortunately, the strategy\nErika was supposed to use is still intact.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -12757,7 +12757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "She'll be saved by the very plan she devised\nherself.\\n< Guild Master>"
+                                "She'll be saved by the very plan she devised\nherself.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -12774,7 +12774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If things go well, we can keep the battle with the\nbandits to a minimum.\\n< Guild Master>"
+                                "If things go well, we can keep the battle with the\nbandits to a minimum.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -12839,7 +12839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah, of course that's possible. But if that's the\ncase, then just come back here.\\n< Guild Master>"
+                                "Ah, of course that's possible. But if that's the\ncase, then just come back here.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -12887,7 +12887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Then we'll have to rethink our strategy. But for\nnow, let's proceed as if it's still there.\\n< Guild Master>"
+                                "Then we'll have to rethink our strategy. But for\nnow, let's proceed as if it's still there.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -12904,7 +12904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The ruins have a three-story structure. But\naccording to the woman, the first and third floors\nare heavily deteriorated and hardly used.\\n< Guild Master>"
+                                "The ruins have a three-story structure. But\naccording to the woman, the first and third floors\nare heavily deteriorated and hardly used.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -12921,7 +12921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The bandits' living quarters, storage for their\nloot, and the cell where they keep their captives\nare all on the second floor.\\n< Guild Master>"
+                                "The bandits' living quarters, storage for their\nloot, and the cell where they keep their captives\nare all on the second floor.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -12938,7 +12938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Erika is likely being held in a cell on this\nsecond floor. However, even the woman doesn't know\nthe layout inside the building.\\n< Guild Master>"
+                                "Erika is likely being held in a cell on this\nsecond floor. However, even the woman doesn't know\nthe layout inside the building.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -12955,7 +12955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You'll need to search for where the cell is once\nyou infiltrate.\\n< Guild Master>"
+                                "You'll need to search for where the cell is once\nyou infiltrate.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -13003,7 +13003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yes. But even if you find Erika successfully,\ndon't rush to her aid immediately.\\n< Guild Master>"
+                                "Yes. But even if you find Erika successfully,\ndon't rush to her aid immediately.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -13051,7 +13051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's a common tactic among bandits. If they're\ngoing to lose a hostage, they have someone whose\nrole is to kill them first.\\n< Guild Master>"
+                                "It's a common tactic among bandits. If they're\ngoing to lose a hostage, they have someone whose\nrole is to kill them first.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -13099,7 +13099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So find that person first. They'll be carrying a\nweapon, so you should be able to identify them\neasily.\\n< Guild Master>"
+                                "So find that person first. They'll be carrying a\nweapon, so you should be able to identify them\neasily.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -13147,7 +13147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well... probably not.\\n< Guild Master>"
+                                "Well... probably not.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -13164,7 +13164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Thieves, robbers, rapists... since coming to this\ntown, she's been knocking down such scoundrels one\nafter another.\\n< Guild Master>"
+                                "Thieves, robbers, rapists... since coming to this\ntown, she's been knocking down such scoundrels one\nafter another.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -13181,7 +13181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There were also a few requests involving bandits\namong them. Even though it was alongside her\nmonster hunting, she must have caused considerable\ndamage to them.\\n< Guild Master>"
+                                "There were also a few requests involving bandits\namong them. Even though it was alongside her\nmonster hunting, she must have caused considerable\ndamage to them.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -13198,7 +13198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Having captured Erika, who knows what those\nbandits filled with hatred might be doing to her\nin their cell...\\n< Guild Master>"
+                                "Having captured Erika, who knows what those\nbandits filled with hatred might be doing to her\nin their cell...\\n< Guild Master >"
                             ]
                         },
                         {
@@ -13246,7 +13246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If those bandits had killed Erika, they would have\ndisplayed her body in the open as a warning.\\n< Guild Master>"
+                                "If those bandits had killed Erika, they would have\ndisplayed her body in the open as a warning.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -13263,7 +13263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The fact that they haven't done so means that, one\nway or another, she's still alive.\\n< Guild Master>"
+                                "The fact that they haven't done so means that, one\nway or another, she's still alive.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -13280,7 +13280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But we should assume there isn't much time left.\\n< Guild Master>"
+                                "But we should assume there isn't much time left.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -13328,7 +13328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Take this with you as well.\\n< Guild Master>"
+                                "Take this with you as well.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -13430,7 +13430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's also for Erika. It's a strong medicine.\nMake sure you don't drink it by mistake.\\n< Guild Master>"
+                                "That's also for Erika. It's a strong medicine.\nMake sure you don't drink it by mistake.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -13478,7 +13478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yes. That's all I wanted to give you. The fastest\nway to the bandit's hideout is straight through\nthe western forest.\\n< Guild Master>"
+                                "Yes. That's all I wanted to give you. The fastest\nway to the bandit's hideout is straight through\nthe western forest.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -13519,7 +13519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Miss... I'm counting on you to save Erika.\\n< Guild Master>"
+                                "Miss... I'm counting on you to save Erika.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -13694,7 +13694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If you're heading to the bandit's hideout, go\nstraight through the western forest. It's likely\nto be one battle after another, so make sure\nyou're well prepared.\\n< Guild Master>"
+                                "If you're heading to the bandit's hideout, go\nstraight through the western forest. It's likely\nto be one battle after another, so make sure\nyou're well prepared.\\n< Guild Master >"
                             ]
                         },
                         {
@@ -14713,7 +14713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What? Are you lost?\\n< Female Adventurer>"
+                                "What? Are you lost?\\n< Female Adventurer >"
                             ]
                         },
                         {
@@ -14730,7 +14730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There's nothing interesting around here. Go chase\nafter grasshoppers with your friends or something.\\n< Female Adventurer>"
+                                "There's nothing interesting around here. Go chase\nafter grasshoppers with your friends or something.\\n< Female Adventurer >"
                             ]
                         },
                         {
@@ -14833,7 +14833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Goblin extermination? Huh, so you accepted the\nquest. You're an adventurer then...\\n< Female Adventurer>"
+                                "Goblin extermination? Huh, so you accepted the\nquest. You're an adventurer then...\\n< Female Adventurer >"
                             ]
                         },
                         {
@@ -14850,7 +14850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Make sure to take a bath as soon as you're done.\nThose guys seriously stink. Well, I guess that\ngoes without saying, huh?\\n< Female Adventurer>"
+                                "Make sure to take a bath as soon as you're done.\nThose guys seriously stink. Well, I guess that\ngoes without saying, huh?\\n< Female Adventurer >"
                             ]
                         },
                         {
@@ -14953,7 +14953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Did you see the goblin children? You made sure to\nexterminate them, right?\\n< Female Adventurer>"
+                                "Did you see the goblin children? You made sure to\nexterminate them, right?\\n< Female Adventurer >"
                             ]
                         },
                         {
@@ -14970,7 +14970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "After all, the more they live, the more sin and\nsuffering they bring about.\\n< Female Adventurer>"
+                                "After all, the more they live, the more sin and\nsuffering they bring about.\\n< Female Adventurer >"
                             ]
                         },
                         {
@@ -14987,7 +14987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "At least disposing of them while they're young is\nan act of mercy and virtue.\\n< Female Adventurer>"
+                                "At least disposing of them while they're young is\nan act of mercy and virtue.\\n< Female Adventurer >"
                             ]
                         },
                         {
@@ -15090,7 +15090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah, I'm off to run an errand for that muscle-bound\ngorilla.\\n< Female Adventurer>"
+                                "Ah, I'm off to run an errand for that muscle-bound\ngorilla.\\n< Female Adventurer >"
                             ]
                         },
                         {
@@ -15107,7 +15107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Wondering what she's doing holed up in the\nforest...\\n< Female Adventurer>"
+                                "Wondering what she's doing holed up in the\nforest...\\n< Female Adventurer >"
                             ]
                         },
                         {
@@ -15210,7 +15210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"A Minotaur? No, I haven't seen one.\"\\n< Female Adventurer>"
+                                "\"A Minotaur? No, I haven't seen one.\"\\n< Female Adventurer >"
                             ]
                         },
                         {
@@ -15227,7 +15227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"It was supposedly repelled between here and the\nforest. I heard it was a close call, but that's\nprobably an exaggeration.\"\\n< Female Adventurer>"
+                                "\"It was supposedly repelled between here and the\nforest. I heard it was a close call, but that's\nprobably an exaggeration.\"\\n< Female Adventurer >"
                             ]
                         },
                         {
@@ -15330,7 +15330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hey there. Looks like you're getting used to the\nadventurer's work, huh?\\n< Female Adventurer>"
+                                "Hey there. Looks like you're getting used to the\nadventurer's work, huh?\\n< Female Adventurer >"
                             ]
                         },
                         {
@@ -15433,7 +15433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Orcs...! Are we really going to fight them...?\\n< Female Adventurer>"
+                                "Orcs...! Are we really going to fight them...?\\n< Female Adventurer >"
                             ]
                         },
                         {
@@ -15450,7 +15450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "They're all muscle-bound and monstrous, you know?\nAnd green. It's just not natural. I'll pass.\\n< Female Adventurer>"
+                                "They're all muscle-bound and monstrous, you know?\nAnd green. It's just not natural. I'll pass.\\n< Female Adventurer >"
                             ]
                         },
                         {
@@ -15467,7 +15467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "At least put on some pants!\\n< Female Adventurer>"
+                                "At least put on some pants!\\n< Female Adventurer >"
                             ]
                         },
                         {
@@ -15570,7 +15570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Haven't you wondered why there are no gathering\nrequests?\\n< Female Adventurer>"
+                                "Haven't you wondered why there are no gathering\nrequests?\\n< Female Adventurer >"
                             ]
                         },
                         {
@@ -15587,7 +15587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's because I've been taking them all on. The\nmoment they come up. Instantly. In seconds.\\n< Female Adventurer>"
+                                "It's because I've been taking them all on. The\nmoment they come up. Instantly. In seconds.\\n< Female Adventurer >"
                             ]
                         },
                         {
@@ -15604,7 +15604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lately, I've even been stockpiling various herbs\nso I can deliver them the moment I accept the\nrequest...!\\n< Female Adventurer>"
+                                "Lately, I've even been stockpiling various herbs\nso I can deliver them the moment I accept the\nrequest...!\\n< Female Adventurer >"
                             ]
                         },
                         {
@@ -15707,7 +15707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Did you hear the Muscle Gorilla got caught?\"\\n< Female Adventurer>"
+                                "\"Did you hear the Muscle Gorilla got caught?\"\\n< Female Adventurer >"
                             ]
                         },
                         {
@@ -15724,7 +15724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Well, my condolences. Even if he's alive, he's\nprobably beyond recovery.\"\\n< Female Adventurer>"
+                                "\"Well, my condolences. Even if he's alive, he's\nprobably beyond recovery.\"\\n< Female Adventurer >"
                             ]
                         },
                         {
@@ -15741,7 +15741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"That's why we women have to be extra careful when\nchoosing our quests.\"\\n< Female Adventurer>"
+                                "\"That's why we women have to be extra careful when\nchoosing our quests.\"\\n< Female Adventurer >"
                             ]
                         },
                         {
@@ -15758,7 +15758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"...What's with that look? You know what happens\nto women when they get caught, or what's happening\nto them. It's not hard to imagine.\"\\n< Female Adventurer>"
+                                "\"...What's with that look? You know what happens\nto women when they get caught, or what's happening\nto them. It's not hard to imagine.\"\\n< Female Adventurer >"
                             ]
                         },
                         {
