@@ -3459,7 +3459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Well, according to the information, it\nshould be around here... Let's proceed\nwith caution."
+                                "\\n< Serena >Well, according to the information, it should be\naround here... Let's proceed with caution."
                             ]
                         },
                         {
@@ -4566,7 +4566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It looks like an abandoned lumberjack's\ncabin.\\n< Serena >"
+                                "It looks like an abandoned lumberjack's cabin.\\n< Serena >"
                             ]
                         },
                         {
@@ -4719,7 +4719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There's nothing in it but dead leaves\nand such.\\n< Serena >"
+                                "There's nothing in it but dead leaves and such.\\n< Serena >"
                             ]
                         },
                         {
@@ -4841,7 +4841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It looks filthy. I'd better not touch\nit.\\n< Serena >"
+                                "It looks filthy. I'd better not touch it.\\n< Serena >"
                             ]
                         },
                         {

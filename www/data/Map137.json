@@ -3765,28 +3765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "違う…アタシの探していた馬は…、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "白くて…小さくて……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんなのじゃ…ない……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<レナ>"
+                                "No... The horse I was looking for... it's white...\nand small... that's not it...\\n< Rena >"
                             ]
                         },
                         {
@@ -3803,21 +3782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぅぅ…何処にいるの…、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かあさまの大切な……ユニコーン……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<レナ>"
+                                "Uuu... Where are you... my mother's precious...\nunicorn...\\n< Rena >"
                             ]
                         },
                         {
@@ -3990,14 +3955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "無事かレナ殿。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Are you alright, Lady Rena?\\n< Serena >"
                             ]
                         },
                         {
@@ -4028,14 +3986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だ…大丈夫……。ありがとう…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<レナ>"
+                                "I'm... I'm fine... Thank you...\\n< Rena >"
                             ]
                         },
                         {
@@ -4052,14 +4003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貴方のほうは……あ…怪我……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<レナ>"
+                                "What about you... Ah... You're injured...\\n< Rena >"
                             ]
                         },
                         {
@@ -4090,21 +4034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これしきの事、些細なものだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そなたがに怪我がなくて本当に良かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "This is nothing but a trifle. I'm truly glad\nyou're not hurt.\\n< Serena >"
                             ]
                         },
                         {
@@ -4121,21 +4051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さぁ、ここはまだ危険が残ってるかもしれぬ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "街に帰ろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Now, this place might still be dangerous. Let's\nreturn to town.\\n< Serena >"
                             ]
                         },
                         {

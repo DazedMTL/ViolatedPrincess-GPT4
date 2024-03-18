@@ -5014,7 +5014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Phew... we've arrived. This is the\nplace. Erika- sama!"
+                                "\\n< Serena >Phew... we've arrived. This is the place. Erika-\nsama!"
                             ]
                         },
                         {
@@ -5234,7 +5234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >...Huh, what a pointless thing to say.\nIf she's not here, there wouldn't be a\nresponse."
+                                "\\n< Serena >...Huh, what a pointless thing to say. If she's\nnot here, there wouldn't be a response."
                             ]
                         },
                         {
@@ -5449,7 +5449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Erika >Mm- thanks for the hard work\ntransporting supplies. Is it Serena-chan\non supply duty today?"
+                                "\\n< Erika >Mm- thanks for the hard work transporting\nsupplies. Is it Serena-chan on supply duty today?"
                             ]
                         },
                         {
@@ -5570,7 +5570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Erika >Hehe, as lovely as ever, huh? After\ncrawling around in the bushes all day,\nyou look even cuter."
+                                "\\n< Erika >Hehe, as lovely as ever, huh? After crawling\naround in the bushes all day, you look even cuter."
                             ]
                         },
                         {
@@ -5612,7 +5612,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You're quite the warrior yourself,\nErika-sama.\\n< Serena >"
+                                "You're quite the warrior yourself, Erika-sama.\\n< Serena >"
                             ]
                         },
                         {
@@ -5643,7 +5643,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Right? Right? I spent quite a bit of\nmoney on this. It's my pride and joy!\\n< Erika >"
+                                "Right? Right? I spent quite a bit of money on\nthis. It's my pride and joy!\\n< Erika >"
                             ]
                         },
                         {
@@ -5667,7 +5667,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "That outfit... it's the same as the\nother day... Ah, now that I think about\nit, I haven't thanked you for that time\nyet.\\n< Serena >"
+                                "That outfit... it's the same as the other day...\nAh, now that I think about it, I haven't thanked\nyou for that time yet.\\n< Serena >"
                             ]
                         },
                         {
@@ -5722,7 +5722,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "It was during the goblin incident. If it\nweren't for your help, I would have been\nin danger.\\n< Serena >"
+                                "It was during the goblin incident. If it weren't\nfor your help, I would have been in danger.\\n< Serena >"
                             ]
                         },
                         {
@@ -5739,7 +5739,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Let me thank you again. Thank you,\nErika-sama.\\n< Serena >"
+                                "Let me thank you again. Thank you, Erika-sama.\\n< Serena >"
                             ]
                         },
                         {
@@ -5825,7 +5825,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ah- well, it's just... getting thanked\nto my face like that.\\n< Erika >"
+                                "Ah- well, it's just... getting thanked to my face\nlike that.\\n< Erika >"
                             ]
                         },
                         {
@@ -5849,7 +5849,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Makes me blush. Hehehe. Kinda makes my\nneck itch.\\n< Erika >"
+                                "Makes me blush. Hehehe. Kinda makes my neck itch.\\n< Erika >"
                             ]
                         },
                         {
@@ -5914,7 +5914,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serena >You yourself are quite the warrior,\nErika-sama."
+                                "\\n< Serena >You yourself are quite the warrior, Erika-sama."
                             ]
                         },
                         {
@@ -5993,7 +5993,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serena >Considering you usually spend your time\nin town dressed so shamelessly, I\nwondered if you'd be the same in the\nforest."
+                                "\\n< Serena >Considering you usually spend your time in town\ndressed so shamelessly, I wondered if you'd be the\nsame in the forest."
                             ]
                         },
                         {
@@ -6024,7 +6024,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Erika >Hehehe... eh? Did you just say\n'shamelessly'?"
+                                "\\n< Erika >Hehehe... eh? Did you just say 'shamelessly'?"
                             ]
                         },
                         {
@@ -6048,7 +6048,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Erika >Well, even I know better than to go into\nthe forest without proper gear."
+                                "\\n< Erika >Well, even I know better than to go into the\nforest without proper gear."
                             ]
                         },
                         {
@@ -6072,7 +6072,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Erika >Of course for battle, but also because\nyou can't just go trudging through the\nunderbrush with bare skin."
+                                "\\n< Erika >Of course for battle, but also because you can't\njust go trudging through the underbrush with bare\nskin."
                             ]
                         },
                         {
@@ -6134,7 +6134,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Erika >That's right! Though it's also for\nintimidation... or design... not just\npurely practical."
+                                "\\n< Erika >That's right! Though it's also for intimidation...\nor design... not just purely practical."
                             ]
                         },
                         {
@@ -6165,7 +6165,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serena >Sigh... I thought maybe you'd be serious\nfor once... but you never change."
+                                "\\n< Serena >Sigh... I thought maybe you'd be serious for\nonce... but you never change."
                             ]
                         },
                         {
@@ -6196,7 +6196,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Erika >Laughter is life's best companion, after\nall."
+                                "\\n< Erika >Laughter is life's best companion, after all."
                             ]
                         },
                         {
@@ -6372,7 +6372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Erika >Sooo, you brought food and supplies,\nright?"
+                                "\\n< Erika >Sooo, you brought food and supplies, right?"
                             ]
                         },
                         {
@@ -6473,7 +6473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Erika >Yippee! That's what I'm talking about!\nFood, and..."
+                                "\\n< Erika >Yippee! That's what I'm talking about! Food,\nand..."
                             ]
                         },
                         {
@@ -6535,7 +6535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Erika >Hmm-? No no no... that's not quite\nright..."
+                                "\\n< Erika >Hmm-? No no no... that's not quite right..."
                             ]
                         },
                         {
@@ -6569,7 +6569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's a device packed with gunpowder and\nmagic inside a metal shell. It's the\nlatest in military weaponry.\\n< Erika >"
+                                "It's a device packed with gunpowder and magic\ninside a metal shell. It's the latest in military\nweaponry.\\n< Erika >"
                             ]
                         },
                         {
@@ -6593,7 +6593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "To be precise, it's a compact version.\nWith this, we'll blow that Minotaur to\nsmithereens.\\n< Erika >"
+                                "To be precise, it's a compact version. With this,\nwe'll blow that Minotaur to smithereens.\\n< Erika >"
                             ]
                         },
                         {
@@ -6617,7 +6617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It was a real pain to get my hands on\none personally... It cost a lot of money\nand connections... but it finally\narrived.\\n< Erika >"
+                                "It was a real pain to get my hands on one\npersonally... It cost a lot of money and\nconnections... but it finally arrived.\\n< Erika >"
                             ]
                         },
                         {
@@ -6648,7 +6648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Is our opponent so formidable that we\nneed military-grade weapons? This\nMinotaur monster..."
+                                "\\n< Serena >Is our opponent so formidable that we need\nmilitary-grade weapons? This Minotaur monster..."
                             ]
                         },
                         {
@@ -6679,7 +6679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Erika >Well... it's always best to be prepared,\nright?"
+                                "\\n< Erika >Well... it's always best to be prepared, right?"
                             ]
                         },
                         {
@@ -6703,7 +6703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Erika >After all, it's a big catch. You've got\nto have at least one ace up your sleeve."
+                                "\\n< Erika >After all, it's a big catch. You've got to have at\nleast one ace up your sleeve."
                             ]
                         },
                         {
@@ -6744,7 +6744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Erika >I miscalculated my supplies. I've been\nwithout a meal since yesterday. Been\nnibbling on some unknown mushrooms to\nstave off hunger."
+                                "\\n< Erika >I miscalculated my supplies. I've been without a\nmeal since yesterday. Been nibbling on some\nunknown mushrooms to stave off hunger."
                             ]
                         },
                         {
@@ -6775,7 +6775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >...There's being careless, and then\nthere's you..."
+                                "\\n< Serena >...There's being careless, and then there's you..."
                             ]
                         },
                         {
@@ -6896,7 +6896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mmmh, I smell it, I smell it. The nice\nscent of fresh bread is coming from\naround here.\\n< Erika >"
+                                "Mmmh, I smell it, I smell it. The nice scent of\nfresh bread is coming from around here.\\n< Erika >"
                             ]
                         },
                         {
@@ -6913,7 +6913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Alright! Then today, it's lunchtime with\nSerena!\\n< Erika >"
+                                "Alright! Then today, it's lunchtime with Serena!\\n< Erika >"
                             ]
                         },
                         {
@@ -6975,7 +6975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I have no idea what you're so pleased\nabout. I was planning to head back home.\\n< Serena >"
+                                "I have no idea what you're so pleased about. I was\nplanning to head back home.\\n< Serena >"
                             ]
                         },
                         {
@@ -6992,7 +6992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If I hurry now, I can make it back to\ntown before noon.\\n< Serena >"
+                                "If I hurry now, I can make it back to town before\nnoon.\\n< Serena >"
                             ]
                         },
                         {
@@ -7064,7 +7064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Erika >Well, if that's the case, there's a\nshortcut. I'll show you the way."
+                                "\\n< Erika >Well, if that's the case, there's a shortcut. I'll\nshow you the way."
                             ]
                         },
                         {
@@ -7157,7 +7157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >So that's your scheme... Well, I don't\nmind that much..."
+                                "\\n< Serena >So that's your scheme... Well, I don't mind that\nmuch..."
                             ]
                         },
                         {

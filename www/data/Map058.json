@@ -2628,7 +2628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Obsidian Armor? It looks beautiful, but\nI wonder about its practicality.\\n< Serena >"
+                                "Obsidian Armor? It looks beautiful, but I wonder\nabout its practicality.\\n< Serena >"
                             ]
                         },
                         {
@@ -2757,7 +2757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Just a typical plate armor. The\nshockwaves from Sonic Fist can easily\npenetrate it.\\n< Serena >"
+                                "Just a typical plate armor. The shockwaves from\nSonic Fist can easily penetrate it.\\n< Serena >"
                             ]
                         },
                         {
@@ -2886,7 +2886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There are vertical grooves etched all\nover it. I don't know what the grooves\nare for, but the craftsmanship is\nincredibly intricate.\\n< Serena >"
+                                "There are vertical grooves etched all over it. I\ndon't know what the grooves are for, but the\ncraftsmanship is incredibly intricate.\\n< Serena >"
                             ]
                         },
                         {
@@ -3015,7 +3015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "With ostentatious horns attached to it.\nIt might not be considered in good\ntaste, but surely there's a demand for\nthis sort of thing.\\n< Serena >"
+                                "With ostentatious horns attached to it. It might\nnot be considered in good taste, but surely\nthere's a demand for this sort of thing.\\n< Serena >"
                             ]
                         },
                         {
@@ -3144,7 +3144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Now that I think about it, I've never\nactually seen anyone wearing one.\nHmm...?\\n< Serena >"
+                                "Now that I think about it, I've never actually\nseen anyone wearing one. Hmm...?\\n< Serena >"
                             ]
                         },
                         {
@@ -3273,7 +3273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Though it's called short, it's not\nnecessarily small. It's too heavy for me\nto handle properly.\\n< Serena >"
+                                "Though it's called short, it's not necessarily\nsmall. It's too heavy for me to handle properly.\\n< Serena >"
                             ]
                         },
                         {
@@ -3402,7 +3402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hmm, hmm. Oh? It seems all the armor in\nthis shop can deflect these arrows.\\n< Serena >"
+                                "Hmm, hmm. Oh? It seems all the armor in this shop\ncan deflect these arrows.\\n< Serena >"
                             ]
                         },
                         {
@@ -3419,7 +3419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If that's true, it's quite something. I\nwonder if anyone has tried it out.\\n< Serena >"
+                                "If that's true, it's quite something. I wonder if\nanyone has tried it out.\\n< Serena >"
                             ]
                         },
                         {
@@ -3548,7 +3548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The face and ear areas are made with\nlarge openings. It seems designed to\nprioritize not hindering sight and\nhearing over defense.\\n< Serena >"
+                                "The face and ear areas are made with large\nopenings. It seems designed to prioritize not\nhindering sight and hearing over defense.\\n< Serena >"
                             ]
                         },
                         {
@@ -3677,7 +3677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Is it for combat... Fighting monsters\nwith this seems like it would be quite a\ngruesome sight.\\n< Serena >"
+                                "Is it for combat... Fighting monsters with this\nseems like it would be quite a gruesome sight.\\n< Serena >"
                             ]
                         },
                         {
@@ -3823,7 +3823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Apparently, you need permission to\npossess it, and carrying it around town\nis illegal. Then why are they selling\nit?\\n< Serena >"
+                                "Apparently, you need permission to possess it, and\ncarrying it around town is illegal. Then why are\nthey selling it?\\n< Serena >"
                             ]
                         },
                         {
@@ -3952,7 +3952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Primarily a weapon for warfare. It's\ndifficult to fight with a spear since\nmonsters are in forests and caves.\\n< Serena >"
+                                "Primarily a weapon for warfare. It's difficult to\nfight with a spear since monsters are in forests\nand caves.\\n< Serena >"
                             ]
                         },
                         {
@@ -4081,7 +4081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Just an ordinary box. It's bound to lead\nan unremarkable box life.\\n< Serena >"
+                                "Just an ordinary box. It's bound to lead an\nunremarkable box life.\\n< Serena >"
                             ]
                         },
                         {
@@ -4299,7 +4299,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "You're ordering a full set of maternity\narmor custom-made!?\\n< Armory Shopkeeper >"
+                                "You're ordering a full set of maternity armor\ncustom-made!?\\n< Armory Shopkeeper>"
                             ]
                         },
                         {
@@ -4316,7 +4316,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "It's good to be prepared, but that seems\na bit premature!\\n< Armory Shopkeeper >"
+                                "It's good to be prepared, but that seems a bit\npremature!\\n< Armory Shopkeeper>"
                             ]
                         },
                         {
@@ -4371,7 +4371,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ancient warriors apparently used to\nbattle almost naked like that!\\n< Armory Shopkeeper >"
+                                "Ancient warriors apparently used to battle almost\nnaked like that!\\n< Armory Shopkeeper>"
                             ]
                         },
                         {
@@ -4437,7 +4437,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "If you want to increase your exposure, I\nrecommend the old-fashioned bikini\narmor!\\n< Armory Shopkeeper >"
+                                "If you want to increase your exposure, I recommend\nthe old-fashioned bikini armor!\\n< Armory Shopkeeper>"
                             ]
                         },
                         {
@@ -4454,7 +4454,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Prioritizing safety tends to result in a\nplain look! That's why it's hard to make\na name for yourself!\\n< Armory Shopkeeper >"
+                                "Prioritizing safety tends to result in a plain\nlook! That's why it's hard to make a name for\nyourself!\\n< Armory Shopkeeper>"
                             ]
                         },
                         {
@@ -4530,7 +4530,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "If you place an order, I can prepare\narmor for pregnant women too!\\n< Armory Shopkeeper >"
+                                "If you place an order, I can prepare armor for\npregnant women too!\\n< Armory Shopkeeper>"
                             ]
                         },
                         {
@@ -4547,7 +4547,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Lately, there's been an increase in\nadventurers willing to fight with a\nbelly bump. They're really determined!\\n< Armory Shopkeeper >"
+                                "Lately, there's been an increase in adventurers\nwilling to fight with a belly bump. They're really\ndetermined!\\n< Armory Shopkeeper>"
                             ]
                         },
                         {
@@ -4581,7 +4581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Welcome! Feel free to look at anything!\\n< Armory Shopkeeper >"
+                                "Welcome! Feel free to look at anything!\\n< Armory Shopkeeper>"
                             ]
                         },
                         {
@@ -4598,7 +4598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Though, it's pointless to say this to a\nchild.\\n< Armory Shopkeeper >"
+                                "Though, it's pointless to say this to a child.\\n< Armory Shopkeeper>"
                             ]
                         },
                         {
@@ -4629,7 +4629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'd like to take a look at some rings...\nDo you handle those here?\\n< Serena >"
+                                "I'd like to take a look at some rings... Do you\nhandle those here?\\n< Serena >"
                             ]
                         },
                         {
@@ -4653,7 +4653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sorry about that. We specialize in cut\nand thrust weapons and armor. We don't\ndeal in jewelry.\\n< Armory Shopkeeper >"
+                                "Sorry about that. We specialize in cut and thrust\nweapons and armor. We don't deal in jewelry.\\n< Armory Shopkeeper>"
                             ]
                         },
                         {
@@ -4677,7 +4677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I see... My apologies. In that case,\nI'll come back another time.\\n< Serena >"
+                                "I see... My apologies. In that case, I'll come\nback another time.\\n< Serena >"
                             ]
                         },
                         {
@@ -4701,7 +4701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sure thing.\\n< Armory Shopkeeper >"
+                                "Sure thing.\\n< Armory Shopkeeper>"
                             ]
                         },
                         {
@@ -4917,7 +4917,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Ordering a full set of maternity armor\ncustom- made, are you?\\n< Armory Shopkeeper >"
+                                "Ordering a full set of maternity armor custom-\nmade, are you?\\n< Armory Shopkeeper>"
                             ]
                         },
                         {
@@ -4934,7 +4934,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "It's good to be prepared, but isn't it a\nbit too early for that?\\n< Armory Shopkeeper >"
+                                "It's good to be prepared, but isn't it a bit too\nearly for that?\\n< Armory Shopkeeper>"
                             ]
                         },
                         {
@@ -5014,7 +5014,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ancient warriors used to battle almost\nnaked, or so I've heard!\\n< Armory Shopkeeper >"
+                                "Ancient warriors used to battle almost naked, or\nso I've heard!\\n< Armory Shopkeeper>"
                             ]
                         },
                         {
@@ -5202,7 +5202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Excuse me? I saw the job posting\noutside.\\n< Serena >"
+                                "Excuse me? I saw the job posting outside.\\n< Serena >"
                             ]
                         },
                         {
@@ -5227,7 +5227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh? Hmm...\\n< Weapon Shopkeeper >"
+                                "Oh? Hmm...\\n< Weapon Shopkeeper>"
                             ]
                         },
                         {
@@ -5269,7 +5269,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...Please don't stare so much. I'm aware\nthat I'm dressed oddly.\\n< Serena >"
+                                "...Please don't stare so much. I'm aware that I'm\ndressed oddly.\\n< Serena >"
                             ]
                         },
                         {
@@ -5293,7 +5293,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Asking me not to look is a bit\nunreasonable, don't you think? With your\nage, that face, and the way your belly\nsticks out...\\n< Weapon Shopkeeper >"
+                                "Asking me not to look is a bit unreasonable, don't\nyou think? With your age, that face, and the way\nyour belly sticks out...\\n< Weapon Shopkeeper>"
                             ]
                         },
                         {
@@ -5310,7 +5310,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "So, what does a pregnant lady like you\nwant with our shop?\\n< Weapon Shopkeeper >"
+                                "So, what does a pregnant lady like you want with\nour shop?\\n< Weapon Shopkeeper>"
                             ]
                         },
                         {
@@ -5341,7 +5341,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "That's why I came. You're looking for\nworkers, aren't you?\\n< Serena >"
+                                "That's why I came. You're looking for workers,\naren't you?\\n< Serena >"
                             ]
                         },
                         {
@@ -5365,7 +5365,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ah, yes, yes. I see. It must be hard to\nfind work with that belly of yours.\\n< Weapon Shopkeeper >"
+                                "Ah, yes, yes. I see. It must be hard to find work\nwith that belly of yours.\\n< Weapon Shopkeeper>"
                             ]
                         },
                         {
@@ -5382,7 +5382,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "In that regard, our shop doesn't mind if\nyou're pregnant. In fact, a lady as\nnoticeable as you is just what we need.\\n< Weapon Shopkeeper >"
+                                "In that regard, our shop doesn't mind if you're\npregnant. In fact, a lady as noticeable as you is\njust what we need.\\n< Weapon Shopkeeper>"
                             ]
                         },
                         {
@@ -5430,7 +5430,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "That means you're hired. Can you start\nworking right now?\\n< Weapon Shopkeeper >"
+                                "That means you're hired. Can you start working\nright now?\\n< Weapon Shopkeeper>"
                             ]
                         },
                         {
@@ -5454,7 +5454,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Oh, I'm grateful... but to start\nimmediately is quite sudden...\\n< Serena >"
+                                "Oh, I'm grateful... but to start immediately is\nquite sudden...\\n< Serena >"
                             ]
                         },
                         {
@@ -5514,7 +5514,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "No, it's just that someone perfect came\nalong. You're a 100 points. No, 180\npoints in looks.\\n< Weapon Shopkeeper >"
+                                "No, it's just that someone perfect came along.\nYou're a 100 points. No, 180 points in looks.\\n< Weapon Shopkeeper>"
                             ]
                         },
                         {
@@ -5540,7 +5540,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "The only flaw is that Orcish toilet mark\nyou've got there.\\n< Weapon Shopkeeper >"
+                                "The only flaw is that Orcish toilet mark you've\ngot there.\\n< Weapon Shopkeeper>"
                             ]
                         },
                         {
@@ -5634,7 +5634,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You want to work here, right? Great. Can\nyou start right now?\\n< Weapon Shopkeeper >"
+                                "You want to work here, right? Great. Can you start\nright now?\\n< Weapon Shopkeeper>"
                             ]
                         },
                         {
@@ -5694,7 +5694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You want to earn money, don't you? Then\nthe sooner we talk, the better.\\n< Weapon Shopkeeper >"
+                                "You want to earn money, don't you? Then the sooner\nwe talk, the better.\\n< Weapon Shopkeeper>"
                             ]
                         },
                         {
@@ -5750,7 +5750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No... you're right. I need money as soon\nas possible, and as much as I can get.\\n< Serena >"
+                                "No... you're right. I need money as soon as\npossible, and as much as I can get.\\n< Serena >"
                             ]
                         },
                         {
@@ -5792,7 +5792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's the spirit. The name's Donny.\nNice to meet you.\\n< Weapon Shopkeeper >"
+                                "That's the spirit. The name's Donny. Nice to meet\nyou.\\n< Weapon Shopkeeper>"
                             ]
                         },
                         {
@@ -5816,7 +5816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "My name is Serena. What exactly should I\ndo?\\n< Serena >"
+                                "My name is Serena. What exactly should I do?\\n< Serena >"
                             ]
                         },
                         {
@@ -6105,7 +6105,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Oh my, oh my! Strutting around naked\nwith a pregnant belly exposed, what kind\nof outfit is that to come into the shop\nwith?\\n< Donny >"
+                                "Oh my, oh my! Strutting around naked with a\npregnant belly exposed, what kind of outfit is\nthat to come into the shop with?\\n< Donny >"
                             ]
                         },
                         {
@@ -6122,7 +6122,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "That armor should fit even with that\nbelly, and it'll definitely be a talking\npoint... Or maybe you could even work\nwithout wearing the armor, huh?\\n< Donny >"
+                                "That armor should fit even with that belly, and\nit'll definitely be a talking point... Or maybe\nyou could even work without wearing the armor,\nhuh?\\n< Donny >"
                             ]
                         },
                         {
@@ -6202,7 +6202,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Dressing all lewd... Have you gotten\nused to working in that getup?\\n< Donny >"
+                                "Dressing all lewd... Have you gotten used to\nworking in that getup?\\n< Donny >"
                             ]
                         },
                         {
@@ -6385,7 +6385,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Oh, if it isn't Serena. Come back to\nwork again, eh!\\n< Donny >"
+                                "Oh, if it isn't Serena. Come back to work again,\neh!\\n< Donny >"
                             ]
                         },
                         {
@@ -6475,7 +6475,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Oh, if it isn't Serena. You here to\nwork?\\n< Donny >"
+                                "Oh, if it isn't Serena. You here to work?\\n< Donny >"
                             ]
                         },
                         {
@@ -6657,7 +6657,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Well... about that, the promotional\narmor. Is there no way I could wear\nsomething over it?\\n< Serena >"
+                                "Well... about that, the promotional armor. Is\nthere no way I could wear something over it?\\n< Serena >"
                             ]
                         },
                         {
@@ -6705,7 +6705,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "That outfit, it's almost like being\nnaked. I can't properly promote anything\nlike that...\\n< Serena >"
+                                "That outfit, it's almost like being naked. I can't\nproperly promote anything like that...\\n< Serena >"
                             ]
                         },
                         {
@@ -6729,7 +6729,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "If I could wear a cape or something over\nit, I think I could do a better job...\\n< Serena >"
+                                "If I could wear a cape or something over it, I\nthink I could do a better job...\\n< Serena >"
                             ]
                         },
                         {
@@ -6753,7 +6753,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "You're joking, right?! The whole point\nis 'that outfit'!\\n< Donny >"
+                                "You're joking, right?! The whole point is 'that\noutfit'!\\n< Donny >"
                             ]
                         },
                         {
@@ -6770,7 +6770,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "If you're gonna cover it up, there's no\npoint in hiring you! Now hurry up and\nget changed!\\n< Donny >"
+                                "If you're gonna cover it up, there's no point in\nhiring you! Now hurry up and get changed!\\n< Donny >"
                             ]
                         },
                         {
@@ -6825,7 +6825,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "I understand... I need the money...\ndesperately...\\n< Serena >"
+                                "I understand... I need the money... desperately...\\n< Serena >"
                             ]
                         },
                         {
@@ -6965,7 +6965,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Sigh... It's been one disaster after\nanother since coming to this town.\\n< Serena >"
+                                "Sigh... It's been one disaster after another since\ncoming to this town.\\n< Serena >"
                             ]
                         },
                         {
@@ -6989,7 +6989,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Or is this just what civilian life is\nlike? Was I just sheltered before...\\n< Serena >"
+                                "Or is this just what civilian life is like? Was I\njust sheltered before...\\n< Serena >"
                             ]
                         },
                         {
@@ -7013,7 +7013,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "If that's the case, what I should do in\nthe future is... improve the lives of\nthe people, even if just a little. Isn't\nthat what nobility is supposed to be\nabout...\\n< Serena >"
+                                "If that's the case, what I should do in the future\nis... improve the lives of the people, even if\njust a little. Isn't that what nobility is\nsupposed to be about...\\n< Serena >"
                             ]
                         },
                         {
@@ -7240,7 +7240,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "It's still strange to undress in a place\nlike this. Even knowing there's no one\naround, I can't help but check my\nsurroundings.\\n< Serena >"
+                                "It's still strange to undress in a place like\nthis. Even knowing there's no one around, I can't\nhelp but check my surroundings.\\n< Serena >"
                             ]
                         },
                         {
@@ -7769,7 +7769,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Ugh, this is essentially the same as\nunderwear. Without wearing anything\nunderneath...\\n< Serena >"
+                                "Ugh, this is essentially the same as underwear.\nWithout wearing anything underneath...\\n< Serena >"
                             ]
                         },
                         {
@@ -7793,7 +7793,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Now that I think about it, Erika-sama\nalso wore an outfit like this. Does that\nmean this is 'normal'?\\n< Serena >"
+                                "Now that I think about it, Erika-sama also wore an\noutfit like this. Does that mean this is 'normal'?\\n< Serena >"
                             ]
                         },
                         {
@@ -7817,7 +7817,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "I must understand what 'normal' is. In\nthat sense... perhaps there is meaning\nin my time in this town and even in this\nindecent job... I'd like to think so...\\n< Serena >"
+                                "I must understand what 'normal' is. In that\nsense... perhaps there is meaning in my time in\nthis town and even in this indecent job... I'd\nlike to think so...\\n< Serena >"
                             ]
                         },
                         {
@@ -8281,7 +8281,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Oi, looking good there. Today too, I'm\ncounting on you to attract customers!\\n< Donny >"
+                                "Oi, looking good there. Today too, I'm counting on\nyou to attract customers!\\n< Donny >"
                             ]
                         },
                         {
@@ -9976,7 +9976,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Alright. I'm not keen on it, but today\nas well...\\n< Serena >"
+                                "Alright. I'm not keen on it, but today as well...\\n< Serena >"
                             ]
                         },
                         {
@@ -10151,7 +10151,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "No, first of all, it's rude. It's good\nthat I just finished changing, but...\\n< Serena >"
+                                "No, first of all, it's rude. It's good that I just\nfinished changing, but...\\n< Serena >"
                             ]
                         },
                         {
@@ -10230,7 +10230,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "I waited until you were done changing.\nI've been watching the whole time.\\n< Donny >"
+                                "I waited until you were done changing. I've been\nwatching the whole time.\\n< Donny >"
                             ]
                         },
                         {
@@ -10309,7 +10309,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Missy, you were walking naked through\nthe street the other day, weren't you?\\n< Donny >"
+                                "Missy, you were walking naked through the street\nthe other day, weren't you?\\n< Donny >"
                             ]
                         },
                         {
@@ -10427,7 +10427,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "I was surprised. For someone who usually\nacts so modest and shy. To think you had\nsuch a hobby...\\n< Donny >"
+                                "I was surprised. For someone who usually acts so\nmodest and shy. To think you had such a hobby...\\n< Donny >"
                             ]
                         },
                         {
@@ -10519,7 +10519,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Who would want to do such a thing\nwillingly! I just somehow managed to\nescape and desperately...!\\n< Serena >"
+                                "Who would want to do such a thing willingly! I\njust somehow managed to escape and desperately...!\\n< Serena >"
                             ]
                         },
                         {
@@ -10543,7 +10543,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "If you saw it, if you live in this town,\nthen you should understand! That was\nbecause of a monster...\\n< Serena >"
+                                "If you saw it, if you live in this town, then you\nshould understand! That was because of a\nmonster...\\n< Serena >"
                             ]
                         },
                         {
@@ -10567,7 +10567,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Ahh, you got played with as much as they\nwanted? A tainted woman, that's what you\nare.\\n< Donny >"
+                                "Ahh, you got played with as much as they wanted? A\ntainted woman, that's what you are.\\n< Donny >"
                             ]
                         },
                         {
@@ -10615,7 +10615,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Then, there's no need for me to hold\nback anymore, right?\\n< Donny >"
+                                "Then, there's no need for me to hold back anymore,\nright?\\n< Donny >"
                             ]
                         },
                         {
@@ -10990,7 +10990,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "The monster must've dug you out, huh? My\ncock just slides right in.\\n< Donny >"
+                                "The monster must've dug you out, huh? My cock just\nslides right in.\\n< Donny >"
                             ]
                         },
                         {
@@ -11071,7 +11071,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Here, I'll put it in even deeper. Was it\nrubbed here? How about here? Huh?\\n< Donny >"
+                                "Here, I'll put it in even deeper. Was it rubbed\nhere? How about here? Huh?\\n< Donny >"
                             ]
                         },
                         {
@@ -11218,7 +11218,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "What's wrong? You're used to it, aren't\nyou? You got plenty of love, didn't you?\\n< Donny >"
+                                "What's wrong? You're used to it, aren't you? You\ngot plenty of love, didn't you?\\n< Donny >"
                             ]
                         },
                         {
@@ -11235,7 +11235,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Tell me. What did you get done by the\nother day?\\n< Donny >"
+                                "Tell me. What did you get done by the other day?\\n< Donny >"
                             ]
                         },
                         {
@@ -11476,7 +11476,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "The other day... it was... goblins...\nfailed a request...!\\n< Serena >"
+                                "The other day... it was... goblins... failed a\nrequest...!\\n< Serena >"
                             ]
                         },
                         {
@@ -11500,7 +11500,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Goblins? You lost to those weaklings?\nWhy, with your high and mighty attitude,\nyou're just a pathetic adventurer after\nall.\\n< Donny >"
+                                "Goblins? You lost to those weaklings? Why, with\nyour high and mighty attitude, you're just a\npathetic adventurer after all.\\n< Donny >"
                             ]
                         },
                         {
@@ -11528,7 +11528,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "Has this pussy become loose because it\nwas fucked by goblins so much? How many\nhundreds of times were you fucked, huh?\\n< Donny >"
+                                "Has this pussy become loose because it was fucked\nby goblins so much? How many hundreds of times\nwere you fucked, huh?\\n< Donny >"
                             ]
                         },
                         {
@@ -11555,7 +11555,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "For a pussy that's been fucked by such\nfilthy weaklings, it's still pretty. No\nwonder the goblins were obsessed!\\n< Donny >"
+                                "For a pussy that's been fucked by such filthy\nweaklings, it's still pretty. No wonder the\ngoblins were obsessed!\\n< Donny >"
                             ]
                         },
                         {
@@ -11696,7 +11696,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "The other day... it was... wargs...! I\nfailed a request...!\\n< Serena >"
+                                "The other day... it was... wargs...! I failed a\nrequest...!\\n< Serena >"
                             ]
                         },
                         {
@@ -11720,7 +11720,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "Hehehe! You mean those dog bastards! So\nyou were fucked hard from behind like an\nanimal, huh?\\n< Donny >"
+                                "Hehehe! You mean those dog bastards! So you were\nfucked hard from behind like an animal, huh?\\n< Donny >"
                             ]
                         },
                         {
@@ -11748,7 +11748,7 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "This little girl's pussy is so loose, it\nmust be true that dicks get knobs on\nthem. I'm learning something here!\\n< Donny >"
+                                "This little girl's pussy is so loose, it must be\ntrue that dicks get knobs on them. I'm learning\nsomething here!\\n< Donny >"
                             ]
                         },
                         {
@@ -11775,7 +11775,7 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "Even though it's a tight little girl's\npussy, you've already experienced dog\ndick. What a perverted little bitch!\\n< Donny >"
+                                "Even though it's a tight little girl's pussy,\nyou've already experienced dog dick. What a\nperverted little bitch!\\n< Donny >"
                             ]
                         },
                         {
@@ -11916,7 +11916,7 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "The other day... it was... ropers...! I\nfailed a request...!\\n< Serena >"
+                                "The other day... it was... ropers...! I failed a\nrequest...!\\n< Serena >"
                             ]
                         },
                         {
@@ -11940,7 +11940,7 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "Ropers!? You lost to those disgusting\ntentacle monsters? You got fucked by\nsuch creepy creatures?\\n< Donny >"
+                                "Ropers!? You lost to those disgusting tentacle\nmonsters? You got fucked by such creepy creatures?\\n< Donny >"
                             ]
                         },
                         {
@@ -11968,7 +11968,7 @@
                             "code": 401,
                             "indent": 8,
                             "parameters": [
-                                "Did this small girl's pussy get so loose\nfrom sucking in tentacles? What about\nit, huh? Say something, pervert!\\n< Donny >"
+                                "Did this small girl's pussy get so loose from\nsucking in tentacles? What about it, huh? Say\nsomething, pervert!\\n< Donny >"
                             ]
                         },
                         {
@@ -11995,7 +11995,7 @@
                             "code": 401,
                             "indent": 8,
                             "parameters": [
-                                "With this pretty little pussy, how many\ndisgusting tentacles did you suck in? If\nyou can't say it, maybe I should\nexperience it with my dick, hmm?\\n< Donny >"
+                                "With this pretty little pussy, how many disgusting\ntentacles did you suck in? If you can't say it,\nmaybe I should experience it with my dick, hmm?\\n< Donny >"
                             ]
                         },
                         {
@@ -12136,7 +12136,7 @@
                             "code": 401,
                             "indent": 8,
                             "parameters": [
-                                "The other day... it was... pigmen...! I\nfailed a request...!\\n< Serena >"
+                                "The other day... it was... pigmen...! I failed a\nrequest...!\\n< Serena >"
                             ]
                         },
                         {
@@ -12160,7 +12160,7 @@
                             "code": 401,
                             "indent": 8,
                             "parameters": [
-                                "Oh-ho. So it was those pig bastards. I\nheard their dicks are nasty.\\n< Donny >"
+                                "Oh-ho. So it was those pig bastards. I heard their\ndicks are nasty.\\n< Donny >"
                             ]
                         },
                         {
@@ -12188,7 +12188,7 @@
                             "code": 401,
                             "indent": 9,
                             "parameters": [
-                                "If you were used to your heart's content\nby that, no wonder this pussy is so\nloose!\\n< Donny >"
+                                "If you were used to your heart's content by that,\nno wonder this pussy is so loose!\\n< Donny >"
                             ]
                         },
                         {
@@ -12215,7 +12215,7 @@
                             "code": 401,
                             "indent": 9,
                             "parameters": [
-                                "With this tight pussy, you must have\nsucked them off over and over again,\nmaking them feel good. Monster dicks,\nthat is!\\n< Donny >"
+                                "With this tight pussy, you must have sucked them\noff over and over again, making them feel good.\nMonster dicks, that is!\\n< Donny >"
                             ]
                         },
                         {
@@ -12369,7 +12369,7 @@
                             "code": 401,
                             "indent": 8,
                             "parameters": [
-                                "You can't say it because you were messed\nup so badly~?\\n< Donny >"
+                                "You can't say it because you were messed up so\nbadly~?\\n< Donny >"
                             ]
                         },
                         {
@@ -12397,7 +12397,7 @@
                             "code": 401,
                             "indent": 9,
                             "parameters": [
-                                "Well, that makes sense. This pussy is so\nloose. You must have sucked in some\nhideous dicks!\\n< Donny >"
+                                "Well, that makes sense. This pussy is so loose.\nYou must have sucked in some hideous dicks!\\n< Donny >"
                             ]
                         },
                         {
@@ -12424,7 +12424,7 @@
                             "code": 401,
                             "indent": 9,
                             "parameters": [
-                                "I'm dying to know how many monster dicks\nthis small pussy has sucked in to make\nthem feel good, hehe!\\n< Donny >"
+                                "I'm dying to know how many monster dicks this\nsmall pussy has sucked in to make them feel good,\nhehe!\\n< Donny >"
                             ]
                         },
                         {
@@ -12566,7 +12566,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Caught and fucked, eh? And then? Don't\ntell me you gave birth to some brat's\nkid?\\n< Donny >"
+                                "Caught and fucked, eh? And then? Don't tell me you\ngave birth to some brat's kid?\\n< Donny >"
                             ]
                         },
                         {
@@ -12664,7 +12664,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Hahahaha! Please! Hey! What do you think\nthe town, I mean we, are paying your\nguild for?\\n< Donny >"
+                                "Hahahaha! Please! Hey! What do you think the town,\nI mean we, are paying your guild for?\\n< Donny >"
                             ]
                         },
                         {
@@ -12709,7 +12709,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "Is that belly a souvenir from that\ntime~?\\n< Donny >"
+                                "Is that belly a souvenir from that time~?\\n< Donny >"
                             ]
                         },
                         {
@@ -12736,7 +12736,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "Then with the treasure of us humans, I\nshould scrub clean the filth inside you,\nshouldn't I...!\\n< Donny >"
+                                "Then with the treasure of us humans, I should\nscrub clean the filth inside you, shouldn't I...!\\n< Donny >"
                             ]
                         },
                         {
@@ -12827,7 +12827,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Really, what do you think the town, I\nmean we, are paying the guild for?\\n< Donny >"
+                                "Really, what do you think the town, I mean we, are\npaying the guild for?\\n< Donny >"
                             ]
                         },
                         {
@@ -12865,7 +12865,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Instead of exterminating monsters,\nyou're breeding them~!?\\n< Donny >"
+                                "Instead of exterminating monsters, you're breeding\nthem~!?\\n< Donny >"
                             ]
                         },
                         {
@@ -12946,7 +12946,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Well~~... But just between us... it\nhelps me out.\\n< Donny >"
+                                "Well~~... But just between us... it helps me out.\\n< Donny >"
                             ]
                         },
                         {
@@ -12963,7 +12963,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "After all, what we sell here is weapons\nand armor for exterminating monsters.\\n< Donny >"
+                                "After all, what we sell here is weapons and armor\nfor exterminating monsters.\\n< Donny >"
                             ]
                         },
                         {
@@ -12980,7 +12980,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "If the monsters disappear, business is\nover. So I'm grateful to those who\nincrease their numbers.\\n< Donny >"
+                                "If the monsters disappear, business is over. So\nI'm grateful to those who increase their numbers.\\n< Donny >"
                             ]
                         },
                         {
@@ -13061,7 +13061,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Hehe, the brats you abandoned will\nsomeday be killed by an adventurer using\nweapons bought from us, right?\\n< Donny >"
+                                "Hehe, the brats you abandoned will someday be\nkilled by an adventurer using weapons bought from\nus, right?\\n< Donny >"
                             ]
                         },
                         {
@@ -13142,7 +13142,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "So that means, missy, you're helping out\nby attracting customers for us, right?\\n< Donny >"
+                                "So that means, missy, you're helping out by\nattracting customers for us, right?\\n< Donny >"
                             ]
                         },
                         {
@@ -13159,7 +13159,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "A mother, her own children, yeah!\nPuhahaha!\\n< Donny >"
+                                "A mother, her own children, yeah! Puhahaha!\\n< Donny >"
                             ]
                         },
                         {
@@ -13251,7 +13251,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Hahaha! Isn't that pitiful! Taking\nresponsibility, are we!\\n< Donny >"
+                                "Hahaha! Isn't that pitiful! Taking responsibility,\nare we!\\n< Donny >"
                             ]
                         },
                         {
@@ -13268,7 +13268,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "You're the one who made this mess, so\nyou better clean it up!\\n< Donny >"
+                                "You're the one who made this mess, so you better\nclean it up!\\n< Donny >"
                             ]
                         },
                         {
@@ -13295,7 +13295,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "It's not just for the pleasure of those\nguys, you know? Eh?\\n< Donny >"
+                                "It's not just for the pleasure of those guys, you\nknow? Eh?\\n< Donny >"
                             ]
                         },
                         {
@@ -13312,7 +13312,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Monsters have defiled you, leaving your\nfilthy, torn-up pussy...!\\n< Donny >"
+                                "Monsters have defiled you, leaving your filthy,\ntorn-up pussy...!\\n< Donny >"
                             ]
                         },
                         {
@@ -13393,7 +13393,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Well~~... But just between us... it\nhelps me out.\\n< Donny >"
+                                "Well~~... But just between us... it helps me out.\\n< Donny >"
                             ]
                         },
                         {
@@ -13410,7 +13410,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "After all, what we sell here is weapons\nand armor for exterminating monsters.\\n< Donny >"
+                                "After all, what we sell here is weapons and armor\nfor exterminating monsters.\\n< Donny >"
                             ]
                         },
                         {
@@ -13427,7 +13427,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "It's a problem if monsters aren't a\nthreat. So when an adventurer\noccasionally loses, it's perfect\nadvertising for us.\\n< Donny >"
+                                "It's a problem if monsters aren't a threat. So\nwhen an adventurer occasionally loses, it's\nperfect advertising for us.\\n< Donny >"
                             ]
                         },
                         {
@@ -13525,7 +13525,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "The way you lost to the monsters, naked,\nwith semen dripping from your pussy,\ncrying and walking down the street.\\n< Donny >"
+                                "The way you lost to the monsters, naked, with\nsemen dripping from your pussy, crying and walking\ndown the street.\\n< Donny >"
                             ]
                         },
                         {
@@ -13542,7 +13542,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Everyone was saying it. \"How pitiful,\nhow pitiful. So shameful, so\nembarrassing... \"I don't want to end up\nlike that!\"\\n< Donny >"
+                                "Everyone was saying it. \"How pitiful, how pitiful.\nSo shameful, so embarrassing... \"I don't want to\nend up like that!\"\\n< Donny >"
                             ]
                         },
                         {
@@ -13623,7 +13623,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Thanks to you, huh! Our orders\nincreased. Everyone's sense of crisis\nwas renewed...!\\n< Donny >"
+                                "Thanks to you, huh! Our orders increased.\nEveryone's sense of crisis was renewed...!\\n< Donny >"
                             ]
                         },
                         {
@@ -13640,7 +13640,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "You must be happy too, right? Those\nweapons that sold are, of course, used\nto kill monsters.\\n< Donny >"
+                                "You must be happy too, right? Those weapons that\nsold are, of course, used to kill monsters.\\n< Donny >"
                             ]
                         },
                         {
@@ -13657,7 +13657,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "That means eventually, someone will take\ndown the dick that defiled you!\\n< Donny >"
+                                "That means eventually, someone will take down the\ndick that defiled you!\\n< Donny >"
                             ]
                         },
                         {
@@ -13674,7 +13674,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "As expected of adventurers! They don't\njust fall down and stay down!\\n< Donny >"
+                                "As expected of adventurers! They don't just fall\ndown and stay down!\\n< Donny >"
                             ]
                         },
                         {
@@ -13691,7 +13691,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Spread your pussy wide and achieve your\nrevenge! It was worth feeling miserable!\\n< Donny >"
+                                "Spread your pussy wide and achieve your revenge!\nIt was worth feeling miserable!\\n< Donny >"
                             ]
                         },
                         {
@@ -13815,7 +13815,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Heh heh, I thought I'd help you out a\nlittle bit too...! Haah...! Haah...!\\n< Donny >"
+                                "Heh heh, I thought I'd help you out a little bit\ntoo...! Haah...! Haah...!\\n< Donny >"
                             ]
                         },
                         {
@@ -13832,7 +13832,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "But there's already a previous customer,\nisn't there...! The contents are human,\nright? This?\\n< Donny >"
+                                "But there's already a previous customer, isn't\nthere...! The contents are human, right? This?\\n< Donny >"
                             ]
                         },
                         {
@@ -13913,7 +13913,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "I'm saying I'll give you some\nnutrition...! For the kid inside your\nbelly...!\\n< Donny >"
+                                "I'm saying I'll give you some nutrition...! For\nthe kid inside your belly...!\\n< Donny >"
                             ]
                         },
                         {
@@ -14027,7 +14027,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Please...! At least outside...! The baby\nis...!\\n< Serena >"
+                                "Please...! At least outside...! The baby is...!\\n< Serena >"
                             ]
                         },
                         {
@@ -14051,7 +14051,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Heh! After all this thrusting! Even if I\npull out now... Ugh!\\n< Donny >"
+                                "Heh! After all this thrusting! Even if I pull out\nnow... Ugh!\\n< Donny >"
                             ]
                         },
                         {
@@ -14358,7 +14358,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Heh heh heh. The monster's toilet woman.\nI've graced you with clean human semen.\nBe grateful.\\n< Donny >"
+                                "Heh heh heh. The monster's toilet woman. I've\ngraced you with clean human semen. Be grateful.\\n< Donny >"
                             ]
                         },
                         {
@@ -14375,7 +14375,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Your filthy womb is washed a bit now,\nand the kid inside must be happy, right?\\n< Donny >"
+                                "Your filthy womb is washed a bit now, and the kid\ninside must be happy, right?\\n< Donny >"
                             ]
                         },
                         {
@@ -14402,7 +14402,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "I'll help you out too! With your job!\nHaah...! Haah...!\\n< Donny >"
+                                "I'll help you out too! With your job! Haah...!\nHaah...!\\n< Donny >"
                             ]
                         },
                         {
@@ -14430,7 +14430,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "To kill monsters, you need weapons, of\ncourse, but you also need someone to use\nthem!\\n< Donny >"
+                                "To kill monsters, you need weapons, of course, but\nyou also need someone to use them!\\n< Donny >"
                             ]
                         },
                         {
@@ -14474,7 +14474,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "To kill monsters, you need hands! Hmph!\nPeople are needed, right...!\\n< Donny >"
+                                "To kill monsters, you need hands! Hmph! People are\nneeded, right...!\\n< Donny >"
                             ]
                         },
                         {
@@ -14667,7 +14667,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "I don't want to get pregnant...! I don't\nwant to do this anymore!!\\n< Serena >"
+                                "I don't want to get pregnant...! I don't want to\ndo this anymore!!\\n< Serena >"
                             ]
                         },
                         {
@@ -14701,7 +14701,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Don't hold back! Give birth to a healthy\nkiller!\\n< Donny >"
+                                "Don't hold back! Give birth to a healthy killer!\\n< Donny >"
                             ]
                         },
                         {
@@ -15008,7 +15008,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Heh heh heh. Oh, you're truly a\nmonster's cum dumpster. Gulp it down.\nYou're so used to being filled up...!\\n< Donny >"
+                                "Heh heh heh. Oh, you're truly a monster's cum\ndumpster. Gulp it down. You're so used to being\nfilled up...!\\n< Donny >"
                             ]
                         },
                         {
@@ -15025,7 +15025,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Phew... phew. I've let it all out. I've\nfilled you up.\\n< Donny >"
+                                "Phew... phew. I've let it all out. I've filled you\nup.\\n< Donny >"
                             ]
                         },
                         {
@@ -15042,7 +15042,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "I hope the seed takes root, eh? No\nworries about increasing the monster\npopulation while you're pregnant, right?\\n< Donny >"
+                                "I hope the seed takes root, eh? No worries about\nincreasing the monster population while you're\npregnant, right?\\n< Donny >"
                             ]
                         },
                         {
@@ -15059,7 +15059,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Oops, it'd be bad if the one born is a\ngirl. The number of cum dumpsters for\nthose guys would increase, parent and\nchild together.\\n< Donny >"
+                                "Oops, it'd be bad if the one born is a girl. The\nnumber of cum dumpsters for those guys would\nincrease, parent and child together.\\n< Donny >"
                             ]
                         },
                         {
@@ -15076,7 +15076,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Well, that's convenient for my shop! Heh\nheh heh heh!\\n< Donny >"
+                                "Well, that's convenient for my shop! Heh heh heh\nheh!\\n< Donny >"
                             ]
                         },
                         {
@@ -15418,7 +15418,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "What do you mean, what? It's your pay\nfor today. Well, you couldn't work, but\nthat was my decision.\\n< Donny >"
+                                "What do you mean, what? It's your pay for today.\nWell, you couldn't work, but that was my decision.\\n< Donny >"
                             ]
                         },
                         {
@@ -15466,7 +15466,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Oh yeah. If you're upset, feel free to\ncomplain to the city guard. Though I\ndoubt they'd take an adventurer's\ncomplaint seriously.\\n< Donny >"
+                                "Oh yeah. If you're upset, feel free to complain to\nthe city guard. Though I doubt they'd take an\nadventurer's complaint seriously.\\n< Donny >"
                             ]
                         },
                         {
@@ -15514,7 +15514,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "From now on too. Make sure to show your\nface around here often, okay?\\n< Donny >"
+                                "From now on too. Make sure to show your face\naround here often, okay?\\n< Donny >"
                             ]
                         },
                         {
@@ -15531,7 +15531,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "It'd be troublesome if you started\nspreading rumors, right? Or should I say\ntruths? Hehe!\\n< Donny >"
+                                "It'd be troublesome if you started spreading\nrumors, right? Or should I say truths? Hehe!\\n< Donny >"
                             ]
                         },
                         {
@@ -15548,7 +15548,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Don't worry. I'll pay you properly. You\nneed money too, right?\\n< Donny >"
+                                "Don't worry. I'll pay you properly. You need money\ntoo, right?\\n< Donny >"
                             ]
                         },
                         {
@@ -15700,7 +15700,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Haha, saying 'excuse me' after being\nraped doesn't quite fit. Your parents\ntaught you well, huh?\\n< Donny >"
+                                "Haha, saying 'excuse me' after being raped doesn't\nquite fit. Your parents taught you well, huh?\\n< Donny >"
                             ]
                         },
                         {
@@ -15995,7 +15995,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "...I will never come near this shop\nagain. Never...!\\n< Serena >"
+                                "...I will never come near this shop again.\nNever...!\\n< Serena >"
                             ]
                         },
                         {
@@ -16111,7 +16111,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I'm embarrassed, so I'll take another\nopportunity to do so.\\n< Serena >"
+                                "I'm embarrassed, so I'll take another opportunity\nto do so.\\n< Serena >"
                             ]
                         },
                         {
@@ -16391,7 +16391,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Oh my, oh my! Strutting around naked\nwith a pregnant belly exposed, what kind\nof outfit is that to come into the shop\nwith?\\n< Donny >"
+                                "Oh my, oh my! Strutting around naked with a\npregnant belly exposed, what kind of outfit is\nthat to come into the shop with?\\n< Donny >"
                             ]
                         },
                         {
@@ -16408,7 +16408,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "That armor could fit even with that\nbelly, and it'd be quite the talk of the\ntown... Or maybe you'd prefer to work\nwithout wearing any armor at all? Hmmm?\\n< Donny >"
+                                "That armor could fit even with that belly, and\nit'd be quite the talk of the town... Or maybe\nyou'd prefer to work without wearing any armor at\nall? Hmmm?\\n< Donny >"
                             ]
                         },
                         {
@@ -16488,7 +16488,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Dressing all lewd... Have you gotten\nused to working in that getup?\\n< Donny >"
+                                "Dressing all lewd... Have you gotten used to\nworking in that getup?\\n< Donny >"
                             ]
                         },
                         {
@@ -16664,7 +16664,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You can call it a day now. After all,\nour main business is weapons... It's all\nabout balance, balance.\\n< Donny >"
+                                "You can call it a day now. After all, our main\nbusiness is weapons... It's all about balance,\nbalance.\\n< Donny >"
                             ]
                         },
                         {
@@ -16712,7 +16712,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Heheh, good to see you. You're here to\nwork, right?\\n< Donny >"
+                                "Heheh, good to see you. You're here to work,\nright?\\n< Donny >"
                             ]
                         },
                         {
@@ -16811,7 +16811,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Hehehe, you're here to work, aren't\nyou?... That means it's all good, right?\\n< Donny >"
+                                "Hehehe, you're here to work, aren't you?... That\nmeans it's all good, right?\\n< Donny >"
                             ]
                         },
                         {
@@ -16881,7 +16881,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Relax. I'll make sure you earn your keep\nwith your special skills... Just be a\ngood girl and don't resist, like when\nyou were dealing with those monsters.\\n< Donny >"
+                                "Relax. I'll make sure you earn your keep with your\nspecial skills... Just be a good girl and don't\nresist, like when you were dealing with those\nmonsters.\\n< Donny >"
                             ]
                         },
                         {
@@ -17444,7 +17444,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Hehe... It's all for the purpose of\nsex...!\\n< Donny >"
+                                "Hehe... It's all for the purpose of sex...!\\n< Donny >"
                             ]
                         },
                         {
@@ -17858,7 +17858,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Yeah, it's over. I'm satisfied now. You\ncan go.\\n< Donny >"
+                                "Yeah, it's over. I'm satisfied now. You can go.\\n< Donny >"
                             ]
                         },
                         {
@@ -17937,7 +17937,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Huh? What are you trying to take off\nnow?\\n< Donny >"
+                                "Huh? What are you trying to take off now?\\n< Donny >"
                             ]
                         },
                         {
@@ -18009,7 +18009,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "When I said you could go, I meant you\ncould go attract customers.\\n< Donny >"
+                                "When I said you could go, I meant you could go\nattract customers.\\n< Donny >"
                             ]
                         },
                         {
@@ -18101,7 +18101,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Why the dumbfounded look? You came here\nto work for us, didn't you?\\n< Donny >"
+                                "Why the dumbfounded look? You came here to work\nfor us, didn't you?\\n< Donny >"
                             ]
                         },
                         {
@@ -18193,7 +18193,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Just like that. Go call for customers\nwhile carrying my seed inside you.\\n< Donny >"
+                                "Just like that. Go call for customers while\ncarrying my seed inside you.\\n< Donny >"
                             ]
                         },
                         {
@@ -18210,7 +18210,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Looks like we'll have a good number of\ncustomers today, huh?\\n< Donny >"
+                                "Looks like we'll have a good number of customers\ntoday, huh?\\n< Donny >"
                             ]
                         },
                         {
@@ -18589,7 +18589,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Ugh... Uhh... I can feel the stares...\nbeing watched...\\n< Serena >"
+                                "Ugh... Uhh... I can feel the stares... being\nwatched...\\n< Serena >"
                             ]
                         },
                         {
@@ -18613,7 +18613,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Knowing that I'm being watched, and\nstill changing...?\\n< Serena >"
+                                "Knowing that I'm being watched, and still\nchanging...?\\n< Serena >"
                             ]
                         },
                         {
@@ -19497,7 +19497,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Ohh. Good job. This might even be\nsellable.\\n< Donny >"
+                                "Ohh. Good job. This might even be sellable.\\n< Donny >"
                             ]
                         },
                         {
@@ -19611,7 +19611,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Hehehe, then you better work hard\nattracting customers.\\n< Donny >"
+                                "Hehehe, then you better work hard attracting\ncustomers.\\n< Donny >"
                             ]
                         },
                         {
@@ -19628,7 +19628,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "If you don't get any customers, I'll\njust pay you the usual street vendor's\nwage.\\n< Donny >"
+                                "If you don't get any customers, I'll just pay you\nthe usual street vendor's wage.\\n< Donny >"
                             ]
                         },
                         {
@@ -19645,7 +19645,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "So, you gotta work hard to bring in\ncustomers, alright? If you're all meek\nand shy, those kinds of customers won't\ncome flocking.\\n< Donny >"
+                                "So, you gotta work hard to bring in customers,\nalright? If you're all meek and shy, those kinds\nof customers won't come flocking.\\n< Donny >"
                             ]
                         },
                         {
@@ -22826,7 +22826,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "What's the matter, you got something to\nsay? Well, it doesn't really matter.\\n< Donny >"
+                                "What's the matter, you got something to say? Well,\nit doesn't really matter.\\n< Donny >"
                             ]
                         },
                         {
@@ -23717,7 +23717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Good to see you, Serena. Coming here\nmeans you want to work here again,\nright?\\n< Donny >"
+                                "Good to see you, Serena. Coming here means you\nwant to work here again, right?\\n< Donny >"
                             ]
                         },
                         {
@@ -23741,7 +23741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...If it's just for attracting\ncustomers.\\n< Serena >"
+                                "...If it's just for attracting customers.\\n< Serena >"
                             ]
                         },
                         {
@@ -23765,7 +23765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Come on, you know it won't end there.\nIt's more profitable, and it's better\nfor you too, isn't it?\\n< Donny >"
+                                "Come on, you know it won't end there. It's more\nprofitable, and it's better for you too, isn't it?\\n< Donny >"
                             ]
                         },
                         {
@@ -23789,7 +23789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hmph, don't joke with me! Are you\nsuggesting that act is something I would\nwillingly do!?\\n< Serena >"
+                                "Hmph, don't joke with me! Are you suggesting that\nact is something I would willingly do!?\\n< Serena >"
                             ]
                         },
                         {
@@ -23813,7 +23813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What are you talking about? You're\nalready getting screwed by monsters all\nthe time.\\n< Donny >"
+                                "What are you talking about? You're already getting\nscrewed by monsters all the time.\\n< Donny >"
                             ]
                         },
                         {
@@ -23868,7 +23868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You're just a kid who can't even handle\na weapon properly, so know your place.\nYou understand that, which is why you\ncame trotting back here.\\n< Donny >"
+                                "You're just a kid who can't even handle a weapon\nproperly, so know your place. You understand that,\nwhich is why you came trotting back here.\\n< Donny >"
                             ]
                         },
                         {
@@ -23916,7 +23916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well, if you want to work here, you're\nmore than welcome. Of course, come with\nthat intention, alright?\\n< Donny >"
+                                "Well, if you want to work here, you're more than\nwelcome. Of course, come with that intention,\nalright?\\n< Donny >"
                             ]
                         },
                         {
@@ -23933,7 +23933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Either way, whether you go on an\nadventure or work here, getting screwed\nis inevitable. I think it's better to\njust deal with human dicks here, heheh.\\n< Donny >"
+                                "Either way, whether you go on an adventure or work\nhere, getting screwed is inevitable. I think it's\nbetter to just deal with human dicks here, heheh.\\n< Donny >"
                             ]
                         },
                         {

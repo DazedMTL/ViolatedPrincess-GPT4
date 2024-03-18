@@ -5937,7 +5937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Avoid a head-on fight, huh. I see, it\ndoes have an intimidating presence to\nsay the least.\\n< Serena >"
+                                "Avoid a head-on fight, huh. I see, it does have an\nintimidating presence to say the least.\\n< Serena >"
                             ]
                         },
                         {
@@ -5961,7 +5961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >If we leave it be, such monsters will\nswarm the city in droves."
+                                "\\n< Serena >If we leave it be, such monsters will swarm the\ncity in droves."
                             ]
                         },
                         {
@@ -5992,7 +5992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Then, we have no choice but to\nexterminate them here!"
+                                "\\n< Serena >Then, we have no choice but to exterminate them\nhere!"
                             ]
                         },
                         {
@@ -6248,7 +6248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Phew... that was quite tough, but it\nlooks like it's taken care of."
+                                "\\n< Serena >Phew... that was quite tough, but it looks like\nit's taken care of."
                             ]
                         },
                         {
@@ -6272,7 +6272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Just a few of them and they were this\nstrong. I don't even want to think about\nwhat it would be like if there was a\nswarm."
+                                "\\n< Serena >Just a few of them and they were this strong. I\ndon't even want to think about what it would be\nlike if there was a swarm."
                             ]
                         },
                         {
@@ -6296,7 +6296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Anyway, it's resolved. Let's head back\nto report."
+                                "\\n< Serena >Anyway, it's resolved. Let's head back to report."
                             ]
                         },
                         {
@@ -6425,7 +6425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Guild Master >Back already, lass? Looks like you\nhandled it well."
+                                "\\n< Guild Master>Back already, lass? Looks like you handled it\nwell."
                             ]
                         },
                         {
@@ -6449,7 +6449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Indeed, two orcs. I definitely took them\ndown."
+                                "\\n< Serena >Indeed, two orcs. I definitely took them down."
                             ]
                         },
                         {
@@ -6473,7 +6473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Guild Master >Oh, then the ears..."
+                                "\\n< Guild Master>Oh, then the ears..."
                             ]
                         },
                         {
@@ -6521,7 +6521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Guild Master >What? Don't tell me you..."
+                                "\\n< Guild Master>What? Don't tell me you..."
                             ]
                         },
                         {
@@ -6545,7 +6545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Well, since I did defeat them, there\nshouldn't be a problem."
+                                "\\n< Serena >Well, since I did defeat them, there shouldn't be\na problem."
                             ]
                         },
                         {
@@ -6569,7 +6569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Guild Master >Hey hey, we can't confirm the facts\nwithout proof."
+                                "\\n< Guild Master>Hey hey, we can't confirm the facts without proof."
                             ]
                         },
                         {
@@ -6593,7 +6593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Then send someone to check. I don't need\nthe reward this time, so use that to\ncover the expenses."
+                                "\\n< Serena >Then send someone to check. I don't need the\nreward this time, so use that to cover the\nexpenses."
                             ]
                         },
                         {
@@ -6617,7 +6617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Guild Master >...Well, there's no other choice, so\nwe'll handle it that way this time.\nListen here, lass, when you take on a\njob, you do it by the book."
+                                "\\n< Guild Master>...Well, there's no other choice, so we'll handle\nit that way this time. Listen here, lass, when you\ntake on a job, you do it by the book."
                             ]
                         },
                         {
@@ -6634,7 +6634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Guild Master >Exception handling, no matter how you\ntry to cover it up, will always put a\nburden somewhere."
+                                "\\n< Guild Master>Exception handling, no matter how you try to cover\nit up, will always put a burden somewhere."
                             ]
                         },
                         {
@@ -6651,7 +6651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Guild Master >Once you've accepted a job, you're a\nprofessional, lass. Complete the request\nas agreed and make sure to collect your\nreward properly."
+                                "\\n< Guild Master>Once you've accepted a job, you're a professional,\nlass. Complete the request as agreed and make sure\nto collect your reward properly."
                             ]
                         },
                         {
@@ -6723,7 +6723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Guild Master >Tsk... deducting the trouble fee from\nthe reward... This is all the reward for\nthis time."
+                                "\\n< Guild Master>Tsk... deducting the trouble fee from the\nreward... This is all the reward for this time."
                             ]
                         },
                         {
@@ -6790,7 +6790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\V[2501]\\n< Serena > left. Alright,  with this one more case\nis settled."
+                                "\\V[2501]\\n< Serena > left. Alright,  with this one more case is\nsettled."
                             ]
                         },
                         {
@@ -8654,7 +8654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(Me... don't tell me, it, it wants to\neat me!? )\\n< Serena >"
+                                "(Me... don't tell me, it, it wants to eat me!? )\\n< Serena >"
                             ]
                         },
                         {
@@ -8711,7 +8711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I, I don't want this...! Not in a place\nlike this...!\\n< Serena >"
+                                "I, I don't want this...! Not in a place like\nthis...!\\n< Serena >"
                             ]
                         },
                         {
@@ -8994,7 +8994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Aaahhh!? What, wha, what is this!? It's\nslimy and... aahhhhh!?\\n< Serena >"
+                                "Aaahhh!? What, wha, what is this!? It's slimy\nand... aahhhhh!?\\n< Serena >"
                             ]
                         },
                         {
@@ -9080,7 +9080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A tongue!? Licking... where are you...\nyou beast, stop it!!\\n< Serena >"
+                                "A tongue!? Licking... where are you... you beast,\nstop it!!\\n< Serena >"
                             ]
                         },
                         {
@@ -9166,7 +9166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No, NO! I don't want this! I don't want\nthis! It's dirty! It's disgusting!\\n< Serena >"
+                                "No, NO! I don't want this! I don't want this! It's\ndirty! It's disgusting!\\n< Serena >"
                             ]
                         },
                         {
@@ -9223,7 +9223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Damn you! Get off! Get off me! Why is\nthis happening... ughhh! Aaahhh!!\\n< Serena >"
+                                "Damn you! Get off! Get off me! Why is this\nhappening... ughhh! Aaahhh!!\\n< Serena >"
                             ]
                         },
                         {
@@ -9359,7 +9359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Stopped... has it stopped? What is this\nthing...!\\n< Serena >"
+                                "Stopped... has it stopped? What is this thing...!\\n< Serena >"
                             ]
                         },
                         {
@@ -9660,7 +9660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Licking me... is this some kind of taste\ntest? Even so, this is too much...\\n< Serena >"
+                                "Licking me... is this some kind of taste test?\nEven so, this is too much...\\n< Serena >"
                             ]
                         },
                         {
@@ -9916,7 +9916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Something is being pressed against my\nbutt...? What is it? I can't see it?!\\n< Serena >"
+                                "Something is being pressed against my butt...?\nWhat is it? I can't see it?!\\n< Serena >"
                             ]
                         },
                         {
@@ -9933,7 +9933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Something rough and hard... A weapon? A\nstake? Ugh!?\\n< Serena >"
+                                "Something rough and hard... A weapon? A stake?\nUgh!?\\n< Serena >"
                             ]
                         },
                         {
@@ -10054,7 +10054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What are you...! Something is trying to\npenetrate me...!\\n< Serena >"
+                                "What are you...! Something is trying to penetrate\nme...!\\n< Serena >"
                             ]
                         },
                         {
@@ -10175,7 +10175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "My body feels like it's being torn\napart...!\\n< Serena >"
+                                "My body feels like it's being torn apart...!\\n< Serena >"
                             ]
                         },
                         {
@@ -10543,7 +10543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What is this... what's being done to\nme... what do they want... I don't\nunderstand anything...\\n< Serena >"
+                                "What is this... what's being done to me... what do\nthey want... I don't understand anything...\\n< Serena >"
                             ]
                         },
                         {
@@ -11789,7 +11789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There there, are you alright? You're\nsafe now, Serena.\\n< Erika >"
+                                "There there, are you alright? You're safe now,\nSerena.\\n< Erika >"
                             ]
                         },
                         {
@@ -12509,7 +12509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No, I was just wondering if you wanted\nto hug...\\n< Erika >"
+                                "No, I was just wondering if you wanted to hug...\\n< Erika >"
                             ]
                         },
                         {
@@ -12557,7 +12557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You can cry and wail in my arms if you\nwant. I'll comfort you with some pats\nand kind words.\\n< Erika >"
+                                "You can cry and wail in my arms if you want. I'll\ncomfort you with some pats and kind words.\\n< Erika >"
                             ]
                         },
                         {
@@ -12605,7 +12605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Honestly, I had prepared myself for\ndeath. And yet, I couldn't afford to die\nin a place like this.\\n< Serena >"
+                                "Honestly, I had prepared myself for death. And\nyet, I couldn't afford to die in a place like\nthis.\\n< Serena >"
                             ]
                         },
                         {
@@ -12629,7 +12629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Thank you, Erika-sama. You saved me...\ntruly.\\n< Serena >"
+                                "Thank you, Erika-sama. You saved me... truly.\\n< Serena >"
                             ]
                         },
                         {
@@ -12699,7 +12699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well, I've been in a tight spot myself\nbefore. Every time, someone has come to\nmy rescue just like this.\\n< Erika >"
+                                "Well, I've been in a tight spot myself before.\nEvery time, someone has come to my rescue just\nlike this.\\n< Erika >"
                             ]
                         },
                         {
@@ -12716,7 +12716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If you're grateful for today, then\nsomeday, if a fellow adventurer finds\nthemselves in a similar situation, help\nthem out.\\n< Erika >"
+                                "If you're grateful for today, then someday, if a\nfellow adventurer finds themselves in a similar\nsituation, help them out.\\n< Erika >"
                             ]
                         },
                         {
@@ -12788,7 +12788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Before that, I'd like to stop by a water\nsource. Is that alright?\\n< Serena >"
+                                "Before that, I'd like to stop by a water source.\nIs that alright?\\n< Serena >"
                             ]
                         },
                         {
@@ -12812,7 +12812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Something like venom was sprayed on\nme... it's a white, sticky liquid.\\n< Serena >"
+                                "Something like venom was sprayed on me... it's a\nwhite, sticky liquid.\\n< Serena >"
                             ]
                         },
                         {
@@ -12860,7 +12860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Some of it got into my mouth too... It\ndoesn't seem to be fast-acting, but...\\n< Serena >"
+                                "Some of it got into my mouth too... It doesn't\nseem to be fast-acting, but...\\n< Serena >"
                             ]
                         },
                         {
@@ -12932,7 +12932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No, yeah, that's right. You should wash\nit off.\\n< Erika >"
+                                "No, yeah, that's right. You should wash it off.\\n< Erika >"
                             ]
                         },
                         {
@@ -12949,7 +12949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's not poison, but it's filthy. Spit\nit out, spit it out.\\n< Erika >"
+                                "It's not poison, but it's filthy. Spit it out,\nspit it out.\\n< Erika >"
                             ]
                         },
                         {
@@ -12973,7 +12973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I still feel like I'm being treated like\na child...\\n< Serena >"
+                                "I still feel like I'm being treated like a\nchild...\\n< Serena >"
                             ]
                         },
                         {
@@ -13142,7 +13142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Here you go, good work. This is your\nreward.\\n< Guild Master >"
+                                "Here you go, good work. This is your reward.\\n< Guild Master>"
                             ]
                         },
                         {
@@ -13166,7 +13166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...No, haven't you heard the report?\nErika-sama assisted me this time. I was\nmerely helped. Please give this reward\nto Erika-sama.\\n< Serena >"
+                                "...No, haven't you heard the report? Erika-sama\nassisted me this time. I was merely helped. Please\ngive this reward to Erika-sama.\\n< Serena >"
                             ]
                         },
                         {
@@ -13190,7 +13190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "To the guild, it doesn't really matter\neither way. The request was completed\neither way. So the reward will be given.\nHow you split the reward is up to you\nfolks to decide.\\n< Guild Master >"
+                                "To the guild, it doesn't really matter either way.\nThe request was completed either way. So the\nreward will be given. How you split the reward is\nup to you folks to decide.\\n< Guild Master>"
                             ]
                         },
                         {
@@ -13238,7 +13238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Subcontracting and sub-subcontracting in\nrequests isn't exactly uncommon. If you\nthink about it, the adventurers' guild\nsystem itself is like a giant\nsubcontractor.\\n< Guild Master >"
+                                "Subcontracting and sub-subcontracting in requests\nisn't exactly uncommon. If you think about it, the\nadventurers' guild system itself is like a giant\nsubcontractor.\\n< Guild Master>"
                             ]
                         },
                         {
@@ -13255,7 +13255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So as long as the result matches the\nrequest, the guild doesn't care about\nthe process.\\n< Guild Master >"
+                                "So as long as the result matches the request, the\nguild doesn't care about the process.\\n< Guild Master>"
                             ]
                         },
                         {
@@ -13272,7 +13272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Though I'll tell you, Erika will\nprobably refuse her share of the reward.\\n< Guild Master >"
+                                "Though I'll tell you, Erika will probably refuse\nher share of the reward.\\n< Guild Master>"
                             ]
                         },
                         {
@@ -13289,7 +13289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah-. But let me tell you, that's not\nreally a good attitude for an\nadventurer. Settling things with money\nis ultimately the smoothest solution.\\n< Guild Master >"
+                                "Ah-. But let me tell you, that's not really a good\nattitude for an adventurer. Settling things with\nmoney is ultimately the smoothest solution.\\n< Guild Master>"
                             ]
                         },
                         {
@@ -13306,7 +13306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But well... maybe treat her to a drink\nat the tavern. That's what she enjoys\nthe most.\\n< Guild Master >"
+                                "But well... maybe treat her to a drink at the\ntavern. That's what she enjoys the most.\\n< Guild Master>"
                             ]
                         },
                         {
@@ -13378,7 +13378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You're welcome.\\n< Guild Master >"
+                                "You're welcome.\\n< Guild Master>"
                             ]
                         },
                         {
@@ -14017,7 +14017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >We can't just leave such a dangerous\nmonster unattended!"
+                                "\\n< Serena >We can't just leave such a dangerous monster\nunattended!"
                             ]
                         },
                         {
@@ -14444,7 +14444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >We can't just leave such a dangerous\nmonster unattended!"
+                                "\\n< Serena >We can't just leave such a dangerous monster\nunattended!"
                             ]
                         },
                         {
@@ -14655,7 +14655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >We can't just leave such a dangerous\nmonster unattended!"
+                                "\\n< Serena >We can't just leave such a dangerous monster\nunattended!"
                             ]
                         },
                         {

@@ -4196,7 +4196,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Hey, hey! You're gonna start some weird\nrumors about my shop! They say a\nperverted brat is hanging around!\\n< Tavern Master >"
+                                "Hey, hey! You're gonna start some weird rumors\nabout my shop! They say a perverted brat is\nhanging around!\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -4213,7 +4213,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "...If you've got business, come in\nsecretly later...!\\n< Tavern Master >"
+                                "...If you've got business, come in secretly\nlater...!\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -4268,7 +4268,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hey, hey, if you're soliciting\ncustomers, do it somewhere else! We\ndon't do that sort of thing here!\\n< Tavern Master >"
+                                "Hey, hey, if you're soliciting customers, do it\nsomewhere else! We don't do that sort of thing\nhere!\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -4334,7 +4334,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "This is a tavern too. If you loiter\naround dressed like that, I can't take\nresponsibility for what happens, you\nknow?\\n< Tavern Master >"
+                                "This is a tavern too. If you loiter around dressed\nlike that, I can't take responsibility for what\nhappens, you know?\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -4410,7 +4410,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "What does a pregnant woman need at a\ntavern? Unless you want to ruin the kid\nin your belly, that's a different story!\\n< Tavern Master >"
+                                "What does a pregnant woman need at a tavern?\nUnless you want to ruin the kid in your belly,\nthat's a different story!\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -4444,7 +4444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Welcome! What would you like to order?\\n< Tavern Master >"
+                                "Welcome! What would you like to order?\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -4461,7 +4461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well, the only thing I can offer a young\nlady like you is milk!\\n< Tavern Master >"
+                                "Well, the only thing I can offer a young lady like\nyou is milk!\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -4538,7 +4538,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "What about it?\\n< Tavern Master >"
+                                "What about it?\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -4562,7 +4562,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Well, as you can see from my belly, I\nwas wondering if you might hire me...\\n< Serena >"
+                                "Well, as you can see from my belly, I was\nwondering if you might hire me...\\n< Serena >"
                             ]
                         },
                         {
@@ -4586,7 +4586,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Haha. Well, it's certainly rare to see a\ngirl your age with such a swollen belly.\\n< Tavern Master >"
+                                "Haha. Well, it's certainly rare to see a girl your\nage with such a swollen belly.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -4603,7 +4603,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "If you can work, I don't care if your\nbelly's big and flat.\\n< Tavern Master >"
+                                "If you can work, I don't care if your belly's big\nand flat.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -4620,7 +4620,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "With looks like yours, some customers\nmight even be pleased. How about it?\nWill you work here?\\n< Tavern Master >"
+                                "With looks like yours, some customers might even\nbe pleased. How about it? Will you work here?\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -4651,7 +4651,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Is that so? Then I would like to impose\nupon you. I can't say I have extensive\nexperience as a waitress, but I think I\ncan do the job.\\n< Serena >"
+                                "Is that so? Then I would like to impose upon you.\nI can't say I have extensive experience as a\nwaitress, but I think I can do the job.\\n< Serena >"
                             ]
                         },
                         {
@@ -4675,7 +4675,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Is that so? That's great! Then I'll give\nyou the uniform for work, go change into\nit!\\n< Tavern Master >"
+                                "Is that so? That's great! Then I'll give you the\nuniform for work, go change into it!\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -4757,7 +4757,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Ahh, that's what you're here for! Good,\ngood. With your looks, you pass with\nflying colors. I'd like to hire you\nright away but...\\n< Tavern Master >"
+                                "Ahh, that's what you're here for! Good, good. With\nyour looks, you pass with flying colors. I'd like\nto hire you right away but...\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -4774,7 +4774,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Young lady, what's your experience?\\n< Tavern Master >"
+                                "Young lady, what's your experience?\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -4805,7 +4805,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I can't say it's extensive, but I think\nI can do the job.\\n< Serena >"
+                                "I can't say it's extensive, but I think I can do\nthe job.\\n< Serena >"
                             ]
                         },
                         {
@@ -4829,7 +4829,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Is that so? That's a relief! Then let's\nget you to work right away! I'll give\nyou the waitress uniform, so go change\ninto it!\\n< Tavern Master >"
+                                "Is that so? That's a relief! Then let's get you to\nwork right away! I'll give you the waitress\nuniform, so go change into it!\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -4950,7 +4950,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...So I have to wear this outfit here\ntoo.\\n< Serena >"
+                                "...So I have to wear this outfit here too.\\n< Serena >"
                             ]
                         },
                         {
@@ -4974,7 +4974,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Mmm-hmm, nice. Your pure white legs are\ndazzling!\\n< Tavern Master >"
+                                "Mmm-hmm, nice. Your pure white legs are dazzling!\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -4998,7 +4998,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...If I may ask, surely customers won't\nbe touching my body while I work...\\n< Serena >"
+                                "...If I may ask, surely customers won't be\ntouching my body while I work...\\n< Serena >"
                             ]
                         },
                         {
@@ -5022,7 +5022,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Aah? Of course that'll happen! That's\npart of why you'll earn more! Just be\nfriendly and go with it!\\n< Tavern Master >"
+                                "Aah? Of course that'll happen! That's part of why\nyou'll earn more! Just be friendly and go with it!\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -5046,7 +5046,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Mm... Mmm... As I thought... So it is...\nStill, it's better than working in a\nbrothel... Sigh...\\n< Serena >"
+                                "Mm... Mmm... As I thought... So it is... Still,\nit's better than working in a brothel... Sigh...\\n< Serena >"
                             ]
                         },
                         {
@@ -5293,7 +5293,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Huh? You plan to work dressed like that?\\n< Tavern Master >"
+                                "Huh? You plan to work dressed like that?\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -5320,7 +5320,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Hey there. You've come to work again\ntoday?\\n< Tavern Master >"
+                                "Hey there. You've come to work again today?\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -5368,7 +5368,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "What's a pregnant woman doing in a\ntavern? Or do you want to work again?\\n< Tavern Master >"
+                                "What's a pregnant woman doing in a tavern? Or do\nyou want to work again?\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -5395,7 +5395,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Hey there. You've come to work again\ntoday?\\n< Tavern Master >"
+                                "Hey there. You've come to work again today?\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -5459,7 +5459,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "If I work any more, it'll be dark soon.\nI should stop for today.\\n< Serena >"
+                                "If I work any more, it'll be dark soon. I should\nstop for today.\\n< Serena >"
                             ]
                         },
                         {
@@ -5597,7 +5597,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hehe, there there. I've prepared some\nclothes. Go and change.\\n< Tavern Master >"
+                                "Hehe, there there. I've prepared some clothes. Go\nand change.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -5791,7 +5791,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "There there. The customers are waiting\ntoo. That's good, that's good, but...\\n< Tavern Master >"
+                                "There there. The customers are waiting too. That's\ngood, that's good, but...\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -5850,7 +5850,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "You know, you're too frisky for someone\nwith a kid in your belly. You've made a\nhuge stain on a one- of-a-kind outfit.\\n< Tavern Master >"
+                                "You know, you're too frisky for someone with a kid\nin your belly. You've made a huge stain on a one-\nof-a-kind outfit.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -5877,7 +5877,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "You know, you're too frisky. You've made\na stain on a one-of-a-kind outfit.\\n< Tavern Master >"
+                                "You know, you're too frisky. You've made a stain\non a one-of-a-kind outfit.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -5904,7 +5904,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "It's not about compensation, but until\nthe laundry is done, I'm going to have\nto change the fit of your clothes a bit.\\n< Tavern Master >"
+                                "It's not about compensation, but until the laundry\nis done, I'm going to have to change the fit of\nyour clothes a bit.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -5952,7 +5952,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Heh heh. Well, you'll understand once\nyou change into it.\\n< Tavern Master >"
+                                "Heh heh. Well, you'll understand once you change\ninto it.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -6085,7 +6085,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Hahaha! It's your fault after all. Work\ndiligently with a sense of atonement,\nwill you?\\n< Tavern Master >"
+                                "Hahaha! It's your fault after all. Work diligently\nwith a sense of atonement, will you?\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -6161,7 +6161,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "A pregnant maid isn't anything unusual,\nespecially not around here. The men are\nused to it.\\n< Tavern Master >"
+                                "A pregnant maid isn't anything unusual, especially\nnot around here. The men are used to it.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -6178,7 +6178,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Well, at your age, that get-up might\ndraw some attention, I suppose. Gahaha!\\n< Tavern Master >"
+                                "Well, at your age, that get-up might draw some\nattention, I suppose. Gahaha!\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -6205,7 +6205,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Oops, is that too much to ask? Don't\nwander around dressed like that.\\n< Tavern Master >"
+                                "Oops, is that too much to ask? Don't wander around\ndressed like that.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -6222,7 +6222,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "When you're taken to the toilet, make\nsure to tell the customers. Don't dirty\nthe apron! Gahahaha!\\n< Tavern Master >"
+                                "When you're taken to the toilet, make sure to tell\nthe customers. Don't dirty the apron! Gahahaha!\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -6528,7 +6528,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Uhh, uh...! No matter what, this\noutfit...!\\n< Serena >"
+                                "Uhh, uh...! No matter what, this outfit...!\\n< Serena >"
                             ]
                         },
                         {
@@ -6563,7 +6563,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "It's too late for that, isn't it? You\nwent and got yourself such a big belly\nbefore marriage.\\n< Tavern Master >"
+                                "It's too late for that, isn't it? You went and got\nyourself such a big belly before marriage.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -6580,7 +6580,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "If you're embarrassed, the state of that\nbelly is far more embarrassing, isn't\nit?\\n< Tavern Master >"
+                                "If you're embarrassed, the state of that belly is\nfar more embarrassing, isn't it?\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -6607,7 +6607,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "It's too late for that, isn't it? Most\nof our regulars have been inside your\nhole.\\n< Tavern Master >"
+                                "It's too late for that, isn't it? Most of our\nregulars have been inside your hole.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -6624,7 +6624,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Having been stirred up inside the womb\nand all, you shouldn't be shy about\nshowing a breast or two now.\\n< Tavern Master >"
+                                "Having been stirred up inside the womb and all,\nyou shouldn't be shy about showing a breast or two\nnow.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -6682,7 +6682,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Enough already, go on, get moving. You\nneed the money, don't you?\\n< Tavern Master >"
+                                "Enough already, go on, get moving. You need the\nmoney, don't you?\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -6699,7 +6699,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "I'm making it possible for you to earn\nit, aren't I? For your sake, you know?\\n< Tavern Master >"
+                                "I'm making it possible for you to earn it, aren't\nI? For your sake, you know?\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -6898,7 +6898,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Hey. You don't have to enter the hall\ntoday.\\n< Tavern Master >"
+                                "Hey. You don't have to enter the hall today.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -6948,7 +6948,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Instead, I have a little errand for you.\nGo to the city guard station.\\n< Tavern Master >"
+                                "Instead, I have a little errand for you. Go to the\ncity guard station.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -6998,7 +6998,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Take this bag with you.\\n< Tavern Master >"
+                                "Take this bag with you.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -7023,7 +7023,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "...Understood. But if that's the case,\nyou should have told me before I\nchanged. It's a waste of effort to do it\ntwice.\\n< Serena >"
+                                "...Understood. But if that's the case, you should\nhave told me before I changed. It's a waste of\neffort to do it twice.\\n< Serena >"
                             ]
                         },
                         {
@@ -7048,7 +7048,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Hey, hey, what are you talking about.\\n< Tavern Master >"
+                                "Hey, hey, what are you talking about.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -7066,7 +7066,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "The errand is to go 'just as you are'.\\n< Tavern Master >"
+                                "The errand is to go 'just as you are'.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -7227,7 +7227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well then, I'm counting on you today as\nwell.\\n< Tavern Master >"
+                                "Well then, I'm counting on you today as well.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -8004,7 +8004,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Oops, we're closing early today. Sorry,\nbut there's no work for you. Wahaha!\\n< Tavern Master >"
+                                "Oops, we're closing early today. Sorry, but\nthere's no work for you. Wahaha!\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -8031,7 +8031,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Welcome! What would you like to order?\\n< Tavern Master >"
+                                "Welcome! What would you like to order?\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -8453,7 +8453,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Oh? What's up, working the night shift\ntoday?\\n< Tavern Master >"
+                                "Oh? What's up, working the night shift today?\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -8470,7 +8470,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "But too bad, I've already sent the\ncustomers home. If you're up for it, I\ncan arrange something next time.\\n< Tavern Master >"
+                                "But too bad, I've already sent the customers home.\nIf you're up for it, I can arrange something next\ntime.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -8540,7 +8540,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Hey, hey! You'll start weird rumors\nabout my shop! Like some pervert kid\nshowing up!\\n< Tavern Master >"
+                                "Hey, hey! You'll start weird rumors about my shop!\nLike some pervert kid showing up!\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -8557,7 +8557,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "...If you have business, come in\nsecretly later...!\\n< Tavern Master >"
+                                "...If you have business, come in secretly\nlater...!\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -8612,7 +8612,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Hey, hey, if you're soliciting, do it\nsomewhere else! We don't do that sort of\nthing here!\\n< Tavern Master >"
+                                "Hey, hey, if you're soliciting, do it somewhere\nelse! We don't do that sort of thing here!\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -8688,7 +8688,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "This is a tavern too. Wandering around\ndressed like that, I can't take\nresponsibility for what happens, you\nknow?\\n< Tavern Master >"
+                                "This is a tavern too. Wandering around dressed\nlike that, I can't take responsibility for what\nhappens, you know?\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -8722,7 +8722,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "We're closed for today. If you want to\nstay, go upstairs.\\n< Tavern Master >"
+                                "We're closed for today. If you want to stay, go\nupstairs.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -9059,7 +9059,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Hehehe, it's grotesque... So\nunbalanced...\\n< Customer >"
+                                "Hehehe, it's grotesque... So unbalanced...\\n< Customer >"
                             ]
                         },
                         {
@@ -9076,7 +9076,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "A pretty girl like you... getting all\nmessed up... It really turns me on...\nhehehe...\\n< Customer >"
+                                "A pretty girl like you... getting all messed up...\nIt really turns me on... hehehe...\\n< Customer >"
                             ]
                         },
                         {
@@ -9290,7 +9290,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Nice... Pregnant women are great. The\nfact that they have the power to get\npregnant... It's arousing.\\n< Customer >"
+                                "Nice... Pregnant women are great. The fact that\nthey have the power to get pregnant... It's\narousing.\\n< Customer >"
                             ]
                         },
                         {
@@ -9341,7 +9341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You're so cute, young lady. Really,\nreally cute...\\n< Customer >"
+                                "You're so cute, young lady. Really, really cute...\\n< Customer >"
                             ]
                         },
                         {
@@ -9476,7 +9476,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hey, you're not working at the shop\ntoday?\\n< Customer >"
+                                "Hey, you're not working at the shop today?\\n< Customer >"
                             ]
                         },
                         {
@@ -9537,7 +9537,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ahh, that was refreshing... the best,\nmiss. I'll ask for \"another\" one...\nehehe.\\n< Customer >"
+                                "Ahh, that was refreshing... the best, miss. I'll\nask for \"another\" one... ehehe.\\n< Customer >"
                             ]
                         },
                         {
@@ -9763,7 +9763,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "How many have you been with? You can't\neven remember their faces or names,\nhuh...\\n< Customer >"
+                                "How many have you been with? You can't even\nremember their faces or names, huh...\\n< Customer >"
                             ]
                         },
                         {
@@ -9780,7 +9780,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "No wonder you don't know who the father\nof the kid in your belly is...\\n< Customer >"
+                                "No wonder you don't know who the father of the kid\nin your belly is...\\n< Customer >"
                             ]
                         },
                         {
@@ -9852,7 +9852,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hehehe, hold on. Even a place like this\nhas rules. We can't do it here...\\n< Customer >"
+                                "Hehehe, hold on. Even a place like this has rules.\nWe can't do it here...\\n< Customer >"
                             ]
                         },
                         {
@@ -9918,7 +9918,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Oh yeah, that's hot, that's the best...!\nI'll take you! I'll take you today too!\\n< Customer >"
+                                "Oh yeah, that's hot, that's the best...! I'll take\nyou! I'll take you today too!\\n< Customer >"
                             ]
                         },
                         {
@@ -9994,7 +9994,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hehehe, that one didn't get knocked up\nhere, did she?\\n< Customer >"
+                                "Hehehe, that one didn't get knocked up here, did\nshe?\\n< Customer >"
                             ]
                         },
                         {
@@ -10028,7 +10028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ihihi... Gotta make the most of it now\nand stock up on fucks. A catch like this\ndoesn't come around often...\\n< Customer >"
+                                "Ihihi... Gotta make the most of it now and stock\nup on fucks. A catch like this doesn't come around\noften...\\n< Customer >"
                             ]
                         },
                         {
@@ -12539,7 +12539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I've come on a request from the guild.\nI'm Serena, an adventurer.\\n< Serena >"
+                                "I've come on a request from the guild. I'm Serena,\nan adventurer.\\n< Serena >"
                             ]
                         },
                         {
@@ -12580,7 +12580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Has the fat finally reached your brain,\nyou Geklan fool?\\n< Man >"
+                                "Has the fat finally reached your brain, you Geklan\nfool?\\n< Man >"
                             ]
                         },
                         {
@@ -12597,7 +12597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I heard you were a trustworthy and\nskilled adventurer.\\n< Man >"
+                                "I heard you were a trustworthy and skilled\nadventurer.\\n< Man >"
                             ]
                         },
                         {
@@ -12845,7 +12845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "My Affabilis is impenetrable armor. Such\na blow won't cause me any pain or itch.\\n< Serena >"
+                                "My Affabilis is impenetrable armor. Such a blow\nwon't cause me any pain or itch.\\n< Serena >"
                             ]
                         },
                         {
@@ -13011,7 +13011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "will crush bones and flesh with a single\nstroke.\\n< Serena >"
+                                "will crush bones and flesh with a single stroke.\\n< Serena >"
                             ]
                         },
                         {
@@ -13066,7 +13066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's my selling point. Those who meet\nme, like you, are first caught off\nguard.\\n< Serena >"
+                                "That's my selling point. Those who meet me, like\nyou, are first caught off guard.\\n< Serena >"
                             ]
                         },
                         {
@@ -13090,7 +13090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You've got guts. Alright, you're not bad\nas an escort.\\n< Man >"
+                                "You've got guts. Alright, you're not bad as an\nescort.\\n< Man >"
                             ]
                         },
                         {
@@ -13107,7 +13107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm Orca. Well, let's get along as best\nwe can.\\n< Orca >"
+                                "I'm Orca. Well, let's get along as best we can.\\n< Orca >"
                             ]
                         },
                         {
@@ -13745,7 +13745,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Oh... the booze is gonna taste bad...\nMiss, you might wanna take a look at\nyourself in the mirror...\\n< Patron >"
+                                "Oh... the booze is gonna taste bad... Miss, you\nmight wanna take a look at yourself in the\nmirror...\\n< Patron >"
                             ]
                         },
                         {
@@ -13800,7 +13800,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Cut it out, we're here to enjoy our\ndrinks.\\n< Patron >"
+                                "Cut it out, we're here to enjoy our drinks.\\n< Patron >"
                             ]
                         },
                         {
@@ -13817,7 +13817,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I'm just not in that kind of... mood\nright now...\\n< Patron >"
+                                "I'm just not in that kind of... mood right now...\\n< Patron >"
                             ]
                         },
                         {
@@ -13883,7 +13883,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Oh? Did you get into a fight or\nsomething? You really went all out,\nhuh...?\\n< Patron >"
+                                "Oh? Did you get into a fight or something? You\nreally went all out, huh...?\\n< Patron >"
                             ]
                         },
                         {
@@ -13959,7 +13959,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Haha... You're an adventurer, right? A\nkid on the way is usually what that\nmeans...\\n< Patron >"
+                                "Haha... You're an adventurer, right? A kid on the\nway is usually what that means...\\n< Patron >"
                             ]
                         },
                         {
@@ -13993,7 +13993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Poison... poison... every single one of\nthem...\\n< Patron >"
+                                "Poison... poison... every single one of them...\\n< Patron >"
                             ]
                         },
                         {
@@ -14010,7 +14010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "How can I drink with fear of poison...?\nHuh?\\n< Patron >"
+                                "How can I drink with fear of poison...? Huh?\\n< Patron >"
                             ]
                         },
                         {
@@ -14226,7 +14226,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Pregnant women are a bit... Plus, she's\njust a kid, huh.\\n< Customer >"
+                                "Pregnant women are a bit... Plus, she's just a\nkid, huh.\\n< Customer >"
                             ]
                         },
                         {
@@ -14298,7 +14298,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I've had quite a bit to drink. I wonder\nif I can still get it up...\\n< Customer >"
+                                "I've had quite a bit to drink. I wonder if I can\nstill get it up...\\n< Customer >"
                             ]
                         },
                         {
@@ -14364,7 +14364,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Ohoho, this one isn't bad at all. Ah,\nnot bad... not bad at all.\\n< Customer >"
+                                "Ohoho, this one isn't bad at all. Ah, not bad...\nnot bad at all.\\n< Customer >"
                             ]
                         },
                         {
@@ -14440,7 +14440,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Telling a woman with a child in her\nbelly not to work in a place like this\nis just irresponsible heckling, isn't\nit...\\n< Customer >"
+                                "Telling a woman with a child in her belly not to\nwork in a place like this is just irresponsible\nheckling, isn't it...\\n< Customer >"
                             ]
                         },
                         {
@@ -14474,7 +14474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "They've got another young one this\ntime...?\\n< Customer >"
+                                "They've got another young one this time...?\\n< Customer >"
                             ]
                         },
                         {
@@ -14491,7 +14491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "She may be small, but she's a beauty.\nMaybe I'll join in...\\n< Customer >"
+                                "She may be small, but she's a beauty. Maybe I'll\njoin in...\\n< Customer >"
                             ]
                         },
                         {
@@ -14869,7 +14869,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "It gives me a headache... How can you\neven think to appear in public looking\nlike that?\\n< Customer >"
+                                "It gives me a headache... How can you even think\nto appear in public looking like that?\\n< Customer >"
                             ]
                         },
                         {
@@ -14886,7 +14886,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Acting so brazenly at such a young\nage...\\n< Customer >"
+                                "Acting so brazenly at such a young age...\\n< Customer >"
                             ]
                         },
                         {
@@ -14941,7 +14941,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hmph. Yes, yes, this kind of lowly\nservice is quite fitting for this town.\\n< Customer >"
+                                "Hmph. Yes, yes, this kind of lowly service is\nquite fitting for this town.\\n< Customer >"
                             ]
                         },
                         {
@@ -14958,7 +14958,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Maybe I should just enjoy myself too,\nhuh?\\n< Customer >"
+                                "Maybe I should just enjoy myself too, huh?\\n< Customer >"
                             ]
                         },
                         {
@@ -15100,7 +15100,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hmph. Outsiders like you come to this\ntown and just keep popping out kids left\nand right.\\n< Customer >"
+                                "Hmph. Outsiders like you come to this town and\njust keep popping out kids left and right.\\n< Customer >"
                             ]
                         },
                         {
@@ -15117,7 +15117,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "And those kids grow up to be thugs...\ndevouring the town's resources!\\n< Customer >"
+                                "And those kids grow up to be thugs... devouring\nthe town's resources!\\n< Customer >"
                             ]
                         },
                         {
@@ -15151,7 +15151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Seriously, what's with this defense\ntax...! Has anyone ever actually seen\nthe city guards properly protecting the\ntown even once...!?\\n< Customer >"
+                                "Seriously, what's with this defense tax...! Has\nanyone ever actually seen the city guards properly\nprotecting the town even once...!?\\n< Customer >"
                             ]
                         },
                         {
@@ -15367,7 +15367,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I'll embrace you along with your child?\nMy dick should provide excellent\nprenatal education.\\n< Customer >"
+                                "I'll embrace you along with your child? My dick\nshould provide excellent prenatal education.\\n< Customer >"
                             ]
                         },
                         {
@@ -15422,7 +15422,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You want to be held again? You whore.\nCan't forget my dick, can you?!\\n< Customer >"
+                                "You want to be held again? You whore. Can't forget\nmy dick, can you?!\\n< Customer >"
                             ]
                         },
                         {
@@ -15488,7 +15488,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Hmph. What's with those rags? Should I\ngive you some money? In exchange, you'll\nhave to suck me off plenty... eh?\\n< Customer >"
+                                "Hmph. What's with those rags? Should I give you\nsome money? In exchange, you'll have to suck me\noff plenty... eh?\\n< Customer >"
                             ]
                         },
                         {
@@ -15564,7 +15564,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hmph, how many more brats are you\nplanning to pop out? The orphanage is\nalready full.\\n< Customer >"
+                                "Hmph, how many more brats are you planning to pop\nout? The orphanage is already full.\\n< Customer >"
                             ]
                         },
                         {
@@ -15581,7 +15581,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "And where do you think the unwanted\nbrats go...? Do you know? Eh?\\n< Customer >"
+                                "And where do you think the unwanted brats go...?\nDo you know? Eh?\\n< Customer >"
                             ]
                         },
                         {
@@ -15615,7 +15615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh? You've come to me on your own\naccord, impressive. Very well, I'll make\nyou moan with my dick again... What? No?\\n< Customer >"
+                                "Oh? You've come to me on your own accord,\nimpressive. Very well, I'll make you moan with my\ndick again... What? No?\\n< Customer >"
                             ]
                         },
                         {
@@ -18287,7 +18287,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Ah... that's not really my thing. Try\ntalking to my partner.\\n< Customer >"
+                                "Ah... that's not really my thing. Try talking to\nmy partner.\\n< Customer >"
                             ]
                         },
                         {
@@ -18359,7 +18359,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ohoho, hold on. I might not be picky\nbut...\\n< Customer >"
+                                "Ohoho, hold on. I might not be picky but...\\n< Customer >"
                             ]
                         },
                         {
@@ -18376,7 +18376,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Can't you see? I'm drinking with my\ncompanion right now. Or are you offering\nto take on both of us at once?\\n< Customer >"
+                                "Can't you see? I'm drinking with my companion\nright now. Or are you offering to take on both of\nus at once?\\n< Customer >"
                             ]
                         },
                         {
@@ -18459,7 +18459,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "You're a small one but full of energy,\nhuh?\\n< Customer >"
+                                "You're a small one but full of energy, huh?\\n< Customer >"
                             ]
                         },
                         {
@@ -18535,7 +18535,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Should I introduce you to a good doctor?\nHer name's Catherine.\\n< Customer >"
+                                "Should I introduce you to a good doctor? Her\nname's Catherine.\\n< Customer >"
                             ]
                         },
                         {
@@ -18563,7 +18563,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "...Oh, that's right, she got arrested,\ndidn't she? So where should we send\ngirls to get an abortion in this town\nnow?\\n< Customer >"
+                                "...Oh, that's right, she got arrested, didn't she?\nSo where should we send girls to get an abortion\nin this town now?\\n< Customer >"
                             ]
                         },
                         {
@@ -18590,7 +18590,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "My girl got it done there too! They took\ncare of it without any lingering issues.\\n< Customer >"
+                                "My girl got it done there too! They took care of\nit without any lingering issues.\\n< Customer >"
                             ]
                         },
                         {
@@ -18607,7 +18607,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Not sure if it's still possible with\nyour belly that size though.\\n< Customer >"
+                                "Not sure if it's still possible with your belly\nthat size though.\\n< Customer >"
                             ]
                         },
                         {
@@ -18651,7 +18651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This place is a bit too early for a\nyoung lady like you, isn't it?\\n< Customer >"
+                                "This place is a bit too early for a young lady\nlike you, isn't it?\\n< Customer >"
                             ]
                         },
                         {
@@ -18668,7 +18668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's not good to get used to the taste\nof alcohol at a young age, you know?\\n< Customer >"
+                                "It's not good to get used to the taste of alcohol\nat a young age, you know?\\n< Customer >"
                             ]
                         },
                         {
@@ -18824,7 +18824,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Tch, what a joke. A brat's gotten\npregnant with another brat. I can't\nfathom what excites those guys about\nthis, not at all...\\n< Customer >"
+                                "Tch, what a joke. A brat's gotten pregnant with\nanother brat. I can't fathom what excites those\nguys about this, not at all...\\n< Customer >"
                             ]
                         },
                         {
@@ -18858,7 +18858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sigh. Damn perverted old men. What's so\nfun about getting it on with such a\nflat-chested kid?\\n< Customer >"
+                                "Sigh. Damn perverted old men. What's so fun about\ngetting it on with such a flat-chested kid?\\n< Customer >"
                             ]
                         },
                         {
@@ -18875,7 +18875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A real woman is all about the tits, ass,\nand thighs. You agree with me, right?\\n< Customer >"
+                                "A real woman is all about the tits, ass, and\nthighs. You agree with me, right?\\n< Customer >"
                             ]
                         },
                         {
@@ -21568,7 +21568,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Ah-hahaha! That belly! It's so round!!!\nAnd it's moving...! Hyahihahi...!\\n< Customer >"
+                                "Ah-hahaha! That belly! It's so round!!! And it's\nmoving...! Hyahihahi...!\\n< Customer >"
                             ]
                         },
                         {
@@ -21585,7 +21585,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Hey, can I have a free pass to rub that\nbelly? I'll pay you...\\n< Customer >"
+                                "Hey, can I have a free pass to rub that belly?\nI'll pay you...\\n< Customer >"
                             ]
                         },
                         {
@@ -21640,7 +21640,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Mm-hmm, hehe, little lady... that's\nnaughty. Tempting me with that look...\nBig sis can swing that way too, you\nknow?\\n< Customer >"
+                                "Mm-hmm, hehe, little lady... that's naughty.\nTempting me with that look... Big sis can swing\nthat way too, you know?\\n< Customer >"
                             ]
                         },
                         {
@@ -21657,7 +21657,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Are you going? To hole up in the room\nupstairs afterwards?\\n< Customer >"
+                                "Are you going? To hole up in the room upstairs\nafterwards?\\n< Customer >"
                             ]
                         },
                         {
@@ -21723,7 +21723,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Ihhihhi! A total wreck! What's that\nabout! Ahaha!\\n< Customer >"
+                                "Ihhihhi! A total wreck! What's that about! Ahaha!\\n< Customer >"
                             ]
                         },
                         {
@@ -21799,7 +21799,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ahhahaha! Pregnant, pregnant! Okay,\nokay!\\n< Customer >"
+                                "Ahhahaha! Pregnant, pregnant! Okay, okay!\\n< Customer >"
                             ]
                         },
                         {
@@ -21816,7 +21816,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Big sis here has been knocked up like\nfive or six times too! Don't worry about\nit!\\n< Customer >"
+                                "Big sis here has been knocked up like five or six\ntimes too! Don't worry about it!\\n< Customer >"
                             ]
                         },
                         {
@@ -21833,7 +21833,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Life is all about gaining EXP! Tomorrow\nwe'll drink tomorrow's booze~.\\n< Customer >"
+                                "Life is all about gaining EXP! Tomorrow we'll\ndrink tomorrow's booze~.\\n< Customer >"
                             ]
                         },
                         {
@@ -21884,7 +21884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's right, big sis is totally\nsmashed!\\n< Customer >"
+                                "That's right, big sis is totally smashed!\\n< Customer >"
                             ]
                         },
                         {
@@ -24183,7 +24183,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "A girl, yet a mother... Is there\nanything more... Is there anything\nmore...\\n< Guest >"
+                                "A girl, yet a mother... Is there anything more...\nIs there anything more...\\n< Guest >"
                             ]
                         },
                         {
@@ -24238,7 +24238,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "How deplorable! Utterly deplorable!\nDeplor... Ohh...! Ughh...!\\n< Guest >"
+                                "How deplorable! Utterly deplorable! Deplor...\nOhh...! Ughh...!\\n< Guest >"
                             ]
                         },
                         {
@@ -24304,7 +24304,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Don't speak to me in rags! You filthy\nvagrant! A parasite nesting in the city!\\n< Guest >"
+                                "Don't speak to me in rags! You filthy vagrant! A\nparasite nesting in the city!\\n< Guest >"
                             ]
                         },
                         {
@@ -24380,7 +24380,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Look at her! Pregnant at such a young\nage! Does she have a husband?\nImpossible!\\n< Guest >"
+                                "Look at her! Pregnant at such a young age! Does\nshe have a husband? Impossible!\\n< Guest >"
                             ]
                         },
                         {
@@ -24397,7 +24397,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The decline of morals is the regression\nof society! We must deal with it now,\nwhile we still have the strength!\\n< Guest >"
+                                "The decline of morals is the regression of\nsociety! We must deal with it now, while we still\nhave the strength!\\n< Guest >"
                             ]
                         },
                         {
@@ -24431,7 +24431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The negligence of the council...!\nCalling them a patrol, but aren't they\njust the king's private soldiers?\\n< Guest >"
+                                "The negligence of the council...! Calling them a\npatrol, but aren't they just the king's private\nsoldiers?\\n< Guest >"
                             ]
                         },
                         {
@@ -24448,7 +24448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The king's true intentions are clear as\nday! The city charter of Castellum has\nbecome an obstacle!\\n< Guest >"
+                                "The king's true intentions are clear as day! The\ncity charter of Castellum has become an obstacle!\\n< Guest >"
                             ]
                         },
                         {
@@ -24465,7 +24465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Grrr-! Why does no one feel the crisis!\nIf things continue this way, Castellum's\nautonomy! Its independence!\\n< Guest >"
+                                "Grrr-! Why does no one feel the crisis! If things\ncontinue this way, Castellum's autonomy! Its\nindependence!\\n< Guest >"
                             ]
                         },
                         {
@@ -24681,7 +24681,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "A brat barely of age! Still trying to\nseduce men even while pregnant!?\\n< Customer >"
+                                "A brat barely of age! Still trying to seduce men\neven while pregnant!?\\n< Customer >"
                             ]
                         },
                         {
@@ -24698,7 +24698,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Discipline is needed! Discipline...! The\nproper guidance of an adult is\nnecessary...!\\n< Customer >"
+                                "Discipline is needed! Discipline...! The proper\nguidance of an adult is necessary...!\\n< Customer >"
                             ]
                         },
                         {
@@ -24753,7 +24753,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Is that how you've been fawning over the\npeople in this establishment!? Damn it!\nWhat is the city guard doing!\\n< Customer >"
+                                "Is that how you've been fawning over the people in\nthis establishment!? Damn it! What is the city\nguard doing!\\n< Customer >"
                             ]
                         },
                         {
@@ -24836,7 +24836,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Hmph! Trying to seduce me next, are\nyou!? But I'll willingly play into your\nhands! I'll correct your depraved\ndebauchery with my firm righteousness!\\n< Customer >"
+                                "Hmph! Trying to seduce me next, are you!? But I'll\nwillingly play into your hands! I'll correct your\ndepraved debauchery with my firm righteousness!\\n< Customer >"
                             ]
                         },
                         {
@@ -24912,7 +24912,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "There's no more morality, no more MORAL!\nThis city is a den of beasts! Worse than\nthat!\\n< Customer >"
+                                "There's no more morality, no more MORAL! This city\nis a den of beasts! Worse than that!\\n< Customer >"
                             ]
                         },
                         {
@@ -24929,7 +24929,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Even beasts don't do such things as\nimpregnating children! Grrr! The\nglorious Casttulum is crumbling!\\n< Customer >"
+                                "Even beasts don't do such things as impregnating\nchildren! Grrr! The glorious Casttulum is\ncrumbling!\\n< Customer >"
                             ]
                         },
                         {
@@ -24963,7 +24963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yes, this brat! Even such brats are now\nselling their bodies without a second\nthought!\\n< Customer >"
+                                "Yes, this brat! Even such brats are now selling\ntheir bodies without a second thought!\\n< Customer >"
                             ]
                         },
                         {
@@ -24980,7 +24980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's a grave situation! Where has the\nhonor of Casttulum gone! Its prestige!\nIts ethics! Where have they gone!?\\n< Customer >"
+                                "It's a grave situation! Where has the honor of\nCasttulum gone! Its prestige! Its ethics! Where\nhave they gone!?\\n< Customer >"
                             ]
                         },
                         {
@@ -24997,7 +24997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Grrr! It's frustrating! It's crushing my\nchest! ...Damn brat! Let me hold you\nagain! When will you be at the shop\nnext! When is the next time!\\n< Customer >"
+                                "Grrr! It's frustrating! It's crushing my chest!\n...Damn brat! Let me hold you again! When will you\nbe at the shop next! When is the next time!\\n< Customer >"
                             ]
                         },
                         {
@@ -27690,7 +27690,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Oh? Is this a costume... no, it can't\nbe. Is that a real pregnant belly? A\nbaby's inside there, huh?\\n< Customer >"
+                                "Oh? Is this a costume... no, it can't be. Is that\na real pregnant belly? A baby's inside there, huh?\\n< Customer >"
                             ]
                         },
                         {
@@ -27707,7 +27707,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Heh!? So, how much for one night? I just\nhappen to have some extra cash on me\nright now!\\n< Customer >"
+                                "Heh!? So, how much for one night? I just happen to\nhave some extra cash on me right now!\\n< Customer >"
                             ]
                         },
                         {
@@ -27762,7 +27762,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hahaha, since when did this place start\noffering such thoughtful services?\\n< Customer >"
+                                "Hahaha, since when did this place start offering\nsuch thoughtful services?\\n< Customer >"
                             ]
                         },
                         {
@@ -27779,7 +27779,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The tits and ass could be a bit plumper\nthough... But with a catch this good,\nthat's just nitpicking, hahaha!\\n< Customer >"
+                                "The tits and ass could be a bit plumper though...\nBut with a catch this good, that's just\nnitpicking, hahaha!\\n< Customer >"
                             ]
                         },
                         {
@@ -27845,7 +27845,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "You're showing quite a bit here and\nthere, huh? Is that, okay, I wonder?\\n< Customer >"
+                                "You're showing quite a bit here and there, huh? Is\nthat, okay, I wonder?\\n< Customer >"
                             ]
                         },
                         {
@@ -27921,7 +27921,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hehe, hey, can I rub that belly of\nyours? I'll give you a coin for it!\\n< Customer >"
+                                "Hehe, hey, can I rub that belly of yours? I'll\ngive you a coin for it!\\n< Customer >"
                             ]
                         },
                         {
@@ -27955,7 +27955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Wahaha! There's nothing like a good\ndrink after finishing work!\\n< Customer >"
+                                "Wahaha! There's nothing like a good drink after\nfinishing work!\\n< Customer >"
                             ]
                         },
                         {
@@ -27972,7 +27972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "All that's missing now is a girl by my\nside!\\n< Customer >"
+                                "All that's missing now is a girl by my side!\\n< Customer >"
                             ]
                         },
                         {
@@ -28107,7 +28107,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Heheh, how was it? My dick's pretty\ngood, right?\\n< Customer >"
+                                "Heheh, how was it? My dick's pretty good, right?\\n< Customer >"
                             ]
                         },
                         {
@@ -28124,7 +28124,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I'm a regular at this place too. I'll\nmake you yelp and yelp from now on.\\n< Customer >"
+                                "I'm a regular at this place too. I'll make you\nyelp and yelp from now on.\\n< Customer >"
                             ]
                         },
                         {
@@ -28151,7 +28151,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Haha... I got beaten to it. I had my eye\non her too...?\\n< Customer >"
+                                "Haha... I got beaten to it. I had my eye on her\ntoo...?\\n< Customer >"
                             ]
                         },
                         {
@@ -28394,7 +28394,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Whose seed is it? Huh? Which one of us\nhit the mark? Tell me. It couldn't\npossibly be mine, could it?\\n< Customer >"
+                                "Whose seed is it? Huh? Which one of us hit the\nmark? Tell me. It couldn't possibly be mine, could\nit?\\n< Customer >"
                             ]
                         },
                         {
@@ -28449,7 +28449,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hahaha, such a vulgar display suits a\nbitch like you perfectly!\\n< Customer >"
+                                "Hahaha, such a vulgar display suits a bitch like\nyou perfectly!\\n< Customer >"
                             ]
                         },
                         {
@@ -28515,7 +28515,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Hah hah hah. Nice. You're making me look\nforward to this.\\n< Customer >"
+                                "Hah hah hah. Nice. You're making me look forward\nto this.\\n< Customer >"
                             ]
                         },
                         {
@@ -28591,7 +28591,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Even with that attitude, it's\nprostitution, prostitution. Hopelessly\nfilthy. Wonderful, isn't it?\\n< Customer >"
+                                "Even with that attitude, it's prostitution,\nprostitution. Hopelessly filthy. Wonderful, isn't\nit?\\n< Customer >"
                             ]
                         },
                         {
@@ -28625,7 +28625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hah hah hah! A toast to the tightness of\na meat toilet!\\n< Customer >"
+                                "Hah hah hah! A toast to the tightness of a meat\ntoilet!\\n< Customer >"
                             ]
                         },
                         {
@@ -31335,7 +31335,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "She's so cute that I don't even mind the\nslightly swollen belly.\\n< Customer >"
+                                "She's so cute that I don't even mind the slightly\nswollen belly.\\n< Customer >"
                             ]
                         },
                         {
@@ -31352,7 +31352,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "After all, thinking of it as the lewd\nform of the Kinshi style... hehehe...\\n< Customer >"
+                                "After all, thinking of it as the lewd form of the\nKinshi style... hehehe...\\n< Customer >"
                             ]
                         },
                         {
@@ -31424,7 +31424,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "White, sweet, and juicy... I'm curious\nhow much this fruit would cost, old\nman...\\n< Customer >"
+                                "White, sweet, and juicy... I'm curious how much\nthis fruit would cost, old man...\\n< Customer >"
                             ]
                         },
                         {
@@ -31566,7 +31566,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Carrying that round belly must be quite\nthe effort.\\n< Customer >"
+                                "Carrying that round belly must be quite the\neffort.\\n< Customer >"
                             ]
                         },
                         {
@@ -31583,7 +31583,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "With that belly, dancing must be quite\nthe struggle, huh...?\\n< Customer >"
+                                "With that belly, dancing must be quite the\nstruggle, huh...?\\n< Customer >"
                             ]
                         },
                         {
@@ -31850,7 +31850,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "If that seed inside you is mine, I'd be\nso happy...\\n< Customer >"
+                                "If that seed inside you is mine, I'd be so\nhappy...\\n< Customer >"
                             ]
                         },
                         {
@@ -31867,7 +31867,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "If it's my child, a child with\nKinshiru...\\n< Customer >"
+                                "If it's my child, a child with Kinshiru...\\n< Customer >"
                             ]
                         },
                         {
@@ -31922,7 +31922,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hehehe, this body. I had my way with\nthis body...\\n< Customer >"
+                                "Hehehe, this body. I had my way with this body...\\n< Customer >"
                             ]
                         },
                         {
@@ -31988,7 +31988,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "That Kinshiru... so damn cool.\nShivers...\\n< Customer >"
+                                "That Kinshiru... so damn cool. Shivers...\\n< Customer >"
                             ]
                         },
                         {
@@ -32064,7 +32064,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Even pregnant, you're beautiful...\ngorgeous...\\n< Customer >"
+                                "Even pregnant, you're beautiful... gorgeous...\\n< Customer >"
                             ]
                         },
                         {
@@ -32081,7 +32081,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...Hehe, my dick is rock hard. I can't\ntake it anymore...\\n< Customer >"
+                                "...Hehe, my dick is rock hard. I can't take it\nanymore...\\n< Customer >"
                             ]
                         },
                         {
@@ -32115,7 +32115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Heh heh heh. To think I could bed\nKinshiru for such a bargain...\\n< Customer >"
+                                "Heh heh heh. To think I could bed Kinshiru for\nsuch a bargain...\\n< Customer >"
                             ]
                         },
                         {
@@ -32132,7 +32132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oops, relax. I haven't told anyone yet.\nOf course, that's how it should be.\nOtherwise, customers would flock here.\nAfter all, I can have you all to\nmyself...\\n< Customer >"
+                                "Oops, relax. I haven't told anyone yet. Of course,\nthat's how it should be. Otherwise, customers\nwould flock here. After all, I can have you all to\nmyself...\\n< Customer >"
                             ]
                         },
                         {
@@ -34842,7 +34842,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Did you think I'd feel sympathy or\nsurprise? I've seen plenty like you\naround here.\\n< Customer >"
+                                "Did you think I'd feel sympathy or surprise? I've\nseen plenty like you around here.\\n< Customer >"
                             ]
                         },
                         {
@@ -34897,7 +34897,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hey, don't come any closer, you whore\nbrat. I don't want to be associated with\nyour kind.\\n< Customer >"
+                                "Hey, don't come any closer, you whore brat. I\ndon't want to be associated with your kind.\\n< Customer >"
                             ]
                         },
                         {
@@ -34914,7 +34914,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "It's fine if you want to sell yourself\ncheap, but don't drag others into it.\\n< Customer >"
+                                "It's fine if you want to sell yourself cheap, but\ndon't drag others into it.\\n< Customer >"
                             ]
                         },
                         {
@@ -35056,7 +35056,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "That's what happens when you don't use\nprotection properly.\\n< Customer >"
+                                "That's what happens when you don't use protection\nproperly.\\n< Customer >"
                             ]
                         },
                         {
@@ -35090,7 +35090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You can tell just by looking. We're\nclosed today...\\n< Customer >"
+                                "You can tell just by looking. We're closed\ntoday...\\n< Customer >"
                             ]
                         },
                         {
@@ -35107,7 +35107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Huh? What's a kid doing in a place like\nthis...\\n< Customer >"
+                                "Huh? What's a kid doing in a place like this...\\n< Customer >"
                             ]
                         },
                         {
@@ -35297,7 +35297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kid... if you keep selling yourself so\nlightly, you'll end up getting hurt\nsomeday.\\n< Customer >"
+                                "Kid... if you keep selling yourself so lightly,\nyou'll end up getting hurt someday.\\n< Customer >"
                             ]
                         },
                         {
@@ -35697,7 +35697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It contains a liquid made by\ndeliberately spoiling grapes. It's\ncommonly called wine.\\n< Serena >"
+                                "It contains a liquid made by deliberately spoiling\ngrapes. It's commonly called wine.\\n< Serena >"
                             ]
                         },
                         {
@@ -35877,7 +35877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It must contain water for daily use.\nThere are signs that it's frequently\nused.\\n< Serena >"
+                                "It must contain water for daily use. There are\nsigns that it's frequently used.\\n< Serena >"
                             ]
                         },
                         {
@@ -36006,7 +36006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It seems to contain water for daily use.\nThere are signs that it's frequently\nused.\\n< Serena >"
+                                "It seems to contain water for daily use. There are\nsigns that it's frequently used.\\n< Serena >"
                             ]
                         },
                         {
@@ -36135,7 +36135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It probably contains water for daily\nuse. There are signs that it's\nfrequently used.\\n< Serena >"
+                                "It probably contains water for daily use. There\nare signs that it's frequently used.\\n< Serena >"
                             ]
                         },
                         {
@@ -36264,7 +36264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It must have contained water for daily\nuse. This barrel seems to be empty.\\n< Serena >"
+                                "It must have contained water for daily use. This\nbarrel seems to be empty.\\n< Serena >"
                             ]
                         },
                         {
@@ -37332,7 +37332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Good work. You took on \\V[1904] orders\nand failed \\V[1903] times. Your reward\nis \\V[1902]S. Thanks for the hard work,\nI'll be counting on you again.\\n<Tavern Master >"
+                                "Good work. You took on \\V[1904] orders and failed\n\\V[1903] times. Your reward is \\V[1902]S. Thanks\nfor the hard work, I'll be counting on you again.\\n<Tavern Master>"
                             ]
                         },
                         {
@@ -37388,7 +37388,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*sigh*... It was more laborious than I\nthought. There were so many orders, and\nthere were some indecent acts too...\\n< Serena >"
+                                "*sigh*... It was more laborious than I thought.\nThere were so many orders, and there were some\nindecent acts too...\\n< Serena >"
                             ]
                         },
                         {
@@ -37405,7 +37405,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "If I exhaust myself too much, it could\ninterfere with the development of the\naphrodisiac. I must not exceed my\nlimits.\\n< Serena >"
+                                "If I exhaust myself too much, it could interfere\nwith the development of the aphrodisiac. I must\nnot exceed my limits.\\n< Serena >"
                             ]
                         },
                         {
@@ -43678,7 +43678,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*panting*... I didn't expect the work to\nbe... this much...\\n< Serena >"
+                                "*panting*... I didn't expect the work to be...\nthis much...\\n< Serena >"
                             ]
                         },
                         {
@@ -43695,7 +43695,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "With this belly, it might actually be\nharder than adventuring...\\n< Serena >"
+                                "With this belly, it might actually be harder than\nadventuring...\\n< Serena >"
                             ]
                         },
                         {
@@ -43719,7 +43719,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Gah, just... just for a little bit... I\nwant to be alone for a while...\\n< Serena >"
+                                "Gah, just... just for a little bit... I want to be\nalone for a while...\\n< Serena >"
                             ]
                         },
                         {
@@ -43770,7 +43770,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Just for a bit... I just need some time\nalone...\\n< Serena >"
+                                "Just for a bit... I just need some time alone...\\n< Serena >"
                             ]
                         },
                         {
@@ -44233,7 +44233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What am I even doing... Coming all this\nway to work as a maid...\\n< Serena >"
+                                "What am I even doing... Coming all this way to\nwork as a maid...\\n< Serena >"
                             ]
                         },
                         {
@@ -44250,7 +44250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Just for a few gold coins, I'm stuck\nhere... This isn't why I left the\nmanor...\\n< Serena >"
+                                "Just for a few gold coins, I'm stuck here... This\nisn't why I left the manor...\\n< Serena >"
                             ]
                         },
                         {
@@ -45056,7 +45056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You, that's incredibly rude! It's a good\nthing I wasn't in the middle of my\nbusiness...\\n< Serena >"
+                                "You, that's incredibly rude! It's a good thing I\nwasn't in the middle of my business...\\n< Serena >"
                             ]
                         },
                         {
@@ -45092,7 +45092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Heh, heh, heh. You were asking for it,\nweren't you?\\n< Man >"
+                                "Heh, heh, heh. You were asking for it, weren't\nyou?\\n< Man >"
                             ]
                         },
                         {
@@ -45147,7 +45147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A maid hiding in the toilet during work,\nthat's what it means, right? Eh? That's\nhow it is in this shop.\\n< Man >"
+                                "A maid hiding in the toilet during work, that's\nwhat it means, right? Eh? That's how it is in this\nshop.\\n< Man >"
                             ]
                         },
                         {
@@ -45202,7 +45202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Huh? Oh... right, right. 'That's the\nsetup', huh? When it comes to selling,\nyou're not feeling well, huh?\\n< Man >"
+                                "Huh? Oh... right, right. 'That's the setup', huh?\nWhen it comes to selling, you're not feeling well,\nhuh?\\n< Man >"
                             ]
                         },
                         {
@@ -45219,7 +45219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The other maids are all used to it...\nThe setup is important. Gotta stick to\nit, right...?\\n< Man >"
+                                "The other maids are all used to it... The setup is\nimportant. Gotta stick to it, right...?\\n< Man >"
                             ]
                         },
                         {
@@ -45314,7 +45314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oops, newbie, these walls aren't very\nthick. Keep your voice down, will you?\nSome customers might not know what kind\nof shop this is.\\n< Man >"
+                                "Oops, newbie, these walls aren't very thick. Keep\nyour voice down, will you? Some customers might\nnot know what kind of shop this is.\\n< Man >"
                             ]
                         },
                         {
@@ -45331,7 +45331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It'd be a hassle if someone got the\nwrong idea and called the authorities in\nthe middle of the fun...!\\n< Man >"
+                                "It'd be a hassle if someone got the wrong idea and\ncalled the authorities in the middle of the\nfun...!\\n< Man >"
                             ]
                         },
                         {
@@ -45436,7 +45436,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Working in a place like this with a big\nbelly, you can't rely on a man, can you?\nGotta help you out...\\n< Man >"
+                                "Working in a place like this with a big belly, you\ncan't rely on a man, can you? Gotta help you\nout...\\n< Man >"
                             ]
                         },
                         {
@@ -45463,7 +45463,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Heh, heh. What's wrong with a woman\nselling another woman, huh?\\n< Man >"
+                                "Heh, heh. What's wrong with a woman selling\nanother woman, huh?\\n< Man >"
                             ]
                         },
                         {
@@ -45480,7 +45480,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Well, I don't mind doing it on the down-\nlow like this...!\\n< Man >"
+                                "Well, I don't mind doing it on the down- low like\nthis...!\\n< Man >"
                             ]
                         },
                         {
@@ -45873,7 +45873,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Oh wow, such a reaction. Is that okay\nwith the kid in your belly?\\n< Man >"
+                                "Oh wow, such a reaction. Is that okay with the kid\nin your belly?\\n< Man >"
                             ]
                         },
                         {
@@ -45943,7 +45943,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Well, whatever. At your age and already\npregnant, what does it matter now? It's\nall or nothing. Right...?!\\n< Man >"
+                                "Well, whatever. At your age and already pregnant,\nwhat does it matter now? It's all or nothing.\nRight...?!\\n< Man >"
                             ]
                         },
                         {
@@ -46115,7 +46115,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Stop it!! Seriously...! The baby, the\nbaby is...!!\\n< Serena >"
+                                "Stop it!! Seriously...! The baby, the baby is...!!\\n< Serena >"
                             ]
                         },
                         {
@@ -46139,7 +46139,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "You're the one feeling it on your own,\naren't you? Just from having a dick\nshoved in.\\n< Man >"
+                                "You're the one feeling it on your own, aren't you?\nJust from having a dick shoved in.\\n< Man >"
                             ]
                         },
                         {
@@ -46156,7 +46156,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "If you're going to act like a mother,\nthen try stopping yourself from feeling\npleasure from a dick!\\n< Man >"
+                                "If you're going to act like a mother, then try\nstopping yourself from feeling pleasure from a\ndick!\\n< Man >"
                             ]
                         },
                         {
@@ -46240,7 +46240,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Oh, what a voice! Heh! Pretending to be\ninnocent! You've been looking forward to\nthis, haven't you?!\\n< Man >"
+                                "Oh, what a voice! Heh! Pretending to be innocent!\nYou've been looking forward to this, haven't you?!\\n< Man >"
                             ]
                         },
                         {
@@ -46310,7 +46310,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "How can you say it's different when\nyou're this wet?\\n< Man >"
+                                "How can you say it's different when you're this\nwet?\\n< Man >"
                             ]
                         },
                         {
@@ -46389,7 +46389,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "You're feeling it so much! Even though\nyou're just a kid! My dick feels that\ngood, huh? Huh?!\\n< Man >"
+                                "You're feeling it so much! Even though you're just\na kid! My dick feels that good, huh? Huh?!\\n< Man >"
                             ]
                         },
                         {
@@ -46437,7 +46437,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "At your age, how much have you played\naround? To swallow it all the way to the\nback in one breath!\\n< Man >"
+                                "At your age, how much have you played around? To\nswallow it all the way to the back in one breath!\\n< Man >"
                             ]
                         },
                         {
@@ -46483,7 +46483,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Uuuuuuh!! No, Ah! That's wrong,\nuuuuuh!!!\\n< Serena >"
+                                "Uuuuuuh!! No, Ah! That's wrong, uuuuuh!!!\\n< Serena >"
                             ]
                         },
                         {
@@ -46527,7 +46527,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "But, you're so wet...? You're a virgin,\nright? Huh?\\n< Man >"
+                                "But, you're so wet...? You're a virgin, right?\nHuh?\\n< Man >"
                             ]
                         },
                         {
@@ -46575,7 +46575,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Heh, heh. The world's a big place. A\nvirgin and still a kid, but feeling it\nso much?\\n< Man >"
+                                "Heh, heh. The world's a big place. A virgin and\nstill a kid, but feeling it so much?\\n< Man >"
                             ]
                         },
                         {
@@ -46592,7 +46592,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "To think such a dream-like hole exists!\nI'm not dreaming, am I?! Huh?!\\n< Man >"
+                                "To think such a dream-like hole exists! I'm not\ndreaming, am I?! Huh?!\\n< Man >"
                             ]
                         },
                         {
@@ -46741,7 +46741,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "What do you mean 'no'? You're throwing\naway your precious hymen here!\\n< Man >"
+                                "What do you mean 'no'? You're throwing away your\nprecious hymen here!\\n< Man >"
                             ]
                         },
                         {
@@ -46758,7 +46758,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "With some guy's dick you don't know!\nFeeling it so much! You whore! What do\nyou mean by 'no'? Huh?!\\n< Man >"
+                                "With some guy's dick you don't know! Feeling it so\nmuch! You whore! What do you mean by 'no'? Huh?!\\n< Man >"
                             ]
                         },
                         {
@@ -46848,7 +46848,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Here, here! How about that?! It feels\ngood, doesn't it?! It feels good,\nright?!\\n< Man >"
+                                "Here, here! How about that?! It feels good,\ndoesn't it?! It feels good, right?!\\n< Man >"
                             ]
                         },
                         {
@@ -46894,7 +46894,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hi, guiiii! Ii! Ah! Uuu! Stop...! Stop\nit!\\n< Serena >"
+                                "Hi, guiiii! Ii! Ah! Uuu! Stop...! Stop it!\\n< Serena >"
                             ]
                         },
                         {
@@ -46918,7 +46918,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Even though you're clamping down tight!\nYour love juices are all slippery!\nOhoho!\\n< Man >"
+                                "Even though you're clamping down tight! Your love\njuices are all slippery! Ohoho!\\n< Man >"
                             ]
                         },
                         {
@@ -46935,7 +46935,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Thrusting and pulling out, every time!\nYou make my dick so happy! Damn, that's\nirresistible!\\n< Man >"
+                                "Thrusting and pulling out, every time! You make my\ndick so happy! Damn, that's irresistible!\\n< Man >"
                             ]
                         },
                         {
@@ -46952,7 +46952,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Where the hell did they pick up such a\ntop-notch whore like you?!\\n< Man >"
+                                "Where the hell did they pick up such a top-notch\nwhore like you?!\\n< Man >"
                             ]
                         },
                         {
@@ -47022,7 +47022,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Heh? What's that? Not satisfied? Having\nsex all of a sudden with some guy you\ndon't know!\\n< Man >"
+                                "Heh? What's that? Not satisfied? Having sex all of\na sudden with some guy you don't know!\\n< Man >"
                             ]
                         },
                         {
@@ -47039,7 +47039,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Moaning and gasping out loud like that!\nIf this isn't what a whore is, then what\nis it?!\\n< Man >"
+                                "Moaning and gasping out loud like that! If this\nisn't what a whore is, then what is it?!\\n< Man >"
                             ]
                         },
                         {
@@ -47080,7 +47080,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "There you go, how's that?! An adult's\ndick! Pushed all the way in and\nthrusting!\\n< Man >"
+                                "There you go, how's that?! An adult's dick! Pushed\nall the way in and thrusting!\\n< Man >"
                             ]
                         },
                         {
@@ -47128,7 +47128,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Alright, alright, as promised! I'll\nfinish up quickly as promised!\\n< Man >"
+                                "Alright, alright, as promised! I'll finish up\nquickly as promised!\\n< Man >"
                             ]
                         },
                         {
@@ -47145,7 +47145,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I'm going to finish now! I'll finish up\nnow, so just wait...! Fuu...! Fuh...!\\n< Man >"
+                                "I'm going to finish now! I'll finish up now, so\njust wait...! Fuu...! Fuh...!\\n< Man >"
                             ]
                         },
                         {
@@ -47197,7 +47197,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Ugh, I'm gonna cum! I'm gonna give\nnutrition to the kid in your womb!\\n< Man >"
+                                "Ugh, I'm gonna cum! I'm gonna give nutrition to\nthe kid in your womb!\\n< Man >"
                             ]
                         },
                         {
@@ -47224,7 +47224,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Ugh, I'm gonna cum! Get pregnant, get\npregnant!\\n< Man >"
+                                "Ugh, I'm gonna cum! Get pregnant, get pregnant!\\n< Man >"
                             ]
                         },
                         {
@@ -47455,7 +47455,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ugh, it's tightening... more is still\ncoming out... guuu...!\\n< Man >"
+                                "Ugh, it's tightening... more is still coming\nout... guuu...!\\n< Man >"
                             ]
                         },
                         {
@@ -47579,7 +47579,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Inside where the baby is... like that...\nno...\\n< Serena >"
+                                "Inside where the baby is... like that... no...\\n< Serena >"
                             ]
                         },
                         {
@@ -47606,7 +47606,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Deep... in the deepest part... like\nthat...\\n< Serena >"
+                                "Deep... in the deepest part... like that...\\n< Serena >"
                             ]
                         },
                         {
@@ -47693,7 +47693,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Heh, heh, hah, you came with the kid\ninside after being filled up.\\n< Man >"
+                                "Heh, heh, hah, you came with the kid inside after\nbeing filled up.\\n< Man >"
                             ]
                         },
                         {
@@ -47710,7 +47710,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Looks like I'll be having fun for a\nwhile. I've got a good toy now, eh?\\n< Man >"
+                                "Looks like I'll be having fun for a while. I've\ngot a good toy now, eh?\\n< Man >"
                             ]
                         },
                         {
@@ -47797,7 +47797,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Ohoo~... As expected of a pregnant hole.\nSlides right in... The body heat makes\nit feel so good.\\n< Man >"
+                                "Ohoo~... As expected of a pregnant hole. Slides\nright in... The body heat makes it feel so good.\\n< Man >"
                             ]
                         },
                         {
@@ -47821,7 +47821,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Guh, ugh...! Even though there's a baby\ninside...!\\n< Serena >"
+                                "Guh, ugh...! Even though there's a baby inside...!\\n< Serena >"
                             ]
                         },
                         {
@@ -47845,7 +47845,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Hehe, that's what makes it so fun, here\nwe go!\\n< Man >"
+                                "Hehe, that's what makes it so fun, here we go!\\n< Man >"
                             ]
                         },
                         {
@@ -48019,7 +48019,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Hehehe, acting all motherly? It's just\nthe seed of some brute anyway.\\n< Man >"
+                                "Hehehe, acting all motherly? It's just the seed of\nsome brute anyway.\\n< Man >"
                             ]
                         },
                         {
@@ -48036,7 +48036,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Even if it's born, it won't grow up to\nbe anything decent. Just like me, huh!\nHmph!\\n< Man >"
+                                "Even if it's born, it won't grow up to be anything\ndecent. Just like me, huh! Hmph!\\n< Man >"
                             ]
                         },
                         {
@@ -48098,7 +48098,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Uhi~i... Slides right in... Hehe, it's\ntight but getting used to it... a good\nhole...!\\n< Man >"
+                                "Uhi~i... Slides right in... Hehe, it's tight but\ngetting used to it... a good hole...!\\n< Man >"
                             ]
                         },
                         {
@@ -48122,7 +48122,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Ah, ugh, no... not in a place like\nthis... really...!\\n< Serena >"
+                                "Ah, ugh, no... not in a place like this...\nreally...!\\n< Serena >"
                             ]
                         },
                         {
@@ -48146,7 +48146,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Heheh, don't worry. I'm quick, so I\nwon't take much time, here we go!\\n< Man >"
+                                "Heheh, don't worry. I'm quick, so I won't take\nmuch time, here we go!\\n< Man >"
                             ]
                         },
                         {
@@ -48273,7 +48273,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "What hurts? Hehe, you're soaking wet,\naren't you? Ehh? You're looking forward\nto it... you little bitch!\\n< Man >"
+                                "What hurts? Hehe, you're soaking wet, aren't you?\nEhh? You're looking forward to it... you little\nbitch!\\n< Man >"
                             ]
                         },
                         {
@@ -48290,7 +48290,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Not even of age yet, with your tiny\nhands and feet you've already taken in\nso many men...! Bad girl...! Naughty\ngirl...!\\n< Man >"
+                                "Not even of age yet, with your tiny hands and feet\nyou've already taken in so many men...! Bad\ngirl...! Naughty girl...!\\n< Man >"
                             ]
                         },
                         {
@@ -48358,7 +48358,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Damn, what a waste. If I'd known, I\nwould have taken my time...\\n< Man >"
+                                "Damn, what a waste. If I'd known, I would have\ntaken my time...\\n< Man >"
                             ]
                         },
                         {
@@ -48406,7 +48406,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Well, what's lost is lost. Let's start\nfeeling good at least!\\n< Man >"
+                                "Well, what's lost is lost. Let's start feeling\ngood at least!\\n< Man >"
                             ]
                         },
                         {
@@ -48533,7 +48533,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Fufufu, it's a once in a lifetime pain.\nTreasure it. It's a sign you've become\nan adult.\\n< Man >"
+                                "Fufufu, it's a once in a lifetime pain. Treasure\nit. It's a sign you've become an adult.\\n< Man >"
                             ]
                         },
                         {
@@ -48550,7 +48550,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Soon enough you'll have so many dicks\nshoved in here you'll forget all about\nit... mufu!\\n< Man >"
+                                "Soon enough you'll have so many dicks shoved in\nhere you'll forget all about it... mufu!\\n< Man >"
                             ]
                         },
                         {
@@ -48618,7 +48618,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hehiho, crying out with a voice like a\nbell! Does my dick feel that good?!\\n< Man >"
+                                "Hehiho, crying out with a voice like a bell! Does\nmy dick feel that good?!\\n< Man >"
                             ]
                         },
                         {
@@ -48635,7 +48635,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Here, here, how about this? Even mine\nreaches deep inside! Eh? Does it feel\ngood being gouged out?\\n< Man >"
+                                "Here, here, how about this? Even mine reaches deep\ninside! Eh? Does it feel good being gouged out?\\n< Man >"
                             ]
                         },
                         {
@@ -48659,7 +48659,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Igii!? Nii! Ee... deep inside... stop\nit...! It's suffocating...!\\n< Serena >"
+                                "Igii!? Nii! Ee... deep inside... stop it...! It's\nsuffocating...!\\n< Serena >"
                             ]
                         },
                         {
@@ -48683,7 +48683,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hehehe, hoho! Does it feel that good? My\ndick feels that good, huh?!\\n< Man >"
+                                "Hehehe, hoho! Does it feel that good? My dick\nfeels that good, huh?!\\n< Man >"
                             ]
                         },
                         {
@@ -48700,7 +48700,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You've been flaunting that short skirt\nin front of me, shaking and flashing\nit... showing off your nice ass!\\n< Man >"
+                                "You've been flaunting that short skirt in front of\nme, shaking and flashing it... showing off your\nnice ass!\\n< Man >"
                             ]
                         },
                         {
@@ -48717,7 +48717,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You wanted my dick all along, didn't\nyou?! You wanted me to do this to you!\\n< Man >"
+                                "You wanted my dick all along, didn't you?! You\nwanted me to do this to you!\\n< Man >"
                             ]
                         },
                         {
@@ -48741,7 +48741,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "No, that's not...! I wasn't thinking...\nanything like that...! I was just...\ndesperately...!\\n< Serena >"
+                                "No, that's not...! I wasn't thinking... anything\nlike that...! I was just... desperately...!\\n< Serena >"
                             ]
                         },
                         {
@@ -48765,7 +48765,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Desperately seducing men, right?! Haa!\nHaa! You wanted to have sex so badly!\\n< Man >"
+                                "Desperately seducing men, right?! Haa! Haa! You\nwanted to have sex so badly!\\n< Man >"
                             ]
                         },
                         {
@@ -48782,7 +48782,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Haa! Haa! Your hole is good! Your face\nis good! Your voice is good!\\n< Man >"
+                                "Haa! Haa! Your hole is good! Your face is good!\nYour voice is good!\\n< Man >"
                             ]
                         },
                         {
@@ -48799,7 +48799,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "And yeah, this skin feel! The sensation\nof your plump ass... it's irresistible!\\n< Man >"
+                                "And yeah, this skin feel! The sensation of your\nplump ass... it's irresistible!\\n< Man >"
                             ]
                         },
                         {
@@ -48871,7 +48871,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Alright, alright, as promised! I'll\nfinish up quickly as promised!\\n< Man >"
+                                "Alright, alright, as promised! I'll finish up\nquickly as promised!\\n< Man >"
                             ]
                         },
                         {
@@ -48888,7 +48888,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I'm going to finish now! I'll finish it\nup now! Fuu...! Fuh...!\\n< Man >"
+                                "I'm going to finish now! I'll finish it up now!\nFuu...! Fuh...!\\n< Man >"
                             ]
                         },
                         {
@@ -48940,7 +48940,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Ugh, I'm going to cum! I'm going to give\nnutrition to the baby in your womb!\\n< Man >"
+                                "Ugh, I'm going to cum! I'm going to give nutrition\nto the baby in your womb!\\n< Man >"
                             ]
                         },
                         {
@@ -48967,7 +48967,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Ugh, I'm cumming! Get pregnant, get\npregnant!\\n< Man >"
+                                "Ugh, I'm cumming! Get pregnant, get pregnant!\\n< Man >"
                             ]
                         },
                         {
@@ -49187,7 +49187,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ugh, it's tightening... more is coming\nout... guhh...!\\n< Man >"
+                                "Ugh, it's tightening... more is coming out...\nguhh...!\\n< Man >"
                             ]
                         },
                         {
@@ -49311,7 +49311,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "In such a place... with a child...\nthat's...\\n< Serena >"
+                                "In such a place... with a child... that's...\\n< Serena >"
                             ]
                         },
                         {
@@ -49338,7 +49338,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Deep inside... the deepest part...\nthat's...\\n< Serena >"
+                                "Deep inside... the deepest part... that's...\\n< Serena >"
                             ]
                         },
                         {
@@ -49425,7 +49425,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hehah, hah, huff... ahh... that was\nsatisfying...\\n< Man >"
+                                "Hehah, hah, huff... ahh... that was satisfying...\\n< Man >"
                             ]
                         },
                         {
@@ -49831,7 +49831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yo. Good work. Made a decent amount of\nmoney, didn't you?\\n< Tavern Master >"
+                                "Yo. Good work. Made a decent amount of money,\ndidn't you?\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -49848,7 +49848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The waitressing job didn't pay much, so\nI can't give you wages for that.\\n< Tavern Master >"
+                                "The waitressing job didn't pay much, so I can't\ngive you wages for that.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -49896,7 +49896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Huh? Hey hey. Don't tell me you didn't\nknow.\\n< Tavern Master >"
+                                "Huh? Hey hey. Don't tell me you didn't know.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -49927,7 +49927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I didn't know! I didn't know\nanything...!\\n< Serena >"
+                                "I didn't know! I didn't know anything...!\\n< Serena >"
                             ]
                         },
                         {
@@ -49960,7 +49960,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hahaha. You're joking, right? After\nmaking such a loud fuss.\\n< Tavern Master >"
+                                "Hahaha. You're joking, right? After making such a\nloud fuss.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -49998,7 +49998,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Heh. So that old man got to eat a virgin\nfor 200 S. He really did well for\nhimself.\\n< Tavern Master >"
+                                "Heh. So that old man got to eat a virgin for 200\nS. He really did well for himself.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -50015,7 +50015,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "He also got a rare pregnant girl. He\nreally did well for himself.\\n< Tavern Master >"
+                                "He also got a rare pregnant girl. He really did\nwell for himself.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -50042,7 +50042,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Heh. So that old man got to eat a virgin\nfor 200 S. He really did well for\nhimself.\\n< Tavern Master >"
+                                "Heh. So that old man got to eat a virgin for 200\nS. He really did well for himself.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -50117,7 +50117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Now, now, don't be so angry. Either way,\nyou needed the money, right? Then it's\nlike you found a good way to earn it.\\n< Tavern Master >"
+                                "Now, now, don't be so angry. Either way, you\nneeded the money, right? Then it's like you found\na good way to earn it.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -50174,7 +50174,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You got to feel good and even got paid\nfor it. Is there any better way to make\nmoney?\\n< Tavern Master >"
+                                "You got to feel good and even got paid for it. Is\nthere any better way to make money?\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -50191,7 +50191,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I'm really envious of women. Just by\nspreading your legs everything goes well\nfor you. It must be so easy for you\ngirls.\\n< Tavern Master >"
+                                "I'm really envious of women. Just by spreading\nyour legs everything goes well for you. It must be\nso easy for you girls.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -50242,7 +50242,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "This is what being a maid is all about,\nright? Everyone's sneaking around the\nmaster's gaze and earning money\ncleverly.\\n< Tavern Master >"
+                                "This is what being a maid is all about, right?\nEveryone's sneaking around the master's gaze and\nearning money cleverly.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -50259,7 +50259,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "It's a good social study, isn't it?\\n< Tavern Master >"
+                                "It's a good social study, isn't it?\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -50317,7 +50317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well then, could you move aside soon?\nWe're still technically open for\nbusiness.\\n< Tavern Master >"
+                                "Well then, could you move aside soon? We're still\ntechnically open for business.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -50334,7 +50334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh, if you still want to work, I can\narrange that for you? With that face of\nyours, there are plenty of customers\nwho'd want a blowjob...\\n< Tavern Master >"
+                                "Oh, if you still want to work, I can arrange that\nfor you? With that face of yours, there are plenty\nof customers who'd want a blowjob...\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -51094,7 +51094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Heh heh. Hey, hey. What are you gonna do\nabout this? You've spilled alcohol all\nover my best clothes.\\n< Man >"
+                                "Heh heh. Hey, hey. What are you gonna do about\nthis? You've spilled alcohol all over my best\nclothes.\\n< Man >"
                             ]
                         },
                         {
@@ -51167,7 +51167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Huh? Does this place have a rule against\nsticking your feet out from under the\ntable?\\n< Man >"
+                                "Huh? Does this place have a rule against sticking\nyour feet out from under the table?\\n< Man >"
                             ]
                         },
                         {
@@ -51215,7 +51215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Here, wipe it off. With those pretty\nlittle hands of yours.\\n< Man >"
+                                "Here, wipe it off. With those pretty little hands\nof yours.\\n< Man >"
                             ]
                         },
                         {
@@ -51688,7 +51688,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hehe, I heard about you from Yan and had\nmy sights set on you.\\n< Man >"
+                                "Hehe, I heard about you from Yan and had my sights\nset on you.\\n< Man >"
                             ]
                         },
                         {
@@ -51705,7 +51705,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Easy to screw, huh! Even with a kid in\nyour belly!\\n< Man >"
+                                "Easy to screw, huh! Even with a kid in your belly!\\n< Man >"
                             ]
                         },
                         {
@@ -51842,7 +51842,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hehe, but man, I didn't expect you to be\nthis eager for a dick...!\\n< Man >"
+                                "Hehe, but man, I didn't expect you to be this\neager for a dick...!\\n< Man >"
                             ]
                         },
                         {
@@ -51870,7 +51870,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Carrying a kid in your belly and all you\nthink about is sex, huh!\\n< Man >"
+                                "Carrying a kid in your belly and all you think\nabout is sex, huh!\\n< Man >"
                             ]
                         },
                         {
@@ -51897,7 +51897,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Did you get trained somewhere? Despite\nbeing so small! How many have you taken\nin your mouth, huh!\\n< Man >"
+                                "Did you get trained somewhere? Despite being so\nsmall! How many have you taken in your mouth, huh!\\n< Man >"
                             ]
                         },
                         {
@@ -51988,7 +51988,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Let out some nice moans! You know how to\nplease a man!\\n< Man >"
+                                "Let out some nice moans! You know how to please a\nman!\\n< Man >"
                             ]
                         },
                         {
@@ -52005,7 +52005,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "There, I'm gonna shoot. I can go two or\nthree rounds, you know. I'll make sure\nyou enjoy it!\\n< Man >"
+                                "There, I'm gonna shoot. I can go two or three\nrounds, you know. I'll make sure you enjoy it!\\n< Man >"
                             ]
                         },
                         {
@@ -52142,7 +52142,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hehe, I heard about you from Yan and had\nmy sights set on you.\\n< Man >"
+                                "Hehe, I heard about you from Yan and had my sights\nset on you.\\n< Man >"
                             ]
                         },
                         {
@@ -52159,7 +52159,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Easy to screw, huh! Even with a kid in\nyour belly!\\n< Man >"
+                                "Easy to screw, huh! Even with a kid in your belly!\\n< Man >"
                             ]
                         },
                         {
@@ -52296,7 +52296,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You're a much better catch than I heard\nin the stories...! Even easier than I\nthought!\\n< Man >"
+                                "You're a much better catch than I heard in the\nstories...! Even easier than I thought!\\n< Man >"
                             ]
                         },
                         {
@@ -52324,7 +52324,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Pregnant and short on cash, right? I'll\ntake good care of you from now on, okay?\\n< Man >"
+                                "Pregnant and short on cash, right? I'll take good\ncare of you from now on, okay?\\n< Man >"
                             ]
                         },
                         {
@@ -52351,7 +52351,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Short on cash, right? I'll take good\ncare of you from now on, okay?\\n< Man >"
+                                "Short on cash, right? I'll take good care of you\nfrom now on, okay?\\n< Man >"
                             ]
                         },
                         {
@@ -52402,7 +52402,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You're mating with that disgusting\nfeeling right now, you know~.\\n< Man >"
+                                "You're mating with that disgusting feeling right\nnow, you know~.\\n< Man >"
                             ]
                         },
                         {
@@ -52419,7 +52419,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "There, I'm gonna shoot. I can go two or\nthree rounds, you know. Enjoy it.\\n< Man >"
+                                "There, I'm gonna shoot. I can go two or three\nrounds, you know. Enjoy it.\\n< Man >"
                             ]
                         },
                         {
@@ -53000,7 +53000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ugh... today... again... for such...\nmeager money...\\n< Serena >"
+                                "Ugh... today... again... for such... meager\nmoney...\\n< Serena >"
                             ]
                         },
                         {
@@ -53798,7 +53798,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Heh, showing off that big belly. You're\ninviting me, aren't you? Huh? It's fine,\nright?\\n< Man >"
+                                "Heh, showing off that big belly. You're inviting\nme, aren't you? Huh? It's fine, right?\\n< Man >"
                             ]
                         },
                         {
@@ -53825,7 +53825,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Heh, dressed like that. You're inviting\nme, aren't you? Huh? It's fine, right?\\n< Man >"
+                                "Heh, dressed like that. You're inviting me, aren't\nyou? Huh? It's fine, right?\\n< Man >"
                             ]
                         },
                         {
@@ -54062,7 +54062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Heh, completely ignoring me. Do as\nyou please then.\\n< Man >"
+                                "...Heh, completely ignoring me. Do as you please\nthen.\\n< Man >"
                             ]
                         },
                         {
@@ -54579,7 +54579,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Heh, every time I thrust, your belly...\nshakes... heh! It's hilarious!\\n< Man >"
+                                "Heh, every time I thrust, your belly... shakes...\nheh! It's hilarious!\\n< Man >"
                             ]
                         },
                         {
@@ -54606,7 +54606,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Every thrust makes you let out cute\nnoises. It's getting fun, huh?\\n< Man >"
+                                "Every thrust makes you let out cute noises. It's\ngetting fun, huh?\\n< Man >"
                             ]
                         },
                         {
@@ -54675,7 +54675,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I'll make it feel even better for you,\nokay? Yo, ho, ora, ora...!\\n< Man >"
+                                "I'll make it feel even better for you, okay? Yo,\nho, ora, ora...!\\n< Man >"
                             ]
                         },
                         {
@@ -54763,7 +54763,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Haah, haah, I'm coming... I'm gonna\ncome...!\\n< Man >"
+                                "Haah, haah, I'm coming... I'm gonna come...!\\n< Man >"
                             ]
                         },
                         {
@@ -54798,7 +54798,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ah, aah...! No, it's bad...! Like that!\n...Out...!\\n< Serena >"
+                                "Ah, aah...! No, it's bad...! Like that! ...Out...!\\n< Serena >"
                             ]
                         },
                         {
@@ -55050,7 +55050,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You seem happy to swallow it. What do\nyou mean 'out'? You whore...\\n< Man >"
+                                "You seem happy to swallow it. What do you mean\n'out'? You whore...\\n< Man >"
                             ]
                         },
                         {
@@ -55112,7 +55112,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Heh, every time I thrust, your belly...\nshakes... heh! It's hilarious!\\n< Man >"
+                                "Heh, every time I thrust, your belly... shakes...\nheh! It's hilarious!\\n< Man >"
                             ]
                         },
                         {
@@ -55296,7 +55296,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Haah, haah, I'm coming... I'm gonna\ncome...!\\n< Man >"
+                                "Haah, haah, I'm coming... I'm gonna come...!\\n< Man >"
                             ]
                         },
                         {
@@ -56097,7 +56097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hey, girl.\\n< Tavern Master >"
+                                "Hey, girl.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -56145,7 +56145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Clean the toilet before you leave.\\n< Tavern Master >"
+                                "Clean the toilet before you leave.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -56162,7 +56162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Whoever uses it cleans it. That's just\ncommon sense. Besides, you'd be troubled\nby the smell too, right? In more ways\nthan one.\\n< Tavern Master >"
+                                "Whoever uses it cleans it. That's just common\nsense. Besides, you'd be troubled by the smell\ntoo, right? In more ways than one.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -56210,7 +56210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Heh, thanks to that our toilet is known\nas the cleanest in town.\\n< Tavern Master >"
+                                "Heh, thanks to that our toilet is known as the\ncleanest in town.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -59230,7 +59230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehe, I can't get enough of this. Come\non, let's head to the bathroom.\\n< Man >"
+                                "Hehe, I can't get enough of this. Come on, let's\nhead to the bathroom.\\n< Man >"
                             ]
                         },
                         {
@@ -59311,7 +59311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's fine. No one's asking that much of\nyou.\\n< Man >"
+                                "It's fine. No one's asking that much of you.\\n< Man >"
                             ]
                         },
                         {
@@ -59951,7 +59951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hey, open your mouth. I'll let you suck\nit.\\n< Man >"
+                                "Hey, open your mouth. I'll let you suck it.\\n< Man >"
                             ]
                         },
                         {
@@ -60344,7 +60344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Haha... Hehe, so tasty. This is the best\nthing this place has to offer.\\n< Man >"
+                                "Haha... Hehe, so tasty. This is the best thing\nthis place has to offer.\\n< Man >"
                             ]
                         },
                         {
@@ -60414,7 +60414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Plus, you get wetter and tighter. Heh,\ntwo birds with one stone, huh? Hehehe!\\n< Man >"
+                                "Plus, you get wetter and tighter. Heh, two birds\nwith one stone, huh? Hehehe!\\n< Man >"
                             ]
                         },
                         {
@@ -60605,7 +60605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Has anyone ever actually done it outside\nfor you? Yo!\\n< Man >"
+                                "Has anyone ever actually done it outside for you?\nYo!\\n< Man >"
                             ]
                         },
                         {
@@ -60907,7 +60907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There there, that was just a warm-up\nshot. Now for the second round...\\n< Man >"
+                                "There there, that was just a warm-up shot. Now for\nthe second round...\\n< Man >"
                             ]
                         },
                         {
@@ -61008,7 +61008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hey, there's a line here! Hurry up and\nfinish!\\n< Man >"
+                                "Hey, there's a line here! Hurry up and finish!\\n< Man >"
                             ]
                         },
                         {
@@ -61375,7 +61375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This place is always like this. When a\ngood toilet comes along, they use it up\nand break it right away.\\n< Man >"
+                                "This place is always like this. When a good toilet\ncomes along, they use it up and break it right\naway.\\n< Man >"
                             ]
                         },
                         {
@@ -61392,7 +61392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There are a lot of guys who come looking\nfor a free fuck, so make sure they pay\nup before letting them in, got it?\\n< Man >"
+                                "There are a lot of guys who come looking for a\nfree fuck, so make sure they pay up before letting\nthem in, got it?\\n< Man >"
                             ]
                         },
                         {
@@ -61409,7 +61409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Otherwise, it'll be over in no time. I\nwant the girl to last as long as\npossible, you know.\\n< Man >"
+                                "Otherwise, it'll be over in no time. I want the\ngirl to last as long as possible, you know.\\n< Man >"
                             ]
                         },
                         {
@@ -62153,7 +62153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yo-. You must be tired. Hahaha, did you\nmake good money?\\n< Tavern Master >"
+                                "Yo-. You must be tired. Hahaha, did you make good\nmoney?\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -62201,7 +62201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You're practically our star attraction\nnow. The regulars are all here for you.\\n< Tavern Master >"
+                                "You're practically our star attraction now. The\nregulars are all here for you.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -62218,7 +62218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But we can't let you earn big like today\ntoo often. If we get too flashy, even\nthe city guards won't stay quiet.\\n< Tavern Master >"
+                                "But we can't let you earn big like today too\noften. If we get too flashy, even the city guards\nwon't stay quiet.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -62266,7 +62266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Keep it on the down-low, alright? That's\nwhat makes it so good. You get that,\nright?\\n< Tavern Master >"
+                                "Keep it on the down-low, alright? That's what\nmakes it so good. You get that, right?\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -62283,7 +62283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's give and take. I'm counting on you\nfrom now on too, okay?\\n< Tavern Master >"
+                                "It's give and take. I'm counting on you from now\non too, okay?\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -63412,7 +63412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Welcome. What will it be?\\n< Tavern Master >"
+                                "Welcome. What will it be?\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -63429,7 +63429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You know what I want. A glass of \"Milk\nLiquor\".\\n< Man >"
+                                "You know what I want. A glass of \"Milk Liquor\".\\n< Man >"
                             ]
                         },
                         {
@@ -63446,7 +63446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehe, that'll be 50 S... Coming right\nup.\\n< Tavern Master >"
+                                "Hehe, that'll be 50 S... Coming right up.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -63494,7 +63494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hey.\\n< Tavern Master >"
+                                "Hey.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -63735,7 +63735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There, there. Hup, hup...\\n< Tavern Master >"
+                                "There, there. Hup, hup...\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -63962,7 +63962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hup, hup...\\n< Tavern Master >"
+                                "Hup, hup...\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -64175,7 +64175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No, it's always about this much. Come\non, hurry up and let it out.\\n< Tavern Master >"
+                                "No, it's always about this much. Come on, hurry up\nand let it out.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -64615,7 +64615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Here you go, freshly squeezed Milk\nLiquor. Just a moment more.\\n< Tavern Master >"
+                                "Here you go, freshly squeezed Milk Liquor. Just a\nmoment more.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -64766,7 +64766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...And it's done. Here you go.\\n< Tavern Master >"
+                                "...And it's done. Here you go.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -64869,7 +64869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mmm... The rich scent of milk flows into\nmy nostrils...\\n< Man >"
+                                "Mmm... The rich scent of milk flows into my\nnostrils...\\n< Man >"
                             ]
                         },
                         {
@@ -64886,7 +64886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Nice... It's definitely worth the price.\nIt pleases the tongue, the nose, and\neven the eyes. Marvelous. It's no wonder\nit's a specialty.\\n< Man >"
+                                "Nice... It's definitely worth the price. It\npleases the tongue, the nose, and even the eyes.\nMarvelous. It's no wonder it's a specialty.\\n< Man >"
                             ]
                         },
                         {
@@ -64903,7 +64903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But how did you ever come up with such a\nthing?\\n< Man >"
+                                "But how did you ever come up with such a thing?\\n< Man >"
                             ]
                         },
                         {
@@ -64920,7 +64920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well, this one's been pregnant all year\nround, you see.\\n< Tavern Master >"
+                                "Well, this one's been pregnant all year round, you\nsee.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -64937,7 +64937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So the milk just keeps flowing. I\nthought it was such a waste.\\n< Tavern Master >"
+                                "So the milk just keeps flowing. I thought it was\nsuch a waste.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -64954,7 +64954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But there wasn't enough to serve it as a\nsingle item. So I thought, why not pair\nit with liquor?\\n< Tavern Master >"
+                                "But there wasn't enough to serve it as a single\nitem. So I thought, why not pair it with liquor?\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -65212,7 +65212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oops, my apologies for that in front of\nthe customer. Sorry about that.\\n< Tavern Master >"
+                                "Oops, my apologies for that in front of the\ncustomer. Sorry about that.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -65229,7 +65229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I always say, if there are tears to be\nshed, turn them into milk and serve it\nup.\\n< Tavern Master >"
+                                "I always say, if there are tears to be shed, turn\nthem into milk and serve it up.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -65246,7 +65246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Then why not add those tears to the\nliquor as well?\\n< Man >"
+                                "Then why not add those tears to the liquor as\nwell?\\n< Man >"
                             ]
                         },
                         {
@@ -65263,7 +65263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh, that's a good idea, sir.\\n< Tavern Master >"
+                                "Oh, that's a good idea, sir.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -65280,7 +65280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Adding tears to the liquor... It might\nnot change the taste, but that's where a\nclever presentation comes in... Hmm...\nhmm...\\n< Tavern Master >"
+                                "Adding tears to the liquor... It might not change\nthe taste, but that's where a clever presentation\ncomes in... Hmm... hmm...\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -65344,7 +65344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hmm. Looks like that girl is going to be\nsqueezed dry, quite literally.\\n< Man >"
+                                "Hmm. Looks like that girl is going to be squeezed\ndry, quite literally.\\n< Man >"
                             ]
                         },
                         {
@@ -69956,7 +69956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "＜＜Stage 3 Erotic Event Finale＞＞#Entering\nfrom the entrance to the counter#"
+                                "＜＜Stage 3 Erotic Event Finale＞＞#Entering from the\nentrance to the counter#"
                             ]
                         },
                         {
@@ -69974,7 +69974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Welcome. What can I get for you?\\n< Tavern Master >"
+                                "Welcome. What can I get for you?\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -69992,7 +69992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Isn't it obvious? A glass of 'Milk\nLiquor'.\\n< Man >"
+                                "Isn't it obvious? A glass of 'Milk Liquor'.\\n< Man >"
                             ]
                         },
                         {
@@ -70010,7 +70010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehe, that'll be 50 S... Coming right\nup.\\n< Tavern Master >"
+                                "Hehe, that'll be 50 S... Coming right up.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -70028,7 +70028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hey.\\n< Tavern Master >"
+                                "Hey.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -70064,7 +70064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There, there. Hup, hup...\\n< Tavern Master >"
+                                "There, there. Hup, hup...\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -70100,7 +70100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hup, hup...\\n< Tavern Master >"
+                                "Hup, hup...\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -70154,7 +70154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No, it's always about this much. Come\non, hurry up and let it out.\\n< Tavern Master >"
+                                "No, it's always about this much. Come on, hurry up\nand let it out.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -70262,7 +70262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Here, freshly squeezed Milk Liquor. Just\na bit more.\\n< Tavern Master >"
+                                "Here, freshly squeezed Milk Liquor. Just a bit\nmore.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -70298,7 +70298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...And it's done. Here you go.\\n< Tavern Master >"
+                                "...And it's done. Here you go.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -70334,7 +70334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mmm... The rich scent of milk flows into\nmy nostrils...\\n< Man >"
+                                "Mmm... The rich scent of milk flows into my\nnostrils...\\n< Man >"
                             ]
                         },
                         {
@@ -70352,7 +70352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Nice... It's definitely worth the price.\nIt pleases the tongue, the nose, and\neven the eyes. Marvelous. It's no wonder\nit's a specialty.\\n< Man >"
+                                "Nice... It's definitely worth the price. It\npleases the tongue, the nose, and even the eyes.\nMarvelous. It's no wonder it's a specialty.\\n< Man >"
                             ]
                         },
                         {
@@ -70370,7 +70370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But how did you ever come up with such a\nthing?\\n< Man >"
+                                "But how did you ever come up with such a thing?\\n< Man >"
                             ]
                         },
                         {
@@ -70388,7 +70388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well, this one's been pregnant all year\nround, you see.\\n< Tavern Master >"
+                                "Well, this one's been pregnant all year round, you\nsee.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -70406,7 +70406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "And with that, milk just keeps flowing\nout. It seemed such a waste not to use\nit.\\n< Tavern Master >"
+                                "And with that, milk just keeps flowing out. It\nseemed such a waste not to use it.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -70424,7 +70424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But there wasn't enough to serve it as a\nstandalone drink. So I thought, why not\npair it with liquor?\\n< Tavern Master >"
+                                "But there wasn't enough to serve it as a\nstandalone drink. So I thought, why not pair it\nwith liquor?\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -70532,7 +70532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oops, my apologies for being rude in\nfront of a customer. Sorry about that.\\n< Tavern Master >"
+                                "Oops, my apologies for being rude in front of a\ncustomer. Sorry about that.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -70550,7 +70550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I always tell her, if you're going to\ncry, let it out as milk instead.\\n< Tavern Master >"
+                                "I always tell her, if you're going to cry, let it\nout as milk instead.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -70568,7 +70568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Then why not add those tears to the\nliquor?\\n< Man >"
+                                "Then why not add those tears to the liquor?\\n< Man >"
                             ]
                         },
                         {
@@ -70586,7 +70586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh, that's a good idea from you, sir.\\n< Tavern Master >"
+                                "Oh, that's a good idea from you, sir.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -70604,7 +70604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Adding tears... It might not change the\ntaste, but it adds something extra...\\n< Tavern Master >"
+                                "Adding tears... It might not change the taste, but\nit adds something extra...\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -70622,7 +70622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hmm. Looks like that little wench is\ngoing to be squeezed dry, quite\nliterally.\\n< Man >"
+                                "Hmm. Looks like that little wench is going to be\nsqueezed dry, quite literally.\\n< Man >"
                             ]
                         },
                         {
@@ -70640,7 +70640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "#Fade to black, under the counter. From\nhere on, use as a generic random event#"
+                                "#Fade to black, under the counter. From here on,\nuse as a generic random event#"
                             ]
                         },
                         {
@@ -70863,7 +70863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah, you're back. Good work. Seems like\nyou've been quite pampered, huh?\\n< Tavern Master >"
+                                "Ah, you're back. Good work. Seems like you've been\nquite pampered, huh?\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -70917,7 +70917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What's wrong? Come over here.\\n< Tavern Master >"
+                                "What's wrong? Come over here.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -71052,7 +71052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Here, your tip. 300 S.\\n< Tavern Master >"
+                                "Here, your tip. 300 S.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -71114,7 +71114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Thanks to you, I can increase the bribes\nto those guys. Looks like I can expand\nthe business I've been running on the\ndown-low.\\n< Tavern Master >"
+                                "Thanks to you, I can increase the bribes to those\nguys. Looks like I can expand the business I've\nbeen running on the down-low.\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -71132,7 +71132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The nose candy for the lot cost me a\npretty penny, but I'll make it back in\nspades from now on. I'll make sure you\nget a slice of the good life too,\nalright?\\n< Tavern Master >"
+                                "The nose candy for the lot cost me a pretty penny,\nbut I'll make it back in spades from now on. I'll\nmake sure you get a slice of the good life too,\nalright?\\n< Tavern Master>"
                             ]
                         },
                         {
@@ -71182,7 +71182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "GAHAHAHAHAHA!!\\n< Tavern Master >"
+                                "GAHAHAHAHAHA!!\\n< Tavern Master>"
                             ]
                         },
                         {

@@ -2548,7 +2548,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"It's underwear. I want to sell\nunderwear. It's made of silk. A luxury\nitem.\"\\n< Serena >"
+                                "\"It's underwear. I want to sell underwear. It's\nmade of silk. A luxury item.\"\\n< Serena >"
                             ]
                         },
                         {
@@ -2573,7 +2573,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Oh? Silk underwear? That is indeed\nquite splendid.\"\\n< Item Shopkeeper >"
+                                "\"Oh? Silk underwear? That is indeed quite\nsplendid.\"\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -2641,7 +2641,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Hmm. The weave of the fabric is\ncertain. The unique sheen, the\ntexture...\"\\n< Item Shopkeeper >"
+                                "\"Hmm. The weave of the fabric is certain. The\nunique sheen, the texture...\"\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -2659,7 +2659,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Indeed, silk. And of high quality...\nWhat's the matter?\"\\n< Item Shopkeeper >"
+                                "\"Indeed, silk. And of high quality... What's the\nmatter?\"\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -2695,7 +2695,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"...It's somewhat disconcerting to have\nit fondled so much right before my\neyes.\"\\n< Serena >"
+                                "\"...It's somewhat disconcerting to have it fondled\nso much right before my eyes.\"\\n< Serena >"
                             ]
                         },
                         {
@@ -2752,7 +2752,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"No, it's nothing. My apologies. Please\ncontinue.\"\\n< Serena >"
+                                "\"No, it's nothing. My apologies. Please continue.\"\\n< Serena >"
                             ]
                         },
                         {
@@ -2795,7 +2795,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Anyway, this is quite a find. If we\nwere to purchase it... let's see.\"\\n< Item Shopkeeper >"
+                                "\"Anyway, this is quite a find. If we were to\npurchase it... let's see.\"\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -2813,7 +2813,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"I would say about 1000 S would be the\nprice.\"\\n< Item Shopkeeper >"
+                                "\"I would say about 1000 S would be the price.\"\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -2924,7 +2924,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"The purchase price for this was 100 G!\nIt cost 10,000 S! There's no way the\nprice should drop to one-tenth no matter\nhow you look at it!\"\\n< Serena >"
+                                "\"The purchase price for this was 100 G! It cost\n10,000 S! There's no way the price should drop to\none-tenth no matter how you look at it!\"\\n< Serena >"
                             ]
                         },
                         {
@@ -2949,7 +2949,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"I'm not aware of the buying price...\nbut as for us, we are in business, after\nall.\"\\n< Item Shopkeeper >"
+                                "\"I'm not aware of the buying price... but as for\nus, we are in business, after all.\"\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -2966,7 +2966,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Considering our profit margin, that's\nabout as much as we can offer in coin\nright now.\"\\n< Item Shopkeeper >"
+                                "\"Considering our profit margin, that's about as\nmuch as we can offer in coin right now.\"\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -3015,7 +3015,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Given that this is such a small piece,\nsuitable for a child, there's hardly any\ndemand for it.\"\\n< Item Shopkeeper >"
+                                "\"Given that this is such a small piece, suitable\nfor a child, there's hardly any demand for it.\"\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -3032,7 +3032,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"No matter how expensive or luxurious\nthe item is, it's meaningless if it\ndoesn't sell.\"\\n< Item Shopkeeper >"
+                                "\"No matter how expensive or luxurious the item is,\nit's meaningless if it doesn't sell.\"\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -3049,7 +3049,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Even considering the fabric, when it's\nthis small, it's quite difficult to\nrepurpose it into something else...\"\\n< Item Shopkeeper >"
+                                "\"Even considering the fabric, when it's this\nsmall, it's quite difficult to repurpose it into\nsomething else...\"\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -3090,7 +3090,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"I believe this is quite a fair offer,\nall things considered.\"\\n< Item Shopkeeper >"
+                                "\"I believe this is quite a fair offer, all things\nconsidered.\"\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -3211,7 +3211,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\"No... I understand. I'd like you to buy\nit.\"\\n< Serena >"
+                                "\"No... I understand. I'd like you to buy it.\"\\n< Serena >"
                             ]
                         },
                         {
@@ -3235,7 +3235,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\"Although it's only 1000 S, I am\ngrateful for it now.\"\\n< Serena >"
+                                "\"Although it's only 1000 S, I am grateful for it\nnow.\"\\n< Serena >"
                             ]
                         },
                         {
@@ -3259,7 +3259,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\"Understood. Then we will take it off\nyour hands.\"\\n< Item Shopkeeper >"
+                                "\"Understood. Then we will take it off your hands.\"\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -3277,7 +3277,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\"Here is your payment of 1000 S. Please\nconfirm.\"\\n< Item Shopkeeper >"
+                                "\"Here is your payment of 1000 S. Please confirm.\"\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -3355,7 +3355,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\"Thank you as always. We look forward to\nyour next visit.\"\\n< Item Shopkeeper >"
+                                "\"Thank you as always. We look forward to your next\nvisit.\"\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -3431,7 +3431,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\"I apologize. I cannot decide so\nlightly. Please give me a moment to\nthink.\"\\n< Serena >"
+                                "\"I apologize. I cannot decide so lightly. Please\ngive me a moment to think.\"\\n< Serena >"
                             ]
                         },
                         {
@@ -3456,7 +3456,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\"Understood. Then I will return the\nunderwear to you.\"\\n< Item Shopkeeper >"
+                                "\"Understood. Then I will return the underwear to\nyou.\"\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -3474,7 +3474,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\"If you change your mind, please feel\nfree to visit us again anytime.\"\\n< Item Shopkeeper >"
+                                "\"If you change your mind, please feel free to\nvisit us again anytime.\"\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -3615,7 +3615,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Is that so? The amount will be 1000 S.\nIs that alright with you?\\n< Item Shopkeeper >"
+                                "Is that so? The amount will be 1000 S. Is that\nalright with you?\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -3679,7 +3679,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Even though it's only 1000 S, I am\ngrateful for it now.\\n< Serena >"
+                                "Even though it's only 1000 S, I am grateful for it\nnow.\\n< Serena >"
                             ]
                         },
                         {
@@ -3703,7 +3703,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Understood. Then we will take it off\nyour hands.\\n< Item Shopkeeper >"
+                                "Understood. Then we will take it off your hands.\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -3721,7 +3721,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Here is your payment of 1000 S. Please\nconfirm.\\n< Item Shopkeeper >"
+                                "Here is your payment of 1000 S. Please confirm.\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -3799,7 +3799,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Thank you as always. We look forward to\nyour next visit.\\n< Item Shopkeeper >"
+                                "Thank you as always. We look forward to your next\nvisit.\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -3874,7 +3874,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "I apologize. I cannot decide so lightly.\nPlease give me a moment to think.\\n< Serena >"
+                                "I apologize. I cannot decide so lightly. Please\ngive me a moment to think.\\n< Serena >"
                             ]
                         },
                         {
@@ -3899,7 +3899,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Understood. Then I will return the\nunderwear to you.\\n< Item Shopkeeper >"
+                                "Understood. Then I will return the underwear to\nyou.\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -3917,7 +3917,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "If you change your mind, please feel\nfree to visit us again anytime.\\n< Item Shopkeeper >"
+                                "If you change your mind, please feel free to visit\nus again anytime.\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -4083,7 +4083,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Welcome. Do you have something else to\nsell?\\n< Item Shopkeeper >"
+                                "Welcome. Do you have something else to sell?\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -4107,7 +4107,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "This time, I would like you to appraise\nthis.\\n< Serena >"
+                                "This time, I would like you to appraise this.\\n< Serena >"
                             ]
                         },
                         {
@@ -4131,7 +4131,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Nightwear... A negligee, is it? It's\nmore refined in design and material than\nthe underwear we received before.\\n< Item Shopkeeper >"
+                                "Nightwear... A negligee, is it? It's more refined\nin design and material than the underwear we\nreceived before.\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -4162,7 +4162,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "What do you think, could this be worth\nabout 2000 S...?\\n< Serena >"
+                                "What do you think, could this be worth about 2000\nS...?\\n< Serena >"
                             ]
                         },
                         {
@@ -4186,7 +4186,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "This too is quite a find, but... there's\nstill the issue of size.\\n< Item Shopkeeper >"
+                                "This too is quite a find, but... there's still the\nissue of size.\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -4203,7 +4203,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "If we were to buy it, it would still be\n1000 S, I'm afraid.\\n< Item Shopkeeper >"
+                                "If we were to buy it, it would still be 1000 S,\nI'm afraid.\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -4251,7 +4251,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "It seems to be a high-quality, custom-\nmade item, but that point becomes a\nproblem for a used item.\\n< Item Shopkeeper >"
+                                "It seems to be a high-quality, custom- made item,\nbut that point becomes a problem for a used item.\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -4268,7 +4268,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Finding someone who wants to buy\nnightwear of this size is... quite rare\nindeed.\\n< Item Shopkeeper >"
+                                "Finding someone who wants to buy nightwear of this\nsize is... quite rare indeed.\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -4386,7 +4386,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Understood. Then we will take it off\nyour hands.\\n< Item Shopkeeper >"
+                                "Understood. Then we will take it off your hands.\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -4404,7 +4404,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Here is your payment of 1000 S. Please\nconfirm.\\n< Item Shopkeeper >"
+                                "Here is your payment of 1000 S. Please confirm.\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -4482,7 +4482,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Thank you as always. We look forward to\nyour next visit.\\n< Item Shopkeeper >"
+                                "Thank you as always. We look forward to your next\nvisit.\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -4547,7 +4547,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "I apologize. I cannot decide so lightly.\nPlease give me a moment to think.\\n< Serena >"
+                                "I apologize. I cannot decide so lightly. Please\ngive me a moment to think.\\n< Serena >"
                             ]
                         },
                         {
@@ -4572,7 +4572,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Understood. Then I will return the\nnightwear to you.\\n< Item Shopkeeper >"
+                                "Understood. Then I will return the nightwear to\nyou.\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -4590,7 +4590,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "If you change your mind, please feel\nfree to visit us again anytime.\\n< Item Shopkeeper >"
+                                "If you change your mind, please feel free to visit\nus again anytime.\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -4731,7 +4731,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Is that so? The amount will be 1000 S.\nIs that alright with you?\\n< Item Shopkeeper >"
+                                "Is that so? The amount will be 1000 S. Is that\nalright with you?\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -4801,7 +4801,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Understood. Then we will take it off\nyour hands.\\n< Item Shopkeeper >"
+                                "Understood. Then we will take it off your hands.\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -4819,7 +4819,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Here is your payment of 1000 S. Please\nconfirm.\\n< Item Shopkeeper >"
+                                "Here is your payment of 1000 S. Please confirm.\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -4897,7 +4897,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Thank you as always. We look forward to\nyour next visit.\\n< Item Shopkeeper >"
+                                "Thank you as always. We look forward to your next\nvisit.\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -4961,7 +4961,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "I apologize. I cannot decide so lightly.\nPlease give me a moment to think.\\n< Serena >"
+                                "I apologize. I cannot decide so lightly. Please\ngive me a moment to think.\\n< Serena >"
                             ]
                         },
                         {
@@ -4986,7 +4986,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Understood. Then I will return the\nnightwear to you.\\n< Item Shopkeeper >"
+                                "Understood. Then I will return the nightwear to\nyou.\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -5004,7 +5004,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "If you change your mind, please feel\nfree to visit us again anytime.\\n< Item Shopkeeper >"
+                                "If you change your mind, please feel free to visit\nus again anytime.\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -5223,7 +5223,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "No matter what kind of pervert you may\nbe, a customer is still a customer.\\n< Item Shopkeeper >"
+                                "No matter what kind of pervert you may be, a\ncustomer is still a customer.\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -5278,7 +5278,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Customer... coming to the shop dressed\nlike that is...\\n< Item Shopkeeper >"
+                                "Customer... coming to the shop dressed like that\nis...\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -5316,7 +5316,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I believe there are things you should\npurchase before tools.\\n< Item Shopkeeper >"
+                                "I believe there are things you should purchase\nbefore tools.\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -5382,7 +5382,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "My, my, customer. That is quite a\nsplendid outfit you have on.\\n< Item Shopkeeper >"
+                                "My, my, customer. That is quite a splendid outfit\nyou have on.\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -5420,7 +5420,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "We also have sewing needles and thread\navailable if you'd like to take a look.\\n< Item Shopkeeper >"
+                                "We also have sewing needles and thread available\nif you'd like to take a look.\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -5496,7 +5496,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Welcome. Are you preparing to welcome a\nchild?\\n< Item Shopkeeper >"
+                                "Welcome. Are you preparing to welcome a child?\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -5534,7 +5534,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "If you wish, we can also prepare baby\nclothes for you.\\n< Item Shopkeeper >"
+                                "If you wish, we can also prepare baby clothes for\nyou.\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -5867,7 +5867,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "No matter what kind of pervert you might\nbe, a customer is still a customer.\\n< Item Shopkeeper >"
+                                "No matter what kind of pervert you might be, a\ncustomer is still a customer.\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -5922,7 +5922,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Dear customer... coming to the shop\ndressed like that...\\n< Item Shopkeeper >"
+                                "Dear customer... coming to the shop dressed like\nthat...\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -5960,7 +5960,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I think there are things you should\npurchase before tools.\\n< Item Shopkeeper >"
+                                "I think there are things you should purchase\nbefore tools.\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -6026,7 +6026,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "My, my, dear customer. What splendid\nattire you have on.\\n< Item Shopkeeper >"
+                                "My, my, dear customer. What splendid attire you\nhave on.\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -6064,7 +6064,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "We also have sewing needles and thread,\nso please take a look if you wish.\\n< Item Shopkeeper >"
+                                "We also have sewing needles and thread, so please\ntake a look if you wish.\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -6140,7 +6140,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Welcome. Are you preparing to welcome a\nchild?\\n< Item Shopkeeper >"
+                                "Welcome. Are you preparing to welcome a child?\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -6178,7 +6178,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "If you need it, we can also prepare baby\nclothes for you.\\n< Item Shopkeeper >"
+                                "If you need it, we can also prepare baby clothes\nfor you.\\n< Item Shopkeeper >"
                             ]
                         },
                         {
@@ -6376,7 +6376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Apeiron?... What a grandiose name. Could\nit be some kind of medicine?\\n< Serena >"
+                                "Apeiron?... What a grandiose name. Could it be\nsome kind of medicine?\\n< Serena >"
                             ]
                         },
                         {
@@ -6505,7 +6505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It must be used for weighing things for\nsale.\\n< Serena >"
+                                "It must be used for weighing things for sale.\\n< Serena >"
                             ]
                         },
                         {
@@ -6634,7 +6634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It seems convenient for carrying goods\nhome. They must have anticipated such a\nneed with this placement.\\n< Serena >"
+                                "It seems convenient for carrying goods home. They\nmust have anticipated such a need with this\nplacement.\\n< Serena >"
                             ]
                         },
                         {
@@ -6763,7 +6763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The material is thick. It doesn't seem\nsuitable for curtains.\\n< Serena >"
+                                "The material is thick. It doesn't seem suitable\nfor curtains.\\n< Serena >"
                             ]
                         },
                         {
@@ -6892,7 +6892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Linen, huh? The texture isn't very nice.\nI was hoping for some Grazia wool...\\n< Serena >"
+                                "Linen, huh? The texture isn't very nice. I was\nhoping for some Grazia wool...\\n< Serena >"
                             ]
                         },
                         {
@@ -7021,7 +7021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Brain transcription style. Is it really\nokay for adventurers to use such things\nregularly?\\n< Serena >"
+                                "Brain transcription style. Is it really okay for\nadventurers to use such things regularly?\\n< Serena >"
                             ]
                         },
                         {
@@ -7150,7 +7150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The Mirror Owl?... Is it a comic book?\nI'm not very interested.\\n< Serena >"
+                                "The Mirror Owl?... Is it a comic book? I'm not\nvery interested.\\n< Serena >"
                             ]
                         },
                         {
@@ -7279,7 +7279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's empty inside. Maybe the shelf\nitself is for sale. But buying it now\nwould just be baggage.\\n< Serena >"
+                                "It's empty inside. Maybe the shelf itself is for\nsale. But buying it now would just be baggage.\\n< Serena >"
                             ]
                         },
                         {
@@ -7408,7 +7408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's visibly deteriorated. I'm a bit\nscared to open it. It's probably sold as\nan interior decoration.\\n< Serena >"
+                                "It's visibly deteriorated. I'm a bit scared to\nopen it. It's probably sold as an interior\ndecoration.\\n< Serena >"
                             ]
                         },
                         {
@@ -7537,7 +7537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Are these biscuits inside? They might be\ngood for emergencies, but I'm concerned\nabout the quality...\\n< Serena >"
+                                "Are these biscuits inside? They might be good for\nemergencies, but I'm concerned about the\nquality...\\n< Serena >"
                             ]
                         },
                         {
@@ -7666,7 +7666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I don't know why, but Splendor gets\nangry when I wear a hat. Maybe it's\nscared of the silhouette?\\n< Serena >"
+                                "I don't know why, but Splendor gets angry when I\nwear a hat. Maybe it's scared of the silhouette?\\n< Serena >"
                             ]
                         },
                         {
@@ -7795,7 +7795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This box isn't for sale. I wonder what\nkind of item was inside it?\\n< Serena >"
+                                "This box isn't for sale. I wonder what kind of\nitem was inside it?\\n< Serena >"
                             ]
                         },
                         {
@@ -7907,7 +7907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There are small items lined up inside\nthe box.\\n< Serena >"
+                                "There are small items lined up inside the box.\\n< Serena >"
                             ]
                         },
                         {
@@ -7924,7 +7924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "They're all everyday goods. None of them\nare of use to me right now.\\n< Serena >"
+                                "They're all everyday goods. None of them are of\nuse to me right now.\\n< Serena >"
                             ]
                         },
                         {
@@ -8036,7 +8036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There are small bottles and bags tucked\naway.\\n< Serena >"
+                                "There are small bottles and bags tucked away.\\n< Serena >"
                             ]
                         },
                         {
@@ -8053,7 +8053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's all stuff whose purpose I don't\nreally understand. Horse pepper...?\\n< Serena >"
+                                "It's all stuff whose purpose I don't really\nunderstand. Horse pepper...?\\n< Serena >"
                             ]
                         },
                         {
@@ -8302,7 +8302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There's no more use for money. We should\nbuy as much as possible.\\n< Serena >"
+                                "There's no more use for money. We should buy as\nmuch as possible.\\n< Serena >"
                             ]
                         },
                         {
@@ -8431,7 +8431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The box is in the way, and I just can't\nreach the bottle at the back. Of course,\nI could easily solve this by standing on\nthe box or calling an employee, but I\ndon't really want to go to that much\ntrouble just to check the bottle...\\n< Serena >"
+                                "The box is in the way, and I just can't reach the\nbottle at the back. Of course, I could easily\nsolve this by standing on the box or calling an\nemployee, but I don't really want to go to that\nmuch trouble just to check the bottle...\\n< Serena >"
                             ]
                         },
                         {
@@ -8560,7 +8560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...It's in the way. I can't reach the\nbottle in the back because of this\nbox...\\n< Serena >"
+                                "...It's in the way. I can't reach the bottle in\nthe back because of this box...\\n< Serena >"
                             ]
                         },
                         {
@@ -8689,7 +8689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Theories of free will... Song of Songs\ncommentary... It's all books I've read\nbefore.\\n< Serena >"
+                                "Theories of free will... Song of Songs\ncommentary... It's all books I've read before.\\n< Serena >"
                             ]
                         },
                         {
@@ -8818,7 +8818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It seems to be a shelf of comic books.\nPerhaps these are more popular with the\nmasses.\\n< Serena >"
+                                "It seems to be a shelf of comic books. Perhaps\nthese are more popular with the masses.\\n< Serena >"
                             ]
                         },
                         {
@@ -9059,7 +9059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Are these things just randomly placed\nhere? A hand mirror, foreign coins, an\nunfinished embroidery...\\n< Serena >"
+                                "Are these things just randomly placed here? A hand\nmirror, foreign coins, an unfinished embroidery...\\n< Serena >"
                             ]
                         },
                         {
@@ -9188,7 +9188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Are these items just haphazardly\narranged? A key with no known use? What\nam I supposed to do with something like\nthis after buying it?\\n< Serena >"
+                                "Are these items just haphazardly arranged? A key\nwith no known use? What am I supposed to do with\nsomething like this after buying it?\\n< Serena >"
                             ]
                         },
                         {
@@ -9317,7 +9317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Jams, preserves... and there's even\nblueberry sauce. Maybe I should buy\nsome...\\n< Serena >"
+                                "Jams, preserves... and there's even blueberry\nsauce. Maybe I should buy some...\\n< Serena >"
                             ]
                         },
                         {
@@ -9446,7 +9446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It seems that alcohol is used in the\nitems on this shelf. They really do\nunnecessary things...\\n< Serena >"
+                                "It seems that alcohol is used in the items on this\nshelf. They really do unnecessary things...\\n< Serena >"
                             ]
                         },
                         {
@@ -9575,7 +9575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Help Wanted... Live-in... Monthly salary\n200S. So working for a month makes 2G...\\n< Serena >"
+                                "Help Wanted... Live-in... Monthly salary 200S. So\nworking for a month makes 2G...\\n< Serena >"
                             ]
                         },
                         {
@@ -9909,21 +9909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだ…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この道具屋は姿見を入荷したのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "What...? Has this tool shop started stocking\nmirrors?\\n< Serena >"
                             ]
                         },
                         {
@@ -9954,14 +9940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おはよう庶民！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<？？？>"
+                                "Good morning, commoner!\\n<??>"
                             ]
                         },
                         {
@@ -9992,14 +9971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………！！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...!!?\\n< Serena >"
                             ]
                         },
                         {
@@ -10030,21 +10002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "な…、人であったか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "申し訳ない…無礼な事を言ってしまった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Na... It was a person. My apologies... I said\nsomething rude.\\n< Serena >"
                             ]
                         },
                         {
@@ -10075,21 +10033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぬ…庶民…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…………私の事か？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Nu... Commoner...? ...Are you referring to me?\\n< Serena >"
                             ]
                         },
                         {
@@ -10120,28 +10064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだか反応が悪いわね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "挨拶されたらまず挨拶を返すのよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かあさまに教わらなかったのかしら！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<？？？>"
+                                "You're not very responsive, are you! When someone\ngreets you, you should greet them back first!\nDidn't your mother teach you that?!\\n<??>"
                             ]
                         },
                         {
@@ -10172,21 +10095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "む……う…うむ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまりの驚きに礼儀を忘れてしまった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Mu... Uh... Yes... I forgot my manners in my\nsurprise.\\n< Serena >"
                             ]
                         },
                         {
@@ -10217,21 +10126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごきげんよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴方に神の加護がありますように。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Greetings. May the blessings of the gods be upon\nyou.\\n< Serena >"
                             ]
                         },
                         {
@@ -10262,21 +10157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何？その挨拶？お固すぎない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とうさまやかあさまにもそうなのかしら？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<？？？>"
+                                "What's with that greeting? Isn't it a bit too\nformal? Do you talk like that to your father and\nmother too?\\n<??>"
                             ]
                         },
                         {
@@ -10307,21 +10188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんなのじゃ友達が出来ないわよ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ホラ！おはようって言ってみなさい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<？？？>"
+                                "You won't make any friends with that attitude!\nCome on, say \"Good morning\"!\\n<??>"
                             ]
                         },
                         {
@@ -10382,28 +10249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐっ……ッ！？友だ…ち……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そなたの言の葉は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何故か私の胸が締め付けられる……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Guh...! Friends... di...? Your words somehow\nconstrict my heart...\\n< Serena >"
                             ]
                         },
                         {
@@ -10448,28 +10294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "友達…友達…か…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うぅ…スプレンドール…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我が輝き…無事であろうか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Friends... friends... ah... ugh... Splendour... I\nhope my radiance is safe...\\n< Serena >"
                             ]
                         },
                         {
@@ -10486,21 +10311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私が未熟なせいで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スプレンドールは今も不安に怯えてるかもしれぬ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Because of my immaturity, Splendour might still be\ntrembling with fear...\\n< Serena >"
                             ]
                         },
                         {
@@ -10531,21 +10342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちょっとちょっと！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなに暗い顔しないでよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<？？？>"
+                                "Hey, hey! Don't look so glum!\\n<??>"
                             ]
                         },
                         {
@@ -10576,21 +10373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "友達が出来ないって言ったのは謝るから…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アタシも友達…居ないし…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<？？？>"
+                                "I apologize for saying you couldn't make\nfriends... I don't have any friends either...\\n<??>"
                             ]
                         },
                         {
@@ -10635,21 +10418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "む。こちらこそすまない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "目的を思い出し、すこし焦燥感に苛まれてしまった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Mu. My apologies as well. I was reminded of my\npurpose and became a bit frantic.\\n< Serena >"
                             ]
                         },
                         {
@@ -10666,21 +10435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふむ…挨拶…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そなたのような明るい挨拶か…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Hmm... Greetings... Perhaps a cheerful greeting\nlike yours...\\n< Serena >"
                             ]
                         },
                         {
@@ -10711,14 +10466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お……おはよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Go... Good morning.\\n< Serena >"
                             ]
                         },
                         {
@@ -10735,21 +10483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これで良いものだろうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうも慣れぬものだが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Is this acceptable? It feels strange to me.\\n< Serena >"
                             ]
                         },
                         {
@@ -10780,21 +10514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうよ！それ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やれば出来るじゃない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<？？？>"
+                                "Yes, that's it! See, you can do it!\\n<??>"
                             ]
                         },
                         {
@@ -10825,28 +10545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "って貴方、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よく見るとちょっと変わった格好してるわね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんだか街の人と雰囲気が違うというか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<？？？>"
+                                "But you, upon closer look, you're dressed quite\nunusually, aren't you? You have a different vibe\nfrom the townspeople...\\n<??>"
                             ]
                         },
                         {
@@ -10877,21 +10576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あわわっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "も…もしかして貴族の出だったりするのかしら？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<？？？>"
+                                "Awawa! Co... Could it be that you come from\nnobility?\\n<??>"
                             ]
                         },
                         {
@@ -10922,21 +10607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アッ…アタシったらつい癖で庶民って…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴族様だったら……ごめんなさい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<？？？>"
+                                "Ah... I just called you commoner out of habit...\nIf you're actually nobility... I'm sorry!\\n<??>"
                             ]
                         },
                         {
@@ -10967,14 +10638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "む…。庶民…か……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Mu... Commoner... huh...\\n< Serena >"
                             ]
                         },
                         {
@@ -10991,28 +10655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（確かに貴族の身分を隠し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "冒険者に扮している今の私は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "正しく庶民ということになるか。）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "(Indeed, by hiding my noble status and\nmasquerading as an adventurer, I am technically a\ncommoner now.)\\n< Serena >"
                             ]
                         },
                         {
@@ -11043,21 +10686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや、気にはしてない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好きに呼ぶとよい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "No, don't worry about it. Call me whatever you\nlike.\\n< Serena >"
                             ]
                         },
                         {
@@ -11088,28 +10717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ほっ。……そう！良かったわ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アタシの偉大なる冒険が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最初の一歩で終わるところだったわ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<？？？>"
+                                "...Phew... That's good! My grand adventure almost\nended at its first step!\\n<??>"
                             ]
                         },
                         {
@@ -11140,21 +10748,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし貴方…なんだかアタシにそっくりね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まるで鏡が目の前に立ってるみたいだわ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<？？？>"
+                                "But you... You look so much like me! It's like\nthere's a mirror standing in front of me!\\n<??>"
                             ]
                         },
                         {
@@ -11185,21 +10779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "言いえて妙だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私もそなたを見て思っていたところだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "You have a point. I was thinking the same thing\nwhen I saw you.\\n< Serena >"
                             ]
                         },
                         {
@@ -11230,21 +10810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふっ…！こんなに似てるなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アタシたちまるで双子の姉妹ね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<？？？>"
+                                "Hehe...! We're so alike we could be twins! Of\ncourse, I'm the older sister!\\n<??>"
                             ]
                         },
                         {
@@ -11275,14 +10841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、もちろん姉はアタシよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<？？？>"
+                                "Ah, of course, I'm the older sister!\\n<??>"
                             ]
                         },
                         {
@@ -11313,21 +10872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "む？そなたが姉上…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いや私の姉上は…そのもっと…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Mu? You're the older sister...? No, my older\nsister is... more...\\n< Serena >"
                             ]
                         },
                         {
@@ -11358,21 +10903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何よ！アタシに威厳が無いって言いたいわけ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あーもう！いいわ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<？？？>"
+                                "What! Are you saying I lack dignity?! Ah- never\nmind!\\n<??>"
                             ]
                         },
                         {
@@ -11403,21 +10934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふ…すまぬ。冗談だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうもそなたと話していると私も口が軽くなるようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Hehe... My apologies. It was a joke. Talking to\nyou seems to lighten my tongue as well.\\n< Serena >"
                             ]
                         },
                         {
@@ -11434,21 +10951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "犬っぽさというか…いやこれはなんだろうな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "つい構いたくなる…まるで親が子と戯れるような…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It's like a doggishness or something... No, what\nis this feeling? I just want to fuss over you...\nlike a parent playing with their child...\\n< Serena >"
                             ]
                         },
                         {
@@ -11479,14 +10982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "と言いながら頭を撫でないでくれない…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<？？？>"
+                                "And while saying that, could you please not pat my\nhead...?\\n<??>"
                             ]
                         },
                         {
@@ -11517,14 +11013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…あっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...Ah.\\n< Serena >"
                             ]
                         },
                         {
@@ -11555,21 +11044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すまぬ…小動物を見るとついモフモフしたくなるのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そなたの髪。とても心地よいものだった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "My apologies... When I see small animals, I can't\nhelp but want to fluff them. Your hair was very\ncomforting.\\n< Serena >"
                             ]
                         },
                         {
@@ -11600,21 +11075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貴方…ちょっと天然というか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人とずれてると言われない…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<？？？>"
+                                "You're a bit of an airhead, aren't you? Or should\nI say out of touch with people?\\n<??>"
                             ]
                         },
                         {
@@ -11645,21 +11106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "って！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなところでお茶を濁してる場合じゃなかったわ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<？？？>"
+                                "Wait! This isn't the time to be beating around the\nbush!\\n<??>"
                             ]
                         },
                         {
@@ -11676,21 +11123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "庶民！一ついいかしら！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この街で情報が集まる場所、ないかしら！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<？？？>"
+                                "Commoner! May I ask you something! Is there a\nplace in this town where information gathers?\\n<???>"
                             ]
                         },
                         {
@@ -11721,21 +11154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "情報…か。何の情報を求めてるか分からぬが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それならば冒険ギルドが…。だがあそこは……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Information...? I'm not sure what kind of\ninformation you're seeking, but if that's the\ncase, there's the Adventurers' Guild... However,\nthat place is...\\n< Serena >"
                             ]
                         },
                         {
@@ -11752,21 +11171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "冒険ギルドってのがあるのね！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早速行ってみるわ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<？？？>"
+                                "There's an Adventurers' Guild?! I'll go there\nright away!!\\n<???>"
                             ]
                         },
                         {
@@ -11944,14 +11349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……颯の如く走り去っていったか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...She ran off like a gust of wind.\\n< Serena >"
                             ]
                         },
                         {
@@ -11982,14 +11380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんとも慌ただしい…が。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Quite the flurry...but.\\n< Serena >"
                             ]
                         },
                         {
@@ -12006,21 +11397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私が家を飛び出した時もあのような感じだったのかもな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Hehe...I wonder if it was like that when I left\nhome.\\n< Serena >"
                             ]
                         },
                         {
@@ -12345,14 +11722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何かが…おかしい…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Something is... off...\\n< Serena >"
                             ]
                         },
                         {
@@ -12369,14 +11739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "誰かが…私に似た誰かが居た……はずだが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "There was someone... someone who looked like me...\nI'm sure of it...\\n< Serena >"
                             ]
                         },
                         {
@@ -12407,14 +11770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……………………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "...\\n< Serena >"
                             ]
                         },
                         {
@@ -12445,14 +11801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "頭が…記憶が…白濁して何も…思い出せない…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "My head... my memories... they're clouded and I\ncan't remember anything...\\n< Serena >"
                             ]
                         },
                         {
@@ -12483,14 +11832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何故だろう…心が…心が苦しい……ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Why... my heart... it hurts...!\\n< Serena >"
                             ]
                         },
                         {
@@ -12507,21 +11849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は…何か大切なものを……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "輝きを失ってしまったのかもしれぬ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I might have lost... something important... lost\nits shine...\\n< Serena >"
                             ]
                         },
                         {

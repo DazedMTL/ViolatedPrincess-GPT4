@@ -3384,7 +3384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Excuse me. I've come from the\nAdventurer's Guild."
+                                "\\n< Serena >Excuse me. I've come from the Adventurer's Guild."
                             ]
                         },
                         {
@@ -3426,7 +3426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Subordinate Yotto! What's the meaning of\nthis handling of the complaint letter?\\n< Woman >"
+                                "Subordinate Yotto! What's the meaning of this\nhandling of the complaint letter?\\n< Woman >"
                             ]
                         },
                         {
@@ -3443,7 +3443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It shouldn't be settled with just a\n'caution'! Go check on it immediately!\nRight now!\\n< Woman >"
+                                "It shouldn't be settled with just a 'caution'! Go\ncheck on it immediately! Right now!\\n< Woman >"
                             ]
                         },
                         {
@@ -3642,7 +3642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What...? A lunch break, you say? No one\nis allowed even a bite of bread until\nthe report is submitted! Bring them back\nimmediately!\\n< Woman >"
+                                "What...? A lunch break, you say? No one is allowed\neven a bite of bread until the report is\nsubmitted! Bring them back immediately!\\n< Woman >"
                             ]
                         },
                         {
@@ -3862,7 +3862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You lot, are you running errands for\nchildren? Stick to that woman until she\nsays yes! Go!\\n< Woman >"
+                                "You lot, are you running errands for children?\nStick to that woman until she says yes! Go!\\n< Woman >"
                             ]
                         },
                         {
@@ -4381,7 +4381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I've accepted a request from the\nGuild...\\n< Serena >"
+                                "I've accepted a request from the Guild...\\n< Serena >"
                             ]
                         },
                         {
@@ -4405,7 +4405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The Guild? Adventure... Ah, the\ninvestigation matter. That's right,\nthat's right.\\n< Woman >"
+                                "The Guild? Adventure... Ah, the investigation\nmatter. That's right, that's right.\\n< Woman >"
                             ]
                         },
                         {
@@ -4429,7 +4429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Alright, let's talk. Please take a seat\nover there.\\n< Woman >"
+                                "Alright, let's talk. Please take a seat over\nthere.\\n< Woman >"
                             ]
                         },
                         {
@@ -4498,7 +4498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "First things first... I suppose\nintroductions are in order.\\n< Woman >"
+                                "First things first... I suppose introductions are\nin order.\\n< Woman >"
                             ]
                         },
                         {
@@ -4515,7 +4515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I am Nicola, captain of the Royal Guard,\ndirectly under His Majesty the King.\\n< Nicola >"
+                                "I am Nicola, captain of the Royal Guard, directly\nunder His Majesty the King.\\n< Nicola >"
                             ]
                         },
                         {
@@ -4563,7 +4563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Nicola? That's an unusual name around\nhere. It's not commonly used for women.\\n< Serena >"
+                                "...Nicola? That's an unusual name around here.\nIt's not commonly used for women.\\n< Serena >"
                             ]
                         },
                         {
@@ -4587,7 +4587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm from Upper Romana. My home is there\ntoo. I often get strange looks because\nof it.\\n< Nicola >"
+                                "I'm from Upper Romana. My home is there too. I\noften get strange looks because of it.\\n< Nicola >"
                             ]
                         },
                         {
@@ -4611,7 +4611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But my loyalty to His Majesty and my\ndedication to this country are genuine.\nRest assured.\\n< Nicola >"
+                                "But my loyalty to His Majesty and my dedication to\nthis country are genuine. Rest assured.\\n< Nicola >"
                             ]
                         },
                         {
@@ -4635,7 +4635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "My apologies. I didn't mean to imply\nanything by it. It was rude of me to say\nso.\\n< Serena >"
+                                "My apologies. I didn't mean to imply anything by\nit. It was rude of me to say so.\\n< Serena >"
                             ]
                         },
                         {
@@ -4652,7 +4652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Let me say again, I'm counting on you\ntoday.\\n< Serena >"
+                                "Let me say again, I'm counting on you today.\\n< Serena >"
                             ]
                         },
                         {
@@ -4676,7 +4676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Likewise. Now, about the request at\nhand...\\n< Nicola >"
+                                "Likewise. Now, about the request at hand...\\n< Nicola >"
                             ]
                         },
                         {
@@ -4693,7 +4693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I need you to infiltrate the scene of an\nillegal drug deal and secure evidence...\nnamely, the drugs themselves.\\n< Nicola >"
+                                "I need you to infiltrate the scene of an illegal\ndrug deal and secure evidence... namely, the drugs\nthemselves.\\n< Nicola >"
                             ]
                         },
                         {
@@ -4741,7 +4741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah, my apologies for the phrasing. You\njust need to purchase it as a customer.\\n< Nicola >"
+                                "Ah, my apologies for the phrasing. You just need\nto purchase it as a customer.\\n< Nicola >"
                             ]
                         },
                         {
@@ -4758,7 +4758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "We need the evidence for the arrest. But\nif we step in, they'll hide it\nimmediately.\\n< Nicola >"
+                                "We need the evidence for the arrest. But if we\nstep in, they'll hide it immediately.\\n< Nicola >"
                             ]
                         },
                         {
@@ -4782,7 +4782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Why not just find it then? There can't\nbe many places to hide something at a\nmoment's notice.\\n< Serena >"
+                                "Why not just find it then? There can't be many\nplaces to hide something at a moment's notice.\\n< Serena >"
                             ]
                         },
                         {
@@ -4806,7 +4806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Exactly. But we can't exactly ask them\nto show us what's inside their stomachs.\\n< Nicola >"
+                                "Exactly. But we can't exactly ask them to show us\nwhat's inside their stomachs.\\n< Nicola >"
                             ]
                         },
                         {
@@ -4830,7 +4830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "They swallow it to hide it? Given it's\nan illegal drug, it can't be anything\ndecent.\\n< Serena >"
+                                "They swallow it to hide it? Given it's an illegal\ndrug, it can't be anything decent.\\n< Serena >"
                             ]
                         },
                         {
@@ -5071,7 +5071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Of course, it's the \"Inheritance\nPowder.\"\\n< Nicola >"
+                                "Of course, it's the \"Inheritance Powder.\"\\n< Nicola >"
                             ]
                         },
                         {
@@ -5119,7 +5119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Huh?... Oh, you're new to this town,\naren't you?\\n< Nicola >"
+                                "Huh?... Oh, you're new to this town, aren't you?\\n< Nicola >"
                             ]
                         },
                         {
@@ -5143,7 +5143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Then it can't be helped if you don't\nknow. It's an abnormal situation. Truly\nabnormal.\\n< Nicola >"
+                                "Then it can't be helped if you don't know. It's an\nabnormal situation. Truly abnormal.\\n< Nicola >"
                             ]
                         },
                         {
@@ -5160,7 +5160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This town is currently contaminated with\npoison. We can't seem to stop the\ndistribution of the poison.\\n< Nicola >"
+                                "This town is currently contaminated with poison.\nWe can't seem to stop the distribution of the\npoison.\\n< Nicola >"
                             ]
                         },
                         {
@@ -5177,7 +5177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "People are killing their families to\nclaim inheritance and freedom. It's a\nwicked scheme that has become a sort of\nepidemic.\\n< Nicola >"
+                                "People are killing their families to claim\ninheritance and freedom. It's a wicked scheme that\nhas become a sort of epidemic.\\n< Nicola >"
                             ]
                         },
                         {
@@ -5201,7 +5201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Now that you mention it, I heard about\nit in the hot spring town...\\n< Serena >"
+                                "Now that you mention it, I heard about it in the\nhot spring town...\\n< Serena >"
                             ]
                         },
                         {
@@ -5225,7 +5225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So that poison is called Inheritance\nPowder. Ridiculous.\\n< Serena >"
+                                "So that poison is called Inheritance Powder.\nRidiculous.\\n< Serena >"
                             ]
                         },
                         {
@@ -5249,7 +5249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Nowadays, any housewife can pick up the\ndrug while out shopping and try\npoisoning her husband by mixing it into\nhis dinner.\\n< Nicola >"
+                                "Nowadays, any housewife can pick up the drug while\nout shopping and try poisoning her husband by\nmixing it into his dinner.\\n< Nicola >"
                             ]
                         },
                         {
@@ -5273,7 +5273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Everyone could be a user, a seller, and\na \"consumer.\"\\n< Nicola >"
+                                "Everyone could be a user, a seller, and a\n\"consumer.\"\\n< Nicola >"
                             ]
                         },
                         {
@@ -5290,7 +5290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The place we've found is one such\ntrading spot.\\n< Nicola >"
+                                "The place we've found is one such trading spot.\\n< Nicola >"
                             ]
                         },
                         {
@@ -5307,7 +5307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "We need to arrest them and shut it down.\nBut for that, we need evidence. In other\nwords, the Inheritance Powder itself.\\n< Nicola >"
+                                "We need to arrest them and shut it down. But for\nthat, we need evidence. In other words, the\nInheritance Powder itself.\\n< Nicola >"
                             ]
                         },
                         {
@@ -5324,7 +5324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "However, if we just barge in, they'll\nhide it immediately. That's why we need\na collaborator who isn't known to them.\\n< Nicola >"
+                                "However, if we just barge in, they'll hide it\nimmediately. That's why we need a collaborator who\nisn't known to them.\\n< Nicola >"
                             ]
                         },
                         {
@@ -5389,7 +5389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Inheritance Powder is a poison that only\nbecomes harmful after accumulating in\nthe body.\\n< Nicola >"
+                                "Inheritance Powder is a poison that only becomes\nharmful after accumulating in the body.\\n< Nicola >"
                             ]
                         },
                         {
@@ -5406,7 +5406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Conversely, if one ingests a large\namount at once and then vomits it out\nimmediately, there should be no problem.\\n< Nicola >"
+                                "Conversely, if one ingests a large amount at once\nand then vomits it out immediately, there should\nbe no problem.\\n< Nicola >"
                             ]
                         },
                         {
@@ -5454,7 +5454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Indeed, many have died doing just that.\nBut it has already spread as an\n'effective method.'\\n< Nicola >"
+                                "Indeed, many have died doing just that. But it has\nalready spread as an 'effective method.'\\n< Nicola >"
                             ]
                         },
                         {
@@ -5478,7 +5478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "To the source of distribution... \"The\nNeighbor\" might think it's fine to\nsilence the dealers this way.\\n< Nicola >"
+                                "To the source of distribution... \"The Neighbor\"\nmight think it's fine to silence the dealers this\nway.\\n< Nicola >"
                             ]
                         },
                         {
@@ -5526,7 +5526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The root of this situation. We refer to\nthe true culprit behind the poison\ndistribution as such.\\n< Nicola >"
+                                "The root of this situation. We refer to the true\nculprit behind the poison distribution as such.\\n< Nicola >"
                             ]
                         },
                         {
@@ -5543,7 +5543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "They must be hiding somewhere in this\ntown, acting as if nothing is wrong.\\n< Nicola >"
+                                "They must be hiding somewhere in this town, acting\nas if nothing is wrong.\\n< Nicola >"
                             ]
                         },
                         {
@@ -5567,7 +5567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Our ultimate goal in the patrol squad is\nto arrest that person... but...\\n< Nicola >"
+                                "Our ultimate goal in the patrol squad is to arrest\nthat person... but...\\n< Nicola >"
                             ]
                         },
                         {
@@ -5646,7 +5646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Subordinate Tse! What are you fidgeting\nfor! If you have a report, spit it out!\\n< Nicola >"
+                                "Subordinate Tse! What are you fidgeting for! If\nyou have a report, spit it out!\\n< Nicola >"
                             ]
                         },
                         {
@@ -5880,7 +5880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A report just came in. It seems a\ntransaction is happening right now.\\n< Nicola >"
+                                "A report just came in. It seems a transaction is\nhappening right now.\\n< Nicola >"
                             ]
                         },
                         {
@@ -5897,7 +5897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "They say strike while the iron is hot.\nWe'll head out immediately; any problems\nwith that?\\n< Nicola >"
+                                "They say strike while the iron is hot. We'll head\nout immediately; any problems with that?\\n< Nicola >"
                             ]
                         },
                         {
@@ -5945,7 +5945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...I appreciate how quickly you catch\non. Have you ever thought about joining\nthe patrol squad?\\n< Nicola >"
+                                "...I appreciate how quickly you catch on. Have you\never thought about joining the patrol squad?\\n< Nicola >"
                             ]
                         },
                         {
@@ -5969,7 +5969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I haven't. I have many other things to\ndo... I'm quite busy as it is.\\n< Serena >"
+                                "I haven't. I have many other things to do... I'm\nquite busy as it is.\\n< Serena >"
                             ]
                         },
                         {
@@ -6024,7 +6024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Is that so... That's a shame. The patrol\nsquad is always short-staffed.\\n< Nicola >"
+                                "Is that so... That's a shame. The patrol squad is\nalways short-staffed.\\n< Nicola >"
                             ]
                         },
                         {
@@ -6041,7 +6041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "We always welcome talented individuals.\nWe're directly under His Majesty the\nKing, and the treatment isn't bad\neither.\\n< Nicola >"
+                                "We always welcome talented individuals. We're\ndirectly under His Majesty the King, and the\ntreatment isn't bad either.\\n< Nicola >"
                             ]
                         },
                         {
@@ -6089,7 +6089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Alright. Let's head to the scene.\nSubordinate Tse, you and the others\nprepare the equipment and follow us.\\n< Nicola >"
+                                "...Alright. Let's head to the scene. Subordinate\nTse, you and the others prepare the equipment and\nfollow us.\\n< Nicola >"
                             ]
                         },
                         {
@@ -6573,7 +6573,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Nicola-sama, I heard there was a request\nfor me.\\n< Serena >"
+                                "Nicola-sama, I heard there was a request for me.\\n< Serena >"
                             ]
                         },
                         {
@@ -6617,7 +6617,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "You've come. Then let's get right to the\nmatter...\\n< Nicola >"
+                                "You've come. Then let's get right to the matter...\\n< Nicola >"
                             ]
                         },
                         {
@@ -6641,7 +6641,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "...I want to discuss... but... Serena-\nkun, that... your stomach?\\n< Nicola >"
+                                "...I want to discuss... but... Serena- kun,\nthat... your stomach?\\n< Nicola >"
                             ]
                         },
                         {
@@ -6714,7 +6714,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I'm not in perfect health, but I can\nfight. Please, no need for concern.\\n< Serena >"
+                                "I'm not in perfect health, but I can fight.\nPlease, no need for concern.\\n< Serena >"
                             ]
                         },
                         {
@@ -6762,7 +6762,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "...No, if a pro says she can do it, then\nit would be rude of me to interject.\\n< Nicola >"
+                                "...No, if a pro says she can do it, then it would\nbe rude of me to interject.\\n< Nicola >"
                             ]
                         },
                         {
@@ -6779,7 +6779,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Understood. Let's continue our\ndiscussion.\\n< Nicola >"
+                                "Understood. Let's continue our discussion.\\n< Nicola >"
                             ]
                         },
                         {
@@ -6813,7 +6813,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Ah, Serena-kun. You've arrived. I've\nbeen waiting for you.\\n< Nicola >"
+                                "Ah, Serena-kun. You've arrived. I've been waiting\nfor you.\\n< Nicola >"
                             ]
                         },
                         {
@@ -6837,7 +6837,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Sorry for my appearance. I got\nsplattered with blood on my coat.\\n< Nicola >"
+                                "Sorry for my appearance. I got splattered with\nblood on my coat.\\n< Nicola >"
                             ]
                         },
                         {
@@ -6885,7 +6885,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "No, we were the attackers. Thanks to\nthat, our investigation has progressed\nfurther. It's related to why I called\nyou...\\n< Nicola >"
+                                "No, we were the attackers. Thanks to that, our\ninvestigation has progressed further. It's related\nto why I called you...\\n< Nicola >"
                             ]
                         },
                         {
@@ -6936,7 +6936,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "There's a man named Gee. He's been\nflamboyantly selling inheritance\nmedicine.\\n< Nicola >"
+                                "There's a man named Gee. He's been flamboyantly\nselling inheritance medicine.\\n< Nicola >"
                             ]
                         },
                         {
@@ -6960,7 +6960,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The guys you caught the other day seem\nto have gotten their drugs from this Gee\nas well.\\n< Nicola >"
+                                "The guys you caught the other day seem to have\ngotten their drugs from this Gee as well.\\n< Nicola >"
                             ]
                         },
                         {
@@ -7019,7 +7019,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Yes. If we can get him to talk about his\nsupply source, the investigation should\nmake significant progress... hopefully.\\n< Nicola >"
+                                "Yes. If we can get him to talk about his supply\nsource, the investigation should make significant\nprogress... hopefully.\\n< Nicola >"
                             ]
                         },
                         {
@@ -7036,7 +7036,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "But the place we've finally pinpointed\nas his hideout seems to be inside the\nsewers.\\n< Nicola >"
+                                "But the place we've finally pinpointed as his\nhideout seems to be inside the sewers.\\n< Nicola >"
                             ]
                         },
                         {
@@ -7060,7 +7060,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Our investigative authority doesn't\nextend to the sewers. The waterways are\nthe lifeline of the city. If outsiders\nlike us interfere, it complicates\nthings.\\n< Nicola >"
+                                "Our investigative authority doesn't extend to the\nsewers. The waterways are the lifeline of the\ncity. If outsiders like us interfere, it\ncomplicates things.\\n< Nicola >"
                             ]
                         },
                         {
@@ -7084,7 +7084,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "However, we can't just leave Gee be.\nHe's a valuable lead to \"The Neighbor\"\nwe've finally found. If we let him\nescape, the investigation will be back\nto square one.\\n< Nicola >"
+                                "However, we can't just leave Gee be. He's a\nvaluable lead to \"The Neighbor\" we've finally\nfound. If we let him escape, the investigation\nwill be back to square one.\\n< Nicola >"
                             ]
                         },
                         {
@@ -7139,7 +7139,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Yes. If it's framed as a request to an\nadventurer, the city council shouldn't\ncomplain. Nor should the city police.\\n< Nicola >"
+                                "Yes. If it's framed as a request to an adventurer,\nthe city council shouldn't complain. Nor should\nthe city police.\\n< Nicola >"
                             ]
                         },
                         {
@@ -7163,7 +7163,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You might feel that it's nonsensical to\nbring such rivalries into a criminal\ninvestigation...\\n< Nicola >"
+                                "You might feel that it's nonsensical to bring such\nrivalries into a criminal investigation...\\n< Nicola >"
                             ]
                         },
                         {
@@ -7187,7 +7187,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "No. On the contrary, I'm grateful for\nit. Thanks to this, I can receive work\nlike this.\\n< Serena >"
+                                "No. On the contrary, I'm grateful for it. Thanks\nto this, I can receive work like this.\\n< Serena >"
                             ]
                         },
                         {
@@ -7235,7 +7235,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The city's sewers are also home to\nslimes. Be careful when you're\nexploring.\\n< Nicola >"
+                                "The city's sewers are also home to slimes. Be\ncareful when you're exploring.\\n< Nicola >"
                             ]
                         },
                         {
@@ -7259,7 +7259,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Understood... But how does this Gee\nmanage to use a slime's dwelling as his\nbedchamber?\\n< Serena >"
+                                "Understood... But how does this Gee manage to use\na slime's dwelling as his bedchamber?\\n< Serena >"
                             ]
                         },
                         {
@@ -7283,7 +7283,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Unknown. But we'll find out once we\ncatch him.\\n< Nicola >"
+                                "Unknown. But we'll find out once we catch him.\\n< Nicola >"
                             ]
                         },
                         {
@@ -7307,7 +7307,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "That's all for the explanation of the\nrequest. I've prepared a reward of 900 S\nfor you.\\n< Nicola >"
+                                "That's all for the explanation of the request.\nI've prepared a reward of 900 S for you.\\n< Nicola >"
                             ]
                         },
                         {
@@ -7370,7 +7370,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Yes, please leave it to me. I promise to\nbring back good news.\\n< Serena >"
+                                "Yes, please leave it to me. I promise to bring\nback good news.\\n< Serena >"
                             ]
                         },
                         {
@@ -7430,7 +7430,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "The entrance to the sewer is in the\nsoutheast of the city, in a cluttered\ndistrict.\\n< Nicola >"
+                                "The entrance to the sewer is in the southeast of\nthe city, in a cluttered district.\\n< Nicola >"
                             ]
                         },
                         {
@@ -7546,7 +7546,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "...Understood. I won't force you. Let me\nknow once you've made up your mind.\\n< Nicola >"
+                                "...Understood. I won't force you. Let me know once\nyou've made up your mind.\\n< Nicola >"
                             ]
                         },
                         {
@@ -7714,7 +7714,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Although I'm not in perfect health, I\ncan fight. Please don't worry about me.\\n< Serena >"
+                                "Although I'm not in perfect health, I can fight.\nPlease don't worry about me.\\n< Serena >"
                             ]
                         },
                         {
@@ -7738,7 +7738,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "...I see. With anyone else, I would\ninsist they stop... but it's your\ndecision. I'll respect it.\\n< Nicola >"
+                                "...I see. With anyone else, I would insist they\nstop... but it's your decision. I'll respect it.\\n< Nicola >"
                             ]
                         },
                         {
@@ -7793,7 +7793,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "So, what do you think? Can you take on\nthe request to explore the sewers?\\n< Nicola >"
+                                "So, what do you think? Can you take on the request\nto explore the sewers?\\n< Nicola >"
                             ]
                         },
                         {
@@ -7899,7 +7899,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "The entrance to the sewer is in the\nsoutheast of the city, in a cluttered\ndistrict. It was called the City\nDungeon, if I recall correctly.\\n< Nicola >"
+                                "The entrance to the sewer is in the southeast of\nthe city, in a cluttered district. It was called\nthe City Dungeon, if I recall correctly.\\n< Nicola >"
                             ]
                         },
                         {
@@ -8216,7 +8216,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Guy is in the sewers. Please head there\nfrom the southeastern part of town.\\n< Nicola >"
+                                "Guy is in the sewers. Please head there from the\nsoutheastern part of town.\\n< Nicola >"
                             ]
                         },
                         {
@@ -8240,7 +8240,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I know I'm asking a favor... but you're\npregnant. Please be extra careful when\nyou're exploring.\\n< Nicola >"
+                                "I know I'm asking a favor... but you're pregnant.\nPlease be extra careful when you're exploring.\\n< Nicola >"
                             ]
                         },
                         {
@@ -8281,7 +8281,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Guy is in the sewers. Please head there\nfrom the southeastern part of town.\\n< Nicola >"
+                                "Guy is in the sewers. Please head there from the\nsoutheastern part of town.\\n< Nicola >"
                             ]
                         },
                         {
@@ -8551,7 +8551,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I asked too much of someone in your\ncondition, but you delivered just as I'd\nhoped.\\n< Nicola >"
+                                "I asked too much of someone in your condition, but\nyou delivered just as I'd hoped.\\n< Nicola >"
                             ]
                         },
                         {
@@ -8578,7 +8578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It was indeed the right decision to\nentrust this to you. Thank you, Serena-\nkun.\\n< Nicola >"
+                                "It was indeed the right decision to entrust this\nto you. Thank you, Serena- kun.\\n< Nicola >"
                             ]
                         },
                         {
@@ -8613,7 +8613,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hmm. Well, it ended with a bit of a sore\nbutt...\\n< Serena >"
+                                "Hmm. Well, it ended with a bit of a sore butt...\\n< Serena >"
                             ]
                         },
                         {
@@ -8685,7 +8685,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I don't quite follow, but... Now that\nthe signing is done, here's the request\ncertificate. Please take it.\\n< Nicola >"
+                                "I don't quite follow, but... Now that the signing\nis done, here's the request certificate. Please\ntake it.\\n< Nicola >"
                             ]
                         },
                         {
@@ -8719,7 +8719,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Here's the signed request certificate.\nPlease take it.\\n< Nicola >"
+                                "Here's the signed request certificate. Please take\nit.\\n< Nicola >"
                             ]
                         },
                         {
@@ -8801,7 +8801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "He's not the center of the situation.\nThere are others acting like wholesalers\nas well.\\n< Nicola >"
+                                "He's not the center of the situation. There are\nothers acting like wholesalers as well.\\n< Nicola >"
                             ]
                         },
                         {
@@ -8825,7 +8825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "However, he is certainly an important\nwitness.\\n< Nicola >"
+                                "However, he is certainly an important witness.\\n< Nicola >"
                             ]
                         },
                         {
@@ -8849,7 +8849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Somewhere in the distribution network\nthat Guy was involved with, \"the\nneighbor\" must also be lurking.\\n< Nicola >"
+                                "Somewhere in the distribution network that Guy was\ninvolved with, \"the neighbor\" must also be\nlurking.\\n< Nicola >"
                             ]
                         },
                         {
@@ -8883,7 +8883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "First, we'll make Guy spit out the\nsource of the poison. Then we'll make\nthat source spit it out too. Gradually\npulling on the thread...\\n< Nicola >"
+                                "First, we'll make Guy spit out the source of the\npoison. Then we'll make that source spit it out\ntoo. Gradually pulling on the thread...\\n< Nicola >"
                             ]
                         },
                         {
@@ -8907,7 +8907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Eventually, we'll definitely reach the\nmastermind. We'll stop this ridiculous\ndistribution of poison called\ninheritance medicine.\\n< Nicola >"
+                                "Eventually, we'll definitely reach the mastermind.\nWe'll stop this ridiculous distribution of poison\ncalled inheritance medicine.\\n< Nicola >"
                             ]
                         },
                         {
@@ -8938,7 +8938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yes. If it's Nicola-sama, you will\nsurely accomplish it.\\n< Serena >"
+                                "Yes. If it's Nicola-sama, you will surely\naccomplish it.\\n< Serena >"
                             ]
                         },
                         {
@@ -8955,7 +8955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I too have my own circumstances and\ncannot cooperate fully...\\n< Serena >"
+                                "I too have my own circumstances and cannot\ncooperate fully...\\n< Serena >"
                             ]
                         },
                         {
@@ -8979,7 +8979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But I will help again within the range\nof what I can do.\\n< Serena >"
+                                "But I will help again within the range of what I\ncan do.\\n< Serena >"
                             ]
                         },
                         {
@@ -9003,7 +9003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I would certainly like to ask for your\nhelp again.\\n< Nicola >"
+                                "I would certainly like to ask for your help again.\\n< Nicola >"
                             ]
                         },
                         {
@@ -9038,7 +9038,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Next time, I intend to give you an even\nbigger request. The reward will be\ncommensurate as well.\\n< Nicola >"
+                                "Next time, I intend to give you an even bigger\nrequest. The reward will be commensurate as well.\\n< Nicola >"
                             ]
                         },
                         {
@@ -9117,7 +9117,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "By that time, I should be more\nunencumbered... I hope. Please don't\nhesitate to send work my way.\\n< Serena >"
+                                "By that time, I should be more unencumbered... I\nhope. Please don't hesitate to send work my way.\\n< Serena >"
                             ]
                         },
                         {
@@ -9182,7 +9182,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Next time, I intend to give you an even\nbigger request. Of course, the reward\nwill be commensurate as well.\\n< Nicola >"
+                                "Next time, I intend to give you an even bigger\nrequest. Of course, the reward will be\ncommensurate as well.\\n< Nicola >"
                             ]
                         },
                         {
@@ -9206,7 +9206,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Heh. I'll look forward to it. Until\nthen.\\n< Serena >"
+                                "Heh. I'll look forward to it. Until then.\\n< Serena >"
                             ]
                         },
                         {
@@ -9426,7 +9426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Now, I've managed to save up a bit of\nmoney.\\n< Serena >"
+                                "Now, I've managed to save up a bit of money.\\n< Serena >"
                             ]
                         },
                         {
@@ -9443,7 +9443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Should I use this money to pay back\nMadame's debt or fund the investigation\ninto Splendour...\\n< Serena >"
+                                "Should I use this money to pay back Madame's debt\nor fund the investigation into Splendour...\\n< Serena >"
                             ]
                         },
                         {
@@ -9460,7 +9460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If I decide to fund the investigation,\nfirst I need to find an informant.\\n< Serena >"
+                                "If I decide to fund the investigation, first I\nneed to find an informant.\\n< Serena >"
                             ]
                         },
                         {
@@ -9532,7 +9532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Whatever I decide, for today, it's\ntime to head home.\\n< Serena >"
+                                "...Whatever I decide, for today, it's time to head\nhome.\\n< Serena >"
                             ]
                         },
                         {
@@ -9563,7 +9563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's time for work. Another day, another\nduty.\\n< Serena >"
+                                "It's time for work. Another day, another duty.\\n< Serena >"
                             ]
                         },
                         {
@@ -9872,7 +9872,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Nicola-sama. How is the investigation\nprogressing?\\n< Serena >"
+                                "Nicola-sama. How is the investigation progressing?\\n< Serena >"
                             ]
                         },
                         {
@@ -9947,7 +9947,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "It's just a formality. I'm not seriously\ntrying to pry.\\n< Serena >"
+                                "It's just a formality. I'm not seriously trying to\npry.\\n< Serena >"
                             ]
                         },
                         {
@@ -9972,7 +9972,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "No, it's good you asked. I wanted to\nsort out my thoughts.\\n< Nicola >"
+                                "No, it's good you asked. I wanted to sort out my\nthoughts.\\n< Nicola >"
                             ]
                         },
                         {
@@ -9997,7 +9997,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Is it alright though? What about the\nsecrecy...\\n< Serena >"
+                                "Is it alright though? What about the secrecy...\\n< Serena >"
                             ]
                         },
                         {
@@ -10046,7 +10046,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "About the poison investigation. Let me\nbe clear. I thought the city noble named\nGu-Pil was the culprit.\\n< Nicola >"
+                                "About the poison investigation. Let me be clear. I\nthought the city noble named Gu-Pil was the\nculprit.\\n< Nicola >"
                             ]
                         },
                         {
@@ -10064,7 +10064,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "But it seems I was wrong. It appears to\nbe someone else.\\n< Nicola >"
+                                "But it seems I was wrong. It appears to be someone\nelse.\\n< Nicola >"
                             ]
                         },
                         {
@@ -10120,7 +10120,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Gu-Pil, you say? Then, what about that\nrequest I was involved in?\\n< Serena >"
+                                "Gu-Pil, you say? Then, what about that request I\nwas involved in?\\n< Serena >"
                             ]
                         },
                         {
@@ -10144,7 +10144,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Yes. The investigation into Gu-Pil was a\nrequest from the patrol guards. Were you\nalso helping? It wasn't mentioned in the\nreports.\\n< Nicola >"
+                                "Yes. The investigation into Gu-Pil was a request\nfrom the patrol guards. Were you also helping? It\nwasn't mentioned in the reports.\\n< Nicola >"
                             ]
                         },
                         {
@@ -10168,7 +10168,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Helping is one way to put it, though I\nwas literally just getting in the way...\\n< Serena >"
+                                "Helping is one way to put it, though I was\nliterally just getting in the way...\\n< Serena >"
                             ]
                         },
                         {
@@ -10192,7 +10192,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Anyway, this Gu-Pil, the master of the\nbutcher's guild. His actions were\nincredibly suspicious.\\n< Nicola >"
+                                "Anyway, this Gu-Pil, the master of the butcher's\nguild. His actions were incredibly suspicious.\\n< Nicola >"
                             ]
                         },
                         {
@@ -10209,7 +10209,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The more we dug, the more a mountain of\nsuspicions piled up. We sent people all\nover and had nearly conclusive\ncircumstantial evidence.\\n< Nicola >"
+                                "The more we dug, the more a mountain of suspicions\npiled up. We sent people all over and had nearly\nconclusive circumstantial evidence.\\n< Nicola >"
                             ]
                         },
                         {
@@ -10226,7 +10226,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "All that was left was the final push,\nthe decisive evidence. We requested your\nadventurer's guild to procure that\nevidence...\\n< Nicola >"
+                                "All that was left was the final push, the decisive\nevidence. We requested your adventurer's guild to\nprocure that evidence...\\n< Nicola >"
                             ]
                         },
                         {
@@ -10250,7 +10250,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...But what came out was just evidence\nof 'mere' embezzlement. That was all.\\n< Nicola >"
+                                "...But what came out was just evidence of 'mere'\nembezzlement. That was all.\\n< Nicola >"
                             ]
                         },
                         {
@@ -10275,7 +10275,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Well, he was engaged in some rather\nshady business as a meat merchant\nresponsible for the city's food supply,\nwhich is unforgivable.\\n< Nicola >"
+                                "Well, he was engaged in some rather shady business\nas a meat merchant responsible for the city's food\nsupply, which is unforgivable.\\n< Nicola >"
                             ]
                         },
                         {
@@ -10293,7 +10293,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Selling tapeworm-infected pigs as\nhealthy ones, importing livestock from\noutside the city without inspection...\\n< Nicola >"
+                                "Selling tapeworm-infected pigs as healthy ones,\nimporting livestock from outside the city without\ninspection...\\n< Nicola >"
                             ]
                         },
                         {
@@ -10318,7 +10318,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Justice has been served in that regard,\nso that's good. It's good, but...\\n< Nicola >"
+                                "Justice has been served in that regard, so that's\ngood. It's good, but...\\n< Nicola >"
                             ]
                         },
                         {
@@ -10393,7 +10393,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "No matter which route we trace for the\ndistribution of poison, it always cuts\noff midway.\\n< Nicola >"
+                                "No matter which route we trace for the\ndistribution of poison, it always cuts off midway.\\n< Nicola >"
                             ]
                         },
                         {
@@ -10411,7 +10411,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "It's a large-scale, meticulous, and\nthorough organized crime. A crime that\nonly someone with power and\norganizational strength like Gu-Pil\ncould commit.\\n< Nicola >"
+                                "It's a large-scale, meticulous, and thorough\norganized crime. A crime that only someone with\npower and organizational strength like Gu-Pil\ncould commit.\\n< Nicola >"
                             ]
                         },
                         {
@@ -10436,7 +10436,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I used quite a bit of my influence to\nraise suspicions against Gu-Pil.\nStarting to investigate other members of\nthe council now would be considerably\ntroublesome.\\n< Nicola >"
+                                "I used quite a bit of my influence to raise\nsuspicions against Gu-Pil. Starting to investigate\nother members of the council now would be\nconsiderably troublesome.\\n< Nicola >"
                             ]
                         },
                         {
@@ -10461,7 +10461,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...Ah?...Ah-ha? Is that why? Was Gu-Pil\njust a decoy? Perhaps even used to\neliminate a political rival?\\n< Nicola >"
+                                "...Ah?...Ah-ha? Is that why? Was Gu-Pil just a\ndecoy? Perhaps even used to eliminate a political\nrival?\\n< Nicola >"
                             ]
                         },
                         {
@@ -10486,7 +10486,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The real culprit is another member of\nthe council... laughing at us now,\nperhaps...\\n< Nicola >"
+                                "The real culprit is another member of the\ncouncil... laughing at us now, perhaps...\\n< Nicola >"
                             ]
                         },
                         {
@@ -10510,7 +10510,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Is it certain that someone from the city\ncouncil is the culprit?\\n< Serena >"
+                                "Is it certain that someone from the city council\nis the culprit?\\n< Serena >"
                             ]
                         },
                         {
@@ -10534,7 +10534,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...To be honest, there's no solid proof\nof that either. But who else could\ndistribute poison so extensively?\\n< Nicola >"
+                                "...To be honest, there's no solid proof of that\neither. But who else could distribute poison so\nextensively?\\n< Nicola >"
                             ]
                         },
                         {
@@ -10551,7 +10551,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The culprit is a city noble... or\nsomeone close to that status. A person\nof influence. A person of power.\nCertainly not an ordinary citizen.\\n< Nicola >"
+                                "The culprit is a city noble... or someone close to\nthat status. A person of influence. A person of\npower. Certainly not an ordinary citizen.\\n< Nicola >"
                             ]
                         },
                         {
@@ -10568,7 +10568,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The purpose of spreading poison is still\nunclear... but an ordinary person\nwithout any backing couldn't navigate\nthis situation, nor would they gain any\nbenefit from it.\\n< Nicola >"
+                                "The purpose of spreading poison is still\nunclear... but an ordinary person without any\nbacking couldn't navigate this situation, nor\nwould they gain any benefit from it.\\n< Nicola >"
                             ]
                         },
                         {
@@ -10585,7 +10585,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "There's always a motive behind a crime.\nSomeone who gains from it. There must\nbe... Such a large- scale crime can't\njust be for fun.\\n< Nicola >"
+                                "There's always a motive behind a crime. Someone\nwho gains from it. There must be... Such a large-\nscale crime can't just be for fun.\\n< Nicola >"
                             ]
                         },
                         {
@@ -10602,7 +10602,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "If only we could see... the culprit's\nmotive, the profit they're after. Then\nwe might have some direction in our\ninvestigation...\\n< Nicola >"
+                                "If only we could see... the culprit's motive, the\nprofit they're after. Then we might have some\ndirection in our investigation...\\n< Nicola >"
                             ]
                         },
                         {
@@ -10627,7 +10627,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sigh... It's like having played all my\ncards in a game only to be told there's\nanother round to play.\\n< Nicola >"
+                                "Sigh... It's like having played all my cards in a\ngame only to be told there's another round to\nplay.\\n< Nicola >"
                             ]
                         },
                         {
@@ -10645,7 +10645,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I was so confident in the Gu-Pil culprit\ntheory...\\n< Nicola >"
+                                "I was so confident in the Gu-Pil culprit theory...\\n< Nicola >"
                             ]
                         },
                         {
@@ -10720,7 +10720,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Just venting it all out has made me feel\nbetter!\\n< Nicola >"
+                                "Just venting it all out has made me feel better!\\n< Nicola >"
                             ]
                         },
                         {
@@ -10745,7 +10745,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sorry about that Serena-kun, for making\nyou listen.\\n< Nicola >"
+                                "Sorry about that Serena-kun, for making you\nlisten.\\n< Nicola >"
                             ]
                         },
                         {
@@ -10777,7 +10777,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hmm... Well, I was just listening\nsilently...\\n< Serena >"
+                                "Hmm... Well, I was just listening silently...\\n< Serena >"
                             ]
                         },
                         {
@@ -10802,7 +10802,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "There's no use in lamenting. We just\nhave to do what needs to be done.\\n< Nicola >"
+                                "There's no use in lamenting. We just have to do\nwhat needs to be done.\\n< Nicola >"
                             ]
                         },
                         {
@@ -10827,7 +10827,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "No matter how far the road ahead seems,\nnothing can be gained by hesitating to\ntake the first step.\\n< Nicola >"
+                                "No matter how far the road ahead seems, nothing\ncan be gained by hesitating to take the first\nstep.\\n< Nicola >"
                             ]
                         },
                         {
@@ -10852,7 +10852,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "That's right... You're absolutely\ncorrect.\\n< Serena >"
+                                "That's right... You're absolutely correct.\\n< Serena >"
                             ]
                         },
                         {
@@ -10876,7 +10876,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "That \"neighbor\"... I'll definitely catch\ntheir tail. As long as they exist, it's\nimpossible to erase all traces...\\n< Nicola >"
+                                "That \"neighbor\"... I'll definitely catch their\ntail. As long as they exist, it's impossible to\nerase all traces...\\n< Nicola >"
                             ]
                         },
                         {
@@ -11048,7 +11048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I've already arranged it with the guild.\nPlease go and collect your reward.\\n< Nicola >"
+                                "I've already arranged it with the guild. Please go\nand collect your reward.\\n< Nicola >"
                             ]
                         },
                         {
@@ -11072,7 +11072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I hope your mission is accomplished\nwithout any issues, Serena-sama.\\n< Nicola >"
+                                "I hope your mission is accomplished without any\nissues, Serena-sama.\\n< Nicola >"
                             ]
                         },
                         {
@@ -11327,7 +11327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Thank you for everything. I'm wishing\nyou luck, Serena-kun.\\n< Nicola >"
+                                "Thank you for everything. I'm wishing you luck,\nSerena-kun.\\n< Nicola >"
                             ]
                         },
                         {
@@ -11467,7 +11467,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Our work here is done... Once again, I\ndeeply appreciate your cooperation.\\n< Patrol Officer >"
+                                "Our work here is done... Once again, I deeply\nappreciate your cooperation.\\n< Patrol Officer>"
                             ]
                         },
                         {
@@ -11505,7 +11505,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I apologize, but I'm swamped with\npaperwork right now. I'm unable to\nattend to you at the moment. Please\nforgive me.\\n< Patrol Officer >"
+                                "I apologize, but I'm swamped with paperwork right\nnow. I'm unable to attend to you at the moment.\nPlease forgive me.\\n< Patrol Officer>"
                             ]
                         },
                         {
@@ -11574,7 +11574,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "The captain is out on an investigation\nagain today. Well, it's rare for her to\nbe here anyway.\\n< Patrol Officer >"
+                                "The captain is out on an investigation again\ntoday. Well, it's rare for her to be here anyway.\\n< Patrol Officer>"
                             ]
                         },
                         {
@@ -11612,7 +11612,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "I wish I could have watched a little\nlonger... Oh, oops, *cough*, *cough*.\\n< Patrol Officer >"
+                                "I wish I could have watched a little longer... Oh,\noops, *cough*, *cough*.\\n< Patrol Officer>"
                             ]
                         },
                         {
@@ -11650,7 +11650,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "C-Captain... Ugh, what an outfit, it's\nbad for the eyes...\\n< Patrol Officer >"
+                                "C-Captain... Ugh, what an outfit, it's bad for the\neyes...\\n< Patrol Officer>"
                             ]
                         },
                         {
@@ -11719,7 +11719,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "The captain is out on an investigation.\nIf you have a message, I can take it...\\n< Patrol Officer >"
+                                "The captain is out on an investigation. If you\nhave a message, I can take it...\\n< Patrol Officer>"
                             ]
                         },
                         {
@@ -11777,7 +11777,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "I truly appreciate your cooperation. We\ntend to be treated as nuisances wherever\nwe go...\\n< Patrol Officer >"
+                                "I truly appreciate your cooperation. We tend to be\ntreated as nuisances wherever we go...\\n< Patrol Officer>"
                             ]
                         },
                         {
@@ -11964,7 +11964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If it's something I can answer.\\n< Patrol Team >"
+                                "If it's something I can answer.\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -11988,7 +11988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's about... Catherine... where is she\nnow?\\n< Serena >"
+                                "It's about... Catherine... where is she now?\\n< Serena >"
                             ]
                         },
                         {
@@ -12012,7 +12012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...I apologize, but whether it's her\nwhereabouts or condition, I cannot\ndivulge information about her to\noutsiders.\\n< Patrol Team >"
+                                "...I apologize, but whether it's her whereabouts\nor condition, I cannot divulge information about\nher to outsiders.\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -12060,7 +12060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "My apologies. Please don't worry about\nit.\\n< Serena >"
+                                "My apologies. Please don't worry about it.\\n< Serena >"
                             ]
                         },
                         {
@@ -12084,7 +12084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Thank you for your understanding.\\n< Patrol Team >"
+                                "Thank you for your understanding.\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -12180,7 +12180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The captain is currently out.\\n< Patrol Team >"
+                                "The captain is currently out.\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -12277,7 +12277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...\\n< Patrol Team >"
+                                "...\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -12367,7 +12367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If we lose, who knows what will happen\nnext. Are you prepared?\\n< Patrol Team >"
+                                "If we lose, who knows what will happen next. Are\nyou prepared?\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -12414,7 +12414,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...Come to think of it, I hadn't asked,\nbut under what pretense are we\ninvestigating this case?\\n< Serena >"
+                                "...Come to think of it, I hadn't asked, but under\nwhat pretense are we investigating this case?\\n< Serena >"
                             ]
                         },
                         {
@@ -12439,7 +12439,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "It's the werewolf case.\\n< Patrol Team >"
+                                "It's the werewolf case.\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -12489,7 +12489,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The serial murders that have been\ncausing a stir in town lately...\\n< Patrol Team >"
+                                "The serial murders that have been causing a stir\nin town lately...\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -12506,7 +12506,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The bodies are damaged so severely it's\nhard to believe a human did it. Yet,\nthere's no sign of monsters infiltrating\nthe town.\\n< Patrol Team >"
+                                "The bodies are damaged so severely it's hard to\nbelieve a human did it. Yet, there's no sign of\nmonsters infiltrating the town.\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -12531,7 +12531,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "So, a werewolf then. I wonder if such a\nmonster really exists?\\n< Serena >"
+                                "So, a werewolf then. I wonder if such a monster\nreally exists?\\n< Serena >"
                             ]
                         },
                         {
@@ -12556,7 +12556,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Well. The true nature of monsters is\nbeyond us...\\n< Patrol Team >"
+                                "Well. The true nature of monsters is beyond us...\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -12573,7 +12573,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "After all, that's not what we should be\nconcerned about right now... The\ndesignated time is at night. Let's wait\nuntil then.\\n< Patrol Team >"
+                                "After all, that's not what we should be concerned\nabout right now... The designated time is at\nnight. Let's wait until then.\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -12758,7 +12758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Thank you very much, Serena-san!\\n< Patrol Team >"
+                                "Thank you very much, Serena-san!\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -14149,7 +14149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It seems to be filled with progress\nreports on the investigation. But the\nbinding is too elaborate for just a\nreport.\\n< Serena >"
+                                "It seems to be filled with progress reports on the\ninvestigation. But the binding is too elaborate\nfor just a report.\\n< Serena >"
                             ]
                         },
                         {
@@ -14166,7 +14166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Perhaps it's to be submitted to His\nMajesty the King. Of course, it's\nunlikely that His Majesty would read it\npersonally.\\n< Serena >"
+                                "Perhaps it's to be submitted to His Majesty the\nKing. Of course, it's unlikely that His Majesty\nwould read it personally.\\n< Serena >"
                             ]
                         },
                         {
@@ -14295,7 +14295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Did it fall from the bookshelf? I feel\nthe urge to fix it, but I'll just leave\nit be.\\n< Serena >"
+                                "Did it fall from the bookshelf? I feel the urge to\nfix it, but I'll just leave it be.\\n< Serena >"
                             ]
                         },
                         {
@@ -14424,7 +14424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Perhaps it's for investigation\nmaterials. I shouldn't stare too much.\\n< Serena >"
+                                "Perhaps it's for investigation materials. I\nshouldn't stare too much.\\n< Serena >"
                             ]
                         },
                         {
@@ -14553,7 +14553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I doubt a world map is necessary for the\ninvestigation. It must be for interior\ndecoration.\\n< Serena >"
+                                "I doubt a world map is necessary for the\ninvestigation. It must be for interior decoration.\\n< Serena >"
                             ]
                         },
                         {
@@ -14682,7 +14682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Not a speck of dust, it's well-\nmaintained. A sign that someone pays\nattention to the time.\\n< Serena >"
+                                "Not a speck of dust, it's well- maintained. A sign\nthat someone pays attention to the time.\\n< Serena >"
                             ]
                         },
                         {
@@ -14811,7 +14811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Could it be materials for investigation?\nI shouldn't stare at it too much.\\n< Serena >"
+                                "Could it be materials for investigation? I\nshouldn't stare at it too much.\\n< Serena >"
                             ]
                         },
                         {
@@ -14940,7 +14940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I can't quite make out the contents. It\nseems to be some sort of work-related\ncommunication.\\n< Serena >"
+                                "I can't quite make out the contents. It seems to\nbe some sort of work- related communication.\\n< Serena >"
                             ]
                         },
                         {
@@ -15069,7 +15069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It must be some kind of investigative\nmaterial. Is it really okay to leave it\nlying around here?\\n< Serena >"
+                                "It must be some kind of investigative material. Is\nit really okay to leave it lying around here?\\n< Serena >"
                             ]
                         },
                         {
@@ -15181,7 +15181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's filled with all sorts of knick-\nknacks.\\n< Serena >"
+                                "It's filled with all sorts of knick- knacks.\\n< Serena >"
                             ]
                         },
                         {
@@ -15198,7 +15198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's like a handy toolbox, but also like\na trash can.\\n< Serena >"
+                                "It's like a handy toolbox, but also like a trash\ncan.\\n< Serena >"
                             ]
                         },
                         {
@@ -15456,7 +15456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's not for arrests... It looks more\nlike packing twine that's been left on\nthe ground.\\n< Serena >"
+                                "It's not for arrests... It looks more like packing\ntwine that's been left on the ground.\\n< Serena >"
                             ]
                         },
                         {
@@ -15585,7 +15585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Perhaps it contains drinking water or\nsomething of the sort.\\n< Serena >"
+                                "Perhaps it contains drinking water or something of\nthe sort.\\n< Serena >"
                             ]
                         },
                         {
@@ -15714,7 +15714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I don't have the courage to open it and\ncheck inside.\\n< Serena >"
+                                "I don't have the courage to open it and check\ninside.\\n< Serena >"
                             ]
                         },
                         {
@@ -15843,7 +15843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I wonder if it contains weapons or\nsomething?\\n< Serena >"
+                                "I wonder if it contains weapons or something?\\n< Serena >"
                             ]
                         },
                         {
@@ -15972,7 +15972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I wonder if it contains weapons or\nsomething?\\n< Serena >"
+                                "I wonder if it contains weapons or something?\\n< Serena >"
                             ]
                         },
                         {
@@ -16084,7 +16084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A scroll... no, perhaps it's some kind\nof letter.\\n< Serena >"
+                                "A scroll... no, perhaps it's some kind of letter.\\n< Serena >"
                             ]
                         },
                         {
@@ -16101,7 +16101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Is it really okay to leave it lying\naround here like this?\\n< Serena >"
+                                "Is it really okay to leave it lying around here\nlike this?\\n< Serena >"
                             ]
                         },
                         {
@@ -16262,7 +16262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Excuse me. I'd like to see Nicola-sama,\nis he not in?\\n< Serena >"
+                                "Excuse me. I'd like to see Nicola-sama, is he not\nin?\\n< Serena >"
                             ]
                         },
                         {
@@ -16317,7 +16317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah, Serena-san. Thank you for your hard\nwork. The captain is... yes, it seems\nhe's been unwell lately.\\n< Patrol Team >"
+                                "Ah, Serena-san. Thank you for your hard work. The\ncaptain is... yes, it seems he's been unwell\nlately.\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -16334,7 +16334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "He hasn't come out of his room at the\ninn today either.\\n< Patrol Team >"
+                                "He hasn't come out of his room at the inn today\neither.\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -16358,7 +16358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I wasn't aware of that. There's\nsomething I wanted to report...\\n< Serena >"
+                                "I wasn't aware of that. There's something I wanted\nto report...\\n< Serena >"
                             ]
                         },
                         {
@@ -16382,7 +16382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Shall I pass on the message?\\n< Patrol Team >"
+                                "Shall I pass on the message?\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -16406,7 +16406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...No, I'd prefer to speak directly.\nI'll also take this chance to visit him.\nThe inn is next to the tool shop, right?\\n< Serena >"
+                                "...No, I'd prefer to speak directly. I'll also\ntake this chance to visit him. The inn is next to\nthe tool shop, right?\\n< Serena >"
                             ]
                         },
                         {
@@ -16430,7 +16430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yes. The captain has a room on the\nsecond floor. He would surely be pleased\nto have a visit from Serena-san.\\n< Patrol Team >"
+                                "Yes. The captain has a room on the second floor.\nHe would surely be pleased to have a visit from\nSerena-san.\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -16454,7 +16454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Understood. Sorry to bother you during\nwork.\\n< Serena >"
+                                "Understood. Sorry to bother you during work.\\n< Serena >"
                             ]
                         },
                         {
@@ -16478,7 +16478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Not at all. We entrust the captain to\nyou.\\n< Patrol Team >"
+                                "Not at all. We entrust the captain to you.\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -16705,7 +16705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Excuse me, it seems Nicola-sama is not\npresent... Is he unwell again?\\n< Serena >"
+                                "Excuse me, it seems Nicola-sama is not present...\nIs he unwell again?\\n< Serena >"
                             ]
                         },
                         {
@@ -16761,7 +16761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No, that's not it, but...\\n< Patrol Team >"
+                                "No, that's not it, but...\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -16811,7 +16811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm sorry. I've been sworn to secrecy.\\n< Patrol Team >"
+                                "I'm sorry. I've been sworn to secrecy.\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -16861,7 +16861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The captain is concerned for your well-\nbeing, Serena-san...\\n< Patrol Team >"
+                                "The captain is concerned for your well- being,\nSerena-san...\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -16911,7 +16911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...\\n< Patrol Team >"
+                                "...\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -17016,7 +17016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Nicola-sama should be at the city guard\nstation. There's no mistake.\\n< Serena >"
+                                "Nicola-sama should be at the city guard station.\nThere's no mistake.\\n< Serena >"
                             ]
                         },
                         {
@@ -17034,7 +17034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Have those guys said something again...\nWhy wouldn't they tell me directly...\\n< Serena >"
+                                "Have those guys said something again... Why\nwouldn't they tell me directly...\\n< Serena >"
                             ]
                         },
                         {
@@ -17059,7 +17059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Anyway, let's head to the station. No\nmatter what they are like, they\nshouldn't do anything rash...\\n< Serena >"
+                                "Anyway, let's head to the station. No matter what\nthey are like, they shouldn't do anything rash...\\n< Serena >"
                             ]
                         },
                         {
@@ -17246,7 +17246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Serena-san, are you feeling alright?\\n< Patrol Team >"
+                                "Serena-san, are you feeling alright?\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -17309,7 +17309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...You are aware that Nicola-sama has\nbeen captured by the city guards, aren't\nyou?\\n< Serena >"
+                                "...You are aware that Nicola-sama has been\ncaptured by the city guards, aren't you?\\n< Serena >"
                             ]
                         },
                         {
@@ -17352,7 +17352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...The captain had left on personal\nbusiness, it was said.\\n< Patrol Team >"
+                                "...The captain had left on personal business, it\nwas said.\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -17370,7 +17370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Given that, as a patrol team, we cannot\nafford to allocate our personnel.\\n< Patrol Team >"
+                                "Given that, as a patrol team, we cannot afford to\nallocate our personnel.\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -17388,7 +17388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...The truth is, we have orders from\nabove not to engage with the city\nguards.\\n< Patrol Team >"
+                                "...The truth is, we have orders from above not to\nengage with the city guards.\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -17438,7 +17438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "However, they have proposed a joint\ninvestigation.\\n< Patrol Team >"
+                                "However, they have proposed a joint investigation.\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -17488,7 +17488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Needless to say, our relationship with\nthem is hostile. A joint investigation\nis out of the question. Especially under\nthe current circumstances.\\n< Patrol Team >"
+                                "Needless to say, our relationship with them is\nhostile. A joint investigation is out of the\nquestion. Especially under the current\ncircumstances.\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -17506,7 +17506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So this is part of their harassment...\nThey're gloating. They don't expect us\nto agree to the talk.\\n< Patrol Team >"
+                                "So this is part of their harassment... They're\ngloating. They don't expect us to agree to the\ntalk.\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -17524,7 +17524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's why I'm thinking of accepting it\njust to spite them.\\n< Patrol Team >"
+                                "That's why I'm thinking of accepting it just to\nspite them.\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -17574,7 +17574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Most likely, there will be a clash at\nthe scene, turning into a brawl.\\n< Patrol Team >"
+                                "Most likely, there will be a clash at the scene,\nturning into a brawl.\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -17592,7 +17592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Without Captain Nicola, we are\noutnumbered. We would be utterly\ndefeated as things stand.\\n< Patrol Team >"
+                                "Without Captain Nicola, we are outnumbered. We\nwould be utterly defeated as things stand.\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -17649,7 +17649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yes, you are.\\n< Patrol Team >"
+                                "Yes, you are.\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -17667,7 +17667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If we can defeat them there, the rest\nwill be taken aback. They surely won't\nbe prepared for that.\\n< Patrol Team >"
+                                "If we can defeat them there, the rest will be\ntaken aback. They surely won't be prepared for\nthat.\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -17685,7 +17685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "We can storm their stronghold and rescue\nCaptain Nicola.\\n< Patrol Team >"
+                                "We can storm their stronghold and rescue Captain\nNicola.\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -17717,7 +17717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "However, as much as I appreciate your\nreliance on me, I too have been defeated\nby them once before.\\n< Serena >"
+                                "However, as much as I appreciate your reliance on\nme, I too have been defeated by them once before.\\n< Serena >"
                             ]
                         },
                         {
@@ -17742,7 +17742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That may be so, but we have no other\noptions at this time.\\n< Patrol Team >"
+                                "That may be so, but we have no other options at\nthis time.\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -17792,7 +17792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's going to be a do-or-die gamble.\\n< Patrol Team >"
+                                "It's going to be a do-or-die gamble.\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -17810,7 +17810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please speak to me when you are ready to\nproceed.\\n< Patrol Team >"
+                                "Please speak to me when you are ready to proceed.\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -18100,7 +18100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "First, Serena-kun. I want you to take\nthis.\\n< Nicola >"
+                                "First, Serena-kun. I want you to take this.\\n< Nicola >"
                             ]
                         },
                         {
@@ -18133,7 +18133,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...Is this a debt note? The one I owed\nto the mansion's master...\\n< Serena >"
+                                "...Is this a debt note? The one I owed to the\nmansion's master...\\n< Serena >"
                             ]
                         },
                         {
@@ -18157,7 +18157,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "But this debt has already been repaid.\nThis note should be invalid...?\\n< Serena >"
+                                "But this debt has already been repaid. This note\nshould be invalid...?\\n< Serena >"
                             ]
                         },
                         {
@@ -18181,7 +18181,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "No, as long as it exists here like this,\nthe note is still valid.\\n< Nicola >"
+                                "No, as long as it exists here like this, the note\nis still valid.\\n< Nicola >"
                             ]
                         },
                         {
@@ -18198,7 +18198,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I don't know what the brothel madam was\nthinking, keeping this note without\ndestroying it... If it falls into the\nhands of a third party, it could cause a\nlot of trouble.\\n< Nicola >"
+                                "I don't know what the brothel madam was thinking,\nkeeping this note without destroying it... If it\nfalls into the hands of a third party, it could\ncause a lot of trouble.\\n< Nicola >"
                             ]
                         },
                         {
@@ -18215,7 +18215,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "In fact, it almost did. It seems they\nfound this in the brothel.\\n< Nicola >"
+                                "In fact, it almost did. It seems they found this\nin the brothel.\\n< Nicola >"
                             ]
                         },
                         {
@@ -18249,7 +18249,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...Is this a debt note? The one I owed\nto the mansion's master...\\n< Serena >"
+                                "...Is this a debt note? The one I owed to the\nmansion's master...\\n< Serena >"
                             ]
                         },
                         {
@@ -18273,7 +18273,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Indeed, I was a bit concerned about\nwhere it had gone.\\n< Serena >"
+                                "Indeed, I was a bit concerned about where it had\ngone.\\n< Serena >"
                             ]
                         },
                         {
@@ -18297,7 +18297,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Those guys found the note among the\ndocuments they seized from the\nbrothel...\\n< Nicola >"
+                                "Those guys found the note among the documents they\nseized from the brothel...\\n< Nicola >"
                             ]
                         },
                         {
@@ -18314,7 +18314,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "If such a thing fell into the hands of\nunscrupulous people, you would be in\nquite a bit of trouble, wouldn't you?\\n< Nicola >"
+                                "If such a thing fell into the hands of\nunscrupulous people, you would be in quite a bit\nof trouble, wouldn't you?\\n< Nicola >"
                             ]
                         },
                         {
@@ -18348,7 +18348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So, you tried to retrieve the note by\nyourself...?\\n< Serena >"
+                                "So, you tried to retrieve the note by yourself...?\\n< Serena >"
                             ]
                         },
                         {
@@ -18372,7 +18372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A friend's problem... It's a personal\nmatter. I can't mobilize the patrol for\nthat.\\n< Nicola >"
+                                "A friend's problem... It's a personal matter. I\ncan't mobilize the patrol for that.\\n< Nicola >"
                             ]
                         },
                         {
@@ -18396,7 +18396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's not the point! Why did you keep\nit a secret from me!\\n< Serena >"
+                                "That's not the point! Why did you keep it a secret\nfrom me!\\n< Serena >"
                             ]
                         },
                         {
@@ -18420,7 +18420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm not happy at all! Even if you do\nsomething like this...!\\n< Serena >"
+                                "I'm not happy at all! Even if you do something\nlike this...!\\n< Serena >"
                             ]
                         },
                         {
@@ -18444,7 +18444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm leaving town now, but you still have\nbusiness here, don't you?\\n< Nicola >"
+                                "I'm leaving town now, but you still have business\nhere, don't you?\\n< Nicola >"
                             ]
                         },
                         {
@@ -18468,7 +18468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So I decided it would be best if I took\ncare of everything myself.\\n< Nicola >"
+                                "So I decided it would be best if I took care of\neverything myself.\\n< Nicola >"
                             ]
                         },
                         {
@@ -18492,7 +18492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I didn't expect the drugs to dull my\nsword skills to this extent...\\n< Nicola >"
+                                "I didn't expect the drugs to dull my sword skills\nto this extent...\\n< Nicola >"
                             ]
                         },
                         {
@@ -18516,7 +18516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "And in the end, I troubled you, Serena-\nkun, which defeats the purpose.\nReally...\\n< Nicola >"
+                                "And in the end, I troubled you, Serena- kun, which\ndefeats the purpose. Really...\\n< Nicola >"
                             ]
                         },
                         {
@@ -18581,7 +18581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yes!\\n< Patrol Team >"
+                                "Yes!\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -18764,7 +18764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Deliver this letter to the council.\nHurry up.\\n< Nicola >"
+                                "Deliver this letter to the council. Hurry up.\\n< Nicola >"
                             ]
                         },
                         {
@@ -18781,7 +18781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yes!\\n< Patrol Team >"
+                                "Yes!\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -19039,7 +19039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hm? Oh... You could call it a report of\nsorts.\\n< Nicola >"
+                                "Hm? Oh... You could call it a report of sorts.\\n< Nicola >"
                             ]
                         },
                         {
@@ -19056,7 +19056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's a suitable account of how I got\ninto a fight with the city guards. Of\ncourse, I haven't mentioned your name at\nall.\\n< Nicola >"
+                                "It's a suitable account of how I got into a fight\nwith the city guards. Of course, I haven't\nmentioned your name at all.\\n< Nicola >"
                             ]
                         },
                         {
@@ -19080,7 +19080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It says that I was raped by Demu-Ran and\nlater... well, today, I caused a duel\nover my honor.\\n< Nicola >"
+                                "It says that I was raped by Demu-Ran and later...\nwell, today, I caused a duel over my honor.\\n< Nicola >"
                             ]
                         },
                         {
@@ -19128,7 +19128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'll probably be in court with Demu-Ran\nfor a while. During that time, he won't\nbe able to do whatever he wants.\\n< Nicola >"
+                                "I'll probably be in court with Demu-Ran for a\nwhile. During that time, he won't be able to do\nwhatever he wants.\\n< Nicola >"
                             ]
                         },
                         {
@@ -19145,7 +19145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "His subordinates in the city guard\nshould also behave for a while.\\n< Nicola >"
+                                "His subordinates in the city guard should also\nbehave for a while.\\n< Nicola >"
                             ]
                         },
                         {
@@ -19186,7 +19186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Besides, after being beaten so\nspectacularly, he physically won't be\nable to move for a while anyway.\\n< Nicola >"
+                                "Besides, after being beaten so spectacularly, he\nphysically won't be able to move for a while\nanyway.\\n< Nicola >"
                             ]
                         },
                         {
@@ -19210,7 +19210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What about your honor, Nicola-dono? The\nhonor of your house?\\n< Serena >"
+                                "What about your honor, Nicola-dono? The honor of\nyour house?\\n< Serena >"
                             ]
                         },
                         {
@@ -19234,7 +19234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well, there's nothing that can be done\nabout that. Although the order of events\nis different, both the defeat and being\nraped are facts.\\n< Nicola >"
+                                "Well, there's nothing that can be done about that.\nAlthough the order of events is different, both\nthe defeat and being raped are facts.\\n< Nicola >"
                             ]
                         },
                         {
@@ -19282,7 +19282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Heh, though I don't know how the trial\nwill turn out, depending on the\nsituation, I might end up marrying that\nman. Just thinking about it makes me\nshudder.\\n< Nicola >"
+                                "Heh, though I don't know how the trial will turn\nout, depending on the situation, I might end up\nmarrying that man. Just thinking about it makes me\nshudder.\\n< Nicola >"
                             ]
                         },
                         {
@@ -19306,7 +19306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That is... Are they trying to make the\nvictim and perpetrator husband and wife\nto erase the crime itself...?\\n< Serena >"
+                                "That is... Are they trying to make the victim and\nperpetrator husband and wife to erase the crime\nitself...?\\n< Serena >"
                             ]
                         },
                         {
@@ -19330,7 +19330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It seems that trials, which prioritize\ndoctrine above all else, can sometimes\nend up with such resolutions.\\n< Nicola >"
+                                "It seems that trials, which prioritize doctrine\nabove all else, can sometimes end up with such\nresolutions.\\n< Nicola >"
                             ]
                         },
                         {
@@ -19354,7 +19354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well, let's pray that a reasonable monk\nis assigned to the trial.\\n< Nicola >"
+                                "Well, let's pray that a reasonable monk is\nassigned to the trial.\\n< Nicola >"
                             ]
                         },
                         {
@@ -19402,7 +19402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well then, it's about time for us to\ntake our leave. The trial won't start\nfor quite some time... and before that,\nI must deliver the neighbor to the royal\ncapital.\\n< Nicola >"
+                                "Well then, it's about time for us to take our\nleave. The trial won't start for quite some\ntime... and before that, I must deliver the\nneighbor to the royal capital.\\n< Nicola >"
                             ]
                         },
                         {
@@ -19426,7 +19426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "His Majesty is also urging us to hurry.\nIt pains me to leave without being able\nto repay you for your great kindness...\\n< Nicola >"
+                                "His Majesty is also urging us to hurry. It pains\nme to leave without being able to repay you for\nyour great kindness...\\n< Nicola >"
                             ]
                         },
                         {
@@ -19450,7 +19450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I never intended to have a debt owed to\nme in the first place. Please don't\nworry about it.\\n< Serena >"
+                                "I never intended to have a debt owed to me in the\nfirst place. Please don't worry about it.\\n< Serena >"
                             ]
                         },
                         {
@@ -19474,7 +19474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's not something I can easily\naccept. But arguing here won't get us\nanywhere.\\n< Nicola >"
+                                "That's not something I can easily accept. But\narguing here won't get us anywhere.\\n< Nicola >"
                             ]
                         },
                         {
@@ -19498,7 +19498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "We'll meet again. I will definitely\nrepay you for today's events. Thank you,\nSerena-kun.\\n< Nicola >"
+                                "We'll meet again. I will definitely repay you for\ntoday's events. Thank you, Serena-kun.\\n< Nicola >"
                             ]
                         },
                         {
@@ -19644,7 +19644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The patrol guards... Is this farewell\nwith Nicola- dono as well?\\n< Serena >"
+                                "The patrol guards... Is this farewell with Nicola-\ndono as well?\\n< Serena >"
                             ]
                         },
                         {
@@ -19668,7 +19668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I suppose the trouble with the city\nguard has been settled for now. At least\nfor me.\\n< Serena >"
+                                "I suppose the trouble with the city guard has been\nsettled for now. At least for me.\\n< Serena >"
                             ]
                         },
                         {
@@ -19692,7 +19692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Now, let's focus on the matter of\nSplendor.\\n< Serena >"
+                                "Now, let's focus on the matter of Splendor.\\n< Serena >"
                             ]
                         },
                         {

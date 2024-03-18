@@ -3443,7 +3443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yes, but... have you also come to\ninquire about the Minotaur?\\n< Monster Doctor >"
+                                "Yes, but... have you also come to inquire about\nthe Minotaur?\\n< Monster Doctor>"
                             ]
                         },
                         {
@@ -3484,7 +3484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No, while I'm not uninterested in the\ncreature known as the Minotaur, what I\nwant to know about now is the Orc.\\n< Serena >"
+                                "No, while I'm not uninterested in the creature\nknown as the Minotaur, what I want to know about\nnow is the Orc.\\n< Serena >"
                             ]
                         },
                         {
@@ -3508,7 +3508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So you've come to learn about your\nenemy. That's commendable.\\n< Monster Doctor >"
+                                "So you've come to learn about your enemy. That's\ncommendable.\\n< Monster Doctor>"
                             ]
                         },
                         {
@@ -3525,7 +3525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You adventurers are, after all, monster\nexterminators. Yet, it can be said that\nyou know far too little about monsters.\\n< Monster Doctor >"
+                                "You adventurers are, after all, monster\nexterminators. Yet, it can be said that you know\nfar too little about monsters.\\n< Monster Doctor>"
                             ]
                         },
                         {
@@ -3542,7 +3542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The fact that their eradication isn't\nprogressing is partly due to that, I'd\nwager.\\n< Monster Doctor >"
+                                "The fact that their eradication isn't progressing\nis partly due to that, I'd wager.\\n< Monster Doctor>"
                             ]
                         },
                         {
@@ -3607,7 +3607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Very well, very well.\\n< Monster Doctor >"
+                                "Very well, very well.\\n< Monster Doctor>"
                             ]
                         },
                         {
@@ -3916,7 +3916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "To protect oneself is of great\nimportance. How many there are who even\nshun learning for the sake of self-\ndefense.\\n< Monster Doctor >"
+                                "To protect oneself is of great importance. How\nmany there are who even shun learning for the sake\nof self- defense.\\n< Monster Doctor>"
                             ]
                         },
                         {
@@ -3933,7 +3933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ignorance, my dear, is no different from\na slow suicide.\\n< Monster Doctor >"
+                                "Ignorance, my dear, is no different from a slow\nsuicide.\\n< Monster Doctor>"
                             ]
                         },
                         {
@@ -3950,7 +3950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "To live well is to learn well.\\n< Monster Doctor >"
+                                "To live well is to learn well.\\n< Monster Doctor>"
                             ]
                         },
                         {
@@ -4064,7 +4064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Let me give you this book.\\n< Monster Doctor >"
+                                "Let me give you this book.\\n< Monster Doctor>"
                             ]
                         },
                         {
@@ -4128,7 +4128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It activated. Is this some kind of\ngrimoire? How curious...\\n< Serena >"
+                                "It activated. Is this some kind of grimoire? How\ncurious...\\n< Serena >"
                             ]
                         },
                         {
@@ -4152,7 +4152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That book borrows a bit of its\nowner's... which means your... magical\npower to operate.\\n< Monster Doctor >"
+                                "That book borrows a bit of its owner's... which\nmeans your... magical power to operate.\\n< Monster Doctor>"
                             ]
                         },
                         {
@@ -4169,7 +4169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Open it and take a look inside.\\n< Monster Doctor >"
+                                "Open it and take a look inside.\\n< Monster Doctor>"
                             ]
                         },
                         {
@@ -4193,7 +4193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Goblins... Orcs... the rest of the\npages are all blank.\\n< Serena >"
+                                "...Goblins... Orcs... the rest of the pages are\nall blank.\\n< Serena >"
                             ]
                         },
                         {
@@ -4234,7 +4234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mostly blank, how splendid. It means you\nknow next to nothing about monsters.\\n< Monster Doctor >"
+                                "Mostly blank, how splendid. It means you know next\nto nothing about monsters.\\n< Monster Doctor>"
                             ]
                         },
                         {
@@ -4258,7 +4258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...So, this book is linked to my\nknowledge?\\n< Serena >"
+                                "...So, this book is linked to my knowledge?\\n< Serena >"
                             ]
                         },
                         {
@@ -4282,7 +4282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Exactly. You catch on quickly.\\n< Monster Doctor >"
+                                "Exactly. You catch on quickly.\\n< Monster Doctor>"
                             ]
                         },
                         {
@@ -4313,7 +4313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "However, this won't prepare me for the\nunknown, will it?\\n< Serena >"
+                                "However, this won't prepare me for the unknown,\nwill it?\\n< Serena >"
                             ]
                         },
                         {
@@ -4337,7 +4337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What I need is not a diary but a\nreference book. Practical knowledge. The\ngimmick of this book is interesting,\nbut...\\n< Serena >"
+                                "What I need is not a diary but a reference book.\nPractical knowledge. The gimmick of this book is\ninteresting, but...\\n< Serena >"
                             ]
                         },
                         {
@@ -4361,7 +4361,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...I apologize. That was rather impolite\nof me to say to someone I've just met.\\n< Serena >"
+                                "...I apologize. That was rather impolite of me to\nsay to someone I've just met.\\n< Serena >"
                             ]
                         },
                         {
@@ -4385,7 +4385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "By the way, I haven't introduced myself\nyet. My name is Serena. Pleased to meet\nyou, Lord Toma.\\n< Serena >"
+                                "By the way, I haven't introduced myself yet. My\nname is Serena. Pleased to meet you, Lord Toma.\\n< Serena >"
                             ]
                         },
                         {
@@ -4409,7 +4409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah, don't worry about it, not at all.\\n< Monster Doctor >"
+                                "Ah, don't worry about it, not at all.\\n< Monster Doctor>"
                             ]
                         },
                         {
@@ -4426,7 +4426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A frank opinion is very welcome. There's\nno mistake in what you say.\\n< Monster Doctor >"
+                                "A frank opinion is very welcome. There's no\nmistake in what you say.\\n< Monster Doctor>"
                             ]
                         },
                         {
@@ -4443,7 +4443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Consider that book merely a token of our\nacquaintance.\\n< Monster Doctor >"
+                                "Consider that book merely a token of our\nacquaintance.\\n< Monster Doctor>"
                             ]
                         },
                         {
@@ -4460,7 +4460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Now, regarding the Orcs, you want to\nknow their weaknesses straight away,\ndon't you? Not their ecology.\\n< Monster Doctor >"
+                                "Now, regarding the Orcs, you want to know their\nweaknesses straight away, don't you? Not their\necology.\\n< Monster Doctor>"
                             ]
                         },
                         {
@@ -4484,7 +4484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's right. I don't have time for\nlengthy lectures.\\n< Serena >"
+                                "That's right. I don't have time for lengthy\nlectures.\\n< Serena >"
                             ]
                         },
                         {
@@ -4508,7 +4508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Very well, very well.\\n< Monster Doctor >"
+                                "Very well, very well.\\n< Monster Doctor>"
                             ]
                         },
                         {
@@ -4525,7 +4525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Then let's get straight to the point. Do\nnot engage Orcs in a head-on battle.\\n< Monster Doctor >"
+                                "Then let's get straight to the point. Do not\nengage Orcs in a head-on battle.\\n< Monster Doctor>"
                             ]
                         },
                         {
@@ -4542,7 +4542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You mustn't think you can withstand\ntheir attacks. They're too strong for\nthat. And don't attempt to hit them\nrepeatedly. They're resilient and won't\nflinch from trifles.\\n< Monster Doctor >"
+                                "You mustn't think you can withstand their attacks.\nThey're too strong for that. And don't attempt to\nhit them repeatedly. They're resilient and won't\nflinch from trifles.\\n< Monster Doctor>"
                             ]
                         },
                         {
@@ -4559,7 +4559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So if you're going to do it, either\npummel them with powerful long-range\nattacks or exploit openings to strike\nand retreat repeatedly.\\n< Monster Doctor >"
+                                "So if you're going to do it, either pummel them\nwith powerful long-range attacks or exploit\nopenings to strike and retreat repeatedly.\\n< Monster Doctor>"
                             ]
                         },
                         {
@@ -4576,7 +4576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Of course, the Orcs know their own\nweaknesses, which is why they appear in\ngroups of two or three.\\n< Monster Doctor >"
+                                "Of course, the Orcs know their own weaknesses,\nwhich is why they appear in groups of two or\nthree.\\n< Monster Doctor>"
                             ]
                         },
                         {
@@ -4593,7 +4593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Fight carefully without being greedy.\nMagic attacks work well against them, so\nyou should have the advantage.\\n< Monster Doctor >"
+                                "Fight carefully without being greedy. Magic\nattacks work well against them, so you should have\nthe advantage.\\n< Monster Doctor>"
                             ]
                         },
                         {
@@ -4641,7 +4641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Isn't it? With those slender arms, you\ncan't possibly swing a sword or axe\naround.\\n< Monster Doctor >"
+                                "Isn't it? With those slender arms, you can't\npossibly swing a sword or axe around.\\n< Monster Doctor>"
                             ]
                         },
                         {
@@ -4658,7 +4658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Inevitably, your means of attack must be\nmagic.\\n< Monster Doctor >"
+                                "Inevitably, your means of attack must be magic.\\n< Monster Doctor>"
                             ]
                         },
                         {
@@ -4706,7 +4706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's about it. Was this information\nhelpful?\\n< Monster Doctor >"
+                                "That's about it. Was this information helpful?\\n< Monster Doctor>"
                             ]
                         },
                         {
@@ -4754,7 +4754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's Doctor.\\n< Monster Doctor >"
+                                "It's Doctor.\\n< Monster Doctor>"
                             ]
                         },
                         {
@@ -4802,7 +4802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If you're going to address me, it should\nbe as Monster Doctor.\\n< Monster Doctor >"
+                                "If you're going to address me, it should be as\nMonster Doctor.\\n< Monster Doctor>"
                             ]
                         },
                         {
@@ -4819,7 +4819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's a nickname given by the folks in\nthe countryside in jest, but I've grown\nquite fond of it.\\n< Monster Doctor >"
+                                "It's a nickname given by the folks in the\ncountryside in jest, but I've grown quite fond of\nit.\\n< Monster Doctor>"
                             ]
                         },
                         {
@@ -4843,7 +4843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Understood, Lord Monster Doctor. Your\nadvice has been very helpful. For my\ngratitude...\\n< Serena >"
+                                "Understood, Lord Monster Doctor. Your advice has\nbeen very helpful. For my gratitude...\\n< Serena >"
                             ]
                         },
                         {
@@ -4867,7 +4867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Coins are fine. It would be rather\nembarrassing for me to charge a lecture\nfee for such a trivial conversation.\\n< Monster Doctor >"
+                                "Coins are fine. It would be rather embarrassing\nfor me to charge a lecture fee for such a trivial\nconversation.\\n< Monster Doctor>"
                             ]
                         },
                         {
@@ -4884,7 +4884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If you insist on giving thanks, then\njust keep that book I gave you with\ncare.\\n< Monster Doctor >"
+                                "If you insist on giving thanks, then just keep\nthat book I gave you with care.\\n< Monster Doctor>"
                             ]
                         },
                         {
@@ -4908,7 +4908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This is quite a puzzling arrangement. To\nreceive something as a form of\ngratitude.\\n< Serena >"
+                                "This is quite a puzzling arrangement. To receive\nsomething as a form of gratitude.\\n< Serena >"
                             ]
                         },
                         {
@@ -4932,7 +4932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The mere existence of that book in this\nworld will eventually become a value in\nitself.\\n< Monster Doctor >"
+                                "The mere existence of that book in this world will\neventually become a value in itself.\\n< Monster Doctor>"
                             ]
                         },
                         {
@@ -4949,7 +4949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So, well... if it's alright with you,\nplease show it to me sometime.\\n< Monster Doctor >"
+                                "So, well... if it's alright with you, please show\nit to me sometime.\\n< Monster Doctor>"
                             ]
                         },
                         {
@@ -4973,7 +4973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...So you mean to say it's an experiment\nto see what content will be recorded?\\n< Serena >"
+                                "...So you mean to say it's an experiment to see\nwhat content will be recorded?\\n< Serena >"
                             ]
                         },
                         {
@@ -4997,7 +4997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That understanding isn't far off.\\n< Monster Doctor >"
+                                "That understanding isn't far off.\\n< Monster Doctor>"
                             ]
                         },
                         {
@@ -5021,7 +5021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Well... I can understand that much.\nAlright, I'll accept it.\\n< Serena >"
+                                "...Well... I can understand that much. Alright,\nI'll accept it.\\n< Serena >"
                             ]
                         },
                         {
@@ -5045,7 +5045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's good. That's good.\\n< Monster Doctor >"
+                                "That's good. That's good.\\n< Monster Doctor>"
                             ]
                         },
                         {
@@ -5076,7 +5076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Indeed. Then, Lord Monster Doctor, until\nwe meet again.\\n< Serena >"
+                                "Indeed. Then, Lord Monster Doctor, until we meet\nagain.\\n< Serena >"
                             ]
                         },
                         {
@@ -5303,7 +5303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Quite an interesting girl. Good\nqualities, good magical power, and good\nlooks.\\n< Monster Doctor >"
+                                "Quite an interesting girl. Good qualities, good\nmagical power, and good looks.\\n< Monster Doctor>"
                             ]
                         },
                         {
@@ -5320,7 +5320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Truly \"good\".\\n< Monster Doctor >"
+                                "Truly \"good\".\\n< Monster Doctor>"
                             ]
                         },
                         {
@@ -5337,7 +5337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Even I think so, so for monsters, it\nmust be even more so.\\n< Monster Doctor >"
+                                "Even I think so, so for monsters, it must be even\nmore so.\\n< Monster Doctor>"
                             ]
                         },
                         {
@@ -5354,7 +5354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The compendium she will compile seems\nlike it will be unprecedented.\\n< Monster Doctor >"
+                                "The compendium she will compile seems like it will\nbe unprecedented.\\n< Monster Doctor>"
                             ]
                         },
                         {
@@ -5371,7 +5371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...I'm looking forward to it, Serena-\nkun.\\n< Monster Doctor >"
+                                "...I'm looking forward to it, Serena- kun.\\n< Monster Doctor>"
                             ]
                         },
                         {
@@ -5571,7 +5571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If you have any more questions about the\nmonsters, come see me again.\\n< Monster Doctor >"
+                                "If you have any more questions about the monsters,\ncome see me again.\\n< Monster Doctor>"
                             ]
                         },
                         {
@@ -6277,7 +6277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's filled with writing tools and\npaper.\\n< Serena >"
+                                "It's filled with writing tools and paper.\\n< Serena >"
                             ]
                         },
                         {
@@ -6406,7 +6406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The periods and languages are all mixed\nup, but they seem to be books about\nmonsters uniformly.\\n< Serena >"
+                                "The periods and languages are all mixed up, but\nthey seem to be books about monsters uniformly.\\n< Serena >"
                             ]
                         },
                         {
@@ -6423,7 +6423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I see, there's a reason he calls himself\na doctor. If all this knowledge is tied\nup in his head...\\n< Serena >"
+                                "I see, there's a reason he calls himself a doctor.\nIf all this knowledge is tied up in his head...\\n< Serena >"
                             ]
                         },
                         {
@@ -6552,7 +6552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The periods and languages are all mixed\nup, but they seem to be books about\nmonsters uniformly.\\n< Serena >"
+                                "The periods and languages are all mixed up, but\nthey seem to be books about monsters uniformly.\\n< Serena >"
                             ]
                         },
                         {
@@ -6569,7 +6569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I see, there's a reason they call\nthemselves a doctor. If all this\nknowledge is tied together in their\nhead...\\n< Serena >"
+                                "I see, there's a reason they call themselves a\ndoctor. If all this knowledge is tied together in\ntheir head...\\n< Serena >"
                             ]
                         },
                         {
@@ -6698,7 +6698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It contains detailed descriptions about\nmonsters. It should be valuable, but\nit's full of sticky notes and\nannotations.\\n< Serena >"
+                                "It contains detailed descriptions about monsters.\nIt should be valuable, but it's full of sticky\nnotes and annotations.\\n< Serena >"
                             ]
                         },
                         {
@@ -6715,7 +6715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "As I was peering intently, our eyes met\nwith the doctor's. He seems a bit\nuncomfortable.\\n< Serena >"
+                                "As I was peering intently, our eyes met with the\ndoctor's. He seems a bit uncomfortable.\\n< Serena >"
                             ]
                         },
                         {
@@ -6844,7 +6844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The breeding habits of monsters. The\nsurface and the essence.\\n< Serena >"
+                                "The breeding habits of monsters. The surface and\nthe essence.\\n< Serena >"
                             ]
                         },
                         {
@@ -6861,7 +6861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hmm. To be frank, it's a book on a\nslightly disturbing topic. It's rare for\nme, but I don't really feel like reading\nit.\\n< Serena >"
+                                "Hmm. To be frank, it's a book on a slightly\ndisturbing topic. It's rare for me, but I don't\nreally feel like reading it.\\n< Serena >"
                             ]
                         },
                         {
@@ -6990,7 +6990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's riddled with holes and hardly\nreadable, but it seems someone is trying\nto restore it.\\n< Serena >"
+                                "It's riddled with holes and hardly readable, but\nit seems someone is trying to restore it.\\n< Serena >"
                             ]
                         },
                         {
@@ -7007,7 +7007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I wonder if it contains some extremely\nvaluable knowledge.\\n< Serena >"
+                                "I wonder if it contains some extremely valuable\nknowledge.\\n< Serena >"
                             ]
                         },
                         {
@@ -7136,7 +7136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's riddled with holes and hardly\nreadable, but it seems like someone is\ntrying to restore it.\\n< Serena >"
+                                "It's riddled with holes and hardly readable, but\nit seems like someone is trying to restore it.\\n< Serena >"
                             ]
                         },
                         {
@@ -7153,7 +7153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I wonder if it contains some extremely\nvaluable knowledge.\\n< Serena >"
+                                "I wonder if it contains some extremely valuable\nknowledge.\\n< Serena >"
                             ]
                         },
                         {
@@ -7282,7 +7282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It doesn't look used. Seems like no one\ncooks here.\\n< Serena >"
+                                "It doesn't look used. Seems like no one cooks\nhere.\\n< Serena >"
                             ]
                         },
                         {
@@ -7411,7 +7411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The monster doctor seems a bit taken\naback. If someone barges into your house\nand starts searching around while\nignoring you, that's bound to happen.\\n< Serena >"
+                                "The monster doctor seems a bit taken aback. If\nsomeone barges into your house and starts\nsearching around while ignoring you, that's bound\nto happen.\\n< Serena >"
                             ]
                         },
                         {
@@ -7540,7 +7540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's carelessly placed. I'm worried\nabout bugs since it's left open.\\n< Serena >"
+                                "It's carelessly placed. I'm worried about bugs\nsince it's left open.\\n< Serena >"
                             ]
                         },
                         {
@@ -7669,7 +7669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There are no signs of use. They must\nhave moved in recently.\\n< Serena >"
+                                "There are no signs of use. They must have moved in\nrecently.\\n< Serena >"
                             ]
                         },
                         {
@@ -7798,7 +7798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I don't really want to look inside. As\nfor the outside... well, it looks heavy.\nYeah.\\n< Serena >"
+                                "I don't really want to look inside. As for the\noutside... well, it looks heavy. Yeah.\\n< Serena >"
                             ]
                         },
                         {
@@ -7927,7 +7927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Here, there's a mix of books not just\nabout monsters but also from the seven\nliberal arts. Perhaps there's a slight\nemphasis on astronomy- related texts.\\n< Serena >"
+                                "Here, there's a mix of books not just about\nmonsters but also from the seven liberal arts.\nPerhaps there's a slight emphasis on astronomy-\nrelated texts.\\n< Serena >"
                             ]
                         },
                         {

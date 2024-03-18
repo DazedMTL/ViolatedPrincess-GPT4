@@ -10537,7 +10537,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "A farmer with a tired face is waiting in\nline."
+                                "A farmer with a tired face is waiting in line."
                             ]
                         },
                         {
@@ -10690,7 +10690,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "A farmer with a tired face is waiting in\nline."
+                                "A farmer with a tired face is waiting in line."
                             ]
                         },
                         {
@@ -10798,7 +10798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Farmers with tired faces are waiting in\nline."
+                                "Farmers with tired faces are waiting in line."
                             ]
                         },
                         {
@@ -11754,7 +11754,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Were you attacked by a monster and\nimpregnated or something?\\n< City Police >"
+                                "Were you attacked by a monster and impregnated or\nsomething?\\n< City Police>"
                             ]
                         },
                         {
@@ -11771,7 +11771,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "...There are many like you. Country\nbumpkins who fight beyond their means,\nlose, and cause trouble.\\n< City Police >"
+                                "...There are many like you. Country bumpkins who\nfight beyond their means, lose, and cause trouble.\\n< City Police>"
                             ]
                         },
                         {
@@ -11837,7 +11837,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Were you stripped of your clothes or\nsomething? Don't wander around dressed\nlike that, you're in the way.\\n< City Police >"
+                                "Were you stripped of your clothes or something?\nDon't wander around dressed like that, you're in\nthe way.\\n< City Police>"
                             ]
                         },
                         {
@@ -11903,7 +11903,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Were you attacked by a robber or a\nmonster? That's what happens when a brat\nlike you goes outside. Know your place.\\n< City Police >"
+                                "Were you attacked by a robber or a monster? That's\nwhat happens when a brat like you goes outside.\nKnow your place.\\n< City Police>"
                             ]
                         },
                         {
@@ -11979,7 +11979,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "What's with that belly of yours... Isn't\nit too big for your age? Don't tell me\nyou're hiding contraband under those\nclothes?\\n< City Police >"
+                                "What's with that belly of yours... Isn't it too\nbig for your age? Don't tell me you're hiding\ncontraband under those clothes?\\n< City Police>"
                             ]
                         },
                         {
@@ -12013,7 +12013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If you've brought goods, line them up\nhere. I'm going to check if you've\nbrought in anything illegal.\\n< City Police >"
+                                "If you've brought goods, line them up here. I'm\ngoing to check if you've brought in anything\nillegal.\\n< City Police>"
                             ]
                         },
                         {
@@ -12208,7 +12208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Why do you hide it so much? You're\nsuspicious indeed...\\n< City Police >"
+                                "Why do you hide it so much? You're suspicious\nindeed...\\n< City Police>"
                             ]
                         },
                         {
@@ -12225,7 +12225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What's really suspicious is your brain's\npedigree, telling me to strip naked in a\nplace like this!\\n< Female Adventurer >"
+                                "What's really suspicious is your brain's pedigree,\ntelling me to strip naked in a place like this!\\n< Female Adventurer>"
                             ]
                         },
                         {
@@ -12242,7 +12242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What, you got cabbage stuffed in there\nor something?! Aaahn!?\\n< Female Adventurer >"
+                                "What, you got cabbage stuffed in there or\nsomething?! Aaahn!?\\n< Female Adventurer>"
                             ]
                         },
                         {
@@ -12609,7 +12609,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Are you really going to enter the town\ndressed like that? Well, it's your\ncall...\"\\n< Adventurer >"
+                                "\"Are you really going to enter the town dressed\nlike that? Well, it's your call...\"\\n< Adventurer >"
                             ]
                         },
                         {
@@ -12686,7 +12686,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\"Did you slip up somewhere? In this line\nof work, as long as you're alive, you're\nmaking a profit. Don't get too down\nabout it.\"\\n< Adventurer >"
+                                "\"Did you slip up somewhere? In this line of work,\nas long as you're alive, you're making a profit.\nDon't get too down about it.\"\\n< Adventurer >"
                             ]
                         },
                         {
@@ -12762,7 +12762,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"...You seem to be having a tough time\ntoo.\"\\n< Adventurer >"
+                                "\"...You seem to be having a tough time too.\"\\n< Adventurer >"
                             ]
                         },
                         {
@@ -12796,7 +12796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"They always search women so thoroughly\nand persistently, those guys.\"\\n< Adventurer >"
+                                "\"They always search women so thoroughly and\npersistently, those guys.\"\\n< Adventurer >"
                             ]
                         },
                         {
@@ -13021,7 +13021,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "If I were a woman, I might have faced\nthe same fate as you.\\n< Adventurer >"
+                                "If I were a woman, I might have faced the same\nfate as you.\\n< Adventurer >"
                             ]
                         },
                         {
@@ -13038,7 +13038,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I don't know if your mistake can be\nundone, but I'm praying that in the end,\nyou can laugh it off.\\n< Adventurer >"
+                                "I don't know if your mistake can be undone, but\nI'm praying that in the end, you can laugh it off.\\n< Adventurer >"
                             ]
                         },
                         {
@@ -13104,7 +13104,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Well, I don't know what the others would\nsay, but I won't mock you for it.\\n< Adventurer >"
+                                "Well, I don't know what the others would say, but\nI won't mock you for it.\\n< Adventurer >"
                             ]
                         },
                         {
@@ -13121,7 +13121,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Failure is an inseparable friend to an\nadventurer. Learn to deal with it well.\\n< Adventurer >"
+                                "Failure is an inseparable friend to an adventurer.\nLearn to deal with it well.\\n< Adventurer >"
                             ]
                         },
                         {
@@ -13138,7 +13138,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Speaking of which, I've made a big\nblunder in my youth too. Had to offer my\nass to an orc to survive.\\n< Adventurer >"
+                                "Speaking of which, I've made a big blunder in my\nyouth too. Had to offer my ass to an orc to\nsurvive.\\n< Adventurer >"
                             ]
                         },
                         {
@@ -13215,7 +13215,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Oh, you're looking lively. Did you have\na run-in with some goblins?\\n< Adventurer >"
+                                "Oh, you're looking lively. Did you have a run-in\nwith some goblins?\\n< Adventurer >"
                             ]
                         },
                         {
@@ -13232,7 +13232,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "If you get surrounded, no matter how\nskilled you are, you'll get beaten to a\npulp. If you're going to adventure solo,\nmove carefully.\\n< Adventurer >"
+                                "If you get surrounded, no matter how skilled you\nare, you'll get beaten to a pulp. If you're going\nto adventure solo, move carefully.\\n< Adventurer >"
                             ]
                         },
                         {
@@ -13308,7 +13308,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Once you have kids, you can't move\naround... Eventually, you'll have to\nsettle down somewhere.\\n< Adventurer >"
+                                "Once you have kids, you can't move around...\nEventually, you'll have to settle down somewhere.\\n< Adventurer >"
                             ]
                         },
                         {
@@ -13325,7 +13325,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "And once that happens, like it or not,\nyou'll have to belong to that community.\nBefore long, you'll be entangled in\nobligations and join the ranks of those\npitiful handyman adventurers.\\n< Adventurer >"
+                                "And once that happens, like it or not, you'll have\nto belong to that community. Before long, you'll\nbe entangled in obligations and join the ranks of\nthose pitiful handyman adventurers.\\n< Adventurer >"
                             ]
                         },
                         {
@@ -13342,7 +13342,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Well, missy, you're going to be a parent\ntoo. For the sake of the kid, stop doing\ndangerous things.\\n< Adventurer >"
+                                "Well, missy, you're going to be a parent too. For\nthe sake of the kid, stop doing dangerous things.\\n< Adventurer >"
                             ]
                         },
                         {
@@ -13376,7 +13376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Originally, adventurers were merchants.\nTraveling from town to town was the way\nit was supposed to be.\\n< Adventurer >"
+                                "Originally, adventurers were merchants. Traveling\nfrom town to town was the way it was supposed to\nbe.\\n< Adventurer >"
                             ]
                         },
                         {
@@ -13393,7 +13393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The Adventurers' Guild was supposed to\nfacilitate that... but at some point, it\ndegenerated into a handyman service that\nonly brokers petty jobs rooted in the\ntowns.\\n< Adventurer >"
+                                "The Adventurers' Guild was supposed to facilitate\nthat... but at some point, it degenerated into a\nhandyman service that only brokers petty jobs\nrooted in the towns.\\n< Adventurer >"
                             ]
                         },
                         {
@@ -13410,7 +13410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That being said, our party are 'genuine'\nadventurers whose home is traveling from\ntown to town... But every time we arrive\nat a new town, we're made to wait for\ninspections and whatnot.\\n< Adventurer >"
+                                "That being said, our party are 'genuine'\nadventurers whose home is traveling from town to\ntown... But every time we arrive at a new town,\nwe're made to wait for inspections and whatnot.\\n< Adventurer >"
                             ]
                         },
                         {
@@ -13427,7 +13427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's incredibly bothersome. Can't\nexactly sniff nose medicine every time,\ncan we?\\n< Adventurer >"
+                                "It's incredibly bothersome. Can't exactly sniff\nnose medicine every time, can we?\\n< Adventurer >"
                             ]
                         },
                         {
@@ -13652,7 +13652,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Ah... when you're alone, that's what\nhappens when you fail...\\n< Adventurer >"
+                                "Ah... when you're alone, that's what happens when\nyou fail...\\n< Adventurer >"
                             ]
                         },
                         {
@@ -13669,7 +13669,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Even if it means dealing with monsters,\nsurviving as a solo female adventurer\nrequires that kind of resolve...\\n< Adventurer >"
+                                "Even if it means dealing with monsters, surviving\nas a solo female adventurer requires that kind of\nresolve...\\n< Adventurer >"
                             ]
                         },
                         {
@@ -13686,7 +13686,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "...I'd rather die than resolve myself to\nbearing a monster's child.\\n< Adventurer >"
+                                "...I'd rather die than resolve myself to bearing a\nmonster's child.\\n< Adventurer >"
                             ]
                         },
                         {
@@ -13752,7 +13752,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ah... when you're alone, that's what\nhappens when you fail...\\n< Adventurer >"
+                                "Ah... when you're alone, that's what happens when\nyou fail...\\n< Adventurer >"
                             ]
                         },
                         {
@@ -13769,7 +13769,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Even if it means dealing with monsters,\nsurviving as a solo female adventurer\nrequires that kind of resolve...\\n< Adventurer >"
+                                "Even if it means dealing with monsters, surviving\nas a solo female adventurer requires that kind of\nresolve...\\n< Adventurer >"
                             ]
                         },
                         {
@@ -13846,7 +13846,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "It looks like you've been through a lot.\nGoing at it alone as a woman is reckless\nunless you're exceptionally talented...\\n< Adventurer >"
+                                "It looks like you've been through a lot. Going at\nit alone as a woman is reckless unless you're\nexceptionally talented...\\n< Adventurer >"
                             ]
                         },
                         {
@@ -13922,7 +13922,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...I'm not saying this to be mean, but\nstop fighting until your belly is back\nto normal.\\n< Adventurer >"
+                                "...I'm not saying this to be mean, but stop\nfighting until your belly is back to normal.\\n< Adventurer >"
                             ]
                         },
                         {
@@ -13939,7 +13939,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You're not in any condition to fight...\nBesides, it's not just your life, is it?\nThink carefully before you act.\\n< Adventurer >"
+                                "You're not in any condition to fight... Besides,\nit's not just your life, is it? Think carefully\nbefore you act.\\n< Adventurer >"
                             ]
                         },
                         {
@@ -13973,7 +13973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Are you alone? It's rare to see a woman\nnot in a party.\\n< Adventurer >"
+                                "Are you alone? It's rare to see a woman not in a\nparty.\\n< Adventurer >"
                             ]
                         },
                         {
@@ -13990,7 +13990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Being in a party means getting support,\nbut it also means having to be\nconsiderate of others, and above all,\nsplitting the rewards...\\n< Adventurer >"
+                                "Being in a party means getting support, but it\nalso means having to be considerate of others, and\nabove all, splitting the rewards...\\n< Adventurer >"
                             ]
                         },
                         {
@@ -14007,7 +14007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's why I plan to be able to work\nalone someday... but that's a secret\nfrom everyone else, okay?\\n< Adventurer >"
+                                "That's why I plan to be able to work alone\nsomeday... but that's a secret from everyone else,\nokay?\\n< Adventurer >"
                             ]
                         },
                         {
@@ -14270,7 +14270,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Th-that belly... don't tell me, is that\na monster's brat?! Eek...!\\n< Peasant >"
+                                "Th-that belly... don't tell me, is that a\nmonster's brat?! Eek...!\\n< Peasant >"
                             ]
                         },
                         {
@@ -14374,7 +14374,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Seriously, what a troublesome kid...!\nReeking of monster semen...!\\n< Peasant >"
+                                "Seriously, what a troublesome kid...! Reeking of\nmonster semen...!\\n< Peasant >"
                             ]
                         },
                         {
@@ -14451,7 +14451,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "What happened? Did thieves show up or\nsomething?\\n< Peasant >"
+                                "What happened? Did thieves show up or something?\\n< Peasant >"
                             ]
                         },
                         {
@@ -14527,7 +14527,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "For a pretty little girl like you to\nbe... well, with such a swollen belly...\nthe city truly is...\\n< Peasant >"
+                                "For a pretty little girl like you to be... well,\nwith such a swollen belly... the city truly is...\\n< Peasant >"
                             ]
                         },
                         {
@@ -14561,7 +14561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's best to keep a distance from the\ncity. I'm fine just popping into the\nregular market.\\n< Peasant >"
+                                "It's best to keep a distance from the city. I'm\nfine just popping into the regular market.\\n< Peasant >"
                             ]
                         },
                         {
@@ -14578,7 +14578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I really don't feel like living inside.\nThey say there's a lot of poison around\nthese days.\\n< Peasant >"
+                                "I really don't feel like living inside. They say\nthere's a lot of poison around these days.\\n< Peasant >"
                             ]
                         },
                         {
@@ -14690,7 +14690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Why do you hide so much? You do seem\nsuspicious...\\n< City Police >"
+                                "Why do you hide so much? You do seem suspicious...\\n< City Police>"
                             ]
                         },
                         {
@@ -14707,7 +14707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What's really suspicious is your brain's\npedigree, being able to strip naked in a\nplace like this!\\n< Female Adventurer >"
+                                "What's really suspicious is your brain's pedigree,\nbeing able to strip naked in a place like this!\\n< Female Adventurer>"
                             ]
                         },
                         {
@@ -14724,7 +14724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What, you got cabbage stuffed in there\nor something?! Aaahn!?\\n< Female Adventurer >"
+                                "What, you got cabbage stuffed in there or\nsomething?! Aaahn!?\\n< Female Adventurer>"
                             ]
                         },
                         {
@@ -14905,7 +14905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Farmers with tired faces are waiting in\nline."
+                                "Farmers with tired faces are waiting in line."
                             ]
                         },
                         {
@@ -15003,7 +15003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Tired-looking farmers are waiting in\nline."
+                                "Tired-looking farmers are waiting in line."
                             ]
                         },
                         {
@@ -15101,7 +15101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Farmers with tired faces are waiting in\nline."
+                                "Farmers with tired faces are waiting in line."
                             ]
                         },
                         {
@@ -15344,7 +15344,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Ew... just, gross... Don't come any\ncloser!\\n< Adventurer >"
+                                "Ew... just, gross... Don't come any closer!\\n< Adventurer >"
                             ]
                         },
                         {
@@ -15361,7 +15361,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Seriously disgusting... How can you even\nlive looking like that...\\n< Adventurer >"
+                                "Seriously disgusting... How can you even live\nlooking like that...\\n< Adventurer >"
                             ]
                         },
                         {
@@ -15430,7 +15430,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...Ugh... heh... I wonder if this is the\nright time to use a charm spell...\\n< Adventurer >"
+                                "...Ugh... heh... I wonder if this is the right\ntime to use a charm spell...\\n< Adventurer >"
                             ]
                         },
                         {
@@ -15507,7 +15507,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Lucky for you it's just this much. I\ndon't know what happened, but good job\nhanging in there.\\n< Adventurer >"
+                                "Lucky for you it's just this much. I don't know\nwhat happened, but good job hanging in there.\\n< Adventurer >"
                             ]
                         },
                         {
@@ -15583,7 +15583,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "If a man makes a blunder, he might die,\nbut when a woman does, this happens...\\n< Adventurer >"
+                                "If a man makes a blunder, he might die, but when a\nwoman does, this happens...\\n< Adventurer >"
                             ]
                         },
                         {
@@ -15600,7 +15600,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "But then again, if you do nothing, you\nmight end up falling down that path\nanyway... Ugh, I hate this...\\n< Adventurer >"
+                                "But then again, if you do nothing, you might end\nup falling down that path anyway... Ugh, I hate\nthis...\\n< Adventurer >"
                             ]
                         },
                         {
@@ -15634,7 +15634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I accepted the quest to slay goblins,\nbut it's really life-threatening. If I\nget caught, it's bad news.\\n< Adventurer >"
+                                "I accepted the quest to slay goblins, but it's\nreally life-threatening. If I get caught, it's bad\nnews.\\n< Adventurer >"
                             ]
                         },
                         {
@@ -15651,7 +15651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I kinda don't want to do it... And here\nI am, just staring at the pond.\\n< Adventurer >"
+                                "I kinda don't want to do it... And here I am, just\nstaring at the pond.\\n< Adventurer >"
                             ]
                         },
                         {
@@ -15861,7 +15861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What's this, we're in the middle of an\ninterrogation! Come back later!\\n< City Police >"
+                                "What's this, we're in the middle of an\ninterrogation! Come back later!\\n< City Police>"
                             ]
                         },
                         {
@@ -16102,7 +16102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Farmers with tired faces are waiting in\nline."
+                                "Farmers with tired faces are waiting in line."
                             ]
                         },
                         {
@@ -16200,7 +16200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Farmers with tired faces are waiting in\nline."
+                                "Farmers with tired faces are waiting in line."
                             ]
                         },
                         {
@@ -16298,7 +16298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Farmers with tired faces are waiting in\nline."
+                                "Farmers with tired faces are waiting in line."
                             ]
                         },
                         {
@@ -16396,7 +16396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Farmers with tired faces are waiting in\nline."
+                                "Farmers with tired faces are waiting in line."
                             ]
                         },
                         {
@@ -16539,7 +16539,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "A farmer with a tired face is waiting in\nline."
+                                "A farmer with a tired face is waiting in line."
                             ]
                         },
                         {
@@ -16778,7 +16778,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Heh heh heh, I've seen my share of\nimpregnated female adventurers, but I've\nnever seen one quite like you.\\n< City Police >"
+                                "Heh heh heh, I've seen my share of impregnated\nfemale adventurers, but I've never seen one quite\nlike you.\\n< City Police>"
                             ]
                         },
                         {
@@ -16795,7 +16795,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "To swell such a small belly to such an\nugly extent... what an incredible\ndisgrace.\\n< City Police >"
+                                "To swell such a small belly to such an ugly\nextent... what an incredible disgrace.\\n< City Police>"
                             ]
                         },
                         {
@@ -16861,7 +16861,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Oh♪ Nice outfit, it looks really\nsuspicious. To prove your innocence, you\nbetter show that body off right here.\\n< City Police >"
+                                "Oh♪ Nice outfit, it looks really suspicious. To\nprove your innocence, you better show that body\noff right here.\\n< City Police>"
                             ]
                         },
                         {
@@ -16927,7 +16927,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Did you cause some trouble? If you're\ngoing to be a nuisance, go somewhere\nelse.\\n< City Police >"
+                                "Did you cause some trouble? If you're going to be\na nuisance, go somewhere else.\\n< City Police>"
                             ]
                         },
                         {
@@ -17003,7 +17003,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "What's with that belly... suspicious\nbrat. You're not involved in illegal\nprostitution, are you?\\n< City Police >"
+                                "What's with that belly... suspicious brat. You're\nnot involved in illegal prostitution, are you?\\n< City Police>"
                             ]
                         },
                         {
@@ -17037,7 +17037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Remember, we are always watching to make\nsure no violations occur.\\n< City Police >"
+                                "Remember, we are always watching to make sure no\nviolations occur.\\n< City Police>"
                             ]
                         },
                         {
@@ -18204,7 +18204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hm...?\\n< City Police >"
+                                "Hm...?\\n< City Police>"
                             ]
                         },
                         {
@@ -18298,7 +18298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hey you there, what's with that\noutfit?!!\\n< City Police >"
+                                "Hey you there, what's with that outfit?!!\\n< City Police>"
                             ]
                         },
                         {
@@ -19143,7 +19143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...If you look, you can tell. I'm just\nan adventurer on my way back from\nwork... Let me through.\\n< Serena >"
+                                "...If you look, you can tell. I'm just an\nadventurer on my way back from work... Let me\nthrough.\\n< Serena >"
                             ]
                         },
                         {
@@ -19167,7 +19167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hmm? On your way back from work, you\nsay? It doesn't look like it! Come over\nhere. I'll have to take a closer look!\\n< City Police >"
+                                "Hmm? On your way back from work, you say? It\ndoesn't look like it! Come over here. I'll have to\ntake a closer look!\\n< City Police>"
                             ]
                         },
                         {
@@ -20259,7 +20259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What happened! Why are you dressed like\nthat!\\n< City Police >"
+                                "What happened! Why are you dressed like that!\\n< City Police>"
                             ]
                         },
                         {
@@ -20305,7 +20305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "To go out of your way to a place like\nthis...!\\n< Serena >"
+                                "To go out of your way to a place like this...!\\n< Serena >"
                             ]
                         },
                         {
@@ -20386,7 +20386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'll talk... I'll talk so at least give\nme something... some cloth... something\nto cover my skin...!\\n< Serena >"
+                                "I'll talk... I'll talk so at least give me\nsomething... some cloth... something to cover my\nskin...!\\n< Serena >"
                             ]
                         },
                         {
@@ -20410,7 +20410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There's no such thing! Just spit it out\nalready!\\n< City Police >"
+                                "There's no such thing! Just spit it out already!\\n< City Police>"
                             ]
                         },
                         {
@@ -20570,7 +20570,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I was defeated by goblins, captured...\nand then, they did... terrible things to\nme...\\n< Serena >"
+                                "I was defeated by goblins, captured... and then,\nthey did... terrible things to me...\\n< Serena >"
                             ]
                         },
                         {
@@ -20594,7 +20594,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Terrible things? What exactly? Speak\nclearly! Make sure it's audible!\\n< City Police >"
+                                "Terrible things? What exactly? Speak clearly! Make\nsure it's audible!\\n< City Police>"
                             ]
                         },
                         {
@@ -20651,7 +20651,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The goblins... they took turns... doing\nvile... things to me...\\n< Serena >"
+                                "The goblins... they took turns... doing vile...\nthings to me...\\n< Serena >"
                             ]
                         },
                         {
@@ -20675,7 +20675,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Vile things? What's that?! Don't try to\ndeceive me!\\n< City Police >"
+                                "Vile things? What's that?! Don't try to deceive\nme!\\n< City Police>"
                             ]
                         },
                         {
@@ -20789,7 +20789,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "They laughed at me while doing it...!\nThey released their stinking fluid...\ndeep inside me...!\\n< Serena >"
+                                "They laughed at me while doing it...! They\nreleased their stinking fluid... deep inside\nme...!\\n< Serena >"
                             ]
                         },
                         {
@@ -20874,7 +20874,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I was defeated by an orc, captured...\nand then, they did... terrible things to\nme...\\n< Serena >"
+                                "I was defeated by an orc, captured... and then,\nthey did... terrible things to me...\\n< Serena >"
                             ]
                         },
                         {
@@ -20898,7 +20898,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Terrible things? What exactly? Speak\nclearly! Make sure it's audible!\\n< City Police >"
+                                "Terrible things? What exactly? Speak clearly! Make\nsure it's audible!\\n< City Police>"
                             ]
                         },
                         {
@@ -20955,7 +20955,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "They... pinned me down... and did it\nover and over in a doggy style\nposition...\\n< Serena >"
+                                "They... pinned me down... and did it over and over\nin a doggy style position...\\n< Serena >"
                             ]
                         },
                         {
@@ -21012,7 +21012,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...Their cocks acted as plugs... and\nthey dragged me around...\\n< Serena >"
+                                "...Their cocks acted as plugs... and they dragged\nme around...\\n< Serena >"
                             ]
                         },
                         {
@@ -21097,7 +21097,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I was defeated by a tentacle monster,\ncaptured... and then, they did...\nterrible things to me...\\n< Serena >"
+                                "I was defeated by a tentacle monster, captured...\nand then, they did... terrible things to me...\\n< Serena >"
                             ]
                         },
                         {
@@ -21121,7 +21121,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Terrible things? What exactly? Speak\nclearly! Make sure it's audible!\\n< City Police >"
+                                "Terrible things? What exactly? Speak clearly! Make\nsure it's audible!\\n< City Police>"
                             ]
                         },
                         {
@@ -21178,7 +21178,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The tentacle monster's... arms... or\nshould I say tentacles... they probed my\nholes...\\n< Serena >"
+                                "The tentacle monster's... arms... or should I say\ntentacles... they probed my holes...\\n< Serena >"
                             ]
                         },
                         {
@@ -21202,7 +21202,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Holes? What's that?! Don't try to\ndeceive me!\\n< City Police >"
+                                "Holes? What's that?! Don't try to deceive me!\\n< City Police>"
                             ]
                         },
                         {
@@ -21259,7 +21259,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "My crotch and butt holes! They were\nviolated over and over by them...!\\n< Serena >"
+                                "My crotch and butt holes! They were violated over\nand over by them...!\\n< Serena >"
                             ]
                         },
                         {
@@ -21316,7 +21316,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "They filled me with so much of their\nfilthy, sticky fluid that it overflowed!\nAll over my body, such...\\n< Serena >"
+                                "They filled me with so much of their filthy,\nsticky fluid that it overflowed! All over my body,\nsuch...\\n< Serena >"
                             ]
                         },
                         {
@@ -21401,7 +21401,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I was defeated by a pigman, in its\nlair... and it did... terrible things to\nme...\\n< Serena >"
+                                "I was defeated by a pigman, in its lair... and it\ndid... terrible things to me...\\n< Serena >"
                             ]
                         },
                         {
@@ -21425,7 +21425,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Terrible things? What exactly? Speak\nclearly! Make sure it's audible!\\n< City Police >"
+                                "Terrible things? What exactly? Speak clearly! Make\nsure it's audible!\\n< City Police>"
                             ]
                         },
                         {
@@ -21482,7 +21482,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Pinned down... for days on end, over and\nover, with its thick thing... doing it\nto me...\\n< Serena >"
+                                "Pinned down... for days on end, over and over,\nwith its thick thing... doing it to me...\\n< Serena >"
                             ]
                         },
                         {
@@ -21539,7 +21539,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "And then, so much of it... I thought I\nwould burst... inside me... over and\nover...!\\n< Serena >"
+                                "And then, so much of it... I thought I would\nburst... inside me... over and over...!\\n< Serena >"
                             ]
                         },
                         {
@@ -21587,7 +21587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pfft... Huh, huh...\\n< City Police >"
+                                "Pfft... Huh, huh...\\n< City Police>"
                             ]
                         },
                         {
@@ -21604,7 +21604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Ahem! So, in other words! You're\nsaying you were defeated by monsters and\nimpregnated by them, is that right?\\n< City Police >"
+                                "...Ahem! So, in other words! You're saying you\nwere defeated by monsters and impregnated by them,\nis that right?\\n< City Police>"
                             ]
                         },
                         {
@@ -21661,7 +21661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Uuuu... yes, that's right... that's\nright...!\\n< Serena >"
+                                "Uuuu... yes, that's right... that's right...!\\n< Serena >"
                             ]
                         },
                         {
@@ -21718,7 +21718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Now I've spoken. So please, let me into\nthe town quickly...! I need to cleanse\nmyself and have a doctor look at my\nbody--\\n< Serena >"
+                                "Now I've spoken. So please, let me into the town\nquickly...! I need to cleanse myself and have a\ndoctor look at my body--\\n< Serena >"
                             ]
                         },
                         {
@@ -21742,7 +21742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Not yet! It's easy to say you were\nviolated by monsters with just words!\\n< City Police >"
+                                "Not yet! It's easy to say you were violated by\nmonsters with just words!\\n< City Police>"
                             ]
                         },
                         {
@@ -21759,7 +21759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The words of you adventurers are not\ntrustworthy!\\n< City Police >"
+                                "The words of you adventurers are not trustworthy!\\n< City Police>"
                             ]
                         },
                         {
@@ -21897,7 +21897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's simple! Show it right here!\\n< City Police >"
+                                "It's simple! Show it right here!\\n< City Police>"
                             ]
                         },
                         {
@@ -21914,7 +21914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Show us the miserable state of that hole\nyou say was seeded by monsters, right\nhere and now!\\n< City Police >"
+                                "Show us the miserable state of that hole you say\nwas seeded by monsters, right here and now!\\n< City Police>"
                             ]
                         },
                         {
@@ -21962,7 +21962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If what you're saying is true, there\nshould be plenty of evidence 'inside\nthat hole'!\\n< City Police >"
+                                "If what you're saying is true, there should be\nplenty of evidence 'inside that hole'!\\n< City Police>"
                             ]
                         },
                         {
@@ -21979,7 +21979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If we can confirm that, then indeed, you\nare nothing but a pitiful adventurer who\nwas defeated and violated by monsters\nand ran back here!\\n< City Police >"
+                                "If we can confirm that, then indeed, you are\nnothing but a pitiful adventurer who was defeated\nand violated by monsters and ran back here!\\n< City Police>"
                             ]
                         },
                         {
@@ -22027,7 +22027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Can't do it? If you can't, then get lost\nquickly! We can't let a suspicious\nperson into the town!\\n< City Police >"
+                                "Can't do it? If you can't, then get lost quickly!\nWe can't let a suspicious person into the town!\\n< City Police>"
                             ]
                         },
                         {
@@ -22141,7 +22141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "At this very moment, I feel like I could\ndie of shame...! And on top of that, to\nexpose my body...! In front of all these\npeople...!\\n< Serena >"
+                                "At this very moment, I feel like I could die of\nshame...! And on top of that, to expose my\nbody...! In front of all these people...!\\n< Serena >"
                             ]
                         },
                         {
@@ -22233,7 +22233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Aah, they say that girl got violated by\nmonsters.\\n< Peasant >"
+                                "Aah, they say that girl got violated by monsters.\\n< Peasant >"
                             ]
                         },
                         {
@@ -22250,7 +22250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's really unfortunate. She's still\nyoung and quite the beauty too.\\n< Peasant >"
+                                "That's really unfortunate. She's still young and\nquite the beauty too.\\n< Peasant >"
                             ]
                         },
                         {
@@ -22318,7 +22318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Anyway, we get to see such a beautiful\nnaked body for free. We'd be cursed if\nwe didn't take a good look.\\n< Peasant >"
+                                "Anyway, we get to see such a beautiful naked body\nfor free. We'd be cursed if we didn't take a good\nlook.\\n< Peasant >"
                             ]
                         },
                         {
@@ -22386,7 +22386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A traffic jam like this turns out to\nhave its perks every now and then. How\ngrateful I am.\\n< Peasant >"
+                                "A traffic jam like this turns out to have its\nperks every now and then. How grateful I am.\\n< Peasant >"
                             ]
                         },
                         {
@@ -22443,7 +22443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "They're watching... being watched...\nmore and more people are looking...\\n< Serena >"
+                                "They're watching... being watched... more and more\npeople are looking...\\n< Serena >"
                             ]
                         },
                         {
@@ -22513,7 +22513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well, what will you do, you suspicious\nperson!\\n< City Police >"
+                                "Well, what will you do, you suspicious person!\\n< City Police>"
                             ]
                         },
                         {
@@ -22570,7 +22570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Just endure it now... just endure it for\nnow... this moment... if I can bear the\nshame...\\n< Serena >"
+                                "Just endure it now... just endure it for now...\nthis moment... if I can bear the shame...\\n< Serena >"
                             ]
                         },
                         {
@@ -22587,7 +22587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I can escape from this place, and then\nenter the town... put on clothes...\\n< Serena >"
+                                "I can escape from this place, and then enter the\ntown... put on clothes...\\n< Serena >"
                             ]
                         },
                         {
@@ -22868,7 +22868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hmph! Finally made up your mind, have\nyou?\\n< City Police >"
+                                "Hmph! Finally made up your mind, have you?\\n< City Police>"
                             ]
                         },
                         {
@@ -22949,7 +22949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No good! I said 'show me the inside'!\nWhere the monster's semen is dripping\nout!\\n< City Police >"
+                                "No good! I said 'show me the inside'! Where the\nmonster's semen is dripping out!\\n< City Police>"
                             ]
                         },
                         {
@@ -22966,7 +22966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Spread it with your fingers.\\n< City Police >"
+                                "Spread it with your fingers.\\n< City Police>"
                             ]
                         },
                         {
@@ -23141,7 +23141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Haah, if only my old lady had such a\npretty pink color like that...!\\n< Peasant >"
+                                "Haah, if only my old lady had such a pretty pink\ncolor like that...!\\n< Peasant >"
                             ]
                         },
                         {
@@ -23175,7 +23175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Fuu...mu! Indeed! It does seem like you\nwere brutally violated... or so it\nappears. But!\\n< City Police >"
+                                "Fuu...mu! Indeed! It does seem like you were\nbrutally violated... or so it appears. But!\\n< City Police>"
                             ]
                         },
                         {
@@ -23232,7 +23232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Please...! This has to be enough\nalready...! My heart is going to\nburst...! I can't stand it...!\\n< Serena >"
+                                "...Please...! This has to be enough already...! My\nheart is going to burst...! I can't stand it...!\\n< Serena >"
                             ]
                         },
                         {
@@ -23256,7 +23256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Not yet! Where's the semen?\\n< City Police >"
+                                "Not yet! Where's the semen?\\n< City Police>"
                             ]
                         },
                         {
@@ -23273,7 +23273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Put some strength into your stomach and\npush out the semen! Show us the filthy\nsemen of the monster!!\\n< City Police >"
+                                "Put some strength into your stomach and push out\nthe semen! Show us the filthy semen of the\nmonster!!\\n< City Police>"
                             ]
                         },
                         {
@@ -23366,7 +23366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Don't make me say it a third time! Next\ntime I'll use force!\\n< City Police >"
+                                "Don't make me say it a third time! Next time I'll\nuse force!\\n< City Police>"
                             ]
                         },
                         {
@@ -23469,7 +23469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Finally, finally... I escaped from that\nhell.\\n< Serena >"
+                                "Finally, finally... I escaped from that hell.\\n< Serena >"
                             ]
                         },
                         {
@@ -23493,7 +23493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...\\n< City Police >"
+                                "...\\n< City Police>"
                             ]
                         },
                         {
@@ -23550,7 +23550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I was treated so cruelly, and yet I\nstill managed to escape all by\nmyself...!\\n< Serena >"
+                                "I was treated so cruelly, and yet I still managed\nto escape all by myself...!\\n< Serena >"
                             ]
                         },
                         {
@@ -23574,7 +23574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah, that's why I'm telling you to push\nit out and show us the proof!\\n< City Police >"
+                                "Ah, that's why I'm telling you to push it out and\nshow us the proof!\\n< City Police>"
                             ]
                         },
                         {
@@ -23816,7 +23816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Pff...Kukkuh...!\\n< City Police >"
+                                "...Pff...Kukkuh...!\\n< City Police>"
                             ]
                         },
                         {
@@ -23833,7 +23833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Gyahha-! This brat! She really did it!\nShe actually did it!!\\n< City Police >"
+                                "Gyahha-! This brat! She really did it! She\nactually did it!!\\n< City Police>"
                             ]
                         },
                         {
@@ -23913,7 +23913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Uwah, ah, aaaaah...coming,\ngush...uwah...!\\n< Serena >"
+                                "Uwah, ah, aaaaah...coming, gush...uwah...!\\n< Serena >"
                             ]
                         },
                         {
@@ -23949,7 +23949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "My, my... Such a small hole and yet so\nmuch comes out... How much was she\nfilled with.\\n< Peasant >"
+                                "My, my... Such a small hole and yet so much comes\nout... How much was she filled with.\\n< Peasant >"
                             ]
                         },
                         {
@@ -24030,7 +24030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Did you enjoy the monster's cock?\nHnnn-!? To be filled up this much!\\n< City Police >"
+                                "Did you enjoy the monster's cock? Hnnn-!? To be\nfilled up this much!\\n< City Police>"
                             ]
                         },
                         {
@@ -24047,7 +24047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...But well, it seems you weren't lying\nafter all!\\n< City Police >"
+                                "...But well, it seems you weren't lying after all!\\n< City Police>"
                             ]
                         },
                         {
@@ -24064,7 +24064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "With that much semen, I doubt there's an\nidiot who would get filled by a monster\njust to enter the city...?\\n< City Police >"
+                                "With that much semen, I doubt there's an idiot who\nwould get filled by a monster just to enter the\ncity...?\\n< City Police>"
                             ]
                         },
                         {
@@ -24081,7 +24081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Very well! You may pass! Let the people\nof the city see your miserable state as\nwell!\\n< City Police >"
+                                "Very well! You may pass! Let the people of the\ncity see your miserable state as well!\\n< City Police>"
                             ]
                         },
                         {
@@ -24098,7 +24098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Gyahhahhahhahhahha!!\\n< City Police >"
+                                "Gyahhahhahhahhahha!!\\n< City Police>"
                             ]
                         },
                         {
@@ -24937,7 +24937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hm...?\\n< City Police >"
+                                "Hm...?\\n< City Police>"
                             ]
                         },
                         {
@@ -25031,7 +25031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Oh my... Ohoho♪\\n< City Police >"
+                                "...Oh my... Ohoho♪\\n< City Police>"
                             ]
                         },
                         {
@@ -25048,7 +25048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You again! What happened this time?\\n< City Police >"
+                                "You again! What happened this time?\\n< City Police>"
                             ]
                         },
                         {
@@ -25893,7 +25893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...I was defeated by monsters just like\nbefore. Please let me through.\\n< Serena >"
+                                "...I was defeated by monsters just like before.\nPlease let me through.\\n< Serena >"
                             ]
                         },
                         {
@@ -25917,7 +25917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Defeated again? You weakling! Before I\nlet you through, you'll have to be\ninterrogated, just like last time!\\n< City Police >"
+                                "Defeated again? You weakling! Before I let you\nthrough, you'll have to be interrogated, just like\nlast time!\\n< City Police>"
                             ]
                         },
                         {
@@ -27040,7 +27040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Now, which monster did you spread your\nlegs for this time? Explain loudly!\\n< City Police >"
+                                "Now, which monster did you spread your legs for\nthis time? Explain loudly!\\n< City Police>"
                             ]
                         },
                         {
@@ -27231,7 +27231,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I was defeated by goblins, captured...\nand then, they did... terrible things to\nme...\\n< Serena >"
+                                "I was defeated by goblins, captured... and then,\nthey did... terrible things to me...\\n< Serena >"
                             ]
                         },
                         {
@@ -27255,7 +27255,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Terrible things? What exactly? Speak\nclearly! Make sure it's audible!\\n< City Police >"
+                                "Terrible things? What exactly? Speak clearly! Make\nsure it's audible!\\n< City Police>"
                             ]
                         },
                         {
@@ -27336,7 +27336,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Unspeakable things? What's that? No\nevasions allowed!\\n< City Police >"
+                                "Unspeakable things? What's that? No evasions\nallowed!\\n< City Police>"
                             ]
                         },
                         {
@@ -27450,7 +27450,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "They laughed at me...! And released\ntheir stinking fluid... deep inside...!\nIt was poured into the very back...\\n< Serena >"
+                                "They laughed at me...! And released their stinking\nfluid... deep inside...! It was poured into the\nvery back...\\n< Serena >"
                             ]
                         },
                         {
@@ -27535,7 +27535,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I was defeated by an orc, captured...\nand then, they did... terrible things to\nme...\\n< Serena >"
+                                "I was defeated by an orc, captured... and then,\nthey did... terrible things to me...\\n< Serena >"
                             ]
                         },
                         {
@@ -27559,7 +27559,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Terrible things? What exactly? Speak\nclearly! Make sure it's audible!\\n< City Police >"
+                                "Terrible things? What exactly? Speak clearly! Make\nsure it's audible!\\n< City Police>"
                             ]
                         },
                         {
@@ -27616,7 +27616,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "They... pinned me down... and did it\nover and over in a doggy style\nposition...\\n< Serena >"
+                                "They... pinned me down... and did it over and over\nin a doggy style position...\\n< Serena >"
                             ]
                         },
                         {
@@ -27673,7 +27673,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...my pussy was plugged with their\ncocks... and I was dragged around...\\n< Serena >"
+                                "...my pussy was plugged with their cocks... and I\nwas dragged around...\\n< Serena >"
                             ]
                         },
                         {
@@ -27758,7 +27758,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I was defeated by a roper, captured...\nand then, they did... terrible things to\nme...\\n< Serena >"
+                                "I was defeated by a roper, captured... and then,\nthey did... terrible things to me...\\n< Serena >"
                             ]
                         },
                         {
@@ -27782,7 +27782,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Terrible things? What exactly? Speak\nclearly! Make sure it's audible!\\n< City Police >"
+                                "Terrible things? What exactly? Speak clearly! Make\nsure it's audible!\\n< City Police>"
                             ]
                         },
                         {
@@ -27863,7 +27863,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Holes? What's that? No evasions allowed!\\n< City Police >"
+                                "Holes? What's that? No evasions allowed!\\n< City Police>"
                             ]
                         },
                         {
@@ -27920,7 +27920,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "My pussy and ass! They were...\nrepeatedly penetrated by them...!\\n< Serena >"
+                                "My pussy and ass! They were... repeatedly\npenetrated by them...!\\n< Serena >"
                             ]
                         },
                         {
@@ -27977,7 +27977,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "They filled me with so much of their\nfilthy, sticky fluid... It overflowed!\nAll over my body, such...\\n< Serena >"
+                                "They filled me with so much of their filthy,\nsticky fluid... It overflowed! All over my body,\nsuch...\\n< Serena >"
                             ]
                         },
                         {
@@ -28062,7 +28062,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I was defeated by a pigman, and inside\nits lair... they did... terrible things\nto me...\\n< Serena >"
+                                "I was defeated by a pigman, and inside its lair...\nthey did... terrible things to me...\\n< Serena >"
                             ]
                         },
                         {
@@ -28086,7 +28086,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Terrible things? What exactly? Speak\nclearly! Make sure it's audible!\\n< City Police >"
+                                "Terrible things? What exactly? Speak clearly! Make\nsure it's audible!\\n< City Police>"
                             ]
                         },
                         {
@@ -28143,7 +28143,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Pinned down... for days on end, over and\nover, with their thick members... doing\nit to me...\\n< Serena >"
+                                "Pinned down... for days on end, over and over,\nwith their thick members... doing it to me...\\n< Serena >"
                             ]
                         },
                         {
@@ -28200,7 +28200,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "And then, so much of it... I thought I\nwould burst... inside me... over and\nover...!\\n< Serena >"
+                                "And then, so much of it... I thought I would\nburst... inside me... over and over...!\\n< Serena >"
                             ]
                         },
                         {
@@ -28248,7 +28248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Pfft. So in other words, you were\ndefeated by mere monsters again, spread\nyour legs, got bred, and ran back here.\\n< City Police >"
+                                "...Pfft. So in other words, you were defeated by\nmere monsters again, spread your legs, got bred,\nand ran back here.\\n< City Police>"
                             ]
                         },
                         {
@@ -28276,7 +28276,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "And on top of that, that belly of\nyours... are you pregnant with their\nseed? You think you can enter the town\nwith that inside you?\\n< City Police >"
+                                "And on top of that, that belly of yours... are you\npregnant with their seed? You think you can enter\nthe town with that inside you?\\n< City Police>"
                             ]
                         },
                         {
@@ -28303,7 +28303,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "With your belly full of their filthy\nseed... someone as dirty as you cannot\nbe allowed into the town.\\n< City Police >"
+                                "With your belly full of their filthy seed...\nsomeone as dirty as you cannot be allowed into the\ntown.\\n< City Police>"
                             ]
                         },
                         {
@@ -28337,7 +28337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...You humiliated me like this before!\nWhy do you say such cruel things... I've\nbarely made it back here...\\n< Serena >"
+                                "...You humiliated me like this before! Why do you\nsay such cruel things... I've barely made it back\nhere...\\n< Serena >"
                             ]
                         },
                         {
@@ -28361,7 +28361,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Shut up, weakling! To think a filthy\nbrat like you would spread her legs for\nmonsters not once but twice!\\n< City Police >"
+                                "Shut up, weakling! To think a filthy brat like you\nwould spread her legs for monsters not once but\ntwice!\\n< City Police>"
                             ]
                         },
                         {
@@ -28409,7 +28409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If we let a loser like you into the\ntown, it would be tainted. Better you go\nback to the countryside... though you'll\nprobably drop dead along the way.\\n< City Police >"
+                                "If we let a loser like you into the town, it would\nbe tainted. Better you go back to the\ncountryside... though you'll probably drop dead\nalong the way.\\n< City Police>"
                             ]
                         },
                         {
@@ -28457,7 +28457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Now, scram! You're in the way, brat!\\n< City Police >"
+                                "Now, scram! You're in the way, brat!\\n< City Police>"
                             ]
                         },
                         {
@@ -28532,7 +28532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah-ah-... that girl again, huh. Poor\nthing.\\n< Peasant >"
+                                "Ah-ah-... that girl again, huh. Poor thing.\\n< Peasant >"
                             ]
                         },
                         {
@@ -28549,7 +28549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "She's the young lady who was violated by\nmonsters before, right? Violated\nagain... how pitiful.\\n< Peasant >"
+                                "She's the young lady who was violated by monsters\nbefore, right? Violated again... how pitiful.\\n< Peasant >"
                             ]
                         },
                         {
@@ -28668,7 +28668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Such a beautiful naked girl... I wonder\nif we'll get to see her pretty pussy\nagain this time.\\n< Peasant >"
+                                "Such a beautiful naked girl... I wonder if we'll\nget to see her pretty pussy again this time.\\n< Peasant >"
                             ]
                         },
                         {
@@ -28760,7 +28760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please... let me in... let me into the\ntown.\\n< Serena >"
+                                "Please... let me in... let me into the town.\\n< Serena >"
                             ]
                         },
                         {
@@ -28784,7 +28784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No way! I don't like your attitude!\nScram!\\n< City Police >"
+                                "No way! I don't like your attitude! Scram!\\n< City Police>"
                             ]
                         },
                         {
@@ -28841,7 +28841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I beg you... please, let me into the\ntown.\\n< Serena >"
+                                "I beg you... please, let me into the town.\\n< Serena >"
                             ]
                         },
                         {
@@ -28865,7 +28865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I told you to get lost! If you don't\nleave on your own, I'll throw you out!!\\n< City Police >"
+                                "I told you to get lost! If you don't leave on your\nown, I'll throw you out!!\\n< City Police>"
                             ]
                         },
                         {
@@ -29008,7 +29008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'll let it all out! All the dirty\nstuff, I'll let it all out, so please,\nplease...\\n< Serena >"
+                                "I'll let it all out! All the dirty stuff, I'll let\nit all out, so please, please...\\n< Serena >"
                             ]
                         },
                         {
@@ -29032,7 +29032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Looks like we'll get to see it this time\ntoo! How fortunate, how fortunate!\\n< Peasant >"
+                                "Looks like we'll get to see it this time too! How\nfortunate, how fortunate!\\n< Peasant >"
                             ]
                         },
                         {
@@ -29049,7 +29049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Uhihi, this is gonna be some good\nmaterial for later♪ I've got to sear\nthis into my eyes.\\n< Peasant >"
+                                "Uhihi, this is gonna be some good material for\nlater♪ I've got to sear this into my eyes.\\n< Peasant >"
                             ]
                         },
                         {
@@ -29305,7 +29305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Pff... Kukkuh...!\\n< City Police >"
+                                "...Pff... Kukkuh...!\\n< City Police>"
                             ]
                         },
                         {
@@ -29322,7 +29322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Gyahaha! Ah-ah-ah! You really can do\nsuch embarrassing things twice?\\n< City Police >"
+                                "Gyahaha! Ah-ah-ah! You really can do such\nembarrassing things twice?\\n< City Police>"
                             ]
                         },
                         {
@@ -29402,7 +29402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Aaaaahhh, uwaaaaah! Ah... I'm coming...\nnnnuuu--!\\n< Serena >"
+                                "Aaaaahhh, uwaaaaah! Ah... I'm coming... nnnuuu--!\\n< Serena >"
                             ]
                         },
                         {
@@ -29426,7 +29426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's coming out, it's coming out! Does\nit feel good to spread your pussy wide\nand show off the evidence of being\nfucked by monsters to these old men?\\n< City Police >"
+                                "It's coming out, it's coming out! Does it feel\ngood to spread your pussy wide and show off the\nevidence of being fucked by monsters to these old\nmen?\\n< City Police>"
                             ]
                         },
                         {
@@ -29483,7 +29483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Haah... haah... no more, it's all out.\nBecause I've let it all out... so...\\n< Serena >"
+                                "Haah... haah... no more, it's all out. Because\nI've let it all out... so...\\n< Serena >"
                             ]
                         },
                         {
@@ -29507,7 +29507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Hmph. Not sure about that. Show me\nproperly to make sure it's all out.\\n< City Police >"
+                                "...Hmph. Not sure about that. Show me properly to\nmake sure it's all out.\\n< City Police>"
                             ]
                         },
                         {
@@ -29632,7 +29632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ohooo-! To spread herself so boldly in\nsuch a place!\\n< Peasant >"
+                                "Ohooo-! To spread herself so boldly in such a\nplace!\\n< Peasant >"
                             ]
                         },
                         {
@@ -29649,7 +29649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "She's cute! So very cute!\nIrresistible...!\\n< Peasant >"
+                                "She's cute! So very cute! Irresistible...!\\n< Peasant >"
                             ]
                         },
                         {
@@ -29673,7 +29673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Let's see...\\n< City Police >"
+                                "Let's see...\\n< City Police>"
                             ]
                         },
                         {
@@ -29776,7 +29776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Don't move, brat! Do you want to be\nthrown out?!\\n< City Police >"
+                                "Don't move, brat! Do you want to be thrown out?!\\n< City Police>"
                             ]
                         },
                         {
@@ -29868,7 +29868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Tch, disgusting. A hole smeared with\nmonster semen doesn't make me want to\nstick anything in there.\\n< City Police >"
+                                "...Tch, disgusting. A hole smeared with monster\nsemen doesn't make me want to stick anything in\nthere.\\n< City Police>"
                             ]
                         },
                         {
@@ -29885,7 +29885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well, whatever. You may pass.\\n< City Police >"
+                                "Well, whatever. You may pass.\\n< City Police>"
                             ]
                         },
                         {
@@ -30877,7 +30877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ueeeh... aaaaahhhh...! Uwaaaah...! Hic,\nsob... ugh... ughh.\\n< Serena >"
+                                "Ueeeh... aaaaahhhh...! Uwaaaah...! Hic, sob...\nugh... ughh.\\n< Serena >"
                             ]
                         },
                         {
@@ -31185,7 +31185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Farmers with tired faces are waiting in\nline."
+                                "Farmers with tired faces are waiting in line."
                             ]
                         },
                         {
@@ -31283,7 +31283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Farmers with tired faces are waiting in\nline."
+                                "Farmers with tired faces are waiting in line."
                             ]
                         },
                         {
@@ -31381,7 +31381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Tired-looking farmers are waiting in\nline."
+                                "Tired-looking farmers are waiting in line."
                             ]
                         },
                         {
@@ -31678,7 +31678,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "The crossroads before the town, huh?\nIt's been a while since I came through\nthe bridge on the west side. The south\nleads to the forest, and the east to the\nmountains, it seems.\\n< Serena >"
+                                "The crossroads before the town, huh? It's been a\nwhile since I came through the bridge on the west\nside. The south leads to the forest, and the east\nto the mountains, it seems.\\n< Serena >"
                             ]
                         },
                         {
@@ -31801,7 +31801,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Were the goblins in the southern forest?\nLet's head there without delay.\\n< Serena >"
+                                "Were the goblins in the southern forest? Let's\nhead there without delay.\\n< Serena >"
                             ]
                         },
                         {
@@ -31903,7 +31903,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Were the ropers in the southern forest?\nLet's head there without delay.\\n< Serena >"
+                                "Were the ropers in the southern forest? Let's head\nthere without delay.\\n< Serena >"
                             ]
                         },
                         {
@@ -32005,7 +32005,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Were the pigmen in the southern forest?\nLet's head there without delay.\\n< Serena >"
+                                "Were the pigmen in the southern forest? Let's head\nthere without delay.\\n< Serena >"
                             ]
                         },
                         {
@@ -32093,7 +32093,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Were the orcs in the eastern mountains?\nLet's head there without delay.\\n< Serena >"
+                                "Were the orcs in the eastern mountains? Let's head\nthere without delay.\\n< Serena >"
                             ]
                         },
                         {
@@ -32181,7 +32181,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Were the wargs in the eastern mountains?\nLet's head there without delay.\\n< Serena >"
+                                "Were the wargs in the eastern mountains? Let's\nhead there without delay.\\n< Serena >"
                             ]
                         },
                         {
@@ -32269,7 +32269,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Were the stallions in the eastern\nmountains? Let's head there without\ndelay.\\n< Serena >"
+                                "Were the stallions in the eastern mountains? Let's\nhead there without delay.\\n< Serena >"
                             ]
                         },
                         {
@@ -32483,7 +32483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "*panting*... The town's... main gate...\nI've finally made it this far... Just a\nlittle bit more...\\n< Serena >"
+                                "*panting*... The town's... main gate... I've\nfinally made it this far... Just a little bit\nmore...\\n< Serena >"
                             ]
                         },
                         {
@@ -32507,7 +32507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Just a little further, and I'll be back\nin my room... In bed, a meal... and\nabove all, a change of clothes...!\\n< Serena >"
+                                "Just a little further, and I'll be back in my\nroom... In bed, a meal... and above all, a change\nof clothes...!\\n< Serena >"
                             ]
                         },
                         {
@@ -33372,7 +33372,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Ahh, hoahh... Rounder and more\nappetizing than freshly baked bread,\nthat belly is...\\n< Peasant >"
+                                "Ahh, hoahh... Rounder and more appetizing than\nfreshly baked bread, that belly is...\\n< Peasant >"
                             ]
                         },
                         {
@@ -33389,7 +33389,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I don't know why you're dressed like\nthat in a place like this, but it's a\nfeast for the eyes either way...\nhehehe...\\n< Peasant >"
+                                "I don't know why you're dressed like that in a\nplace like this, but it's a feast for the eyes\neither way... hehehe...\\n< Peasant >"
                             ]
                         },
                         {
@@ -33455,7 +33455,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Oh my, exposing such pure white skin...\nAnd even the lovely lines are so well-\ndefined...\\n< Peasant >"
+                                "Oh my, exposing such pure white skin... And even\nthe lovely lines are so well- defined...\\n< Peasant >"
                             ]
                         },
                         {
@@ -33472,7 +33472,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Are you a pervert, young lady? If so,\nthis old man's bulge could hide those\nlines for you... dehihi...\\n< Peasant >"
+                                "Are you a pervert, young lady? If so, this old\nman's bulge could hide those lines for you...\ndehihi...\\n< Peasant >"
                             ]
                         },
                         {
@@ -33549,7 +33549,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Ayayaa, it's poison for the eyes. Poison\nfor the eyes, but... they say poison is\nthe tastiest. Can't take my eyes off\nit... uhihi...\\n< Peasant >"
+                                "Ayayaa, it's poison for the eyes. Poison for the\neyes, but... they say poison is the tastiest.\nCan't take my eyes off it... uhihi...\\n< Peasant >"
                             ]
                         },
                         {
@@ -33632,7 +33632,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Haa, the city really is advanced, huh?\nTo think at such an age you're already\nmaking children, well...\\n< Peasant >"
+                                "Haa, the city really is advanced, huh? To think at\nsuch an age you're already making children,\nwell...\\n< Peasant >"
                             ]
                         },
                         {
@@ -33666,7 +33666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Us folks who stare down fields all year\nbarely make a coin, while working in the\ncity you can earn it in just a month or\ntwo.\\n< Peasant >"
+                                "Us folks who stare down fields all year barely\nmake a coin, while working in the city you can\nearn it in just a month or two.\\n< Peasant >"
                             ]
                         },
                         {
@@ -33683,7 +33683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No wonder everyone's flocking there,\nit's obvious.\\n< Peasant >"
+                                "No wonder everyone's flocking there, it's obvious.\\n< Peasant >"
                             ]
                         },
                         {
@@ -33899,7 +33899,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Hey, hey, cut me some slack. What are\nyou talking to me for? I'll catch the\nmonster's disease from you! You harlot!\\n< Peasant >"
+                                "Hey, hey, cut me some slack. What are you talking\nto me for? I'll catch the monster's disease from\nyou! You harlot!\\n< Peasant >"
                             ]
                         },
                         {
@@ -33954,7 +33954,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hey, hey, cut me some slack. What are\nyou talking to me for? I'll catch the\nmonster's disease from you! You harlot!\\n< Peasant >"
+                                "Hey, hey, cut me some slack. What are you talking\nto me for? I'll catch the monster's disease from\nyou! You harlot!\\n< Peasant >"
                             ]
                         },
                         {
@@ -34020,7 +34020,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Hey, hey, cut me some slack. What are\nyou talking to me for? I'll catch the\nmonster's disease from you! You harlot!\\n< Peasant >"
+                                "Hey, hey, cut me some slack. What are you talking\nto me for? I'll catch the monster's disease from\nyou! You harlot!\\n< Peasant >"
                             ]
                         },
                         {
@@ -34103,7 +34103,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hey, hey, cut me some slack. What are\nyou talking to me for? You harlot!\\n< Peasant >"
+                                "Hey, hey, cut me some slack. What are you talking\nto me for? You harlot!\\n< Peasant >"
                             ]
                         },
                         {
@@ -34137,7 +34137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hey, hey, cut me some slack. What are\nyou talking to me for? I'll catch the\nmonster's disease from you! You harlot!\\n< Peasant >"
+                                "Hey, hey, cut me some slack. What are you talking\nto me for? I'll catch the monster's disease from\nyou! You harlot!\\n< Peasant >"
                             ]
                         },
                         {

@@ -5115,7 +5115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >We can't be seen here. We need to get\ndown somewhere else."
+                                "\\n< Serena >We can't be seen here. We need to get down\nsomewhere else."
                             ]
                         },
                         {
@@ -5244,7 +5244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Serena: \"I have no business on the\nrooftop.\""
+                                "Serena: \"I have no business on the rooftop.\""
                             ]
                         },
                         {
@@ -5384,7 +5384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Alright, a hole this size should be\npassable."
+                                "\\n< Serena >Alright, a hole this size should be passable."
                             ]
                         },
                         {
@@ -5408,7 +5408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >The situation below is... hmm, I can\nhear voices."
+                                "\\n< Serena >The situation below is... hmm, I can hear voices."
                             ]
                         },
                         {
@@ -5432,7 +5432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >...Wait, that voice sounds familiar.\nThis voice is...!"
+                                "\\n< Serena >...Wait, that voice sounds familiar. This voice\nis...!"
                             ]
                         },
                         {

@@ -4504,7 +4504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Excuse me. Is there a room available?\nI'd like to rent a room for a while.\\n< Serena >"
+                                "Excuse me. Is there a room available? I'd like to\nrent a room for a while.\\n< Serena >"
                             ]
                         },
                         {
@@ -4528,7 +4528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah, we do have rooms available... How\nlong do you plan to stay?\\n< Innkeeper >"
+                                "Ah, we do have rooms available... How long do you\nplan to stay?\\n< Innkeeper >"
                             ]
                         },
                         {
@@ -4559,7 +4559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's undecided. For now, I'd like to pay\nwith this.\\n< Serena >"
+                                "It's undecided. For now, I'd like to pay with\nthis.\\n< Serena >"
                             ]
                         },
                         {
@@ -4635,7 +4635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'd also like meals and a bed prepared.\nIf there's anything lacking, I'll pay\nmore later.\\n< Serena >"
+                                "I'd also like meals and a bed prepared. If there's\nanything lacking, I'll pay more later.\\n< Serena >"
                             ]
                         },
                         {
@@ -4659,7 +4659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lacking? ...This amount is more than\nenough for a 100-day stay.\\n< Innkeeper >"
+                                "Lacking? ...This amount is more than enough for a\n100-day stay.\\n< Innkeeper >"
                             ]
                         },
                         {
@@ -4700,7 +4700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "By the way, I'd like to take a bath.\nDoes this inn have a bath available?\\n< Serena >"
+                                "By the way, I'd like to take a bath. Does this inn\nhave a bath available?\\n< Serena >"
                             ]
                         },
                         {
@@ -4724,7 +4724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "In this town, we have hot springs, and\nfor bathing, we guide our guests there.\\n< Innkeeper >"
+                                "In this town, we have hot springs, and for\nbathing, we guide our guests there.\\n< Innkeeper >"
                             ]
                         },
                         {
@@ -4779,7 +4779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Innkeeper >The hot springs are located in the\nbuilding to the southwest of the town.\nIf you leave the inn and follow the\nroad, you'll get there in no time."
+                                "\\n< Innkeeper >The hot springs are located in the building to the\nsouthwest of the town. If you leave the inn and\nfollow the road, you'll get there in no time."
                             ]
                         },
                         {
@@ -4796,7 +4796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Innkeeper >We will have your room ready by the time\nyou return."
+                                "\\n< Innkeeper >We will have your room ready by the time you\nreturn."
                             ]
                         },
                         {
@@ -4820,7 +4820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Hmm, then I shall go check it out. I'm\ncounting on you for the room."
+                                "\\n< Serena >Hmm, then I shall go check it out. I'm counting on\nyou for the room."
                             ]
                         },
                         {
@@ -4955,7 +4955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Innkeeper >Your room isn't ready yet, so please\nenjoy the hot springs in the meantime."
+                                "\\n< Innkeeper >Your room isn't ready yet, so please enjoy the hot\nsprings in the meantime."
                             ]
                         },
                         {
@@ -5148,7 +5148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Innkeeper >Good morning. Did you sleep well last\nnight?"
+                                "\\n< Innkeeper >Good morning. Did you sleep well last night?"
                             ]
                         },
                         {
@@ -5248,7 +5248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Greetings. May the blessings of the gods\nbe upon you... Well, I might have slept\na bit too much.\\n< Serena >"
+                                "Greetings. May the blessings of the gods be upon\nyou... Well, I might have slept a bit too much.\\n< Serena >"
                             ]
                         },
                         {
@@ -5272,7 +5272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Innkeeper >Is that so... Do you have any urgent\nplans for today?"
+                                "\\n< Innkeeper >Is that so... Do you have any urgent plans for\ntoday?"
                             ]
                         },
                         {
@@ -5296,7 +5296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "To the tool shop. I need to stop by\nthere.\\n< Serena >"
+                                "To the tool shop. I need to stop by there.\\n< Serena >"
                             ]
                         },
                         {
@@ -5320,7 +5320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Innkeeper >...I see. The tool shop is on the south\nside of town."
+                                "\\n< Innkeeper >...I see. The tool shop is on the south side of\ntown."
                             ]
                         },
                         {
@@ -5337,7 +5337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If you leave the inn and walk straight\nahead, you'll get there shortly.\\n< Innkeeper >"
+                                "If you leave the inn and walk straight ahead,\nyou'll get there shortly.\\n< Innkeeper >"
                             ]
                         },
                         {
@@ -5644,7 +5644,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The fee has already been taken care of,\nso please feel free to use the room as\nyou wish.\\n< Innkeeper >"
+                                "The fee has already been taken care of, so please\nfeel free to use the room as you wish.\\n< Innkeeper >"
                             ]
                         },
                         {
@@ -5961,7 +5961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Now then... they said it was due south,\ndidn't they?"
+                                "\\n< Serena >Now then... they said it was due south, didn't\nthey?"
                             ]
                         },
                         {
@@ -5985,7 +5985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Well, it's not such a large town. Even\nif I'm not sure, if I walk around and\nask, I should find it soon enough."
+                                "\\n< Serena >Well, it's not such a large town. Even if I'm not\nsure, if I walk around and ask, I should find it\nsoon enough."
                             ]
                         },
                         {
@@ -6366,7 +6366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Now then... they said it was due south,\ndidn't they?"
+                                "\\n< Serena >Now then... they said it was due south, didn't\nthey?"
                             ]
                         },
                         {
@@ -6390,7 +6390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Well, it's not such a large town. Even\nif I'm not sure, if I walk around and\nask, I should find it soon enough."
+                                "\\n< Serena >Well, it's not such a large town. Even if I'm not\nsure, if I walk around and ask, I should find it\nsoon enough."
                             ]
                         },
                         {
@@ -6832,7 +6832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Now then... they said it was due south,\ndidn't they?"
+                                "\\n< Serena >Now then... they said it was due south, didn't\nthey?"
                             ]
                         },
                         {
@@ -6856,7 +6856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Well, it's not such a large town. Even\nif I'm not sure, if I walk around and\nask, I should find it soon enough."
+                                "\\n< Serena >Well, it's not such a large town. Even if I'm not\nsure, if I walk around and ask, I should find it\nsoon enough."
                             ]
                         },
                         {
@@ -7080,7 +7080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Dear guest, please complete the check-in\nprocess before using your room.\\n< Innkeeper >"
+                                "Dear guest, please complete the check-in process\nbefore using your room.\\n< Innkeeper >"
                             ]
                         },
                         {
@@ -7252,7 +7252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Your room isn't ready yet, so please\nenjoy the hot springs in the meantime.\\n< Innkeeper >"
+                                "Your room isn't ready yet, so please enjoy the hot\nsprings in the meantime.\\n< Innkeeper >"
                             ]
                         },
                         {
@@ -7552,7 +7552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Innkeeper Lady >I'm sorry. At this hour, it might take a\nwhile to prepare a proper meal."
+                                "\\n< Innkeeper Lady >I'm sorry. At this hour, it might take a while to\nprepare a proper meal."
                             ]
                         },
                         {
@@ -7569,7 +7569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Innkeeper Lady >The food at the nearby tavern is\ndelicious, so it might be better to\nsettle for that today."
+                                "\\n< Innkeeper Lady >The food at the nearby tavern is delicious, so it\nmight be better to settle for that today."
                             ]
                         },
                         {
@@ -7718,7 +7718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Innkeeper Lady >\"I've prepared a meal, so please feel\nfree to eat if you'd like.\""
+                                "\\n< Innkeeper Lady >\"I've prepared a meal, so please feel free to eat\nif you'd like.\""
                             ]
                         },
                         {
@@ -7807,7 +7807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Innkeeper Lady >\"I've prepared a meal, so please feel\nfree to eat if you'd like.\""
+                                "\\n< Innkeeper Lady >\"I've prepared a meal, so please feel free to eat\nif you'd like.\""
                             ]
                         },
                         {
@@ -7957,7 +7957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Dear guest, please complete the check-in\nprocess before using your room.\\n< Innkeeper >"
+                                "Dear guest, please complete the check-in process\nbefore using your room.\\n< Innkeeper >"
                             ]
                         },
                         {
@@ -8129,7 +8129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Your room isn't ready yet, so please\nenjoy the hot springs in the meantime.\\n< Innkeeper >"
+                                "Your room isn't ready yet, so please enjoy the hot\nsprings in the meantime.\\n< Innkeeper >"
                             ]
                         },
                         {
@@ -9051,7 +9051,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Serena >It looks delicious, but I'm not hungry\nright now."
+                                "\\n< Serena >It looks delicious, but I'm not hungry right now."
                             ]
                         },
                         {
@@ -9265,7 +9265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >This must be the private room of the\nshopkeeper- sama. Let's not enter..."
+                                "\\n< Serena >This must be the private room of the shopkeeper-\nsama. Let's not enter..."
                             ]
                         },
                         {
@@ -9564,7 +9564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hmm... Why am I examining something like\nthis?\\n< Serena >"
+                                "Hmm... Why am I examining something like this?\\n< Serena >"
                             ]
                         },
                         {
@@ -9693,7 +9693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There doesn't seem to be anything of\nuse.\\n< Serena >"
+                                "There doesn't seem to be anything of use.\\n< Serena >"
                             ]
                         },
                         {
@@ -9822,7 +9822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It seems to contain drinking water.\nLet's not touch it.\\n< Serena >"
+                                "It seems to contain drinking water. Let's not\ntouch it.\\n< Serena >"
                             ]
                         },
                         {
@@ -9951,7 +9951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I glanced at the guest book earlier, and\nit seems there are people who stay in\nthe space in front of this fireplace.\\n< Serena >"
+                                "I glanced at the guest book earlier, and it seems\nthere are people who stay in the space in front of\nthis fireplace.\\n< Serena >"
                             ]
                         },
                         {
@@ -9968,7 +9968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's surprising that such a place is\nrented out, but even more surprising are\nthose who stay there. How do they manage\nto sleep...\\n< Serena >"
+                                "It's surprising that such a place is rented out,\nbut even more surprising are those who stay there.\nHow do they manage to sleep...\\n< Serena >"
                             ]
                         },
                         {
@@ -10123,7 +10123,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Should I invest to expand the lineup to\ninclude it? I'm seriously considering\nit.\\n< Serena >"
+                                "Should I invest to expand the lineup to include\nit? I'm seriously considering it.\\n< Serena >"
                             ]
                         },
                         {
@@ -10293,7 +10293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah, I see. It's to check if someone's\nalready inside.\\n< Serena >"
+                                "Ah, I see. It's to check if someone's already\ninside.\\n< Serena >"
                             ]
                         },
                         {
@@ -10422,7 +10422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's well-milled. It'll probably make\ndelicious bread.\\n< Serena >"
+                                "It's well-milled. It'll probably make delicious\nbread.\\n< Serena >"
                             ]
                         },
                         {
@@ -10680,7 +10680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cooking, huh? Mother might not approve,\nbut I'm a bit interested.\\n< Serena >"
+                                "Cooking, huh? Mother might not approve, but I'm a\nbit interested.\\n< Serena >"
                             ]
                         },
                         {
@@ -10809,7 +10809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "These guys are bad news. They must be\nreceiving a public punishment as an\nexample.\\n< Serena >"
+                                "These guys are bad news. They must be receiving a\npublic punishment as an example.\\n< Serena >"
                             ]
                         },
                         {
@@ -10826,7 +10826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I hope this experience makes them a bit\nsweeter.\\n< Serena >"
+                                "I hope this experience makes them a bit sweeter.\\n< Serena >"
                             ]
                         },
                         {
@@ -10955,7 +10955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm not particularly interested, but\nit's a bit irritating how it's\nostentatiously placed just out of reach.\\n< Serena >"
+                                "I'm not particularly interested, but it's a bit\nirritating how it's ostentatiously placed just out\nof reach.\\n< Serena >"
                             ]
                         },
                         {

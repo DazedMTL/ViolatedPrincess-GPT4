@@ -6378,7 +6378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This is the fort's main gate! But to get\nout from this courtyard, we need a key!\\n< Cecilia >"
+                                "This is the fort's main gate! But to get out from\nthis courtyard, we need a key!\\n< Cecilia >"
                             ]
                         },
                         {
@@ -6402,7 +6402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well, there's no more guards or\nanything! We could just climb over the\nwalls around here...!\\n< Cecilia >"
+                                "Well, there's no more guards or anything! We could\njust climb over the walls around here...!\\n< Cecilia >"
                             ]
                         },
                         {
@@ -7065,7 +7065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This thing... won't let us escape...\nprobably. Haa, Haa... damn, it caught\nup...\\n< Cecilia >"
+                                "This thing... won't let us escape... probably.\nHaa, Haa... damn, it caught up...\\n< Cecilia >"
                             ]
                         },
                         {
@@ -7096,7 +7096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Well... when you think about it, the\nsituation has become simpler.\\n< Serena >"
+                                "...Well... when you think about it, the situation\nhas become simpler.\\n< Serena >"
                             ]
                         },
                         {
@@ -7145,7 +7145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "In other words, all we need to do is\ndefeat this creature right here.\\n< Serena >"
+                                "In other words, all we need to do is defeat this\ncreature right here.\\n< Serena >"
                             ]
                         },
                         {
@@ -7218,7 +7218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Considering that escaping from the\ninnermost part of that venue was the\nhardest part.\\n< Serena >"
+                                "Considering that escaping from the innermost part\nof that venue was the hardest part.\\n< Serena >"
                             ]
                         },
                         {
@@ -7242,7 +7242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This... whatever it is... this monster\nturning everything upside down might\nactually be convenient for us.\\n< Serena >"
+                                "This... whatever it is... this monster turning\neverything upside down might actually be\nconvenient for us.\\n< Serena >"
                             ]
                         },
                         {
@@ -7506,7 +7506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Now then. I have no idea who you are,\nwhat you want, or what's going on.\\n< Serena >"
+                                "Now then. I have no idea who you are, what you\nwant, or what's going on.\\n< Serena >"
                             ]
                         },
                         {
@@ -7649,7 +7649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "My name is Serena. Fuoco. R. Brillante.\nD. La. Gratia.\\n< Serena >"
+                                "My name is Serena. Fuoco. R. Brillante. D. La.\nGratia.\\n< Serena >"
                             ]
                         },
                         {
@@ -7673,7 +7673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The god who illuminates this world! I\nwill take your life and grant you a\nshameful death!\\n< Serena >"
+                                "The god who illuminates this world! I will take\nyour life and grant you a shameful death!\\n< Serena >"
                             ]
                         },
                         {
@@ -8425,7 +8425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"N-no... stop...\"\\n< ??? >"
+                                "\"N-no... stop...\"\\n< ???>"
                             ]
                         },
                         {
@@ -8811,7 +8811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"It took some time due to your soft\nbody... but as long as you have a\nphysical form, there's sound within it.\nWaves. Rhythm.\"\\n< Serena >"
+                                "\"It took some time due to your soft body... but as\nlong as you have a physical form, there's sound\nwithin it. Waves. Rhythm.\"\\n< Serena >"
                             ]
                         },
                         {
@@ -8909,7 +8909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"I've captured that sound and 'dressed'\nyou in Apher-Bile.\"\\n< Serena >"
+                                "\"I've captured that sound and 'dressed' you in\nApher-Bile.\"\\n< Serena >"
                             ]
                         },
                         {
@@ -8977,7 +8977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"You are enveloped in an armor of sound.\nResonating, reverberating, the bouncing\nsound becomes a billion vibrations.\"\\n< Serena >"
+                                "\"You are enveloped in an armor of sound.\nResonating, reverberating, the bouncing sound\nbecomes a billion vibrations.\"\\n< Serena >"
                             ]
                         },
                         {
@@ -9708,7 +9708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"N-no.\"\\n< ??? >"
+                                "\"N-no.\"\\n< ???>"
                             ]
                         },
                         {
@@ -9766,7 +9766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"No...\"\\n< ??? >"
+                                "\"No...\"\\n< ???>"
                             ]
                         },
                         {
@@ -10401,7 +10401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Splendour, as long as you are safe,\nthat alone... for me...\"\\n< Serena >"
+                                "\"Splendour, as long as you are safe, that alone...\nfor me...\"\\n< Serena >"
                             ]
                         },
                         {
@@ -10830,7 +10830,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Don't mess with me! Just now, with its\nhorn...!\"\\n< Cecilia >"
+                                "\"Don't mess with me! Just now, with its horn...!\"\\n< Cecilia >"
                             ]
                         },
                         {
@@ -10973,7 +10973,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"It can't be helped... It's their\nnature. Splendour has done nothing\nwrong.\"\\n< Serena >"
+                                "\"It can't be helped... It's their nature.\nSplendour has done nothing wrong.\"\\n< Serena >"
                             ]
                         },
                         {
@@ -10997,7 +10997,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"All the evil lies within me. This child\nis merely reacting to that ugliness.\"\\n< Serena >"
+                                "\"All the evil lies within me. This child is merely\nreacting to that ugliness.\"\\n< Serena >"
                             ]
                         },
                         {
@@ -11045,7 +11045,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"...Splendour. I'm sorry for making you\nfeel uncomfortable.\"\\n< Serena >"
+                                "\"...Splendour. I'm sorry for making you feel\nuncomfortable.\"\\n< Serena >"
                             ]
                         },
                         {
@@ -11080,7 +11080,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Just sleep a little longer... I'll take\nyou home soon...\"\\n< Serena >"
+                                "\"Just sleep a little longer... I'll take you home\nsoon...\"\\n< Serena >"
                             ]
                         },
                         {
@@ -11383,7 +11383,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Ow, it hurts... Once I calm down, the\npain...\"\\n< Serena >"
+                                "\"Ow, it hurts... Once I calm down, the pain...\"\\n< Serena >"
                             ]
                         },
                         {
@@ -11440,7 +11440,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"This means... I might not be able to\nplay the piano anymore. I've just given\nmy father and mother another reason to\nscold me.\"\\n< Serena >"
+                                "\"This means... I might not be able to play the\npiano anymore. I've just given my father and\nmother another reason to scold me.\"\\n< Serena >"
                             ]
                         },
                         {
@@ -11506,7 +11506,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "So then, Serena, for what purpose...?\nWhy did you work so hard for this? It's\njust...\\n< Cecilia >"
+                                "So then, Serena, for what purpose...? Why did you\nwork so hard for this? It's just...\\n< Cecilia >"
                             ]
                         },
                         {
@@ -11587,7 +11587,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...I didn't come this far expecting any\nreward.\\n< Serena >"
+                                "...I didn't come this far expecting any reward.\\n< Serena >"
                             ]
                         },
                         {
@@ -11604,7 +11604,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I simply wanted to repay the friendship.\nEven if it's something that has already\npassed.\\n< Serena >"
+                                "I simply wanted to repay the friendship. Even if\nit's something that has already passed.\\n< Serena >"
                             ]
                         },
                         {
@@ -11661,7 +11661,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I made my decision and followed\nthrough... That's why I'm satisfied.\\n< Serena >"
+                                "I made my decision and followed through... That's\nwhy I'm satisfied.\\n< Serena >"
                             ]
                         },
                         {
@@ -11910,7 +11910,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ah... Splendour...! The white fur on\nyour back that I've dreamed of...!\\n< Serena >"
+                                "Ah... Splendour...! The white fur on your back\nthat I've dreamed of...!\\n< Serena >"
                             ]
                         },
                         {
@@ -12100,7 +12100,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...Ha... I don't really understand\nwhat's going on, but anyway, the\noperation was a success... Is this\nreally okay?\\n< Cecilia >"
+                                "...Ha... I don't really understand what's going\non, but anyway, the operation was a success... Is\nthis really okay?\\n< Cecilia >"
                             ]
                         },
                         {
@@ -12124,7 +12124,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The fortress seems to be in total chaos.\nThey're not in any position to bother us\nanymore. Let's slip away quietly.\\n< Cecilia >"
+                                "The fortress seems to be in total chaos. They're\nnot in any position to bother us anymore. Let's\nslip away quietly.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -12148,7 +12148,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "But seriously, what was that thing\nearlier?\\n< Cecilia >"
+                                "But seriously, what was that thing earlier?\\n< Cecilia >"
                             ]
                         },
                         {
@@ -12194,7 +12194,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I once saw it... in the sewers. A black\nslime. No... maybe it wasn't slime.\\n< Serena >"
+                                "I once saw it... in the sewers. A black slime.\nNo... maybe it wasn't slime.\\n< Serena >"
                             ]
                         },
                         {
@@ -12211,7 +12211,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Catherine-sama mentioned it. Beneath\nthis city, the lingering thoughts of\nnumerous lost souls remain. Those\nthoughts gather and form a curse...\\n< Serena >"
+                                "Catherine-sama mentioned it. Beneath this city,\nthe lingering thoughts of numerous lost souls\nremain. Those thoughts gather and form a curse...\\n< Serena >"
                             ]
                         },
                         {
@@ -12257,7 +12257,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "That might have been the curse itself.\nWhy it appeared here and now, I do not\nknow...\\n< Serena >"
+                                "That might have been the curse itself. Why it\nappeared here and now, I do not know...\\n< Serena >"
                             ]
                         },
                         {
@@ -12303,7 +12303,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...Come to think of it, Catherine-sama\ndid ask me to show them understanding...\\n< Serena >"
+                                "...Come to think of it, Catherine-sama did ask me\nto show them understanding...\\n< Serena >"
                             ]
                         },
                         {
@@ -12327,7 +12327,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "What is that woman talking about? It's\nnot like we're strangers.\\n< Cecilia >"
+                                "What is that woman talking about? It's not like\nwe're strangers.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -12351,7 +12351,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Serena has no obligation to deal with\nsuch things. I blew it away! Serves them\nright!\\n< Cecilia >"
+                                "Serena has no obligation to deal with such things.\nI blew it away! Serves them right!\\n< Cecilia >"
                             ]
                         },
                         {
@@ -12368,7 +12368,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You don't need to worry about such\nstories either, Serena. Don't let it\ndampen our happy ending.\\n< Cecilia >"
+                                "You don't need to worry about such stories either,\nSerena. Don't let it dampen our happy ending.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -12414,7 +12414,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "That's right... I'm sorry, but all I\ncould do was save this child.\\n< Serena >"
+                                "That's right... I'm sorry, but all I could do was\nsave this child.\\n< Serena >"
                             ]
                         },
                         {
@@ -12506,7 +12506,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Let's go home, Splendour. Father and\nMother are surely very angry.\\n< Serena >"
+                                "Let's go home, Splendour. Father and Mother are\nsurely very angry.\\n< Serena >"
                             ]
                         },
                         {
@@ -12523,7 +12523,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I might end up crying when they scold\nme.\\n< Serena >"
+                                "I might end up crying when they scold me.\\n< Serena >"
                             ]
                         },
                         {
@@ -12569,7 +12569,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "If that happens, please comfort me\nagain...\\n< Serena >"
+                                "If that happens, please comfort me again...\\n< Serena >"
                             ]
                         },
                         {
@@ -13094,7 +13094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It seems this monster is after me...!\nTake Splendor and run...!\\n< Serena >"
+                                "It seems this monster is after me...! Take\nSplendor and run...!\\n< Serena >"
                             ]
                         },
                         {
@@ -13665,7 +13665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Is this... the end... in a place like\nthis...\\n< Serena >"
+                                "Is this... the end... in a place like this...\\n< Serena >"
                             ]
                         },
                         {
@@ -13844,7 +13844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Though I won't be able to hold that\nchild in my arms again,\\n< Serena >"
+                                "Though I won't be able to hold that child in my\narms again,\\n< Serena >"
                             ]
                         },
                         {

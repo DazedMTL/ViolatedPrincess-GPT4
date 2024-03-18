@@ -17,7 +17,7 @@
  * @author Taku Aoi
  * @help This plugin shows speaker's name window.
  *
- * Input the character name with \N<Character name> format
+ * Input the character name with \N< Character name > format
  * to display the speaker's name window.
  *
  * The same font as the message window is used for this window.
@@ -27,7 +27,7 @@
  * @author あおいたく
  * @help このプラグインは名前ウィンドウを表示できるようにします。
  *
- * \N<キャラクター名> 形式でメッセージ内にキャラクターの名前を記述することで
+ * $1 $2 $3 形式でメッセージ内にキャラクターの名前を記述することで
  * メッセージウィンドウの上部に名前ウィンドウを表示するようになります。
  *
  * 名前ウィンドウのフォントはメッセージウィンドウのものが使われます。

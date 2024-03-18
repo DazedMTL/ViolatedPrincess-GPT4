@@ -3862,7 +3862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hmm... I heard it was an orphanage, but\nit looks like a small church inside.\\n< Serena >"
+                                "Hmm... I heard it was an orphanage, but it looks\nlike a small church inside.\\n< Serena >"
                             ]
                         },
                         {
@@ -3886,7 +3886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Come to think of it, I haven't had\nthe chance to pray in a while...\\n< Serena >"
+                                "...Come to think of it, I haven't had the chance\nto pray in a while...\\n< Serena >"
                             ]
                         },
                         {
@@ -4108,7 +4108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah? No... it's nothing. I'm just waiting\nfor someone. Please don't mind me.\\n< Serena >"
+                                "Ah? No... it's nothing. I'm just waiting for\nsomeone. Please don't mind me.\\n< Serena >"
                             ]
                         },
                         {
@@ -4143,7 +4143,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "That belly... Are you here to talk about\nyour child? We do get many adventurers\nhere for such matters...\\n< Sister >"
+                                "That belly... Are you here to talk about your\nchild? We do get many adventurers here for such\nmatters...\\n< Sister >"
                             ]
                         },
                         {
@@ -4170,7 +4170,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Are you a friend of Cecilia-chan? She's\nalways been such a great help to us...\\n< Sister >"
+                                "Are you a friend of Cecilia-chan? She's always\nbeen such a great help to us...\\n< Sister >"
                             ]
                         },
                         {
@@ -4315,7 +4315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Excuse me, Sister.\\n< ??? >"
+                                "Excuse me, Sister.\\n< ???>"
                             ]
                         },
                         {
@@ -4432,7 +4432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm not back, and that's my client over\nthere.\\n< Cecilia >"
+                                "I'm not back, and that's my client over there.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -4677,7 +4677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Why are you just standing around there?\nI told you to sit on the bench, right\nside row, third seat from the front.\\n< Cecilia >"
+                                "Why are you just standing around there? I told you\nto sit on the bench, right side row, third seat\nfrom the front.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -4725,7 +4725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Tch. This is why I can't stand the\nAdventurers' Guild... Seeing people who\ndo sloppy work and still get to eat\npisses me off.\\n< Cecilia >"
+                                "Tch. This is why I can't stand the Adventurers'\nGuild... Seeing people who do sloppy work and\nstill get to eat pisses me off.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -4749,7 +4749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "More importantly, we met in the hot\nspring town, didn't we?\\n< Serena >"
+                                "More importantly, we met in the hot spring town,\ndidn't we?\\n< Serena >"
                             ]
                         },
                         {
@@ -4797,7 +4797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Ah. The Kokeshi Grass. You came to\nCastellum?\\n< Cecilia >"
+                                "...Ah. The Kokeshi Grass. You came to Castellum?\\n< Cecilia >"
                             ]
                         },
                         {
@@ -4825,7 +4825,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "With that belly of yours, you would have\nbeen better off staying there, right?\\n< Cecilia >"
+                                "With that belly of yours, you would have been\nbetter off staying there, right?\\n< Cecilia >"
                             ]
                         },
                         {
@@ -4982,7 +4982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah, the unicorn, right? You're really\npersistent.\\n< Cecilia >"
+                                "Ah, the unicorn, right? You're really persistent.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -5102,7 +5102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Really? But with just this brief\nconversation, I've already learned two\nimportant pieces of information.\\n< Cecilia >"
+                                "Really? But with just this brief conversation,\nI've already learned two important pieces of\ninformation.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -5126,7 +5126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "One is that the rumor about a unicorn\nbeing brought into this town seems to be\ntrue.\\n< Cecilia >"
+                                "One is that the rumor about a unicorn being\nbrought into this town seems to be true.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -5150,7 +5150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The other is that your goal is that very\nunicorn.\\n< Cecilia >"
+                                "The other is that your goal is that very unicorn.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -5174,7 +5174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "And what will you do with that\nknowledge?\\n< Serena >"
+                                "And what will you do with that knowledge?\\n< Serena >"
                             ]
                         },
                         {
@@ -5198,7 +5198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Nothing much. This information alone\nisn't enough to sell yet.\\n< Cecilia >"
+                                "Nothing much. This information alone isn't enough\nto sell yet.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -5246,7 +5246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh... that's right, I haven't introduced\nmyself yet.\\n< Cecilia >"
+                                "Oh... that's right, I haven't introduced myself\nyet.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -5263,7 +5263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Let me reintroduce myself. I am Cecilia.\nCecilia Valadon.\\n< Cecilia >"
+                                "Let me reintroduce myself. I am Cecilia. Cecilia\nValadon.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -5287,7 +5287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I work as an information broker. Looking\nforward to doing business with you,\nSerena-chan?\\n< Cecilia >"
+                                "I work as an information broker. Looking forward\nto doing business with you, Serena-chan?\\n< Cecilia >"
                             ]
                         },
                         {
@@ -5402,7 +5402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(I'll break into his mansion to find the\nevidence. I need you to play a\nsupporting role.)\\n< Cecilia >"
+                                "(I'll break into his mansion to find the evidence.\nI need you to play a supporting role.)\\n< Cecilia >"
                             ]
                         },
                         {
@@ -5419,7 +5419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(Specifically, I need you to infiltrate\nhis mansion as a maid.)\\n< Cecilia >"
+                                "(Specifically, I need you to infiltrate his\nmansion as a maid.)\\n< Cecilia >"
                             ]
                         },
                         {
@@ -5436,7 +5436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(There are three things I want you to\ndo.)\\n< Cecilia >"
+                                "(There are three things I want you to do.)\\n< Cecilia >"
                             ]
                         },
                         {
@@ -5475,7 +5475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(The first is to leave the bathhouse\nwindow unlocked. I'll enter from there.)\\n< Cecilia >"
+                                "(The first is to leave the bathhouse window\nunlocked. I'll enter from there.)\\n< Cecilia >"
                             ]
                         },
                         {
@@ -5492,7 +5492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(The second is to stall the night\npatrol.)\\n< Cecilia >"
+                                "(The second is to stall the night patrol.)\\n< Cecilia >"
                             ]
                         },
                         {
@@ -5509,7 +5509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(The third is for the following morning.\nI'll be escaping from the second floor,\nso cause a commotion on the first floor\nto draw people's attention.)\\n< Cecilia >"
+                                "(The third is for the following morning. I'll be\nescaping from the second floor, so cause a\ncommotion on the first floor to draw people's\nattention.)\\n< Cecilia >"
                             ]
                         },
                         {
@@ -5804,7 +5804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cecilia-sama... I'm so relieved you're\nsafe...\\n< Serena >"
+                                "Cecilia-sama... I'm so relieved you're safe...\\n< Serena >"
                             ]
                         },
                         {
@@ -5876,7 +5876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well, I never expected everything to go\nperfectly anyway.\\n< Cecilia >"
+                                "Well, I never expected everything to go perfectly\nanyway.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -5900,7 +5900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Regardless, we managed to retrieve the\nobjective... the ledger. So in that\nsense, it was a success.\\n< Cecilia >"
+                                "Regardless, we managed to retrieve the\nobjective... the ledger. So in that sense, it was\na success.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -5924,7 +5924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But we sure caused quite a bit of\ntrouble, huh...?\\n< Cecilia >"
+                                "But we sure caused quite a bit of trouble, huh...?\\n< Cecilia >"
                             ]
                         },
                         {
@@ -5972,7 +5972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The request is complete... which means\nit wasn't a success. But I'll write it\nup as such on the request certificate.\\n< Cecilia >"
+                                "The request is complete... which means it wasn't a\nsuccess. But I'll write it up as such on the\nrequest certificate.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -6073,7 +6073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well, I don't think there will be any\nreward, but there shouldn't be any\npenalty either. Reporting back to the\npig can wait.\\n< Cecilia >"
+                                "Well, I don't think there will be any reward, but\nthere shouldn't be any penalty either. Reporting\nback to the pig can wait.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -6162,7 +6162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Surely there were others who could have\nhandled it better?\\n< Serena >"
+                                "Surely there were others who could have handled it\nbetter?\\n< Serena >"
                             ]
                         },
                         {
@@ -6210,7 +6210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "First off, your face. To be hired as a\nmaid by Goo-Peel, you need to have a\ngood face.\\n< Cecilia >"
+                                "First off, your face. To be hired as a maid by\nGoo-Peel, you need to have a good face.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -6227,7 +6227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If you failed to get hired, who knows\nwhen the next maid recruitment would be.\\n< Cecilia >"
+                                "If you failed to get hired, who knows when the\nnext maid recruitment would be.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -6244,7 +6244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So having someone who could definitely\nget hired on the first try was the most\nimportant condition for a collaborator.\\n< Cecilia >"
+                                "So having someone who could definitely get hired\non the first try was the most important condition\nfor a collaborator.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -6296,7 +6296,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The fact that your belly is like that\nwas a bit... troublesome. But it worked\nout since Goo-Peel isn't picky.\\n< Cecilia >"
+                                "The fact that your belly is like that was a bit...\ntroublesome. But it worked out since Goo-Peel\nisn't picky.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -6354,7 +6354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "And then, not betraying us. It would\ndefinitely be more profitable for you to\nsnitch to Goo-Peel.\\n< Cecilia >"
+                                "And then, not betraying us. It would definitely be\nmore profitable for you to snitch to Goo-Peel.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -6378,7 +6378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So someone not rooted in this town would\nbe preferable. But someone completely\nwithout ties can't be trusted either.\\n< Cecilia >"
+                                "So someone not rooted in this town would be\npreferable. But someone completely without ties\ncan't be trusted either.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -6395,7 +6395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "When I narrowed down the conditions, you\nwere the only suitable one left.\\n< Cecilia >"
+                                "When I narrowed down the conditions, you were the\nonly suitable one left.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -6419,7 +6419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Was the Unicorn matter also a test for\nthat purpose?\\n< Serena >"
+                                "Was the Unicorn matter also a test for that\npurpose?\\n< Serena >"
                             ]
                         },
                         {
@@ -6443,7 +6443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "How did you even know about the Unicorn\nstory in the first place?\\n< Serena >"
+                                "How did you even know about the Unicorn story in\nthe first place?\\n< Serena >"
                             ]
                         },
                         {
@@ -6467,7 +6467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You might not know, but rumors of the\nUnicorn are already circulating. Anyone\nwith a good nose for news knows about it\nby now.\\n< Cecilia >"
+                                "You might not know, but rumors of the Unicorn are\nalready circulating. Anyone with a good nose for\nnews knows about it by now.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -6491,7 +6491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's said to have been brought into this\ntown, though it's still a very vague\nstory.\\n< Cecilia >"
+                                "It's said to have been brought into this town,\nthough it's still a very vague story.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -6515,7 +6515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "And without any solid proof, someone as\nout of touch with the world as you just\nwaltzed right in front of me.\\n< Cecilia >"
+                                "And without any solid proof, someone as out of\ntouch with the world as you just waltzed right in\nfront of me.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -6539,7 +6539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It clicked. I thought there must be\nsomething to it and hit the jackpot.\\n< Cecilia >"
+                                "It clicked. I thought there must be something to\nit and hit the jackpot.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -6556,7 +6556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "And once your secret was out, you\ncouldn't really refuse the job. Who\nknows what could happen.\\n< Cecilia >"
+                                "And once your secret was out, you couldn't really\nrefuse the job. Who knows what could happen.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -6580,7 +6580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It would have been troublesome for me if\nyou had run away. Though I didn't expect\nsuch trouble.\\n< Cecilia >"
+                                "It would have been troublesome for me if you had\nrun away. Though I didn't expect such trouble.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -6652,7 +6652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Do I still need to make more of an\nappeal?\\n< Cecilia >"
+                                "Do I still need to make more of an appeal?\\n< Cecilia >"
                             ]
                         },
                         {
@@ -6700,7 +6700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Don't you have a job you want to ask of\nme? Of this capable information broker,\nCecilia-san here.\\n< Cecilia >"
+                                "Don't you have a job you want to ask of me? Of\nthis capable information broker, Cecilia-san here.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -6738,7 +6738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Indeed. I would like to request your\nservices. You are precisely the person\nI've been seeking.\\n< Serena >"
+                                "Indeed. I would like to request your services. You\nare precisely the person I've been seeking.\\n< Serena >"
                             ]
                         },
                         {
@@ -6755,7 +6755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Information broker Cecilia. Valadon-\nsama. Please find my unicorn...\nSplendor.\\n< Serena >"
+                                "Information broker Cecilia. Valadon- sama. Please\nfind my unicorn... Splendor.\\n< Serena >"
                             ]
                         },
                         {
@@ -7224,7 +7224,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "What's the matter? Are you going through\nsomething difficult?\\n< Sister >"
+                                "What's the matter? Are you going through something\ndifficult?\\n< Sister >"
                             ]
                         },
                         {
@@ -7290,7 +7290,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Oh dear, you're in quite a state... I\nwish I had some clothes to lend you...\\n< Sister >"
+                                "Oh dear, you're in quite a state... I wish I had\nsome clothes to lend you...\\n< Sister >"
                             ]
                         },
                         {
@@ -7411,7 +7411,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Do you know where Cecilia-chan might be?\nHmm... I'm sorry, I'm not quite sure\nmyself.\\n< Sister >"
+                                "Do you know where Cecilia-chan might be? Hmm...\nI'm sorry, I'm not quite sure myself.\\n< Sister >"
                             ]
                         },
                         {
@@ -7719,7 +7719,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "What's wrong? Are you going through\nsomething difficult?\\n< Sister >"
+                                "What's wrong? Are you going through something\ndifficult?\\n< Sister >"
                             ]
                         },
                         {
@@ -7785,7 +7785,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Oh dear, you're in quite a state... I\nwish I had some clothes to lend you...\\n< Sister >"
+                                "Oh dear, you're in quite a state... I wish I had\nsome clothes to lend you...\\n< Sister >"
                             ]
                         },
                         {
@@ -7899,7 +7899,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Do you know where Cecilia-chan is?\nHmm... I'm sorry, I'm not quite sure\nmyself.\\n< Sister >"
+                                "Do you know where Cecilia-chan is? Hmm... I'm\nsorry, I'm not quite sure myself.\\n< Sister >"
                             ]
                         },
                         {
@@ -7926,7 +7926,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I'm sorry, I can't offer you any\nhospitality...\\n< Sister >"
+                                "I'm sorry, I can't offer you any hospitality...\\n< Sister >"
                             ]
                         },
                         {
@@ -8021,7 +8021,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "...I see, you're in a tough situation.\nIf you can pay, I might be able to help\nyou. It will cost 1000 S, is that\nalright?\\n< Sister >"
+                                "...I see, you're in a tough situation. If you can\npay, I might be able to help you. It will cost\n1000 S, is that alright?\\n< Sister >"
                             ]
                         },
                         {
@@ -8047,7 +8047,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "...I'm sorry. But I have to protect\nthose children. Without money, I can't\nhelp you.\\n< Sister >"
+                                "...I'm sorry. But I have to protect those\nchildren. Without money, I can't help you.\\n< Sister >"
                             ]
                         },
                         {
@@ -8072,8 +8072,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "Human childif(v[1139])",
-                                    "Monster's childif(v[1138])",
+                                    "if(v[1139])Human child",
+                                    "if(v[1138])Monster's child",
                                     "Stop"
                                 ],
                                 2,
@@ -8150,12 +8150,12 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "Jack's childif(v[1721])",
-                                    "Henry's childif(v[1722])",
-                                    "Gordon's childif(v[1723])",
-                                    "Dodge's childif(v[1724])",
-                                    "John's childif(v[1725])",
-                                    "Blai's childif(v[1726])"
+                                    "if(v[1721])Jack's child",
+                                    "if(v[1722])Henry's child",
+                                    "if(v[1723])Gordon's child",
+                                    "if(v[1724])Dodge's child",
+                                    "if(v[1725])John's child",
+                                    "if(v[1726])Blai's child"
                                 ],
                                 -1,
                                 -1,
@@ -8311,12 +8311,12 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "Tom's childif(v[1727])",
-                                    "The child of a Goblinif(v[1728])",
-                                    "Gii's childif(v[1729])",
-                                    "Byorn's childif(v[1730])",
-                                    "Ginyu's childif(v[1731])",
-                                    "Vincent's childif(v[1732])"
+                                    "if(v[1727])Tom's child",
+                                    "if(v[1728])The child of a Goblin",
+                                    "if(v[1729])Gii's child",
+                                    "if(v[1730])Byorn's child",
+                                    "if(v[1731])Ginyu's child",
+                                    "if(v[1732])Vincent's child"
                                 ],
                                 -1,
                                 -1,
@@ -8472,12 +8472,12 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "Albert's childif(v[1733])",
-                                    "Samuel's childif(v[1734])",
-                                    "Doni's childif(v[1735])",
-                                    "Mathias's childif(v[1736])",
-                                    "Deacon's childif(v[1737])",
-                                    "The child of a Goobilif(v[1738])"
+                                    "if(v[1733])Albert's child",
+                                    "if(v[1734])Samuel's child",
+                                    "if(v[1735])Doni's child",
+                                    "if(v[1736])Mathias's child",
+                                    "if(v[1737])Deacon's child",
+                                    "if(v[1738])The child of a Goobil"
                                 ],
                                 -1,
                                 -1,
@@ -8633,12 +8633,12 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "The children of Demouranif(v[1739])",
-                                    "Rodrigue's childif(v[1740])",
-                                    "Oliver's childif(v[1741])",
-                                    "Gaetan's childif(v[1742])",
-                                    "Joel's childif(v[1743])",
-                                    "Tristan's childif(v[1744])"
+                                    "if(v[1739])The children of Demouran",
+                                    "if(v[1740])Rodrigue's child",
+                                    "if(v[1741])Oliver's child",
+                                    "if(v[1742])Gaetan's child",
+                                    "if(v[1743])Joel's child",
+                                    "if(v[1744])Tristan's child"
                                 ],
                                 -1,
                                 -1,
@@ -8794,12 +8794,12 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "Gekuran's childif(v[1745])",
-                                    "Marcel's childif(v[1746])",
-                                    "Tim's childif(v[1747])",
-                                    "The child of Ganuronif(v[1748])",
-                                    "Burdan's childif(v[1749])",
-                                    "Maxis's childif(v[1750])"
+                                    "if(v[1745])Gekuran's child",
+                                    "if(v[1746])Marcel's child",
+                                    "if(v[1747])Tim's child",
+                                    "if(v[1748])The child of Ganuron",
+                                    "if(v[1749])Burdan's child",
+                                    "if(v[1750])Maxis's child"
                                 ],
                                 -1,
                                 -1,
@@ -8955,12 +8955,12 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "Morris's childif(v[1751])",
-                                    "Pierre's childif(v[1752])",
-                                    "Bruno's childif(v[1753])",
-                                    "Masaru's childif(v[1754])",
-                                    "Bond's childif(v[1755])",
-                                    "Orphan childif(v[1756])"
+                                    "if(v[1751])Morris's child",
+                                    "if(v[1752])Pierre's child",
+                                    "if(v[1753])Bruno's child",
+                                    "if(v[1754])Masaru's child",
+                                    "if(v[1755])Bond's child",
+                                    "if(v[1756])Orphan child"
                                 ],
                                 -1,
                                 -1,
@@ -9116,12 +9116,12 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "The child of a city police officerif(v[1757])",
-                                    "Adventurer's childif(v[1758])",
-                                    "Thug Kidif(v[1759])",
-                                    "Punk's kidif(v[1760])",
-                                    "Heretic's childif(v[1761])",
-                                    "Orphan childif(v[1762])"
+                                    "if(v[1757])The child of a city police officer",
+                                    "if(v[1758])Adventurer's child",
+                                    "if(v[1759])Thug Kid",
+                                    "if(v[1760])Punk's kid",
+                                    "if(v[1761])Heretic's child",
+                                    "if(v[1762])Orphan child"
                                 ],
                                 -1,
                                 -1,
@@ -9277,12 +9277,12 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "Child of a prostituteif(v[1763])",
-                                    "Foreigner's childif(v[1764])",
-                                    "Prisoner's Childif(v[1765])",
-                                    "Stallion's offspringif(v[1766])",
-                                    "Ganuron's grandchildif(v[1767])",
-                                    "Someone's childif(v[1768])"
+                                    "if(v[1763])Child of a prostitute",
+                                    "if(v[1764])Foreigner's child",
+                                    "if(v[1765])Prisoner's Child",
+                                    "if(v[1766])Stallion's offspring",
+                                    "if(v[1767])Ganuron's grandchild",
+                                    "if(v[1768])Someone's child"
                                 ],
                                 -1,
                                 -1,
@@ -9438,7 +9438,7 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "A child of unknown paternityif(v[1769])"
+                                    "if(v[1769])A child of unknown paternity"
                                 ],
                                 -1,
                                 -1,
@@ -9510,7 +9510,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Understood. I'll take responsibility and\nlook after this child, so you do your\nbest as well...\\n< Sister >"
+                                "Understood. I'll take responsibility and look\nafter this child, so you do your best as well...\\n< Sister >"
                             ]
                         },
                         {
@@ -9554,7 +9554,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Sorry, but I can't take in a monster's\nchild. Please dispose of it yourself...\nDisgusting.\\n< Sister >"
+                                "Sorry, but I can't take in a monster's child.\nPlease dispose of it yourself... Disgusting.\\n< Sister >"
                             ]
                         },
                         {
@@ -10194,7 +10194,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Haven't you received your reward for the\nrequest yet? Hurry up and go to that pig\nand get your reward.\\n< Cecilia >"
+                                "Haven't you received your reward for the request\nyet? Hurry up and go to that pig and get your\nreward.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -10292,7 +10292,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "...Hah. Okay, okay. The fee is 500 S.\nSo, which girl will it be?\\n< Cecilia >"
+                                "...Hah. Okay, okay. The fee is 500 S. So, which\ngirl will it be?\\n< Cecilia >"
                             ]
                         },
                         {
@@ -10325,7 +10325,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "...You don't have any money, do you? I'm\nnot running a charity here, so bring\nsome money next time.\\n< Cecilia >"
+                                "...You don't have any money, do you? I'm not\nrunning a charity here, so bring some money next\ntime.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -10343,8 +10343,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "Human childif(v[1139])",
-                                    "Monster's offspringif(v[1138])",
+                                    "if(v[1139])Human child",
+                                    "if(v[1138])Monster's offspring",
                                     "Stop"
                                 ],
                                 -2,
@@ -10403,7 +10403,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "What, you're backing out? ...Geez, make\nup your mind before you come here.\\n< Cecilia >"
+                                "What, you're backing out? ...Geez, make up your\nmind before you come here.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -10428,12 +10428,12 @@
                             "indent": 4,
                             "parameters": [
                                 [
-                                    "Jack's childif(v[1721])",
-                                    "Henry's childif(v[1722])",
-                                    "Gordon's childif(v[1723])",
-                                    "Dodge's childif(v[1724])",
-                                    "John's childif(v[1725])",
-                                    "Brion's childif(v[1726])"
+                                    "if(v[1721])Jack's child",
+                                    "if(v[1722])Henry's child",
+                                    "if(v[1723])Gordon's child",
+                                    "if(v[1724])Dodge's child",
+                                    "if(v[1725])John's child",
+                                    "if(v[1726])Brion's child"
                                 ],
                                 -1,
                                 -1,
@@ -10589,12 +10589,12 @@
                             "indent": 4,
                             "parameters": [
                                 [
-                                    "Tom's childif(v[1727])",
-                                    "Goblog's childif(v[1728])",
-                                    "Gii's childif(v[1729])",
-                                    "Bjorn's childif(v[1730])",
-                                    "Ginyu's childif(v[1731])",
-                                    "Vincent's childif(v[1732])"
+                                    "if(v[1727])Tom's child",
+                                    "if(v[1728])Goblog's child",
+                                    "if(v[1729])Gii's child",
+                                    "if(v[1730])Bjorn's child",
+                                    "if(v[1731])Ginyu's child",
+                                    "if(v[1732])Vincent's child"
                                 ],
                                 -1,
                                 -1,
@@ -10750,12 +10750,12 @@
                             "indent": 4,
                             "parameters": [
                                 [
-                                    "Albert's childif(v[1733])",
-                                    "Samuel's childif(v[1734])",
-                                    "Doni's childif(v[1735])",
-                                    "Machias's childif(v[1736])",
-                                    "Deacon's childif(v[1737])",
-                                    "Gubiru's childif(v[1738])"
+                                    "if(v[1733])Albert's child",
+                                    "if(v[1734])Samuel's child",
+                                    "if(v[1735])Doni's child",
+                                    "if(v[1736])Machias's child",
+                                    "if(v[1737])Deacon's child",
+                                    "if(v[1738])Gubiru's child"
                                 ],
                                 -1,
                                 -1,
@@ -10911,12 +10911,12 @@
                             "indent": 4,
                             "parameters": [
                                 [
-                                    "Demulan's childif(v[1739])",
-                                    "Rodrigue's childif(v[1740])",
-                                    "Oliver's childif(v[1741])",
-                                    "Gaetan's childif(v[1742])",
-                                    "Joel's childif(v[1743])",
-                                    "Tristan's childif(v[1744])"
+                                    "if(v[1739])Demulan's child",
+                                    "if(v[1740])Rodrigue's child",
+                                    "if(v[1741])Oliver's child",
+                                    "if(v[1742])Gaetan's child",
+                                    "if(v[1743])Joel's child",
+                                    "if(v[1744])Tristan's child"
                                 ],
                                 -1,
                                 -1,
@@ -11072,12 +11072,12 @@
                             "indent": 4,
                             "parameters": [
                                 [
-                                    "Gekuran's childif(v[1745])",
-                                    "Marcel's childif(v[1746])",
-                                    "Tim's childif(v[1747])",
-                                    "Child of Ganuronif(v[1748])",
-                                    "Bastard's childif(v[1749])",
-                                    "Maxis's childif(v[1750])"
+                                    "if(v[1745])Gekuran's child",
+                                    "if(v[1746])Marcel's child",
+                                    "if(v[1747])Tim's child",
+                                    "if(v[1748])Child of Ganuron",
+                                    "if(v[1749])Bastard's child",
+                                    "if(v[1750])Maxis's child"
                                 ],
                                 -1,
                                 -1,
@@ -11233,12 +11233,12 @@
                             "indent": 4,
                             "parameters": [
                                 [
-                                    "Morris's childif(v[1751])",
-                                    "Pierre's childif(v[1752])",
-                                    "Bruno's childif(v[1753])",
-                                    "Masaru's childif(v[1754])",
-                                    "Bond's childif(v[1755])",
-                                    "Orphan childif(v[1756])"
+                                    "if(v[1751])Morris's child",
+                                    "if(v[1752])Pierre's child",
+                                    "if(v[1753])Bruno's child",
+                                    "if(v[1754])Masaru's child",
+                                    "if(v[1755])Bond's child",
+                                    "if(v[1756])Orphan child"
                                 ],
                                 -1,
                                 -1,
@@ -11394,12 +11394,12 @@
                             "indent": 4,
                             "parameters": [
                                 [
-                                    "The child of a city police officerif(v[1757])",
-                                    "Adventurer's childif(v[1758])",
-                                    "Punk Kidif(v[1759])",
-                                    "Punk's kidif(v[1760])",
-                                    "Heathen's childif(v[1761])",
-                                    "Orphan childif(v[1762])"
+                                    "if(v[1757])The child of a city police officer",
+                                    "if(v[1758])Adventurer's child",
+                                    "if(v[1759])Punk Kid",
+                                    "if(v[1760])Punk's kid",
+                                    "if(v[1761])Heathen's child",
+                                    "if(v[1762])Orphan child"
                                 ],
                                 -1,
                                 -1,
@@ -11555,12 +11555,12 @@
                             "indent": 4,
                             "parameters": [
                                 [
-                                    "Child of a prostituteif(v[1763])",
-                                    "Child of a foreignerif(v[1764])",
-                                    "Prisoner's Childif(v[1765])",
-                                    "Offspring of a Stud Stallionif(v[1766])",
-                                    "Grandchild of Ganuronif(v[1767])",
-                                    "Someone's childif(v[1768])"
+                                    "if(v[1763])Child of a prostitute",
+                                    "if(v[1764])Child of a foreigner",
+                                    "if(v[1765])Prisoner's Child",
+                                    "if(v[1766])Offspring of a Stud Stallion",
+                                    "if(v[1767])Grandchild of Ganuron",
+                                    "if(v[1768])Someone's child"
                                 ],
                                 -1,
                                 -1,
@@ -11716,7 +11716,7 @@
                             "indent": 4,
                             "parameters": [
                                 [
-                                    "A child of unknown paternityif(v[1769])"
+                                    "if(v[1769])A child of unknown paternity"
                                 ],
                                 -1,
                                 -1,
@@ -11789,11 +11789,11 @@
                             "parameters": [
                                 [
                                     "I've changed my mind, I'm stopping",
-                                    "Goblin childif(v[1701])",
-                                    "Orc childif(v[1702])",
-                                    "Warg's offspringif(v[1703])",
-                                    "Pigman's childif(v[1704])",
-                                    "Stallion's offspringif(v[1705])"
+                                    "if(v[1701])Goblin child",
+                                    "if(v[1702])Orc child",
+                                    "if(v[1703])Warg's offspring",
+                                    "if(v[1704])Pigman's child",
+                                    "if(v[1705])Stallion's offspring"
                                 ],
                                 0,
                                 0,
@@ -11837,7 +11837,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "What, you're backing out? ...Geez, make\nup your mind before you come here.\\n< Cecilia >"
+                                "What, you're backing out? ...Geez, make up your\nmind before you come here.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -12123,7 +12123,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "An orc child, huh. Geez, despite being a\nlittle runt, you're heavy.\\n< Cecilia >"
+                                "An orc child, huh. Geez, despite being a little\nrunt, you're heavy.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -12365,7 +12365,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "A baby wyvern, huh. Just one? Just so\nyou know, there's no discount for a set.\\n< Cecilia >"
+                                "A baby wyvern, huh. Just one? Just so you know,\nthere's no discount for a set.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -12607,7 +12607,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "A piglet, huh. This one's tough so it's\na hassle.\\n< Cecilia >"
+                                "A piglet, huh. This one's tough so it's a hassle.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -12849,7 +12849,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "A horse? No, a stallion's offspring.\nHah, you've managed to survive well.\\n< Cecilia >"
+                                "A horse? No, a stallion's offspring. Hah, you've\nmanaged to survive well.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -13072,9 +13072,9 @@
                             "indent": 4,
                             "parameters": [
                                 [
-                                    "Slime's offspringif(v[1706])",
-                                    "A Roper's offspringif(v[1707])",
-                                    "Chimera's offspringif(v[1708])"
+                                    "if(v[1706])Slime's offspring",
+                                    "if(v[1707])A Roper's offspring",
+                                    "if(v[1708])Chimera's offspring"
                                 ],
                                 -1,
                                 -1,
@@ -13111,7 +13111,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "A slime? You could just flush this thing\ndown the sewer. Well, if you're saying\nto take it then I'll take it.\\n< Cecilia >"
+                                "A slime? You could just flush this thing down the\nsewer. Well, if you're saying to take it then I'll\ntake it.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -13169,7 +13169,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "A roper larva? ...Ugh, gross. How can\nyou even carry that around...\\n< Cecilia >"
+                                "A roper larva? ...Ugh, gross. How can you even\ncarry that around...\\n< Cecilia >"
                             ]
                         },
                         {
@@ -13411,7 +13411,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "What kind of child is this? Purple...\nThat's sickening...\\n< Cecilia >"
+                                "What kind of child is this? Purple... That's\nsickening...\\n< Cecilia >"
                             ]
                         },
                         {
@@ -13477,7 +13477,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Then let's just say this child never\nexisted from the start. You better\nforget about it quickly too.\\n< Cecilia >"
+                                "Then let's just say this child never existed from\nthe start. You better forget about it quickly too.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -13560,7 +13560,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "...You don't have any money, do you? I'm\nnot running a charity here, so bring\nsome money next time.\\n< Cecilia >"
+                                "...You don't have any money, do you? I'm not\nrunning a charity here, so bring some money next\ntime.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -13929,7 +13929,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "I'm waiting for a partner for an\ninformation exchange right now. You're\nin the way, so go over there. Shoo.\\n< Cecilia >"
+                                "I'm waiting for a partner for an information\nexchange right now. You're in the way, so go over\nthere. Shoo.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -14032,7 +14032,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Are you mocking me? That's not enough.\nNot even one S short.\\n< Cecilia >"
+                                "Are you mocking me? That's not enough. Not even\none S short.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -14118,7 +14118,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "...Looks like you've had your fair share\nof troubles, huh?\\n< Cecilia >"
+                                "...Looks like you've had your fair share of\ntroubles, huh?\\n< Cecilia >"
                             ]
                         },
                         {
@@ -14173,7 +14173,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "I'm not interested in anything but coins\nanyway.\\n< Cecilia >"
+                                "I'm not interested in anything but coins anyway.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -14255,7 +14255,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Excuse me for a moment. One, two,\nthree...\\n< Cecilia >"
+                                "Excuse me for a moment. One, two, three...\\n< Cecilia >"
                             ]
                         },
                         {
@@ -14636,7 +14636,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "...Yes, that's definitely 3000 S. No\nfakes mixed in.\\n< Cecilia >"
+                                "...Yes, that's definitely 3000 S. No fakes mixed\nin.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -14691,7 +14691,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "You can tell the quality of the silver\ncoins?\\n< Serena >"
+                                "You can tell the quality of the silver coins?\\n< Serena >"
                             ]
                         },
                         {
@@ -14732,7 +14732,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Well then, shall we get down to business\nright away?\\n< Cecilia >"
+                                "Well then, shall we get down to business right\naway?\\n< Cecilia >"
                             ]
                         },
                         {
@@ -14780,7 +14780,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Well, after organizing the information\nand checking the background... It'll\ntake about 2-3 days.\\n< Cecilia >"
+                                "Well, after organizing the information and\nchecking the background... It'll take about 2-3\ndays.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -14804,7 +14804,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Hmm. So you've already started working\non it?\\n< Serena >"
+                                "Hmm. So you've already started working on it?\\n< Serena >"
                             ]
                         },
                         {
@@ -14852,7 +14852,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "It seems so. Then I will visit again in\nthree days.\\n< Serena >"
+                                "It seems so. Then I will visit again in three\ndays.\\n< Serena >"
                             ]
                         },
                         {
@@ -14876,7 +14876,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "I'll have the investigation wrapped up\nby then.\\n< Cecilia >"
+                                "I'll have the investigation wrapped up by then.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -15112,7 +15112,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Now, finally a step... no, half a step\nforward, I suppose.\\n< Serena >"
+                                "Now, finally a step... no, half a step forward, I\nsuppose.\\n< Serena >"
                             ]
                         },
                         {
@@ -15136,7 +15136,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "It would be good if this leads to a\nclue...\\n< Serena >"
+                                "It would be good if this leads to a clue...\\n< Serena >"
                             ]
                         },
                         {
@@ -15160,7 +15160,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "...If nothing is found. If I've been\ndeceived by Cecilia-sama...\\n< Serena >"
+                                "...If nothing is found. If I've been deceived by\nCecilia-sama...\\n< Serena >"
                             ]
                         },
                         {
@@ -15184,7 +15184,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "...No, there's no point in fearing\nuncertainties now.\\n< Serena >"
+                                "...No, there's no point in fearing uncertainties\nnow.\\n< Serena >"
                             ]
                         },
                         {
@@ -15201,7 +15201,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "In any case, it's work. No matter how\nthe story unfolds, I will need money.\\n< Serena >"
+                                "In any case, it's work. No matter how the story\nunfolds, I will need money.\\n< Serena >"
                             ]
                         },
                         {
@@ -15218,7 +15218,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Maybe I should visit the guild again.\nEven a small job would do. There might\nbe some requests.\\n< Serena >"
+                                "Maybe I should visit the guild again. Even a small\njob would do. There might be some requests.\\n< Serena >"
                             ]
                         },
                         {
@@ -15294,7 +15294,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Oh really? Then instead of wasting time\nhere, you better go earn some quickly.\\n< Cecilia >"
+                                "Oh really? Then instead of wasting time here, you\nbetter go earn some quickly.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -15365,7 +15365,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hey, it's hard to talk when you're over\nthere. If you have something to say,\ncome closer.\\n< Cecilia >"
+                                "Hey, it's hard to talk when you're over there. If\nyou have something to say, come closer.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -15561,7 +15561,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ah, perfect timing. I was just about to\ncome call for you.\\n< Cecilia >"
+                                "Ah, perfect timing. I was just about to come call\nfor you.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -15585,7 +15585,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hm? Did you get information on the\nSplendor?\\n< Serena >"
+                                "Hm? Did you get information on the Splendor?\\n< Serena >"
                             ]
                         },
                         {
@@ -15609,7 +15609,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Exactly. I need to report... but this\nisn't the right place to talk.\\n< Cecilia >"
+                                "Exactly. I need to report... but this isn't the\nright place to talk.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -15627,7 +15627,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "How about we talk at some random shop?\nWe can even chat while walking.\\n< Cecilia >"
+                                "How about we talk at some random shop? We can even\nchat while walking.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -15693,7 +15693,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hey, it's hard to talk when you're over\nthere. If you have something to say,\ncome over here.\\n< Cecilia >"
+                                "Hey, it's hard to talk when you're over there. If\nyou have something to say, come over here.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -16008,7 +16008,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "There's no turning back now. Are you\nready?\\n< Cecilia >"
+                                "There's no turning back now. Are you ready?\\n< Cecilia >"
                             ]
                         },
                         {
@@ -16196,7 +16196,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "First, I need Serena to go to the guild\nand accept a certain request.\\n< Cecilia >"
+                                "First, I need Serena to go to the guild and accept\na certain request.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -16220,7 +16220,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "It's called the \"Special Commodities\nEscort Request.\" I've used Ganuron's\nname to nominate Serena for it. That pig\nis probably foaming at the mouth right\nnow, not having a clue.\\n< Cecilia >"
+                                "It's called the \"Special Commodities Escort\nRequest.\" I've used Ganuron's name to nominate\nSerena for it. That pig is probably foaming at the\nmouth right now, not having a clue.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -16244,7 +16244,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "The job is to escort a guild's shady\ntransaction. It's a dark deal, so\nnormally only those involved with the\nguild's underbelly would be assigned to\nit.\\n< Cecilia >"
+                                "The job is to escort a guild's shady transaction.\nIt's a dark deal, so normally only those involved\nwith the guild's underbelly would be assigned to\nit.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -16261,7 +16261,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "The reward is huge, but so is the\npenalty for failure. That's very\nconvenient for us right now.\\n< Cecilia >"
+                                "The reward is huge, but so is the penalty for\nfailure. That's very convenient for us right now.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -16285,7 +16285,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "So we're deliberately taking on that\nhuge penalty.\\n< Serena >"
+                                "So we're deliberately taking on that huge penalty.\\n< Serena >"
                             ]
                         },
                         {
@@ -16309,7 +16309,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Right. If we can successfully accept the\nrequest, we'll create chaos at the scene\nand crush the deal.\\n< Cecilia >"
+                                "Right. If we can successfully accept the request,\nwe'll create chaos at the scene and crush the\ndeal.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -16333,7 +16333,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Then the job fails. Serena will be\nexpected to pay millions of G in damages\nto the guild.\\n< Cecilia >"
+                                "Then the job fails. Serena will be expected to pay\nmillions of G in damages to the guild.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -16350,7 +16350,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "But even if they demand compensation,\nthe guild will be in trouble. After all,\na mere adventurer couldn't possibly come\nup with that kind of money.\\n< Cecilia >"
+                                "But even if they demand compensation, the guild\nwill be in trouble. After all, a mere adventurer\ncouldn't possibly come up with that kind of money.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -16367,7 +16367,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "That's where I come in again, pretending\nto be Ganuron... I'll suggest auctioning\noff Serena.\\n< Cecilia >"
+                                "That's where I come in again, pretending to be\nGanuron... I'll suggest auctioning off Serena.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -16384,7 +16384,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I'll argue in Ganuron's name how\nvaluable Serena is and how much money\nshe can bring in. I could even guarantee\nto pay any shortfall on Ganuron's\nbehalf.\\n< Cecilia >"
+                                "I'll argue in Ganuron's name how valuable Serena\nis and how much money she can bring in. I could\neven guarantee to pay any shortfall on Ganuron's\nbehalf.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -16408,7 +16408,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Since Ganuron nominated Serena, it\nbecomes his responsibility too, so this\nintervention will seem natural. It's a\nclever part of my strategy. Killing two\nbirds with one stone through a self-\nstaged play?\\n< Cecilia >"
+                                "Since Ganuron nominated Serena, it becomes his\nresponsibility too, so this intervention will seem\nnatural. It's a clever part of my strategy.\nKilling two birds with one stone through a self-\nstaged play?\\n< Cecilia >"
                             ]
                         },
                         {
@@ -16432,7 +16432,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "And what's more, that guy usually\ndoesn't show his face. Instead, who's\nbeen his messenger? None other than moi.\\n< Cecilia >"
+                                "And what's more, that guy usually doesn't show his\nface. Instead, who's been his messenger? None\nother than moi.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -16456,7 +16456,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "It's amazing how well all the pieces fit\ntogether.\\n< Serena >"
+                                "It's amazing how well all the pieces fit together.\\n< Serena >"
                             ]
                         },
                         {
@@ -16504,7 +16504,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "...So, I know the higher-ups in this\ntown, and I know what kind of language\nGanuron would use. It's impossible to\nkeep it up forever, but I'm confident I\ncan pull it off this one time.\\n< Cecilia >"
+                                "...So, I know the higher-ups in this town, and I\nknow what kind of language Ganuron would use. It's\nimpossible to keep it up forever, but I'm\nconfident I can pull it off this one time.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -16528,7 +16528,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I understand the plan up until we enter\nthe fortress. But what do we do once\nwe're inside?\\n< Serena >"
+                                "I understand the plan up until we enter the\nfortress. But what do we do once we're inside?\\n< Serena >"
                             ]
                         },
                         {
@@ -16552,7 +16552,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "From there on, it's pretty much\nimprovisation. After all, there's no way\nto find out what's inside the fortress.\\n< Cecilia >"
+                                "From there on, it's pretty much improvisation.\nAfter all, there's no way to find out what's\ninside the fortress.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -16569,7 +16569,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I think I can get in as a guest using\nGanuron's name, so I'll support you as\nmuch as possible from there.\\n< Cecilia >"
+                                "I think I can get in as a guest using Ganuron's\nname, so I'll support you as much as possible from\nthere.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -16593,7 +16593,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Turn off the lights, start a fire...\njust cause a commotion.\\n< Cecilia >"
+                                "Turn off the lights, start a fire... just cause a\ncommotion.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -16617,7 +16617,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Like I said before, they're wary of the\naudience seats. So if a commotion starts\nthere, their attention should be\ndiverted.\\n< Cecilia >"
+                                "Like I said before, they're wary of the audience\nseats. So if a commotion starts there, their\nattention should be diverted.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -16641,7 +16641,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "No matter what Serena's situation is, it\nshould become easier to move around.\\n< Cecilia >"
+                                "No matter what Serena's situation is, it should\nbecome easier to move around.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -16665,7 +16665,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Of course, the best scenario is for\nSerena to find the unicorn before the\nauction starts and escape on her own.\\n< Cecilia >"
+                                "Of course, the best scenario is for Serena to find\nthe unicorn before the auction starts and escape\non her own.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -16689,7 +16689,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Once the operation starts, we won't be\nable to communicate with each other.\nI'll escape on my own, so if things are\ngoing well behind the scenes, don't\nworry about me.\\n< Cecilia >"
+                                "Once the operation starts, we won't be able to\ncommunicate with each other. I'll escape on my\nown, so if things are going well behind the\nscenes, don't worry about me.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -16737,7 +16737,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Just... if things haven't gone well.\nLike if you're completely restrained and\nput up for auction...\\n< Cecilia >"
+                                "Just... if things haven't gone well. Like if\nyou're completely restrained and put up for\nauction...\\n< Cecilia >"
                             ]
                         },
                         {
@@ -16761,7 +16761,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Then I'll cause a disturbance and throw\na ring onto the auction stage amidst the\nchaos.\\n< Cecilia >"
+                                "Then I'll cause a disturbance and throw a ring\nonto the auction stage amidst the chaos.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -16778,7 +16778,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "It'll be tough, but somehow pick it up\nand equip it, then head straight for\nunicorn-chan.\\n< Cecilia >"
+                                "It'll be tough, but somehow pick it up and equip\nit, then head straight for unicorn-chan.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -16802,7 +16802,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Got it? Straight ahead. We probably\nwon't be able to afford any hesitation.\nSo make sure you confirm unicorn-chan's\nlocation beforehand.\\n< Cecilia >"
+                                "Got it? Straight ahead. We probably won't be able\nto afford any hesitation. So make sure you confirm\nunicorn-chan's location beforehand.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -17108,7 +17108,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "It's been a long journey. It really took\na long time to get here.\\n< Serena >"
+                                "It's been a long journey. It really took a long\ntime to get here.\\n< Serena >"
                             ]
                         },
                         {
@@ -17142,7 +17142,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Whether things will go as planned...\nEven if they do...\\n< Serena >"
+                                "Whether things will go as planned... Even if they\ndo...\\n< Serena >"
                             ]
                         },
                         {
@@ -17166,7 +17166,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "No, at this point, all that's left is to\ntake action.\\n< Serena >"
+                                "No, at this point, all that's left is to take\naction.\\n< Serena >"
                             ]
                         },
                         {
@@ -17183,7 +17183,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Let's go to the guild. It's time to\naccept the final request.\\n< Serena >"
+                                "Let's go to the guild. It's time to accept the\nfinal request.\\n< Serena >"
                             ]
                         },
                         {
@@ -17227,7 +17227,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Right. Talk to me when you're ready. I\nthink it's going to be a big battle, so\nmake sure to buy some medicine and\nstuff.\\n< Cecilia >"
+                                "Right. Talk to me when you're ready. I think it's\ngoing to be a big battle, so make sure to buy some\nmedicine and stuff.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -17292,7 +17292,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hey, it's hard to talk when you're over\nthere. If you have something to say,\ncome over here.\\n< Cecilia >"
+                                "Hey, it's hard to talk when you're over there. If\nyou have something to say, come over here.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -17476,21 +17476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "というわけだが、シシリア殿。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一緒に食事など如何であろうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "That being said, Cecilia. How about joining me for\na meal?\\n< Serena >"
                             ]
                         },
                         {
@@ -17521,14 +17507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "というわけだが……じゃないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "That being said... No, that's not it.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -17559,21 +17538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何あんた？アタシなんかを誘うってことは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "友達、居ないの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "What's with you? Inviting someone like me, do you\nnot have any friends?\\n< Cecilia >"
                             ]
                         },
                         {
@@ -17634,14 +17599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐっ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "Gah...\\n< Serena >"
                             ]
                         },
                         {
@@ -17672,21 +17630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シシリア殿の口から発する音は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の心にとても…響く……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "The sounds that come from Cecilia's mouth... they\nresonate deeply... in my heart...\\n< Serena >"
                             ]
                         },
                         {
@@ -17703,21 +17647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やはり友を作ることは容易ではないのだな…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スプレンドール…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "It seems making friends is not as easy as one\nwould think... Splendid...\\n< Serena >"
                             ]
                         },
                         {
@@ -17748,21 +17678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかしジビエ…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ガヌロンから聞いたことある名前…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "But Gibier...? I've heard that name from Ganuron\nbefore...\\n< Cecilia >"
                             ]
                         },
                         {
@@ -17779,14 +17695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "...\\n< Cecilia >"
                             ]
                         },
                         {
@@ -17810,21 +17719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まぁ飯代が浮くし、良いよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オ・ト・モ・ダ・チ、になってあげるわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<シシリア>"
+                                "Well, it'll save me money on food, so fine. I'll\nbe your F.R.I.E.N.D.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -17887,14 +17782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その寛大な御心…感謝…する……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\n<セレナ>"
+                                "I am grateful... for your generous heart...\\n< Serena >"
                             ]
                         },
                         {
@@ -18793,7 +18681,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Wow... your belly is so big... Does it\nhurt? Wow...\\n< Child >"
+                                "Wow... your belly is so big... Does it hurt?\nWow...\\n< Child >"
                             ]
                         },
                         {
@@ -18914,7 +18802,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Clothes are a gift from God, so we have\nto take really good care of them or we\ncan't go to heaven.\\n< Child >"
+                                "Clothes are a gift from God, so we have to take\nreally good care of them or we can't go to heaven.\\n< Child >"
                             ]
                         },
                         {
@@ -18990,7 +18878,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I can make my belly big too, watch.\nMmph... mmm...!\\n< Child >"
+                                "I can make my belly big too, watch. Mmph...\nmmm...!\\n< Child >"
                             ]
                         },
                         {
@@ -19441,7 +19329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hmm... I can't seem to find Cecilia-sama\nanywhere.\\n< Serena >"
+                                "Hmm... I can't seem to find Cecilia-sama anywhere.\\n< Serena >"
                             ]
                         },
                         {
@@ -19465,7 +19353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...I can't think of anywhere else\nCecilia-sama could be, perhaps it would\nbe best to try again another day.\\n< Serena >"
+                                "...I can't think of anywhere else Cecilia-sama\ncould be, perhaps it would be best to try again\nanother day.\\n< Serena >"
                             ]
                         },
                         {
@@ -19482,7 +19370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I should take care to not lose my money,\nI'll keep it safe.\\n< Serena >"
+                                "I should take care to not lose my money, I'll keep\nit safe.\\n< Serena >"
                             ]
                         },
                         {
@@ -20169,7 +20057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What do you want, coming to a place like\nthis?\\n< Serena >"
+                                "What do you want, coming to a place like this?\\n< Serena >"
                             ]
                         },
                         {
@@ -20194,7 +20082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm here on my old man's errand today.\nIt's not Serena I need to see, but\nCecilia.\\n< Burdan >"
+                                "I'm here on my old man's errand today. It's not\nSerena I need to see, but Cecilia.\\n< Burdan >"
                             ]
                         },
                         {
@@ -20244,7 +20132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah, it's just a collection. Don't glare\nat me like that.\\n< Burdan >"
+                                "Ah, it's just a collection. Don't glare at me like\nthat.\\n< Burdan >"
                             ]
                         },
                         {
@@ -20294,7 +20182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I mean, I'm the one who's surprised\nhere. I had no idea Cecilia and Serena\nknew each other.\\n< Burdan >"
+                                "I mean, I'm the one who's surprised here. I had no\nidea Cecilia and Serena knew each other.\\n< Burdan >"
                             ]
                         },
                         {
@@ -20312,7 +20200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "She's not exactly the best sort of\nwoman, you know? I wouldn't really\nrecommend being friends with her.\\n< Burdan >"
+                                "She's not exactly the best sort of woman, you\nknow? I wouldn't really recommend being friends\nwith her.\\n< Burdan >"
                             ]
                         },
                         {
@@ -20336,7 +20224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lady Cecilia probably wouldn't want to\nhear that from you of all people.\\n< Serena >"
+                                "Lady Cecilia probably wouldn't want to hear that\nfrom you of all people.\\n< Serena >"
                             ]
                         },
                         {
@@ -20562,7 +20450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oops, sorry for intruding, Sister\nCecilia.\\n< Burdan >"
+                                "Oops, sorry for intruding, Sister Cecilia.\\n< Burdan >"
                             ]
                         },
                         {
@@ -20649,7 +20537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...For now, just go home. Come back\nlater, please.\\n< Cecilia >"
+                                "...For now, just go home. Come back later, please.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -21122,7 +21010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yes, this is the amount we were short\nlast time.\\n< Cecilia >"
+                                "Yes, this is the amount we were short last time.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -21218,7 +21106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hold on a sec. Aren't you forgetting\nsomething?\\n< Burdan >"
+                                "Hold on a sec. Aren't you forgetting something?\\n< Burdan >"
                             ]
                         },
                         {
@@ -21243,7 +21131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Like a token of gratitude for me\ncovering for the late payment?\\n< Burdan >"
+                                "Like a token of gratitude for me covering for the\nlate payment?\\n< Burdan >"
                             ]
                         },
                         {
@@ -21307,7 +21195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Everyone's at the church upstairs today,\nright? Perfect timing, huh?\\n< Burdan >"
+                                "Everyone's at the church upstairs today, right?\nPerfect timing, huh?\\n< Burdan >"
                             ]
                         },
                         {
@@ -21697,7 +21585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hahaha, as always, you're in such good\nshape...!\\n< Burdan >"
+                                "Hahaha, as always, you're in such good shape...!\\n< Burdan >"
                             ]
                         },
                         {
@@ -21795,7 +21683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But I gotta hand it to you, sis.\nDepositing such an amount to the old man\nevery single week.\\n< Burdan >"
+                                "But I gotta hand it to you, sis. Depositing such\nan amount to the old man every single week.\\n< Burdan >"
                             ]
                         },
                         {
@@ -21813,7 +21701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "On top of that, gathering and reporting\nall the information about the town.\\n< Burdan >"
+                                "On top of that, gathering and reporting all the\ninformation about the town.\\n< Burdan >"
                             ]
                         },
                         {
@@ -21831,7 +21719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "And then you're also earning and saving\nup separately to buy your freedom,\nright?\\n< Burdan >"
+                                "And then you're also earning and saving up\nseparately to buy your freedom, right?\\n< Burdan >"
                             ]
                         },
                         {
@@ -21849,7 +21737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's amazing how your body keeps up with\nall this... so...\\n< Burdan >"
+                                "It's amazing how your body keeps up with all\nthis... so...\\n< Burdan >"
                             ]
                         },
                         {
@@ -21925,7 +21813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Because of your hard life, you're always\nso tight, heh! Is that okay with you?!\\n< Burdan >"
+                                "Because of your hard life, you're always so tight,\nheh! Is that okay with you?!\\n< Burdan >"
                             ]
                         },
                         {
@@ -21943,7 +21831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Different from the other girls! You\nhaven't given up on freedom, have you\nnow?!\\n< Burdan >"
+                                "Different from the other girls! You haven't given\nup on freedom, have you now?!\\n< Burdan >"
                             ]
                         },
                         {
@@ -22037,7 +21925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hahaha, I just can't get enough of that\ncomposed face of yours.\\n< Burdan >"
+                                "Hahaha, I just can't get enough of that composed\nface of yours.\\n< Burdan >"
                             ]
                         },
                         {
@@ -22055,7 +21943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You look just like your sister. Oh wait,\nyou're not actually related by blood,\nare you?\\n< Burdan >"
+                                "You look just like your sister. Oh wait, you're\nnot actually related by blood, are you?\\n< Burdan >"
                             ]
                         },
                         {
@@ -22131,7 +22019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I've been taken care of by her quite a\nfew times too...\\n< Burdan >"
+                                "I've been taken care of by her quite a few times\ntoo...\\n< Burdan >"
                             ]
                         },
                         {
@@ -22149,7 +22037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "As a son, I always feel sorry for my\nfather's atrocities, you know?\\n< Burdan >"
+                                "As a son, I always feel sorry for my father's\natrocities, you know?\\n< Burdan >"
                             ]
                         },
                         {
@@ -22243,7 +22131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I have to bring up your sister's story\nto get your attention, huh?\\n< Burdan >"
+                                "I have to bring up your sister's story to get your\nattention, huh?\\n< Burdan >"
                             ]
                         },
                         {
@@ -22301,7 +22189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Really, both father and son are beyond\nredemption.\\n< Cecilia >"
+                                "Really, both father and son are beyond redemption.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -22319,7 +22207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hey hey, I'm giving you a much better\ntime than my father's torture sex,\naren't I?\\n< Burdan >"
+                                "Hey hey, I'm giving you a much better time than my\nfather's torture sex, aren't I?\\n< Burdan >"
                             ]
                         },
                         {
@@ -22337,7 +22225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm actually putting in a lot of effort\nhere, you know? Trying out different\nexperiences and stuff.\\n< Burdan >"
+                                "I'm actually putting in a lot of effort here, you\nknow? Trying out different experiences and stuff.\\n< Burdan >"
                             ]
                         },
                         {
@@ -22355,7 +22243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Proof of that is how much longer I can\nlast now compared to before, right?\\n< Burdan >"
+                                "Proof of that is how much longer I can last now\ncompared to before, right?\\n< Burdan >"
                             ]
                         },
                         {
@@ -22431,7 +22319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ha... I just want you to enjoy sex with\nme more, that's all.\\n< Burdan >"
+                                "Ha... I just want you to enjoy sex with me more,\nthat's all.\\n< Burdan >"
                             ]
                         },
                         {
@@ -22525,7 +22413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah, I'm about to come. I'm going to\nrelease it inside.\\n< Burdan >"
+                                "Ah, I'm about to come. I'm going to release it\ninside.\\n< Burdan >"
                             ]
                         },
                         {
@@ -22601,7 +22489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's fine inside, right? After all,\nyou're a 'barren woman' anyway.\\n< Burdan >"
+                                "It's fine inside, right? After all, you're a\n'barren woman' anyway.\\n< Burdan >"
                             ]
                         },
                         {
@@ -22677,7 +22565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hahaha, that's right. You're about the\nonly one who my father's demonic seed\ndoesn't take root in.\\n< Burdan >"
+                                "Hahaha, that's right. You're about the only one\nwho my father's demonic seed doesn't take root in.\\n< Burdan >"
                             ]
                         },
                         {
@@ -22753,7 +22641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hey, how many times have you actually\naborted one of my siblings?\\n< Burdan >"
+                                "Hey, how many times have you actually aborted one\nof my siblings?\\n< Burdan >"
                             ]
                         },
                         {
@@ -22789,7 +22677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I have something like family love,\nunlike that demon of a man.\\n< Burdan >"
+                                "I have something like family love, unlike that\ndemon of a man.\\n< Burdan >"
                             ]
                         },
                         {
@@ -22807,7 +22695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If I come inside you now and you get\npregnant...\\n< Burdan >"
+                                "If I come inside you now and you get pregnant...\\n< Burdan >"
                             ]
                         },
                         {
@@ -22825,7 +22713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Thinking that baby would just be aborted\nmakes me feel sick.\\n< Burdan >"
+                                "Thinking that baby would just be aborted makes me\nfeel sick.\\n< Burdan >"
                             ]
                         },
                         {
@@ -22843,7 +22731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Or would that make me a criminal too?\nI'm not sure about the law or the Bible\nor anything!\\n< Burdan >"
+                                "Or would that make me a criminal too? I'm not sure\nabout the law or the Bible or anything!\\n< Burdan >"
                             ]
                         },
                         {
@@ -22919,7 +22807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Huh-? Or maybe... if it's my child, not\nmy father's, you'd give birth to it?\\n< Burdan >"
+                                "Huh-? Or maybe... if it's my child, not my\nfather's, you'd give birth to it?\\n< Burdan >"
                             ]
                         },
                         {
@@ -22937,7 +22825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I mean, no one would want to carry the\nchild of the man who fucked their sister\nto death, right?!\\n< Burdan >"
+                                "I mean, no one would want to carry the child of\nthe man who fucked their sister to death, right?!\\n< Burdan >"
                             ]
                         },
                         {
@@ -23082,7 +22970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You just want what belongs to others...\nThat's all. Ngh! You just want to catch\nyour parent's attention, right?\\n< Cecilia >"
+                                "You just want what belongs to others... That's\nall. Ngh! You just want to catch your parent's\nattention, right?\\n< Cecilia >"
                             ]
                         },
                         {
@@ -23158,7 +23046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You want to be loved by your father,\ndon't you? That's why you're desperately\ntrying to get his attention.\\n< Cecilia >"
+                                "You want to be loved by your father, don't you?\nThat's why you're desperately trying to get his\nattention.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -23234,7 +23122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's pathetic, isn't it? Your methods\nare utterly worthless.\\n< Cecilia >"
+                                "It's pathetic, isn't it? Your methods are utterly\nworthless.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -23252,7 +23140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's the result of poor parenting,\nright? You don't know how to love or be\nloved.\\n< Cecilia >"
+                                "That's the result of poor parenting, right? You\ndon't know how to love or be loved.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -23328,7 +23216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If you really didn't care about your\nfather as much as you say... you should\njust run away from this town right now.\\n< Cecilia >"
+                                "If you really didn't care about your father as\nmuch as you say... you should just run away from\nthis town right now.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -23363,7 +23251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But you're scared, aren't you... Ngh...!\nScared of what you'll do if he doesn't\ncome after you.\\n< Cecilia >"
+                                "But you're scared, aren't you... Ngh...! Scared of\nwhat you'll do if he doesn't come after you.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -23380,7 +23268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Scared of being told you're... ngh...\nworthless.\\n< Cecilia >"
+                                "Scared of being told you're... ngh... worthless.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -23437,7 +23325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But too bad... he's not interested in\nsomeone like you. Ngh.\\n< Cecilia >"
+                                "But too bad... he's not interested in someone like\nyou. Ngh.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -23494,7 +23382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If you run away, he'll just think 'oh\nwell' and that'll be the end of it.\nHehe... You know that, don't you?\\n< Cecilia >"
+                                "If you run away, he'll just think 'oh well' and\nthat'll be the end of it. Hehe... You know that,\ndon't you?\\n< Cecilia >"
                             ]
                         },
                         {
@@ -23511,7 +23399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You know it and yet you still want him\nto care about you. To love you... Ngh.\\n< Cecilia >"
+                                "You know it and yet you still want him to care\nabout you. To love you... Ngh.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -23568,7 +23456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ahh, is that why you do such things?\nClinging to your father's woman,\ndesperately thrusting your hips.\\n< Cecilia >"
+                                "Ahh, is that why you do such things? Clinging to\nyour father's woman, desperately thrusting your\nhips.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -23626,7 +23514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's miserable but thinking about it\nmakes you seem a bit cute, doesn't it?\\n< Cecilia >"
+                                "It's miserable but thinking about it makes you\nseem a bit cute, doesn't it?\\n< Cecilia >"
                             ]
                         },
                         {
@@ -23644,7 +23532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Damn... That bastard...! Love? Wanting\nto be cared for...!?\\n< Burdan >"
+                                "Damn... That bastard...! Love? Wanting to be cared\nfor...!?\\n< Burdan >"
                             ]
                         },
                         {
@@ -23742,7 +23630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A rotten woman who kills kids! Don't act\nlike you know everything!\\n< Burdan >"
+                                "A rotten woman who kills kids! Don't act like you\nknow everything!\\n< Burdan >"
                             ]
                         },
                         {
@@ -23760,7 +23648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "In the first place, do you think you\nhave any right to talk about family?!\nHuh!?\\n< Burdan >"
+                                "In the first place, do you think you have any\nright to talk about family?! Huh!?\\n< Burdan >"
                             ]
                         },
                         {
@@ -23777,7 +23665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A fiend who has killed innocent babies\nover and over again!\\n< Burdan >"
+                                "A fiend who has killed innocent babies over and\nover again!\\n< Burdan >"
                             ]
                         },
                         {
@@ -23795,7 +23683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "How many more chances do you have left\nfor an abortion?! Two? One?\\n< Burdan >"
+                                "How many more chances do you have left for an\nabortion?! Two? One?\\n< Burdan >"
                             ]
                         },
                         {
@@ -23813,7 +23701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If I get you pregnant with my child,\nI'll make sure that pussy of yours\nbecomes nothing more than a useless\ntoilet hole!\\n< Burdan >"
+                                "If I get you pregnant with my child, I'll make\nsure that pussy of yours becomes nothing more than\na useless toilet hole!\\n< Burdan >"
                             ]
                         },
                         {
@@ -24107,7 +23995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Damn, Ceci, you're too much. Don't\nget me so excited.\\n< Burdan >"
+                                "...Damn, Ceci, you're too much. Don't get me so\nexcited.\\n< Burdan >"
                             ]
                         },
                         {
@@ -24125,7 +24013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well, thanks to that I got pretty fired\nup. Out of all dad's women, you're\ndefinitely the best.\\n< Burdan >"
+                                "Well, thanks to that I got pretty fired up. Out of\nall dad's women, you're definitely the best.\\n< Burdan >"
                             ]
                         },
                         {
@@ -24183,7 +24071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Is that so. I'm glad you're satisfied\nthen.\\n< Cecilia >"
+                                "...Is that so. I'm glad you're satisfied then.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -24215,7 +24103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Well, I should be heading back soon.\nI've been pretty busy lately.\\n< Burdan >"
+                                "...Well, I should be heading back soon. I've been\npretty busy lately.\\n< Burdan >"
                             ]
                         },
                         {
@@ -24240,7 +24128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It'd be nice if those shackles on your\narms could come off, huh?\\n< Burdan >"
+                                "It'd be nice if those shackles on your arms could\ncome off, huh?\\n< Burdan >"
                             ]
                         },
                         {
@@ -24721,7 +24609,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "When the report is ready, I'll call for\nyou. There's no need for you to come\ncheck on me every single time.\\n< Cecilia >"
+                                "When the report is ready, I'll call for you.\nThere's no need for you to come check on me every\nsingle time.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -24748,7 +24636,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Just because you show your face here\noften doesn't mean I'll lower the price.\\n< Cecilia >"
+                                "Just because you show your face here often doesn't\nmean I'll lower the price.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -24807,7 +24695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I simply wanted to calm my spirit...\nThis town is the only place within my\nreach where I can pray in peace.\\n< Serena >"
+                                "I simply wanted to calm my spirit... This town is\nthe only place within my reach where I can pray in\npeace.\\n< Serena >"
                             ]
                         },
                         {
@@ -24832,7 +24720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Is that so? Normally, it's noisy with\nall the brats and their shrill voices.\\n< Cecilia >"
+                                "Is that so? Normally, it's noisy with all the\nbrats and their shrill voices.\\n< Cecilia >"
                             ]
                         },
                         {
@@ -24856,7 +24744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well, that's fine too. The innocent\nvoices devoid of malice sometimes feel\nunbearably precious.\\n< Serena >"
+                                "Well, that's fine too. The innocent voices devoid\nof malice sometimes feel unbearably precious.\\n< Serena >"
                             ]
                         },
                         {
@@ -25057,7 +24945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There are Bibles and picture books lined\nup.\\n< Serena >"
+                                "There are Bibles and picture books lined up.\\n< Serena >"
                             ]
                         },
                         {
@@ -25186,7 +25074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There are picture books lined up. They\nall seem old and worn out.\\n< Serena >"
+                                "There are picture books lined up. They all seem\nold and worn out.\\n< Serena >"
                             ]
                         },
                         {
@@ -25315,7 +25203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "She must offer prayers here morning and\nevening.\\n< Serena >"
+                                "She must offer prayers here morning and evening.\\n< Serena >"
                             ]
                         },
                         {
@@ -25444,7 +25332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sacrificing itself to illuminate the\nsurroundings. It's a symbol of a saint.\\n< Serena >"
+                                "Sacrificing itself to illuminate the surroundings.\nIt's a symbol of a saint.\\n< Serena >"
                             ]
                         },
                         {
@@ -25573,7 +25461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sacrificing itself to illuminate the\nsurroundings. A symbol of a saint.\\n< Serena >"
+                                "Sacrificing itself to illuminate the surroundings.\nA symbol of a saint.\\n< Serena >"
                             ]
                         },
                         {
@@ -25702,7 +25590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There seem to be books on it, but it's\ntoo high for children to reach. Perhaps\nimportant documents are kept up there.\\n< Serena >"
+                                "There seem to be books on it, but it's too high\nfor children to reach. Perhaps important documents\nare kept up there.\\n< Serena >"
                             ]
                         },
                         {
@@ -25831,7 +25719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It seems to be well-maintained and\ncarefully used.\\n< Serena >"
+                                "It seems to be well-maintained and carefully used.\\n< Serena >"
                             ]
                         },
                         {
@@ -25960,7 +25848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I wonder if Sister is preparing the\nmeals by herself every time. It must be\na lot of work...\\n< Serena >"
+                                "I wonder if Sister is preparing the meals by\nherself every time. It must be a lot of work...\\n< Serena >"
                             ]
                         },
                         {
@@ -26089,7 +25977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "All the dishes are either cracked or\nchipped.\\n< Serena >"
+                                "All the dishes are either cracked or chipped.\\n< Serena >"
                             ]
                         },
                         {
@@ -26218,7 +26106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There are a lot of wooden plates. They\nwon't break easily, even if handled\nroughly.\\n< Serena >"
+                                "There are a lot of wooden plates. They won't break\neasily, even if handled roughly.\\n< Serena >"
                             ]
                         },
                         {
@@ -27638,7 +27526,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I'm so jealous! One day I'll eat as much\nas that too!\\n< Child >"
+                                "I'm so jealous! One day I'll eat as much as that\ntoo!\\n< Child >"
                             ]
                         },
                         {

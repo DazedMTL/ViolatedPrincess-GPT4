@@ -3582,7 +3582,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "You seem to be having a hard time with\nthat big belly. Is there some sort of\nstory behind it?\\n< Shopkeeper >"
+                                "You seem to be having a hard time with that big\nbelly. Is there some sort of story behind it?\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -3632,7 +3632,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Now that I think about it, am I allowed\nto stay out overnight? No one said I\ncouldn't, but...\\n< Serena >"
+                                "Now that I think about it, am I allowed to stay\nout overnight? No one said I couldn't, but...\\n< Serena >"
                             ]
                         },
                         {
@@ -3656,7 +3656,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Tch, what am I thinking about such\npointless things for. How I handle\nmyself is my own business.\\n< Serena >"
+                                "Tch, what am I thinking about such pointless\nthings for. How I handle myself is my own\nbusiness.\\n< Serena >"
                             ]
                         },
                         {
@@ -3803,7 +3803,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "This inn really rents out rooms for just\n10S a night?\\n< Serena >"
+                                "This inn really rents out rooms for just 10S a\nnight?\\n< Serena >"
                             ]
                         },
                         {
@@ -3827,7 +3827,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Of course. Our sign doesn't lie. It's\njust 10S for one night, no more.\\n< Shopkeeper >"
+                                "Of course. Our sign doesn't lie. It's just 10S for\none night, no more.\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -3851,7 +3851,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "For 10S, at least I can sleep in peace\nfor one night. Not that there aren't\ncomplaints about the inn's condition,\nbut it's somewhat better than sleeping\nout there.\\n< Serena >"
+                                "For 10S, at least I can sleep in peace for one\nnight. Not that there aren't complaints about the\ninn's condition, but it's somewhat better than\nsleeping out there.\\n< Serena >"
                             ]
                         },
                         {
@@ -3875,7 +3875,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "I don't know what they'll say\ntomorrow... Bah, what do I care.\\n< Serena >"
+                                "I don't know what they'll say tomorrow... Bah,\nwhat do I care.\\n< Serena >"
                             ]
                         },
                         {
@@ -3892,7 +3892,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Here's 10S. I'd like to stay for the\nnight.\\n< Serena >"
+                                "Here's 10S. I'd like to stay for the night.\\n< Serena >"
                             ]
                         },
                         {
@@ -3926,7 +3926,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "The sign outside... it said \"10 Silver\nfor one night\"... Is it really true that\nyou'll rent me a room for just 10S?\\n< Serena >"
+                                "The sign outside... it said \"10 Silver for one\nnight\"... Is it really true that you'll rent me a\nroom for just 10S?\\n< Serena >"
                             ]
                         },
                         {
@@ -3950,7 +3950,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "That's right. Like I said, our sign\ntells no lies. It's just 10S for one\nnight.\\n< Shopkeeper >"
+                                "That's right. Like I said, our sign tells no lies.\nIt's just 10S for one night.\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -3998,7 +3998,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "As you can see, it's a shabby little\nplace.\\n< Shopkeeper >"
+                                "As you can see, it's a shabby little place.\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -4015,7 +4015,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "It keeps out the rain and wind... well,\nsometimes it doesn't. But let's just\ncall the leaks and drafts part of its\ncharm...\\n< Shopkeeper >"
+                                "It keeps out the rain and wind... well, sometimes\nit doesn't. But let's just call the leaks and\ndrafts part of its charm...\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -4101,7 +4101,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Hehe, thanks for your business. That\nroom over there is available.\\n< Shopkeeper >"
+                                "Hehe, thanks for your business. That room over\nthere is available.\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -4125,7 +4125,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "By the way, do you like herbal tea, dear\ncustomer?\\n< Shopkeeper >"
+                                "By the way, do you like herbal tea, dear customer?\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -4173,7 +4173,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Then I'll bring some over later. Our tea\nis famous for helping people fall\nasleep...\\n< Shopkeeper >"
+                                "Then I'll bring some over later. Our tea is famous\nfor helping people fall asleep...\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -4269,7 +4269,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "I see... Well, if you're offering... out\nof politeness... I might take a sip...\\n< Serena >"
+                                "I see... Well, if you're offering... out of\npoliteness... I might take a sip...\\n< Serena >"
                             ]
                         },
                         {
@@ -4293,7 +4293,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Heh heh heh. Then I'll make yours extra\nstrong.\\n< Shopkeeper >"
+                                "Heh heh heh. Then I'll make yours extra strong.\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -4379,7 +4379,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Thanks again. I'll come by later with\nthe tea that helps you sleep.\\n< Vincent >"
+                                "Thanks again. I'll come by later with the tea that\nhelps you sleep.\\n< Vincent >"
                             ]
                         },
                         {
@@ -5070,7 +5070,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n< Serena >Ahhh! I-I can't go outside dressed like\nthis!"
+                                "\\n< Serena >Ahhh! I-I can't go outside dressed like this!"
                             ]
                         },
                         {
@@ -5171,7 +5171,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "...To be seen by people in this\noutfit...ugh...\\n< Serena >"
+                                "...To be seen by people in this outfit...ugh...\\n< Serena >"
                             ]
                         },
                         {
@@ -5349,7 +5349,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n< Serena >Ahhh! I-I can't go outside dressed like\nthis!"
+                                "\\n< Serena >Ahhh! I-I can't go outside dressed like this!"
                             ]
                         },
                         {
@@ -5425,7 +5425,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\n< Serena >Isn't this showing a bit too much skin?\nI can't go out in public like this."
+                                "\\n< Serena >Isn't this showing a bit too much skin? I can't go\nout in public like this."
                             ]
                         },
                         {
@@ -5519,7 +5519,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "...At least wear some underwear. I'm not\nan animal, after all.\\n< Serena >"
+                                "...At least wear some underwear. I'm not an\nanimal, after all.\\n< Serena >"
                             ]
                         },
                         {
@@ -5774,7 +5774,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I can't use a private room without\npaying for it.\\n< Serena >"
+                                "I can't use a private room without paying for it.\\n< Serena >"
                             ]
                         },
                         {
@@ -6160,7 +6160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No, no, I'm just happy that you\nremembered my name...\\n< Vincent >"
+                                "No, no, I'm just happy that you remembered my\nname...\\n< Vincent >"
                             ]
                         },
                         {
@@ -6191,7 +6191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Is that so? I have a good memory. Once I\nhear a name...\\n< Serena >"
+                                "Is that so? I have a good memory. Once I hear a\nname...\\n< Serena >"
                             ]
                         },
                         {
@@ -6239,7 +6239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehehe, I look forward to your next\nvisit.\\n< Vincent >"
+                                "Hehehe, I look forward to your next visit.\\n< Vincent >"
                             ]
                         },
                         {
@@ -6263,7 +6263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "???... Uh... Mm. Ah, then I shall take\nmy leave.\\n< Serena >"
+                                "???... Uh... Mm. Ah, then I shall take my leave.\\n< Serena >"
                             ]
                         },
                         {
@@ -6770,7 +6770,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Honestly, I can't say it was\ncomfortable. But considering the price,\nI have no complaints.\\n< Serena >"
+                                "Honestly, I can't say it was comfortable. But\nconsidering the price, I have no complaints.\\n< Serena >"
                             ]
                         },
                         {
@@ -6812,7 +6812,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I look forward to your patronage\nagain... hehehe.\\n< Vincent >"
+                                "I look forward to your patronage again... hehehe.\\n< Vincent >"
                             ]
                         },
                         {
@@ -7090,7 +7090,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Is that so. Well then, I'll be looking\nforward to your patronage again.\\n< Vincent >"
+                                "Is that so. Well then, I'll be looking forward to\nyour patronage again.\\n< Vincent >"
                             ]
                         },
                         {
@@ -7316,7 +7316,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...May the grace of God... be with\nyou...\\n< Serena >"
+                                "...May the grace of God... be with you...\\n< Serena >"
                             ]
                         },
                         {
@@ -7503,7 +7503,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "In that case, maybe you should take the\nday off from work today...?\\n< Vincent >"
+                                "In that case, maybe you should take the day off\nfrom work today...?\\n< Vincent >"
                             ]
                         },
                         {
@@ -7544,7 +7544,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Is that so. Well then, I'll be waiting\nfor your patronage again... hehehe.\\n< Vincent >"
+                                "Is that so. Well then, I'll be waiting for your\npatronage again... hehehe.\\n< Vincent >"
                             ]
                         },
                         {
@@ -7753,7 +7753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There's a hole... Could it be that\nsomeone can see us from the next room\nthrough this?\\n< Serena >"
+                                "There's a hole... Could it be that someone can see\nus from the next room through this?\\n< Serena >"
                             ]
                         },
                         {
@@ -8419,7 +8419,7 @@
                                 [
                                     "Change hairstyle",
                                     "Change clothes",
-                                    "Check underwearen(v[123]>=1)",
+                                    "en(v[123]>=1)Check underwear",
                                     "Stop"
                                 ],
                                 3,
@@ -8676,7 +8676,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Ugh, my crotch area feels so...tingly.\nTo have to walk outside dressed like\nthis...\\n< Serena >"
+                                "Ugh, my crotch area feels so...tingly. To have to\nwalk outside dressed like this...\\n< Serena >"
                             ]
                         },
                         {
@@ -8700,7 +8700,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "But if I don't, something terrible will\nhappen again... I hate it. It's\nembarrassing... I don't want this...\\n< Serena >"
+                                "But if I don't, something terrible will happen\nagain... I hate it. It's embarrassing... I don't\nwant this...\\n< Serena >"
                             ]
                         },
                         {
@@ -8745,7 +8745,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "...Would it be okay to wear panties? If\nthey find out, the city guards will...do\nterrible things to me again...\\n< Serena >"
+                                "...Would it be okay to wear panties? If they find\nout, the city guards will...do terrible things to\nme again...\\n< Serena >"
                             ]
                         },
                         {
@@ -8780,7 +8780,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "It's okay... As long as I don't get\ncaught, it's okay. I'll make sure to\nstay away from those guys...\\n< Serena >"
+                                "It's okay... As long as I don't get caught, it's\nokay. I'll make sure to stay away from those\nguys...\\n< Serena >"
                             ]
                         },
                         {
@@ -8846,7 +8846,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Wh-why am I not wearing panties?! It's\nunthinkable to go outside in such an\nembarrassing state!\\n< Serena >"
+                                "Wh-why am I not wearing panties?! It's unthinkable\nto go outside in such an embarrassing state!\\n< Serena >"
                             ]
                         },
                         {
@@ -8891,7 +8891,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "...It's fine. There doesn't seem to be\nany tears or anything.\\n< Serena >"
+                                "...It's fine. There doesn't seem to be any tears\nor anything.\\n< Serena >"
                             ]
                         },
                         {
@@ -8924,7 +8924,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "If someone from home saw me in such a\nshameful outfit, they'd scold me... No,\nmaybe I'm not even worth that much\nanymore...\\n< Serena >"
+                                "If someone from home saw me in such a shameful\noutfit, they'd scold me... No, maybe I'm not even\nworth that much anymore...\\n< Serena >"
                             ]
                         },
                         {
@@ -8958,7 +8958,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "To be seen in such a shameful outfit by\nsomeone from home, I'd get scolded. Have\nI become a bit of a bad girl?\\n< Serena >"
+                                "To be seen in such a shameful outfit by someone\nfrom home, I'd get scolded. Have I become a bit of\na bad girl?\\n< Serena >"
                             ]
                         },
                         {
@@ -9972,7 +9972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Hehehe. There, there. The effect is\nperfect.\\n< Shopkeeper >"
+                                "...Hehehe. There, there. The effect is perfect.\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -10178,7 +10178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehehe, I can't stand it... My heart's\nracing. Just the two of us in this\ncramped room... Is this okay...?\\n< Shopkeeper >"
+                                "Hehehe, I can't stand it... My heart's racing.\nJust the two of us in this cramped room... Is this\nokay...?\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -10409,7 +10409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Such a defenseless... cute sleeping\nface. Even your breathing is cute...\nhehe.\\n< Shopkeeper >"
+                                "Such a defenseless... cute sleeping face. Even\nyour breathing is cute... hehe.\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -10563,7 +10563,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "But what's been on my mind since\nearlier...\\n< Shopkeeper >"
+                                "But what's been on my mind since earlier...\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -10580,7 +10580,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "With a face like a doll's, and then\nthere's this plump, unsightly belly...\\n< Shopkeeper >"
+                                "With a face like a doll's, and then there's this\nplump, unsightly belly...\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -10710,7 +10710,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ohoho, amazing, amazing. Such a small\nbody, and yet you're carrying a baby in\nthat cute belly...\\n< Shopkeeper >"
+                                "Ohoho, amazing, amazing. Such a small body, and\nyet you're carrying a baby in that cute belly...\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -10754,7 +10754,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Now then, shall we take a look at the\ntreasure...?\\n< Shopkeeper >"
+                                "Now then, shall we take a look at the treasure...?\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -10895,7 +10895,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Hehe, what a beautiful little girl's\nnipples. A light pink color... Delicious\nlooking...!\\n< Shopkeeper >"
+                                "Hehe, what a beautiful little girl's nipples. A\nlight pink color... Delicious looking...!\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -10933,7 +10933,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Hmm? They're a bit dark for your age...\nHave you been playing with them\nyourself...? Such lewd nipples...\\n< Shopkeeper >"
+                                "Hmm? They're a bit dark for your age... Have you\nbeen playing with them yourself...? Such lewd\nnipples...\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -10971,7 +10971,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Mmm-, you've been playing with these\nnipples quite a bit, haven't you...?\nThey've completely darkened...\\n< Shopkeeper >"
+                                "Mmm-, you've been playing with these nipples quite\na bit, haven't you...? They've completely\ndarkened...\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -10988,7 +10988,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "To think you've been raising such\nnipples under that prim and proper\nface... You're a naughty girl...!\\n< Shopkeeper >"
+                                "To think you've been raising such nipples under\nthat prim and proper face... You're a naughty\ngirl...!\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -11026,7 +11026,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Oh my, such indecent slutty nipples? So\ndark and... like grapes...\\n< Shopkeeper >"
+                                "Oh my, such indecent slutty nipples? So dark\nand... like grapes...\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -11043,7 +11043,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Do you have children...? A mother... and\nnot just one or two...\\n< Shopkeeper >"
+                                "Do you have children...? A mother... and not just\none or two...\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -11060,7 +11060,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "At this age... what a bad girl... You\nneed to be punished...!\\n< Shopkeeper >"
+                                "At this age... what a bad girl... You need to be\npunished...!\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -11211,7 +11211,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hmm... This redness on your skin... It's\nnot paint. Ink...? Have you even put ink\nin there...?\\n< Shopkeeper >"
+                                "Hmm... This redness on your skin... It's not\npaint. Ink...? Have you even put ink in there...?\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -11228,7 +11228,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Playing with your own body to this\nextent... You really are a bad girl...\\n< Shopkeeper >"
+                                "Playing with your own body to this extent... You\nreally are a bad girl...\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -11348,7 +11348,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Wearing such cute accessories. Is it a\npresent from a boyfriend?\\n< Shopkeeper >"
+                                "Wearing such cute accessories. Is it a present\nfrom a boyfriend?\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -11365,7 +11365,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "If you don't moderate your\nplayfulness... A bad old man might just\ntake you for free...?\\n< Shopkeeper >"
+                                "If you don't moderate your playfulness... A bad\nold man might just take you for free...?\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -11573,7 +11573,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Nfu, nfu, so tiny and modest nipples...\nLicking them is... quite the effort...\\n< Shopkeeper >"
+                                "Nfu, nfu, so tiny and modest nipples... Licking\nthem is... quite the effort...\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -11590,7 +11590,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I'll dig them out for you...? Uncle will\nhelp them grow big...!\\n< Shopkeeper >"
+                                "I'll dig them out for you...? Uncle will help them\ngrow big...!\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -11743,7 +11743,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Haa--... Child nipples... Delicious,\ndelicious. I could suck on these\nforever... nub.\\n< Shopkeeper >"
+                                "Haa--... Child nipples... Delicious, delicious. I\ncould suck on these forever... nub.\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -11896,7 +11896,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Chupopo... mmm? The nipples are starting\nto respond... Are they getting erect\nnow...?\\n< Shopkeeper >"
+                                "Chupopo... mmm? The nipples are starting to\nrespond... Are they getting erect now...?\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -11913,7 +11913,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "For such a child... what a lewd\nnipple...! It needs to be\ndisciplined...! Must be trained...!\\n< Shopkeeper >"
+                                "For such a child... what a lewd nipple...! It\nneeds to be disciplined...! Must be trained...!\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -12066,7 +12066,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "With every lick, there's a reaction.\nYour hips are twitching and floating up,\naren't they...?\\n< Shopkeeper >"
+                                "With every lick, there's a reaction. Your hips are\ntwitching and floating up, aren't they...?\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -12083,7 +12083,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You've been developed, haven't you...?\nEven though you're so small... That's\ntough...\\n< Shopkeeper >"
+                                "You've been developed, haven't you...? Even though\nyou're so small... That's tough...\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -12187,7 +12187,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Being cute is your fault. Being full of\nopenings is your fault. Bad girls get\neaten up...\\n< Shopkeeper >"
+                                "Being cute is your fault. Being full of openings\nis your fault. Bad girls get eaten up...\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -12340,7 +12340,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Feeling it while sleeping? You're\noutdoing prostitutes... Where did you\nget trained like this...\\n< Shopkeeper >"
+                                "Feeling it while sleeping? You're outdoing\nprostitutes... Where did you get trained like\nthis...\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -12357,7 +12357,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I'm having fun though... hehe, no matter\nwhere I touch, there's a reaction...\\n< Shopkeeper >"
+                                "I'm having fun though... hehe, no matter where I\ntouch, there's a reaction...\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -12393,7 +12393,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Incredible, they're completely stiff\nnow, aren't they? You're unconscious...\nright? Is it always like this for you?\\n< Shopkeeper >"
+                                "Incredible, they're completely stiff now, aren't\nthey? You're unconscious... right? Is it always\nlike this for you?\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -12527,7 +12527,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Not waking up...? Can you have sex while\nsleeping? Maybe you have experience with\nthis?\\n< Shopkeeper >"
+                                "Not waking up...? Can you have sex while sleeping?\nMaybe you have experience with this?\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -12620,7 +12620,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "How did you get developed to this\npoint...? I'm having fun but your body\nis a mess...\\n< Shopkeeper >"
+                                "How did you get developed to this point...? I'm\nhaving fun but your body is a mess...\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -12803,7 +12803,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Even the breasts... are producing\nmilk... haha, well of course. You're a\nmother after all.\\n< Shopkeeper >"
+                                "Even the breasts... are producing milk... haha,\nwell of course. You're a mother after all.\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -12928,7 +12928,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Sorry, baby. Uncle's going to have a\nlittle taste first...\\n< Shopkeeper >"
+                                "Sorry, baby. Uncle's going to have a little taste\nfirst...\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -12955,7 +12955,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "You've had a child...? Given birth? With\nthis body? From this tiny crotch...?\\n< Shopkeeper >"
+                                "You've had a child...? Given birth? With this\nbody? From this tiny crotch...?\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -12972,7 +12972,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "So, you've been feeding this breast milk\nto... your child... and raising them?\\n< Shopkeeper >"
+                                "So, you've been feeding this breast milk to...\nyour child... and raising them?\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -13097,7 +13097,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "These precious breasts... I wonder if\nit's okay for uncle to take them for\nhimself... chubububu...!\\n< Shopkeeper >"
+                                "These precious breasts... I wonder if it's okay\nfor uncle to take them for himself...\nchubububu...!\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -13278,7 +13278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Now then... the moment you've been\nwaiting for...\\n< Shopkeeper >"
+                                "Now then... the moment you've been waiting for...\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -13492,7 +13492,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Uhhuhu, just as I thought... a tightly\nclosed child pussy...!\\n< Shopkeeper >"
+                                "Uhhuhu, just as I thought... a tightly closed\nchild pussy...!\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -13592,7 +13592,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "May I touch it a little...? Is that...\nokay~...?\\n< Shopkeeper >"
+                                "May I touch it a little...? Is that... okay~...?\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -13640,7 +13640,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ahh, it's so smooth... and there's no\nhair yet...\\n< Shopkeeper >"
+                                "Ahh, it's so smooth... and there's no hair yet...\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -13657,7 +13657,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Just like a doll... so beautiful... so\ncute...\\n< Shopkeeper >"
+                                "Just like a doll... so beautiful... so cute...\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -13674,7 +13674,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "So, how does this doll's... taste...\ncompare?\\n< Shopkeeper >"
+                                "So, how does this doll's... taste... compare?\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -13822,7 +13822,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ahh... sweet... sweet... the taste of\nhoney... I'll make sure to loosen it up\nproperly... so it doesn't hurt...\\n< Shopkeeper >"
+                                "Ahh... sweet... sweet... the taste of honey...\nI'll make sure to loosen it up properly... so it\ndoesn't hurt...\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -14109,7 +14109,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Lewd flesh is spilling out from your\nslit... Are you well-developed...? No...\\n< Shopkeeper >"
+                                "Lewd flesh is spilling out from your slit... Are\nyou well-developed...? No...\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -14126,7 +14126,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You've been playing with it, haven't\nyou? Or has it been played with? Either\nway is fine...\\n< Shopkeeper >"
+                                "You've been playing with it, haven't you? Or has\nit been played with? Either way is fine...\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -14143,7 +14143,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "If you're experienced already... there's\nno need to hold back...\\n< Shopkeeper >"
+                                "If you're experienced already... there's no need\nto hold back...\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -14330,7 +14330,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Nn. This part alone is just like an\nadult's. Have you been playing around?\nYou're a naughty girl...\\n< Shopkeeper >"
+                                "Nn. This part alone is just like an adult's. Have\nyou been playing around? You're a naughty girl...\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -14478,7 +14478,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "It's clinging to my finger. You're used\nto this. Are you looking forward to\nit...?\\n< Shopkeeper >"
+                                "It's clinging to my finger. You're used to this.\nAre you looking forward to it...?\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -14495,7 +14495,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Then I must respond to that\nexpectation...!\\n< Shopkeeper >"
+                                "Then I must respond to that expectation...!\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -14682,7 +14682,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Wow, look at these labia. How much have\nyou played at this age to get like\nthis... no...\\n< Shopkeeper >"
+                                "Wow, look at these labia. How much have you played\nat this age to get like this... no...\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -14699,7 +14699,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "No matter how much you play at this age,\nit wouldn't get like this. Rape, gang\nbangs. Have you been forcefully plowed?\\n< Shopkeeper >"
+                                "No matter how much you play at this age, it\nwouldn't get like this. Rape, gang bangs. Have you\nbeen forcefully plowed?\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -14716,7 +14716,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Born such a beauty, but with a pussy\nlike this, no one would take you in...\nmy condolences.\\n< Shopkeeper >"
+                                "Born such a beauty, but with a pussy like this, no\none would take you in... my condolences.\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -14733,7 +14733,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "At least let uncle have some fun with\nyou... let's feel good together...!\\n< Shopkeeper >"
+                                "At least let uncle have some fun with you... let's\nfeel good together...!\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -14920,7 +14920,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Wow... what a sight... the insides are\nspilling out...\\n< Shopkeeper >"
+                                "Wow... what a sight... the insides are spilling\nout...\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -14937,7 +14937,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Worse than the adventurer I screwed the\nother day. Worse than an old whore...\nthe worst I've ever seen...\\n< Shopkeeper >"
+                                "Worse than the adventurer I screwed the other day.\nWorse than an old whore... the worst I've ever\nseen...\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -14954,7 +14954,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Having birthed so many, violated by\nhundreds... a pussy that seems to have\nbeen overused throughout a lifetime...\\n< Shopkeeper >"
+                                "Having birthed so many, violated by hundreds... a\npussy that seems to have been overused throughout\na lifetime...\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -14971,7 +14971,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "And yet it belongs to such a cute, doll-\nlike girl, like you... ugh...\\n< Shopkeeper >"
+                                "And yet it belongs to such a cute, doll- like\ngirl, like you... ugh...\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -14988,7 +14988,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "This is bad... a new door of sexual\nperversion is about to open for\nuncle...!\\n< Shopkeeper >"
+                                "This is bad... a new door of sexual perversion is\nabout to open for uncle...!\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -15143,7 +15143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Haa, haa... alright, time to merge.\nLet's merge with uncle now.\\n< Shopkeeper >"
+                                "Haa, haa... alright, time to merge. Let's merge\nwith uncle now.\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -15443,7 +15443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Did I play with it too much...? If I put\nit in now... will I wake her up for\nsure...?\\n< Shopkeeper >"
+                                "Did I play with it too much...? If I put it in\nnow... will I wake her up for sure...?\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -15460,7 +15460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "With that outfit, she looks like an\nadventurer... she must be strong in a\nfight, even though she's so small... if\nshe wakes up...\\n< Shopkeeper >"
+                                "With that outfit, she looks like an adventurer...\nshe must be strong in a fight, even though she's\nso small... if she wakes up...\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -15494,7 +15494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What, there will be a next time... next\ntime...\\n< Shopkeeper >"
+                                "What, there will be a next time... next time...\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -15760,7 +15760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I can't hold back, because uncle can't\nresist this pussy...!\\n< Shopkeeper >"
+                                "I can't hold back, because uncle can't resist this\npussy...!\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -15838,7 +15838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Don't wake up...! Don't wake up...! If\nyou wake up, it'll definitely be\nrape...!\\n< Shopkeeper >"
+                                "Don't wake up...! Don't wake up...! If you wake\nup, it'll definitely be rape...!\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -15916,7 +15916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Uncle's not a rapist...! Just...\nborrowing it for a bit...!\\n< Shopkeeper >"
+                                "Uncle's not a rapist...! Just... borrowing it for\na bit...!\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -15987,7 +15987,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ugh, ugh... the warmth of a child's\nbody...! So tight...! It's\nirresistible...!\\n< Shopkeeper >"
+                                "Ugh, ugh... the warmth of a child's body...! So\ntight...! It's irresistible...!\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -16004,7 +16004,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Uncle's dick will shape it...! I'll mold\nit, mold it just for you...!\\n< Shopkeeper >"
+                                "Uncle's dick will shape it...! I'll mold it, mold\nit just for you...!\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -16049,7 +16049,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ugh, it's tight, but it goes in all the\nway...!?\\n< Shopkeeper >"
+                                "Ugh, it's tight, but it goes in all the way...!?\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -16066,7 +16066,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "What a greedy, naughty pussy this is...\nto be like this...!\\n< Shopkeeper >"
+                                "What a greedy, naughty pussy this is... to be like\nthis...!\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -16111,7 +16111,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "It swallows an adult dick all the way to\nthe base...! Slurping and clinging,\nseducing me...!\\n< Shopkeeper >"
+                                "It swallows an adult dick all the way to the\nbase...! Slurping and clinging, seducing me...!\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -16128,7 +16128,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "How many have violated you to get\nhere...! Poking around in your child's\nroom like this...!\\n< Shopkeeper >"
+                                "How many have violated you to get here...! Poking\naround in your child's room like this...!\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -16173,7 +16173,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "It slipped in so easily... You're quite\nused to being violated, aren't you...?\\n< Shopkeeper >"
+                                "It slipped in so easily... You're quite used to\nbeing violated, aren't you...?\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -16190,7 +16190,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Not just by humans? Tools and monsters\ntoo? That's what this pussy is used to,\nisn't it...!\\n< Shopkeeper >"
+                                "Not just by humans? Tools and monsters too? That's\nwhat this pussy is used to, isn't it...!\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -16252,7 +16252,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Is it because your body is small? That's\nthe privilege of youth...! This is good\nin its own way...!\\n< Shopkeeper >"
+                                "Is it because your body is small? That's the\nprivilege of youth...! This is good in its own\nway...!\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -16399,7 +16399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah, she's going to wake up, she's going\nto wake up...! I'll be found out... I'll\nbe found out...!\\n< Shopkeeper >"
+                                "Ah, she's going to wake up, she's going to wake\nup...! I'll be found out... I'll be found out...!\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -16416,7 +16416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What kind of dream are you having right\nnow, I wonder? Huh... kuh...!\\n< Shopkeeper >"
+                                "What kind of dream are you having right now, I\nwonder? Huh... kuh...!\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -16433,7 +16433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You wouldn't even 'dream' that uncle's\ndick is inside you right now, would\nyou...!\\n< Shopkeeper >"
+                                "You wouldn't even 'dream' that uncle's dick is\ninside you right now, would you...!\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -16567,7 +16567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah- No good! That voice! It's coming\nout! Uncle's going to come!\\n< Shopkeeper >"
+                                "Ah- No good! That voice! It's coming out! Uncle's\ngoing to come!\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -16872,7 +16872,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Oh, it's coming out... still coming\nout...! Filling up a pregnant belly with\nsemen...!\\n< Shopkeeper >"
+                                "Oh, it's coming out... still coming out...!\nFilling up a pregnant belly with semen...!\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -16889,7 +16889,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hehe... the one ejaculating right now is\nVincent. My name is Vincent...\\n< Vincent >"
+                                "Hehe... the one ejaculating right now is Vincent.\nMy name is Vincent...\\n< Vincent >"
                             ]
                         },
                         {
@@ -16906,7 +16906,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Vincent Vincent Vincent. Vincent,\nVincent...!\\n< Vincent >"
+                                "Vincent Vincent Vincent. Vincent, Vincent...!\\n< Vincent >"
                             ]
                         },
                         {
@@ -16923,7 +16923,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Can you feel the throbbing? Until the\nlast drop... Vincent's juice is being\npoured into you right now...!\\n< Vincent >"
+                                "Can you feel the throbbing? Until the last drop...\nVincent's juice is being poured into you right\nnow...!\\n< Vincent >"
                             ]
                         },
                         {
@@ -16967,7 +16967,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hehe... the one impregnating you right\nnow is Vincent. My name is Vincent...\\n< Vincent >"
+                                "Hehe... the one impregnating you right now is\nVincent. My name is Vincent...\\n< Vincent >"
                             ]
                         },
                         {
@@ -16984,7 +16984,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Vincent Vincent Vincent. Vincent,\nVincent...!\\n< Vincent >"
+                                "Vincent Vincent Vincent. Vincent, Vincent...!\\n< Vincent >"
                             ]
                         },
                         {
@@ -17001,7 +17001,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Can you feel the throbbing? Until the\nlast drop... Vincent's seed is being\npoured into you right now...!\\n< Vincent >"
+                                "Can you feel the throbbing? Until the last drop...\nVincent's seed is being poured into you right\nnow...!\\n< Vincent >"
                             ]
                         },
                         {
@@ -17200,7 +17200,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "With a big belly full of people's\nsemen...! Gulping it down...!\\n< Vincent >"
+                                "With a big belly full of people's semen...!\nGulping it down...!\\n< Vincent >"
                             ]
                         },
                         {
@@ -17238,7 +17238,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "While you're making such a cute sleeping\nface... under your belly... you're\ngulping down all of uncle's semen...!\\n< Vincent >"
+                                "While you're making such a cute sleeping face...\nunder your belly... you're gulping down all of\nuncle's semen...!\\n< Vincent >"
                             ]
                         },
                         {
@@ -17406,7 +17406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ahh... I've poured in plenty... uncle's\nseed...\\n< Vincent >"
+                                "Ahh... I've poured in plenty... uncle's seed...\\n< Vincent >"
                             ]
                         },
                         {
@@ -17470,7 +17470,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I wonder if the baby in your belly is\nfull now...?\\n< Vincent >"
+                                "I wonder if the baby in your belly is full now...?\\n< Vincent >"
                             ]
                         },
                         {
@@ -17508,7 +17508,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Filling up this tiny belly... without\nknowing anything... while being\nunaware...!\\n< Vincent >"
+                                "Filling up this tiny belly... without knowing\nanything... while being unaware...!\\n< Vincent >"
                             ]
                         },
                         {
@@ -17535,7 +17535,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Right now, inside this tiny belly...\nuncle's seed is squirming around wanting\nto impregnate you...\\n< Vincent >"
+                                "Right now, inside this tiny belly... uncle's seed\nis squirming around wanting to impregnate you...\\n< Vincent >"
                             ]
                         },
                         {
@@ -17707,7 +17707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Damn. I got too carried away for my\nage... I need to clean up and put things\nin order...!\\n< Vincent >"
+                                "...Damn. I got too carried away for my age... I\nneed to clean up and put things in order...!\\n< Vincent >"
                             ]
                         },
                         {
@@ -18492,7 +18492,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "It... it hurts... my whole body... This\nbed is already so hard, and with this\nbelly, I can't even turn over...\\n< Serena >"
+                                "It... it hurts... my whole body... This bed is\nalready so hard, and with this belly, I can't even\nturn over...\\n< Serena >"
                             ]
                         },
                         {
@@ -18519,7 +18519,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "It... it hurts... my whole body...\nIndeed, such a crude bed is...\\n< Serena >"
+                                "It... it hurts... my whole body... Indeed, such a\ncrude bed is...\\n< Serena >"
                             ]
                         },
                         {
@@ -18595,7 +18595,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sigh... But still, it's better to be\nable to sleep properly than not...\\n< Serena >"
+                                "Sigh... But still, it's better to be able to sleep\nproperly than not...\\n< Serena >"
                             ]
                         },
                         {
@@ -18622,7 +18622,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I feel even more tired than before I\nwent to sleep. No matter how cheap, this\nwon't do...\\n< Serena >"
+                                "I feel even more tired than before I went to\nsleep. No matter how cheap, this won't do...\\n< Serena >"
                             ]
                         },
                         {
@@ -18639,7 +18639,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "And there's something... sticky... a\nstrange smell too...\\n< Serena >"
+                                "And there's something... sticky... a strange smell\ntoo...\\n< Serena >"
                             ]
                         },
                         {
@@ -18734,7 +18734,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "No, it must be the smell that's soaked\ninto the room of such an inn.\\n< Serena >"
+                                "No, it must be the smell that's soaked into the\nroom of such an inn.\\n< Serena >"
                             ]
                         },
                         {
@@ -18858,7 +18858,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...So this is what a cheap inn is\nlike... I'd rather not use it again if\npossible...\\n< Serena >"
+                                "...So this is what a cheap inn is like... I'd\nrather not use it again if possible...\\n< Serena >"
                             ]
                         },
                         {
@@ -19839,7 +19839,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hehehe, thanks for coming again...\nSerena-chan. You're sound asleep today\ntoo...\\n< Vincent >"
+                                "Hehehe, thanks for coming again... Serena-chan.\nYou're sound asleep today too...\\n< Vincent >"
                             ]
                         },
                         {
@@ -19856,7 +19856,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Let's get deeply intimate until\nmorning... uhuhu!\\n< Vincent >"
+                                "Let's get deeply intimate until morning... uhuhu!\\n< Vincent >"
                             ]
                         },
                         {
@@ -19901,7 +19901,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Serena-chan, I'll give you some special\nservice today too...\\n< Vincent >"
+                                "Serena-chan, I'll give you some special service\ntoday too...\\n< Vincent >"
                             ]
                         },
                         {
@@ -19946,7 +19946,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "To use this place so many times, you\nmust really like this special service.\\n< Vincent >"
+                                "To use this place so many times, you must really\nlike this special service.\\n< Vincent >"
                             ]
                         },
                         {
@@ -19963,7 +19963,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The young lady is so greedy, it's bad\nfor you, hehehe!\\n< Vincent >"
+                                "The young lady is so greedy, it's bad for you,\nhehehe!\\n< Vincent >"
                             ]
                         },
                         {
@@ -20150,7 +20150,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hehehe, there there. You've fallen\nasleep perfectly today too.\\n< Vincent >"
+                                "Hehehe, there there. You've fallen asleep\nperfectly today too.\\n< Vincent >"
                             ]
                         },
                         {
@@ -20215,7 +20215,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "They say sleeping children grow... I\nwonder if this little one is doing\nwell...? ...Let's see.\\n< Vincent >"
+                                "They say sleeping children grow... I wonder if\nthis little one is doing well...? ...Let's see.\\n< Vincent >"
                             ]
                         },
                         {
@@ -20280,7 +20280,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Oh-oh, look how it's nicely swollen...\nWhose bastard seed are you nurturing?\\n< Vincent >"
+                                "Oh-oh, look how it's nicely swollen... Whose\nbastard seed are you nurturing?\\n< Vincent >"
                             ]
                         },
                         {
@@ -20308,7 +20308,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "...Could it be my seed? If that's the\ncase, it'd be really interesting...!\\n< Vincent >"
+                                "...Could it be my seed? If that's the case, it'd\nbe really interesting...!\\n< Vincent >"
                             ]
                         },
                         {
@@ -20345,7 +20345,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Now then, let's take a look at the\ntreasure...\\n< Vincent >"
+                                "Now then, let's take a look at the treasure...\\n< Vincent >"
                             ]
                         },
                         {
@@ -20475,7 +20475,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Oh ho-... No matter how many times I see\nit, the whiteness of your skin dazzles\nme. What a treat... hehehe!\\n< Vincent >"
+                                "Oh ho-... No matter how many times I see it, the\nwhiteness of your skin dazzles me. What a treat...\nhehehe!\\n< Vincent >"
                             ]
                         },
                         {
@@ -20616,7 +20616,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Heh, you've even put on a cute little\naccessory.\\n< Vincent >"
+                                "Heh, you've even put on a cute little accessory.\\n< Vincent >"
                             ]
                         },
                         {
@@ -20633,7 +20633,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You should moderate your playtime... or\na bad old man might just take you for\nfree, huh?\\n< Vincent >"
+                                "You should moderate your playtime... or a bad old\nman might just take you for free, huh?\\n< Vincent >"
                             ]
                         },
                         {
@@ -20774,7 +20774,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hm... This redness on your skin... it's\nnot paint. Ink, huh? You've got ink on\nyou too?\\n< Vincent >"
+                                "Hm... This redness on your skin... it's not paint.\nInk, huh? You've got ink on you too?\\n< Vincent >"
                             ]
                         },
                         {
@@ -20791,7 +20791,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Playing with your own body like this...\nyou're really a naughty girl...\\n< Vincent >"
+                                "Playing with your own body like this... you're\nreally a naughty girl...\\n< Vincent >"
                             ]
                         },
                         {
@@ -20935,7 +20935,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hehe, what a beautiful little bitch's\nnipples. Light pink color... Looks\ndelicious...!\\n< Vincent >"
+                                "Hehe, what a beautiful little bitch's nipples.\nLight pink color... Looks delicious...!\\n< Vincent >"
                             ]
                         },
                         {
@@ -21058,7 +21058,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hm? For your age, they're a bit dark...\nThese are the nipples of a real nympho.\\n< Vincent >"
+                                "Hm? For your age, they're a bit dark... These are\nthe nipples of a real nympho.\\n< Vincent >"
                             ]
                         },
                         {
@@ -21181,7 +21181,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hm-hm, these nipples have been played\nwith quite a bit, huh...? They've\ncompletely darkened.\\n< Vincent >"
+                                "Hm-hm, these nipples have been played with quite a\nbit, huh...? They've completely darkened.\\n< Vincent >"
                             ]
                         },
                         {
@@ -21304,7 +21304,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hey hey hey, for a little bitch, what's\nwith these filthy lewd nipples.\\n< Vincent >"
+                                "Hey hey hey, for a little bitch, what's with these\nfilthy lewd nipples.\\n< Vincent >"
                             ]
                         },
                         {
@@ -21321,7 +21321,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You wouldn't get like this just from\nhaving one or two kids. How much have\nthey been sucked on, huh?\\n< Vincent >"
+                                "You wouldn't get like this just from having one or\ntwo kids. How much have they been sucked on, huh?\\n< Vincent >"
                             ]
                         },
                         {
@@ -21512,7 +21512,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hehe, they're so tiny and smooth...\nSucking on them like this is... nmp,\nquite the effort.\\n< Vincent >"
+                                "Hehe, they're so tiny and smooth... Sucking on\nthem like this is... nmp, quite the effort.\\n< Vincent >"
                             ]
                         },
                         {
@@ -21529,7 +21529,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Old man will... slurp... raise them for\nyou...? Into nipples worth sucking\non...!\\n< Vincent >"
+                                "Old man will... slurp... raise them for you...?\nInto nipples worth sucking on...!\\n< Vincent >"
                             ]
                         },
                         {
@@ -21682,7 +21682,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Haah--... Damn... Little girl nipples...\nso tasty. I could suck on these\nforever... nmb.\\n< Vincent >"
+                                "Haah--... Damn... Little girl nipples... so tasty.\nI could suck on these forever... nmb.\\n< Vincent >"
                             ]
                         },
                         {
@@ -21835,7 +21835,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Chupopo... hmm? The nipples are starting\nto react... getting erect?\\n< Vincent >"
+                                "Chupopo... hmm? The nipples are starting to\nreact... getting erect?\\n< Vincent >"
                             ]
                         },
                         {
@@ -21852,7 +21852,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "For little girl nipples... what a lewd\npair. I'll have to train them even\nmore...\\n< Vincent >"
+                                "For little girl nipples... what a lewd pair. I'll\nhave to train them even more...\\n< Vincent >"
                             ]
                         },
                         {
@@ -22005,7 +22005,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You think you haven't been noticed...\nchup... huh? Every time I suck, they\ntwitch and feel it, huh?\\n< Vincent >"
+                                "You think you haven't been noticed... chup... huh?\nEvery time I suck, they twitch and feel it, huh?\\n< Vincent >"
                             ]
                         },
                         {
@@ -22022,7 +22022,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "They're completely trained, aren't they?\nFor a kid, you've been taught adult\ngames too well.\\n< Vincent >"
+                                "They're completely trained, aren't they? For a\nkid, you've been taught adult games too well.\\n< Vincent >"
                             ]
                         },
                         {
@@ -22115,7 +22115,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Breathing out such sweet breaths... you\nlike being treated like this, don't\nyou... chubo.\\n< Vincent >"
+                                "Breathing out such sweet breaths... you like being\ntreated like this, don't you... chubo.\\n< Vincent >"
                             ]
                         },
                         {
@@ -22268,7 +22268,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Oh? This kid, feeling it even in her\nsleep. Not even whores are this\ndepraved.\\n< Vincent >"
+                                "Oh? This kid, feeling it even in her sleep. Not\neven whores are this depraved.\\n< Vincent >"
                             ]
                         },
                         {
@@ -22285,7 +22285,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Where and how much have you been played\nwith...? Well, I'm having fun so it's\nall good for me...! Slurp!\\n< Vincent >"
+                                "Where and how much have you been played with...?\nWell, I'm having fun so it's all good for me...!\nSlurp!\\n< Vincent >"
                             ]
                         },
                         {
@@ -22321,7 +22321,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Heh heh heh, they're already standing at\nattention before I even touch them...\\n< Vincent >"
+                                "Heh heh heh, they're already standing at attention\nbefore I even touch them...\\n< Vincent >"
                             ]
                         },
                         {
@@ -22455,7 +22455,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Whether I lick or bite them, they return\nthe quiver right to the core.\\n< Vincent >"
+                                "Whether I lick or bite them, they return the\nquiver right to the core.\\n< Vincent >"
                             ]
                         },
                         {
@@ -22472,7 +22472,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "How did they get developed this far...?\nThese are top-notch nipples... I could\ncharge money for these...\\n< Vincent >"
+                                "How did they get developed this far...? These are\ntop-notch nipples... I could charge money for\nthese...\\n< Vincent >"
                             ]
                         },
                         {
@@ -22565,7 +22565,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hehe, heh heh heh. Thinking about how I\ncan do whatever I want with these\nnipples makes me feel so damn good...!\\n< Vincent >"
+                                "Hehe, heh heh heh. Thinking about how I can do\nwhatever I want with these nipples makes me feel\nso damn good...!\\n< Vincent >"
                             ]
                         },
                         {
@@ -22731,7 +22731,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Nju... hm? ...What's this? ...Breast\nmilk...?\\n< Vincent >"
+                                "Nju... hm? ...What's this? ...Breast milk...?\\n< Vincent >"
                             ]
                         },
                         {
@@ -22759,7 +22759,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Heh, you've got the body of a proper\nmother. Babies can be born safely with\nthis.\\n< Vincent >"
+                                "Heh, you've got the body of a proper mother.\nBabies can be born safely with this.\\n< Vincent >"
                             ]
                         },
                         {
@@ -22786,7 +22786,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Don't tell me you're giving birth at\nthis age? That's right, this milk. It's\nbaby food after all.\\n< Vincent >"
+                                "Don't tell me you're giving birth at this age?\nThat's right, this milk. It's baby food after all.\\n< Vincent >"
                             ]
                         },
                         {
@@ -22921,7 +22921,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Come on, let more of that baby milk out\nfor me to see? Oh, oh? It's trickling\nout... there it goes! Hehehe...!\\n< Vincent >"
+                                "Come on, let more of that baby milk out for me to\nsee? Oh, oh? It's trickling out... there it goes!\nHehehe...!\\n< Vincent >"
                             ]
                         },
                         {
@@ -23079,7 +23079,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Acting all grown-up... producing breast\nmilk...!\\n< Vincent >"
+                                "Acting all grown-up... producing breast milk...!\\n< Vincent >"
                             ]
                         },
                         {
@@ -23204,7 +23204,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "You think you're a mother? With those\nthin breasts, and still a brat...!\nI'll... milk you dry...!\\n< Vincent >"
+                                "You think you're a mother? With those thin\nbreasts, and still a brat...! I'll... milk you\ndry...!\\n< Vincent >"
                             ]
                         },
                         {
@@ -23345,7 +23345,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Nng! ...Puhah. The more I drink, the\nmore breast milk springs forth from\nthese bitch brat nipples.\\n< Vincent >"
+                                "Nng! ...Puhah. The more I drink, the more breast\nmilk springs forth from these bitch brat nipples.\\n< Vincent >"
                             ]
                         },
                         {
@@ -23362,7 +23362,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Are these the nipples of a child...?\nOverflowing with the desire and talent\nto nurture brats...!\\n< Vincent >"
+                                "Are these the nipples of a child...? Overflowing\nwith the desire and talent to nurture brats...!\\n< Vincent >"
                             ]
                         },
                         {
@@ -23487,7 +23487,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "You're a female. A prodigy of a female.\nMy dick's getting rock hard.\\n< Vincent >"
+                                "You're a female. A prodigy of a female. My dick's\ngetting rock hard.\\n< Vincent >"
                             ]
                         },
                         {
@@ -23504,7 +23504,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I'm going to impregnate you...! I'll\nmake you raise my brats with these\nnipples!\\n< Vincent >"
+                                "I'm going to impregnate you...! I'll make you\nraise my brats with these nipples!\\n< Vincent >"
                             ]
                         },
                         {
@@ -23802,7 +23802,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hmph, hmph, that tightly closed brat\npussy...\\n< Vincent >"
+                                "Hmph, hmph, that tightly closed brat pussy...\\n< Vincent >"
                             ]
                         },
                         {
@@ -23844,7 +23844,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "It's just like a doll's. So pretty. So\ncute.\\n< Vincent >"
+                                "It's just like a doll's. So pretty. So cute.\\n< Vincent >"
                             ]
                         },
                         {
@@ -23981,7 +23981,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Before I mess you up completely...\neheheh. I'll gently loosen you up... and\nthen do it...!\\n< Vincent >"
+                                "Before I mess you up completely... eheheh. I'll\ngently loosen you up... and then do it...!\\n< Vincent >"
                             ]
                         },
                         {
@@ -24157,7 +24157,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "From the slit, lewd flesh is spilling\nout. Isn't it a bit too well-used for\nyour age?\\n< Vincent >"
+                                "From the slit, lewd flesh is spilling out. Isn't\nit a bit too well-used for your age?\\n< Vincent >"
                             ]
                         },
                         {
@@ -24174,7 +24174,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You must've been played with here and\nthere... You're full of openings...\nihehe...!\\n< Vincent >"
+                                "You must've been played with here and there...\nYou're full of openings... ihehe...!\\n< Vincent >"
                             ]
                         },
                         {
@@ -24191,7 +24191,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Then I guess I don't need to hold back\neither, huh?\\n< Vincent >"
+                                "Then I guess I don't need to hold back either,\nhuh?\\n< Vincent >"
                             ]
                         },
                         {
@@ -24367,7 +24367,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Oh? With this look, it's like you've\naged ten years in how loose you are...\\n< Vincent >"
+                                "Oh? With this look, it's like you've aged ten\nyears in how loose you are...\\n< Vincent >"
                             ]
                         },
                         {
@@ -24384,7 +24384,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "This isn't the result of one or two\nexperiences... huh? You've been quite\nthe slut, haven't you?\\n< Vincent >"
+                                "This isn't the result of one or two experiences...\nhuh? You've been quite the slut, haven't you?\\n< Vincent >"
                             ]
                         },
                         {
@@ -24549,7 +24549,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "For a brat, you've got a cheeky pussy.\nFine by me. Next, I'll feed it my\ncock...!\\n< Vincent >"
+                                "For a brat, you've got a cheeky pussy. Fine by me.\nNext, I'll feed it my cock...!\\n< Vincent >"
                             ]
                         },
                         {
@@ -24725,7 +24725,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Whoa? It's the labia. How much have you\nplayed at this age... no...\\n< Vincent >"
+                                "Whoa? It's the labia. How much have you played at\nthis age... no...\\n< Vincent >"
                             ]
                         },
                         {
@@ -24742,7 +24742,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Play wouldn't get it this far. Rape,\ngangbangs. You've been forcibly pried\nopen, haven't you?\\n< Vincent >"
+                                "Play wouldn't get it this far. Rape, gangbangs.\nYou've been forcibly pried open, haven't you?\\n< Vincent >"
                             ]
                         },
                         {
@@ -24759,7 +24759,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Born a beauty but with a pussy like\nthis, no one would take you. My\ncondolences.\\n< Vincent >"
+                                "Born a beauty but with a pussy like this, no one\nwould take you. My condolences.\\n< Vincent >"
                             ]
                         },
                         {
@@ -24776,7 +24776,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Well. With a pussy as messed up as this,\nI don't need to hold back either.\\n< Vincent >"
+                                "Well. With a pussy as messed up as this, I don't\nneed to hold back either.\\n< Vincent >"
                             ]
                         },
                         {
@@ -24952,7 +24952,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Uheh, what's this? Despite being so\nclean, just here, oh-oh...\\n< Vincent >"
+                                "Uheh, what's this? Despite being so clean, just\nhere, oh-oh...\\n< Vincent >"
                             ]
                         },
                         {
@@ -24969,7 +24969,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Now that I think about it, an old whore\nhad one like this. Decades of fucking\nand birthing... the same at this age?\\n< Vincent >"
+                                "Now that I think about it, an old whore had one\nlike this. Decades of fucking and birthing... the\nsame at this age?\\n< Vincent >"
                             ]
                         },
                         {
@@ -25117,7 +25117,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hm... The condition isn't as bad as it\nlooks. Thanks to youth, huh?\\n< Vincent >"
+                                "Hm... The condition isn't as bad as it looks.\nThanks to youth, huh?\\n< Vincent >"
                             ]
                         },
                         {
@@ -25134,7 +25134,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "But you don't have any diseases, do\nyou...? Too late now. Hehehe.\\n< Vincent >"
+                                "But you don't have any diseases, do you...? Too\nlate now. Hehehe.\\n< Vincent >"
                             ]
                         },
                         {
@@ -25540,7 +25540,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Nn... kuh...! This... forcing...! The\nsensation of pushing in is good...!\\n< Vincent >"
+                                "Nn... kuh...! This... forcing...! The sensation of\npushing in is good...!\\n< Vincent >"
                             ]
                         },
                         {
@@ -25557,7 +25557,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Teaching a cock to an inexperienced\npussy...! This feeling is\nirresistible...!\\n< Vincent >"
+                                "Teaching a cock to an inexperienced pussy...! This\nfeeling is irresistible...!\\n< Vincent >"
                             ]
                         },
                         {
@@ -25693,7 +25693,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "While you're asleep, I'll turn that brat\npussy into an adult pussy...!\\n< Vincent >"
+                                "While you're asleep, I'll turn that brat pussy\ninto an adult pussy...!\\n< Vincent >"
                             ]
                         },
                         {
@@ -25738,7 +25738,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Oh, hehe. For a brat, you sure know how\nto clench down properly...!\\n< Vincent >"
+                                "Oh, hehe. For a brat, you sure know how to clench\ndown properly...!\\n< Vincent >"
                             ]
                         },
                         {
@@ -25755,7 +25755,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "A pussy worth tilling...! Made for\nsqueezing out a man's semen...!\\n< Vincent >"
+                                "A pussy worth tilling...! Made for squeezing out a\nman's semen...!\\n< Vincent >"
                             ]
                         },
                         {
@@ -25891,7 +25891,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You cheeky bitch brat pussy. I'll give\nyou an adult's marking... ohh!\\n< Vincent >"
+                                "You cheeky bitch brat pussy. I'll give you an\nadult's marking... ohh!\\n< Vincent >"
                             ]
                         },
                         {
@@ -25936,7 +25936,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Oh!? Oh... this bitch brat... even while\nasleep... ugggh...!\\n< Vincent >"
+                                "Oh!? Oh... this bitch brat... even while asleep...\nugggh...!\\n< Vincent >"
                             ]
                         },
                         {
@@ -26090,7 +26090,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "A pussy accustomed to rape acting like a\nslut... Clamping down on a man's cock,\nyou bad bitch brat!\\n< Vincent >"
+                                "A pussy accustomed to rape acting like a slut...\nClamping down on a man's cock, you bad bitch brat!\\n< Vincent >"
                             ]
                         },
                         {
@@ -26135,7 +26135,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Oh, hoo... I was worried it might be too\nloose, but not at all, hehe.\\n< Vincent >"
+                                "Oh, hoo... I was worried it might be too loose,\nbut not at all, hehe.\\n< Vincent >"
                             ]
                         },
                         {
@@ -26272,7 +26272,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Rather, it wraps around like a seasoned\nwhore... kuh, can't let my guard down\nwith this one. Hehehe!\\n< Vincent >"
+                                "Rather, it wraps around like a seasoned whore...\nkuh, can't let my guard down with this one.\nHehehe!\\n< Vincent >"
                             ]
                         },
                         {
@@ -26317,7 +26317,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ah-ah... just when I was looking forward\nto it, it's a grotesque brat pussy... no\ndifferent from any beggar out there.\\n< Vincent >"
+                                "Ah-ah... just when I was looking forward to it,\nit's a grotesque brat pussy... no different from\nany beggar out there.\\n< Vincent >"
                             ]
                         },
                         {
@@ -26454,7 +26454,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...Maybe it's a bit too loose? For a\nbitch brat of this size to take an adult\ncock and be this loose is... uh?\\n< Vincent >"
+                                "...Maybe it's a bit too loose? For a bitch brat of\nthis size to take an adult cock and be this loose\nis... uh?\\n< Vincent >"
                             ]
                         },
                         {
@@ -26471,7 +26471,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "What's this... just an ordinary pussy...\nugh. It feels good... Just the right\ntightness.\\n< Vincent >"
+                                "What's this... just an ordinary pussy... ugh. It\nfeels good... Just the right tightness.\\n< Vincent >"
                             ]
                         },
                         {
@@ -26609,7 +26609,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "This bitch brat pussy is too used to\nbeing raped... The tightness and warmth\nare just too perfect...\\n< Vincent >"
+                                "This bitch brat pussy is too used to being\nraped... The tightness and warmth are just too\nperfect...\\n< Vincent >"
                             ]
                         },
                         {
@@ -26626,7 +26626,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I, I want to use this bitch brat right\nnow to jerk off my cock with all my\nmight. I want to fuck her to oblivion...\nugh...!\\n< Vincent >"
+                                "I, I want to use this bitch brat right now to jerk\noff my cock with all my might. I want to fuck her\nto oblivion... ugh...!\\n< Vincent >"
                             ]
                         },
                         {
@@ -26818,7 +26818,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "To the pregnant bitch brat, I'll\nejaculate inside...!\\n< Vincent >"
+                                "To the pregnant bitch brat, I'll ejaculate\ninside...!\\n< Vincent >"
                             ]
                         },
                         {
@@ -26845,7 +26845,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "It's, it's coming out... Become a mama\nwithout even knowing it!\\n< Vincent >"
+                                "It's, it's coming out... Become a mama without\neven knowing it!\\n< Vincent >"
                             ]
                         },
                         {
@@ -27347,7 +27347,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ugh... I'm, I'm going to make you drink\nit! Hah hah!\\n< Vincent >"
+                                "Ugh... I'm, I'm going to make you drink it! Hah\nhah!\\n< Vincent >"
                             ]
                         },
                         {
@@ -27586,7 +27586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ugh... phew-, phew-... hah, what a\npleasurable toy... heh.\\n< Vincent >"
+                                "Ugh... phew-, phew-... hah, what a pleasurable\ntoy... heh.\\n< Vincent >"
                             ]
                         },
                         {
@@ -27728,7 +27728,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I'll keep loving you thoroughly until\nmorning... hehehe.\\n< Vincent >"
+                                "I'll keep loving you thoroughly until morning...\nhehehe.\\n< Vincent >"
                             ]
                         },
                         {
@@ -28124,7 +28124,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...Tch. Maybe it's about time I let the\nother customers have a turn.\\n< Vincent >"
+                                "...Tch. Maybe it's about time I let the other\ncustomers have a turn.\\n< Vincent >"
                             ]
                         },
                         {
@@ -28286,7 +28286,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "See ya, Serena-chan. Make sure to earn a\nlot... kukuku.\\n< Vincent >"
+                                "See ya, Serena-chan. Make sure to earn a lot...\nkukuku.\\n< Vincent >"
                             ]
                         },
                         {
@@ -29456,7 +29456,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Uuum... As usual, sleeping in this inn\nmakes my body feel sluggish... Is it the\nbed that doesn't suit me?\\n< Serena >"
+                                "Uuum... As usual, sleeping in this inn makes my\nbody feel sluggish... Is it the bed that doesn't\nsuit me?\\n< Serena >"
                             ]
                         },
                         {
@@ -29592,7 +29592,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Not again... down there is all sticky...\nWhy is something like this coming from\nmy place...\\n< Serena >"
+                                "Not again... down there is all sticky... Why is\nsomething like this coming from my place...\\n< Serena >"
                             ]
                         },
                         {
@@ -29747,7 +29747,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "This place is... that's right, this is\nthe inn...\\n< Serena >"
+                                "This place is... that's right, this is the inn...\\n< Serena >"
                             ]
                         },
                         {
@@ -29804,7 +29804,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "My body feels feverish... like something\nstrange was done to me afterwards...\\n< Serena >"
+                                "My body feels feverish... like something strange\nwas done to me afterwards...\\n< Serena >"
                             ]
                         },
                         {
@@ -31479,7 +31479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehehe... Thank you, Serena-chan.\\n< Male Customer >"
+                                "Hehehe... Thank you, Serena-chan.\\n< Male Customer>"
                             ]
                         },
                         {
@@ -31633,7 +31633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehehe, come again... hehehehe...\\n< Male Customer >"
+                                "Hehehe, come again... hehehehe...\\n< Male Customer>"
                             ]
                         },
                         {
@@ -32130,7 +32130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I can sense someone inside. I wonder\nwhat kind of guest would stay at such an\ninn.\\n< Serena >"
+                                "I can sense someone inside. I wonder what kind of\nguest would stay at such an inn.\\n< Serena >"
                             ]
                         },
                         {
@@ -32276,7 +32276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...It stopped...and started again.\nSomehow, it's making me anxious...\\n< Serena >"
+                                "...It stopped...and started again. Somehow, it's\nmaking me anxious...\\n< Serena >"
                             ]
                         },
                         {
@@ -32405,7 +32405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It smells foul. I definitely don't want\nto peer inside.\\n< Serena >"
+                                "It smells foul. I definitely don't want to peer\ninside.\\n< Serena >"
                             ]
                         },
                         {
@@ -32663,7 +32663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Probably just placed here without any\nsignificant reason...\\n< Serena >"
+                                "Probably just placed here without any significant\nreason...\\n< Serena >"
                             ]
                         },
                         {
@@ -32792,7 +32792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It seems to be used as a trash can. It's\nvery unclean, I don't want to go near\nit...\\n< Serena >"
+                                "It seems to be used as a trash can. It's very\nunclean, I don't want to go near it...\\n< Serena >"
                             ]
                         },
                         {
@@ -32921,7 +32921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's covered in dust and cobwebs. It\ndoesn't seem like it's been cleaned\nproperly.\\n< Serena >"
+                                "It's covered in dust and cobwebs. It doesn't seem\nlike it's been cleaned properly.\\n< Serena >"
                             ]
                         },
                         {
@@ -33050,7 +33050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You can tell it's been left as is, with\ndust piling up on it.\\n< Serena >"
+                                "You can tell it's been left as is, with dust\npiling up on it.\\n< Serena >"
                             ]
                         },
                         {
@@ -33196,7 +33196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It looks just like trash, but there are\ntools inside. It's hard to believe, but\nit seems to still be used as a box.\\n< Serena >"
+                                "It looks just like trash, but there are tools\ninside. It's hard to believe, but it seems to\nstill be used as a box.\\n< Serena >"
                             ]
                         },
                         {
@@ -33325,7 +33325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's rotten and has become one with the\nfloorboards. It's impossible to\nunderstand how it ended up like this.\\n< Serena >"
+                                "It's rotten and has become one with the\nfloorboards. It's impossible to understand how it\nended up like this.\\n< Serena >"
                             ]
                         },
                         {
@@ -33454,7 +33454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's just an ordinary barrel, but that\nmight actually be unusual in this place.\\n< Serena >"
+                                "It's just an ordinary barrel, but that might\nactually be unusual in this place.\\n< Serena >"
                             ]
                         },
                         {
@@ -33583,7 +33583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It seems to be instructions for using\nthe facility. It's faded, torn, and more\nthan half of it is unreadable...\\n< Serena >"
+                                "It seems to be instructions for using the\nfacility. It's faded, torn, and more than half of\nit is unreadable...\\n< Serena >"
                             ]
                         },
                         {
@@ -33712,7 +33712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Job listings and product advertisements\nare haphazardly posted and torn off.\\n< Serena >"
+                                "Job listings and product advertisements are\nhaphazardly posted and torn off.\\n< Serena >"
                             ]
                         },
                         {
@@ -33841,7 +33841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's just sitting there at the end of\nthe hallway, kind of creepy. It's\nprobably just a stand-in or something,\nnot that it means much...\\n< Serena >"
+                                "It's just sitting there at the end of the hallway,\nkind of creepy. It's probably just a stand-in or\nsomething, not that it means much...\\n< Serena >"
                             ]
                         },
                         {
@@ -34012,7 +34012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Someone is sleeping... Is this also a\nlodging place...?\\n< Serena >"
+                                "Someone is sleeping... Is this also a lodging\nplace...?\\n< Serena >"
                             ]
                         },
                         {
@@ -34029,7 +34029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The terrible stench and the bizarre\natmosphere make it impossible to\nenter...\\n< Serena >"
+                                "The terrible stench and the bizarre atmosphere\nmake it impossible to enter...\\n< Serena >"
                             ]
                         },
                         {
@@ -44173,7 +44173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's wobbly and covered with scratches\nand stains. I wonder if there will be\nany complaints about this...\\n< Serena >"
+                                "It's wobbly and covered with scratches and stains.\nI wonder if there will be any complaints about\nthis...\\n< Serena >"
                             ]
                         },
                         {
@@ -44302,7 +44302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It seems to be some sort of storage\nspace. But it's rather dirty, doesn't\nmake me want to use it much...\\n< Serena >"
+                                "It seems to be some sort of storage space. But\nit's rather dirty, doesn't make me want to use it\nmuch...\\n< Serena >"
                             ]
                         },
                         {

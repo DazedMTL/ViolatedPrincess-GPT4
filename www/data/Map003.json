@@ -4075,7 +4075,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Serena >I can't go out in public in such a\nfrilly outfit when it's not even for\nwork!"
+                                "\\n< Serena >I can't go out in public in such a frilly outfit\nwhen it's not even for work!"
                             ]
                         },
                         {
@@ -4212,7 +4212,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n< Serena >Oh no no no!? I can't possibly go\noutside dressed like this!"
+                                "\\n< Serena >Oh no no no!? I can't possibly go outside dressed\nlike this!"
                             ]
                         },
                         {
@@ -4295,7 +4295,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n< Serena >Isn't this a bit too revealing? I can't\ngo out in front of people dressed like\nthis."
+                                "\\n< Serena >Isn't this a bit too revealing? I can't go out in\nfront of people dressed like this."
                             ]
                         },
                         {
@@ -4405,7 +4405,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\n< Serena >Hmm, as I thought, it's painful without\na bra... Maybe I should put one on."
+                                "\\n< Serena >Hmm, as I thought, it's painful without a bra...\nMaybe I should put one on."
                             ]
                         },
                         {
@@ -5107,7 +5107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What's this, a child? If you want to\nplay, do it outside.\\n< Shopkeeper >"
+                                "What's this, a child? If you want to play, do it\noutside.\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -5131,7 +5131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I am not a child. I am a customer. I\nalso have an adventurer's license.\\n< Serena >"
+                                "I am not a child. I am a customer. I also have an\nadventurer's license.\\n< Serena >"
                             ]
                         },
                         {
@@ -5148,7 +5148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I would like to purchase some equipment.\nCould you show me what you have in\nstock?\\n< Serena >"
+                                "I would like to purchase some equipment. Could you\nshow me what you have in stock?\\n< Serena >"
                             ]
                         },
                         {
@@ -5248,7 +5248,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hmm... These items seem rather\nunreliable... but I suppose they will\nhave to suffice for now.\\n< Serena >"
+                                "Hmm... These items seem rather unreliable... but I\nsuppose they will have to suffice for now.\\n< Serena >"
                             ]
                         },
                         {
@@ -5272,7 +5272,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Oh ho. Calling my merchandise unreliable\nis quite the statement. Got any\ncomplaints about my products?\\n< Shopkeeper >"
+                                "Oh ho. Calling my merchandise unreliable is quite\nthe statement. Got any complaints about my\nproducts?\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -5296,7 +5296,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ah, no, I apologize. I spoke out of\nturn. It's just that...\\n< Serena >"
+                                "Ah, no, I apologize. I spoke out of turn. It's\njust that...\\n< Serena >"
                             ]
                         },
                         {
@@ -5320,7 +5320,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Just that? \"Just that I spoke the truth\nwithout thinking\"?\\n< Shopkeeper >"
+                                "Just that? \"Just that I spoke the truth without\nthinking\"?\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -5344,7 +5344,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ugh... No. I apologize. I did not mean\nto speak ill of the shopkeeper.\\n< Serena >"
+                                "Ugh... No. I apologize. I did not mean to speak\nill of the shopkeeper.\\n< Serena >"
                             ]
                         },
                         {
@@ -5361,7 +5361,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "It's just that for my purposes as a\nweapon, this ring is insufficient.\\n< Serena >"
+                                "It's just that for my purposes as a weapon, this\nring is insufficient.\\n< Serena >"
                             ]
                         },
                         {
@@ -5385,7 +5385,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ha... Weapon? Now you're talking about\nweapons?\\n< Shopkeeper >"
+                                "Ha... Weapon? Now you're talking about weapons?\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -5402,7 +5402,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "When we say \"weapon,\" we're talking\nabout swords, axes, things made of iron\nlike this.\\n< Shopkeeper >"
+                                "When we say \"weapon,\" we're talking about swords,\naxes, things made of iron like this.\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -5419,7 +5419,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "It's troublesome when people mix up\nfairy tales with reality and then\ncomplain about my goods.\\n< Shopkeeper >"
+                                "It's troublesome when people mix up fairy tales\nwith reality and then complain about my goods.\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -5443,7 +5443,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...The fact remains a fact. I use rings\nas weapons. Your swords and axes cannot\nwithstand my magic power.\\n< Serena >"
+                                "...The fact remains a fact. I use rings as\nweapons. Your swords and axes cannot withstand my\nmagic power.\\n< Serena >"
                             ]
                         },
                         {
@@ -5460,7 +5460,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Still going on about that! If you're so\nsure, then try holding this.\\n< Shopkeeper >"
+                                "Still going on about that! If you're so sure, then\ntry holding this.\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -5610,7 +5610,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "See for yourself how heavy, sturdy, and\ndangerous this lump of iron is that\nyou're scoffing at. Compare it to that\nring of yours.\\n< Shopkeeper >"
+                                "See for yourself how heavy, sturdy, and dangerous\nthis lump of iron is that you're scoffing at.\nCompare it to that ring of yours.\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -5634,7 +5634,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "If I prove that this sword is useless to\nme, will you believe my story?\\n< Serena >"
+                                "If I prove that this sword is useless to me, will\nyou believe my story?\\n< Serena >"
                             ]
                         },
                         {
@@ -5658,7 +5658,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ha ha ha... Of course. If you can prove\nthat, I'll eat porridge out of my ass or\nwhatever else you say--\\n< Shopkeeper >"
+                                "Ha ha ha... Of course. If you can prove that, I'll\neat porridge out of my ass or whatever else you\nsay--\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -5783,7 +5783,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Cough... It was more fragile than I\nthought...\\n< Serena >"
+                                "Cough... It was more fragile than I thought...\\n< Serena >"
                             ]
                         },
                         {
@@ -5814,7 +5814,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "My apologies, shopkeeper. I've scattered\nthe fragments everywhere. Are you hurt?\\n< Serena >"
+                                "My apologies, shopkeeper. I've scattered the\nfragments everywhere. Are you hurt?\\n< Serena >"
                             ]
                         },
                         {
@@ -5838,7 +5838,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ah... oh... you, what are you... a\nwitch...?!\\n< Shopkeeper >"
+                                "Ah... oh... you, what are you... a witch...?!\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -5855,7 +5855,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "What's your intention coming here?! And\nyou've broken my valuable merchandise...\nCompensate for it!\\n< Shopkeeper >"
+                                "What's your intention coming here?! And you've\nbroken my valuable merchandise... Compensate for\nit!\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -5872,7 +5872,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...No. No, that's not it... Is this\nsabotage?! Henry's doing...!\\n< Shopkeeper >"
+                                "...No. No, that's not it... Is this sabotage?!\nHenry's doing...!\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -5896,7 +5896,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "No, that's not it. Ahh, why has it come\nto this? I just wanted to shop...\\n< Serena >"
+                                "No, that's not it. Ahh, why has it come to this? I\njust wanted to shop...\\n< Serena >"
                             ]
                         },
                         {
@@ -5920,7 +5920,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I'm sorry. I didn't mean to startle you.\nTruly. I will compensate for the weapon\nas well.\\n< Serena >"
+                                "I'm sorry. I didn't mean to startle you. Truly. I\nwill compensate for the weapon as well.\\n< Serena >"
                             ]
                         },
                         {
@@ -6313,7 +6313,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sigh... That was surprising... Is\nconversation always this difficult?\\n< Serena >"
+                                "Sigh... That was surprising... Is conversation\nalways this difficult?\\n< Serena >"
                             ]
                         },
                         {
@@ -6337,7 +6337,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "No, now that I think about it, it was my\nfirst time engaging in an equal\nconversation with a merchant.\\n< Serena >"
+                                "No, now that I think about it, it was my first\ntime engaging in an equal conversation with a\nmerchant.\\n< Serena >"
                             ]
                         },
                         {
@@ -6354,7 +6354,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "It's completely different from speaking\nthrough a servant... Perhaps that's why\nI angered him.\\n< Serena >"
+                                "It's completely different from speaking through a\nservant... Perhaps that's why I angered him.\\n< Serena >"
                             ]
                         },
                         {
@@ -6378,7 +6378,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Anyway, I've acquired the ring. Now I\ncan proceed with the quest.\\n< Serena >"
+                                "Anyway, I've acquired the ring. Now I can proceed\nwith the quest.\\n< Serena >"
                             ]
                         },
                         {
@@ -6584,7 +6584,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serena >Hmm... It's a rather unreliable item,\nbut... I suppose I'll have to make do\nwith this for now."
+                                "\\n< Serena >Hmm... It's a rather unreliable item, but... I\nsuppose I'll have to make do with this for now."
                             ]
                         },
                         {
@@ -6608,7 +6608,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Shopkeeper >Oh? To call it unreliable is quite the\nstatement. Do you have a complaint about\nmy merchandise?"
+                                "\\n< Shopkeeper >Oh? To call it unreliable is quite the statement.\nDo you have a complaint about my merchandise?"
                             ]
                         },
                         {
@@ -6632,7 +6632,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serena >Ah, I-I'm sorry. I spoke out of turn.\nIt's just that..."
+                                "\\n< Serena >Ah, I-I'm sorry. I spoke out of turn. It's just\nthat..."
                             ]
                         },
                         {
@@ -6656,7 +6656,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Shopkeeper >Just what? You accidentally spoke the\ntruth?"
+                                "\\n< Shopkeeper >Just what? You accidentally spoke the truth?"
                             ]
                         },
                         {
@@ -6680,7 +6680,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serena >Ugh... Mm. I apologize. I didn't mean to\noffend. It's just that as a weapon for\nme, this ring is insufficient."
+                                "\\n< Serena >Ugh... Mm. I apologize. I didn't mean to offend.\nIt's just that as a weapon for me, this ring is\ninsufficient."
                             ]
                         },
                         {
@@ -6704,7 +6704,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Shopkeeper >Ha! Weapon? Did you say weapon? A\nweapon, you know, refers to things like\nswords or axes, these lumps of iron."
+                                "\\n< Shopkeeper >Ha! Weapon? Did you say weapon? A weapon, you\nknow, refers to things like swords or axes, these\nlumps of iron."
                             ]
                         },
                         {
@@ -6721,7 +6721,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Shopkeeper >It's troublesome, you know. Mixing up\nfairy tales with reality and then\ncomplaining about the products."
+                                "\\n< Shopkeeper >It's troublesome, you know. Mixing up fairy tales\nwith reality and then complaining about the\nproducts."
                             ]
                         },
                         {
@@ -6745,7 +6745,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serena >...The fact remains a fact. I use rings\nas weapons. Your swords and axes can't\nwithstand my magic power."
+                                "\\n< Serena >...The fact remains a fact. I use rings as\nweapons. Your swords and axes can't withstand my\nmagic power."
                             ]
                         },
                         {
@@ -6762,7 +6762,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Shopkeeper >Still going on about that! If you're so\nconfident, then try holding this."
+                                "\\n< Shopkeeper >Still going on about that! If you're so confident,\nthen try holding this."
                             ]
                         },
                         {
@@ -6912,7 +6912,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Shopkeeper >See for yourself how heavy, sturdy, and\ndangerous this lump of iron you're\nscoffing at is. Compare it to that ring\nof yours."
+                                "\\n< Shopkeeper >See for yourself how heavy, sturdy, and dangerous\nthis lump of iron you're scoffing at is. Compare\nit to that ring of yours."
                             ]
                         },
                         {
@@ -6936,7 +6936,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serena >If I prove that this sword is useless,\nwill you believe my story then?"
+                                "\\n< Serena >If I prove that this sword is useless, will you\nbelieve my story then?"
                             ]
                         },
                         {
@@ -6960,7 +6960,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Shopkeeper >Kakkakka... Of course. If you can prove\nthat, I'll eat automail from my ass--."
+                                "\\n< Shopkeeper >Kakkakka... Of course. If you can prove that, I'll\neat automail from my ass--."
                             ]
                         },
                         {
@@ -7085,7 +7085,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serena >Cough... It was more fragile than I\nthought..."
+                                "\\n< Serena >Cough... It was more fragile than I thought..."
                             ]
                         },
                         {
@@ -7116,7 +7116,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serena >My apologies, shopkeeper. I've scattered\nfragments everywhere. Are you hurt?"
+                                "\\n< Serena >My apologies, shopkeeper. I've scattered fragments\neverywhere. Are you hurt?"
                             ]
                         },
                         {
@@ -7140,7 +7140,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Shopkeeper >Ah... Ohh... You, you witch! You're not\ndisguised as an old hag...!"
+                                "\\n< Shopkeeper >Ah... Ohh... You, you witch! You're not disguised\nas an old hag...!"
                             ]
                         },
                         {
@@ -7157,7 +7157,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Shopkeeper >What's your intention coming here! And\nbreaking my merchandise... Pay for it!"
+                                "\\n< Shopkeeper >What's your intention coming here! And breaking my\nmerchandise... Pay for it!"
                             ]
                         },
                         {
@@ -7174,7 +7174,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Shopkeeper >No, wait. Sabotage? Is this Henry's\ndoing...!"
+                                "\\n< Shopkeeper >No, wait. Sabotage? Is this Henry's doing...!"
                             ]
                         },
                         {
@@ -7198,7 +7198,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serena >No, no. Ahh, why has it come to this? I\njust wanted to shop..."
+                                "\\n< Serena >No, no. Ahh, why has it come to this? I just\nwanted to shop..."
                             ]
                         },
                         {
@@ -7222,7 +7222,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serena >I'm truly sorry. I had no intention of\ncausing a fright. I will compensate for\nthe weapon as well."
+                                "\\n< Serena >I'm truly sorry. I had no intention of causing a\nfright. I will compensate for the weapon as well."
                             ]
                         },
                         {
@@ -7615,7 +7615,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serena >Sigh... That was surprising... Is\nconversation always such a difficult\nthing?"
+                                "\\n< Serena >Sigh... That was surprising... Is conversation\nalways such a difficult thing?"
                             ]
                         },
                         {
@@ -7639,7 +7639,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serena >Thinking back, it was the first time\nI've ever negotiated alone with an\nunfamiliar man."
+                                "\\n< Serena >Thinking back, it was the first time I've ever\nnegotiated alone with an unfamiliar man."
                             ]
                         },
                         {
@@ -7656,7 +7656,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serena >Conversing through a servant is quite\ndifferent... Perhaps that's why I\nangered him."
+                                "\\n< Serena >Conversing through a servant is quite different...\nPerhaps that's why I angered him."
                             ]
                         },
                         {
@@ -7680,7 +7680,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serena >...Anyway, I've acquired the ring. Now I\ncan proceed with the quest."
+                                "\\n< Serena >...Anyway, I've acquired the ring. Now I can\nproceed with the quest."
                             ]
                         },
                         {
@@ -7869,7 +7869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Shopkeeper >Sorry, but I don't have anything more\nthan what was bought before. Only\n\"unreliable items\" left, I'm afraid."
+                                "\\n< Shopkeeper >Sorry, but I don't have anything more than what\nwas bought before. Only \"unreliable items\" left,\nI'm afraid."
                             ]
                         },
                         {
@@ -8010,7 +8010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Welcome... oh, it's just you, young\nlady. As for a ring beyond that one—\\n< Shopkeeper >"
+                                "Welcome... oh, it's just you, young lady. As for a\nring beyond that one—\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -8045,7 +8045,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Forgive me, but that's not what I'm here\nfor right now. Excuse me.\\n< Serena >"
+                                "Forgive me, but that's not what I'm here for right\nnow. Excuse me.\\n< Serena >"
                             ]
                         },
                         {
@@ -8090,7 +8090,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I'm actually here for something else. I\nneed to ask for a breastplate...\\n< Serena >"
+                                "I'm actually here for something else. I need to\nask for a breastplate...\\n< Serena >"
                             ]
                         },
                         {
@@ -8114,7 +8114,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "A breastplate? Of course, I have those,\nbut finding one that fits you might\nbe...\\n< Shopkeeper >"
+                                "A breastplate? Of course, I have those, but\nfinding one that fits you might be...\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -8138,7 +8138,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "No, when I say breastplate, I don't mean\narmor... it's more like...\\n< Serena >"
+                                "No, when I say breastplate, I don't mean armor...\nit's more like...\\n< Serena >"
                             ]
                         },
                         {
@@ -8155,7 +8155,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Something for the... delicate parts of\nthe chest... something soft...\\n< Serena >"
+                                "Something for the... delicate parts of the\nchest... something soft...\\n< Serena >"
                             ]
                         },
                         {
@@ -8179,7 +8179,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Ah, you mean a bra? If that's what\nyou're looking for, try the tool shop\nnext door.\\n< Shopkeeper >"
+                                "Ah, you mean a bra? If that's what you're looking\nfor, try the tool shop next door.\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -8203,7 +8203,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "...I did go there, but nothing suited my\nskin.\\n< Serena >"
+                                "...I did go there, but nothing suited my skin.\\n< Serena >"
                             ]
                         },
                         {
@@ -8220,7 +8220,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "You're an arms dealer, aren't you? If\nyou can make weapons, surely you can\nmake undergarments as well.\\n< Serena >"
+                                "You're an arms dealer, aren't you? If you can make\nweapons, surely you can make undergarments as\nwell.\\n< Serena >"
                             ]
                         },
                         {
@@ -8244,7 +8244,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "...You say that so casually... but bras\nand weapons are quite different genres,\nyou know.\\n< Shopkeeper >"
+                                "...You say that so casually... but bras and\nweapons are quite different genres, you know.\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -8309,7 +8309,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "But don't expect it to look pretty.\nIt'll be more like an extension of\narmor.\\n< Shopkeeper >"
+                                "But don't expect it to look pretty. It'll be more\nlike an extension of armor.\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -8572,7 +8572,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Lucky for you, there's a roll of silk\nleft over. How about this?\\n< Shopkeeper >"
+                                "Lucky for you, there's a roll of silk left over.\nHow about this?\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -8608,7 +8608,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Ah, ...yes. I can tolerate this kind of\ntexture.\\n< Serena >"
+                                "Ah, ...yes. I can tolerate this kind of texture.\\n< Serena >"
                             ]
                         },
                         {
@@ -8632,7 +8632,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "So you can finally tolerate it, huh?\nJust so you know, this is top-quality\nstuff...\\n< Shopkeeper >"
+                                "So you can finally tolerate it, huh? Just so you\nknow, this is top-quality stuff...\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -8649,7 +8649,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Well, alright. Hold the other side for\nme.\\n< Shopkeeper >"
+                                "Well, alright. Hold the other side for me.\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -8666,7 +8666,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Sew the corners, thread it through, flip\nit over and—\\n< Shopkeeper >"
+                                "Sew the corners, thread it through, flip it over\nand—\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -8754,7 +8754,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "There, done. I think this size should be\njust right... how about it?\\n< Shopkeeper >"
+                                "There, done. I think this size should be just\nright... how about it?\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -8771,7 +8771,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Impressive workmanship... Perhaps you're\nmore suited to be a tailor than a\nblacksmith.\\n< Serena >"
+                                "Impressive workmanship... Perhaps you're more\nsuited to be a tailor than a blacksmith.\\n< Serena >"
                             ]
                         },
                         {
@@ -8795,7 +8795,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Always with the extra comment... Any\nhousewife could do this much.\\n< Shopkeeper >"
+                                "Always with the extra comment... Any housewife\ncould do this much.\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -8812,7 +8812,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Anyway, go try it on in that private\nroom over there.\\n< Shopkeeper >"
+                                "Anyway, go try it on in that private room over\nthere.\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -9370,7 +9370,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Now then, let's see if this cheeky\nlittle missy actually needs a bra or\nnot.\\n< Shopkeeper >"
+                                "Now then, let's see if this cheeky little missy\nactually needs a bra or not.\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -9401,7 +9401,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Hmph hmph hmph hmph. Just as I thought,\na slender and uninteresting body, huh?\\n< Shopkeeper >"
+                                "Hmph hmph hmph hmph. Just as I thought, a slender\nand uninteresting body, huh?\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -9418,7 +9418,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Flat as a board and yet you have the\nnerve to ask for a bra. You're a decade\ntoo early for that.\\n< Shopkeeper >"
+                                "Flat as a board and yet you have the nerve to ask\nfor a bra. You're a decade too early for that.\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -9449,7 +9449,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "...Heh, heh... such a meager... not even\nworth peeping at...\\n< Shopkeeper >"
+                                "...Heh, heh... such a meager... not even worth\npeeping at...\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -9483,7 +9483,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "...What whiteness... Petite but...\nthere's flesh on that ass...\\n< Shopkeeper >"
+                                "...What whiteness... Petite but... there's flesh\non that ass...\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -9554,7 +9554,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "...Yes. It's a bit stiff and slightly\nlarge, but within an acceptable range.\\n< Serena >"
+                                "...Yes. It's a bit stiff and slightly large, but\nwithin an acceptable range.\\n< Serena >"
                             ]
                         },
                         {
@@ -10083,7 +10083,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Shopkeeper, this seems to be fine. Thank\nyou for accommodating my unreasonable\nrequest.\\n< Serena >"
+                                "Shopkeeper, this seems to be fine. Thank you for\naccommodating my unreasonable request.\\n< Serena >"
                             ]
                         },
                         {
@@ -10231,7 +10231,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Ah, yes. That's right. Money, money,\nyes.\\n< Shopkeeper >"
+                                "Ah, yes. That's right. Money, money, yes.\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -10248,7 +10248,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Let's see. After all, it's made of the\nfinest silk... Well... It'll be 100G.\\n< Shopkeeper >"
+                                "Let's see. After all, it's made of the finest\nsilk... Well... It'll be 100G.\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -10344,7 +10344,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "100G, you know? That's a hundred gold\ncoins. It's enough to build a house. If\nit were smaller, you could even buy a\nship with it.\\n< Shopkeeper >"
+                                "100G, you know? That's a hundred gold coins. It's\nenough to build a house. If it were smaller, you\ncould even buy a ship with it.\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -10361,7 +10361,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "And you... that's right, the bag of gold\ncoins from the other day. There was also\n100G in there.\\n< Shopkeeper >"
+                                "And you... that's right, the bag of gold coins\nfrom the other day. There was also 100G in there.\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -10378,7 +10378,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "In total, that's 200G. Two houses, two\nships, you know? An enormous amount of\nmoney. To handle such an amount so\ncasually...\\n< Shopkeeper >"
+                                "In total, that's 200G. Two houses, two ships, you\nknow? An enormous amount of money. To handle such\nan amount so casually...\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -10460,7 +10460,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Ah, yes. 100G. I'll sell you that bra\nfor 100G.\\n< Shopkeeper >"
+                                "Ah, yes. 100G. I'll sell you that bra for 100G.\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -10560,7 +10560,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "What's the matter? You've been acting\nstrange...\\n< Serena >"
+                                "What's the matter? You've been acting strange...\\n< Serena >"
                             ]
                         },
                         {
@@ -10584,7 +10584,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Ridiculous... It's becoming\nridiculous...\\n< Shopkeeper >"
+                                "Ridiculous... It's becoming ridiculous...\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -10601,7 +10601,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "To earn even a single gold coin, we have\nto work from morning till sweat beads on\nour foreheads, working and working...\\n< Shopkeeper >"
+                                "To earn even a single gold coin, we have to work\nfrom morning till sweat beads on our foreheads,\nworking and working...\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -10618,7 +10618,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "If we make one coin in a day, it's a big\nprofit. But most of it goes to living\nexpenses, and nothing much is left in\nhand.\\n< Shopkeeper >"
+                                "If we make one coin in a day, it's a big profit.\nBut most of it goes to living expenses, and\nnothing much is left in hand.\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -10635,7 +10635,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "And then, this kid... treats these\nprecious gold coins as if they're mere\npebbles or something...\\n< Shopkeeper >"
+                                "And then, this kid... treats these precious gold\ncoins as if they're mere pebbles or something...\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -10676,7 +10676,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "My apologies, have I done something\nagain to offend you, Shopkeeper?\\n< Serena >"
+                                "My apologies, have I done something again to\noffend you, Shopkeeper?\\n< Serena >"
                             ]
                         },
                         {
@@ -10717,7 +10717,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "No, no. It was a very fine transaction\nindeed.\\n< Shopkeeper >"
+                                "No, no. It was a very fine transaction indeed.\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -10734,7 +10734,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "There's no reason for dissatisfaction.\nPlease, come again anytime.\\n< Shopkeeper >"
+                                "There's no reason for dissatisfaction. Please,\ncome again anytime.\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -10751,7 +10751,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Whether it's bras, panties, or\npacifiers. We'll prepare whatever we can\nfor you.\\n< Shopkeeper >"
+                                "Whether it's bras, panties, or pacifiers. We'll\nprepare whatever we can for you.\\n< Shopkeeper >"
                             ]
                         },
                         {
@@ -10775,7 +10775,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Ugh... I'm definitely concerned about\nthe implications of his attitude...\\n< Serena >"
+                                "Ugh... I'm definitely concerned about the\nimplications of his attitude...\\n< Serena >"
                             ]
                         },
                         {
@@ -10799,7 +10799,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Well, it's fine. Shopkeeper... no, may I\nhave your name now?\\n< Serena >"
+                                "Well, it's fine. Shopkeeper... no, may I have your\nname now?\\n< Serena >"
                             ]
                         },
                         {
@@ -10871,7 +10871,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I'll be counting on you for future\nneeds, Gordon- san.\\n< Serena >"
+                                "I'll be counting on you for future needs, Gordon-\nsan.\\n< Serena >"
                             ]
                         },
                         {
@@ -10895,7 +10895,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Ah, please do favor us with your\npatronage. The fine-assed Serena-chan-\nsama.\\n< Gordon >"
+                                "Ah, please do favor us with your patronage. The\nfine-assed Serena-chan- sama.\\n< Gordon >"
                             ]
                         },
                         {
@@ -11056,7 +11056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Is that you, Serena-chan-sama? How does\nthe bra feel?\\n< Gordon >"
+                                "Is that you, Serena-chan-sama? How does the bra\nfeel?\\n< Gordon >"
                             ]
                         },
                         {
@@ -11080,7 +11080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's not bad. It shifts a little when I\nmove, which is somewhat bothersome.\\n< Serena >"
+                                "It's not bad. It shifts a little when I move,\nwhich is somewhat bothersome.\\n< Serena >"
                             ]
                         },
                         {
@@ -11104,7 +11104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I see. Feel free to use that fitting\nroom over there to readjust it anytime,\nI don't mind.\\n< Gordon >"
+                                "I see. Feel free to use that fitting room over\nthere to readjust it anytime, I don't mind.\\n< Gordon >"
                             ]
                         },
                         {
@@ -11364,7 +11364,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Item Shopkeeper >A ring, huh... I've got ones that assist\nwith magic, but nothing suitable for\ncombat."
+                                "\\n< Item Shopkeeper>A ring, huh... I've got ones that assist with\nmagic, but nothing suitable for combat."
                             ]
                         },
                         {
@@ -11381,7 +11381,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Item Shopkeeper >If you'd like, try asking the person\nnext door. They might be able to make\nsomething related to metalwork?"
+                                "\\n< Item Shopkeeper>If you'd like, try asking the person next door.\nThey might be able to make something related to\nmetalwork?"
                             ]
                         },
                         {
@@ -11529,7 +11529,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Undergarments, huh? I've got some used\nones if that's alright...\\n< Item Shopkeeper >"
+                                "Undergarments, huh? I've got some used ones if\nthat's alright...\\n< Item Shopkeeper>"
                             ]
                         },
                         {
@@ -11565,7 +11565,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...The texture is poor. Is this hemp?\nI'd prefer something made of cotton or\nsilk, if possible.\\n< Serena >"
+                                "...The texture is poor. Is this hemp? I'd prefer\nsomething made of cotton or silk, if possible.\\n< Serena >"
                             ]
                         },
                         {
@@ -11589,7 +11589,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Silk undergarments? I've never even seen\nsuch luxury items. There's also been a\nban on extravagance, you know.\\n< Item Shopkeeper >"
+                                "Silk undergarments? I've never even seen such\nluxury items. There's also been a ban on\nextravagance, you know.\\n< Item Shopkeeper>"
                             ]
                         },
                         {
@@ -11613,7 +11613,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Serena >...I see. Can't be helped. My hopes\naren't high, but I suppose I'll ask the\nweapon shop owner then."
+                                "\\n< Serena >...I see. Can't be helped. My hopes aren't high,\nbut I suppose I'll ask the weapon shop owner then."
                             ]
                         },
                         {
@@ -12061,7 +12061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Could this landscape be Grazia? It's\nbeen about a week since I ran away.\\n< Serena >"
+                                "Could this landscape be Grazia? It's been about a\nweek since I ran away.\\n< Serena >"
                             ]
                         },
                         {
@@ -12078,7 +12078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I wonder how angry Father and Mother\nmust be by now. And my elder sister...\\n< Serena >"
+                                "I wonder how angry Father and Mother must be by\nnow. And my elder sister...\\n< Serena >"
                             ]
                         },
                         {
@@ -12558,7 +12558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I could buy it... but it would just be\nextra baggage. I'll pass.\\n< Serena >"
+                                "I could buy it... but it would just be extra\nbaggage. I'll pass.\\n< Serena >"
                             ]
                         },
                         {
@@ -12816,7 +12816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I wonder what it is... There seem to be\nsome seeds inside. I don't really\nunderstand, so I'll leave it be.\\n< Serena >"
+                                "I wonder what it is... There seem to be some seeds\ninside. I don't really understand, so I'll leave\nit be.\\n< Serena >"
                             ]
                         },
                         {
@@ -13074,7 +13074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I've already graduated from this.\nBesides, my Marianne is cuter than this\none.\\n< Serena >"
+                                "I've already graduated from this. Besides, my\nMarianne is cuter than this one.\\n< Serena >"
                             ]
                         },
                         {
@@ -13203,7 +13203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "How should I eat it if I bought it like\nthis... Maybe I could ask the innkeeper\nto... No, I don't want to go through all\nthat trouble just to eat it.\\n< Serena >"
+                                "How should I eat it if I bought it like this...\nMaybe I could ask the innkeeper to... No, I don't\nwant to go through all that trouble just to eat\nit.\\n< Serena >"
                             ]
                         },
                         {
@@ -13315,7 +13315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Wow, look at all these medicines lined\nup.\\n< Serena >"
+                                "Wow, look at all these medicines lined up.\\n< Serena >"
                             ]
                         },
                         {
@@ -13332,7 +13332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Bruise ointment... antiseptic for\ncuts...\\n< Serena >"
+                                "Bruise ointment... antiseptic for cuts...\\n< Serena >"
                             ]
                         },
                         {
@@ -13366,7 +13366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It seems like a mix of practical\nmedicines, suspicious ones, and some\nthat are completely unrecognizable.\\n< Serena >"
+                                "It seems like a mix of practical medicines,\nsuspicious ones, and some that are completely\nunrecognizable.\\n< Serena >"
                             ]
                         },
                         {
@@ -13495,7 +13495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm interested, but... some of them seem\nto be floating or discolored...\\n< Serena >"
+                                "I'm interested, but... some of them seem to be\nfloating or discolored...\\n< Serena >"
                             ]
                         },
                         {
@@ -13641,7 +13641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It seems that magic activates just by\nreading it, but it's not very good for\nthe brain.\\n< Serena >"
+                                "It seems that magic activates just by reading it,\nbut it's not very good for the brain.\\n< Serena >"
                             ]
                         },
                         {
@@ -13899,7 +13899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Probably used for compounding medicines\nor selling them by weight.\\n< Serena >"
+                                "Probably used for compounding medicines or selling\nthem by weight.\\n< Serena >"
                             ]
                         },
                         {
@@ -14028,7 +14028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A study on monoalphabetic substitution\nciphers.\\n< Serena >"
+                                "A study on monoalphabetic substitution ciphers.\\n< Serena >"
                             ]
                         },
                         {
@@ -14045,7 +14045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah, such a captivating title... But if I\nread it now, I'll surely waste two or\nthree days...\\n< Serena >"
+                                "Ah, such a captivating title... But if I read it\nnow, I'll surely waste two or three days...\\n< Serena >"
                             ]
                         },
                         {
@@ -14062,7 +14062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Should I have it set aside for me... No,\nthat's no good. It's just lingering\nattachment. I must give it up cleanly.\\n< Serena >"
+                                "Should I have it set aside for me... No, that's no\ngood. It's just lingering attachment. I must give\nit up cleanly.\\n< Serena >"
                             ]
                         },
                         {
@@ -14191,7 +14191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This must be the brain transcription\ntype.\\n< Serena >"
+                                "This must be the brain transcription type.\\n< Serena >"
                             ]
                         },
                         {
@@ -14208,7 +14208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It seems anyone can buy it casually, but\nif they knew how it works, it might be\ntoo terrifying for anyone to use.\\n< Serena >"
+                                "It seems anyone can buy it casually, but if they\nknew how it works, it might be too terrifying for\nanyone to use.\\n< Serena >"
                             ]
                         },
                         {
@@ -14337,7 +14337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Healing magic has been dissolved into\nthe liquid.\\n< Serena >"
+                                "Healing magic has been dissolved into the liquid.\\n< Serena >"
                             ]
                         },
                         {
@@ -14354,7 +14354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The effect is significantly reduced, but\nit's still very convenient since it can\nbe used by anyone at any time without\nconsuming magic power, just by drinking\nit.\\n< Serena >"
+                                "The effect is significantly reduced, but it's\nstill very convenient since it can be used by\nanyone at any time without consuming magic power,\njust by drinking it.\\n< Serena >"
                             ]
                         },
                         {
@@ -14500,7 +14500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ugh, don't look at me with those eyes...\nI cannot take you on such a harsh\njourney...\\n< Serena >"
+                                "Ugh, don't look at me with those eyes... I cannot\ntake you on such a harsh journey...\\n< Serena >"
                             ]
                         },
                         {
@@ -14629,7 +14629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No, a futon... It seems to be something\ncalled a sleeping bag.\\n< Serena >"
+                                "No, a futon... It seems to be something called a\nsleeping bag.\\n< Serena >"
                             ]
                         },
                         {
@@ -14646,7 +14646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "To sleep wrapped up in this? I can't\nunderstand such a hobby.\\n< Serena >"
+                                "To sleep wrapped up in this? I can't understand\nsuch a hobby.\\n< Serena >"
                             ]
                         },
                         {
@@ -14775,7 +14775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So I adjust the weight by pouring water\ninto this bottle?\\n< Serena >"
+                                "So I adjust the weight by pouring water into this\nbottle?\\n< Serena >"
                             ]
                         },
                         {
@@ -14792,7 +14792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It seems rather inconvenient, but I\nwonder how it'll turn out.\\n< Serena >"
+                                "It seems rather inconvenient, but I wonder how\nit'll turn out.\\n< Serena >"
                             ]
                         },
                         {
@@ -14921,7 +14921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's filled with something like black\niron or sand.\\n< Serena >"
+                                "It's filled with something like black iron or\nsand.\\n< Serena >"
                             ]
                         },
                         {
@@ -15084,7 +15084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There's blueberry sauce. Maybe I'll buy\nsome and have it spread on my breakfast\ntomorrow...\\n< Serena >"
+                                "There's blueberry sauce. Maybe I'll buy some and\nhave it spread on my breakfast tomorrow...\\n< Serena >"
                             ]
                         },
                         {
@@ -15213,7 +15213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sewing kits, rope, candles. Cloth and\nflint, too. There's quite a variety.\\n< Serena >"
+                                "Sewing kits, rope, candles. Cloth and flint, too.\nThere's quite a variety.\\n< Serena >"
                             ]
                         },
                         {
@@ -15230,7 +15230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well, it's not like I can use any of\nthese. No point in looking.\\n< Serena >"
+                                "Well, it's not like I can use any of these. No\npoint in looking.\\n< Serena >"
                             ]
                         },
                         {
@@ -15359,7 +15359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sewing kits, rope, candles, cloth, and\nflint. There's quite a variety.\\n< Serena >"
+                                "Sewing kits, rope, candles, cloth, and flint.\nThere's quite a variety.\\n< Serena >"
                             ]
                         },
                         {
@@ -15376,7 +15376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well, it's not like I can use any of\nthese. No point in looking.\\n< Serena >"
+                                "Well, it's not like I can use any of these. No\npoint in looking.\\n< Serena >"
                             ]
                         },
                         {
@@ -15522,7 +15522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There's blueberry sauce. Maybe I'll buy\nsome and have it spread on tomorrow's\nbreakfast...\\n< Serena >"
+                                "There's blueberry sauce. Maybe I'll buy some and\nhave it spread on tomorrow's breakfast...\\n< Serena >"
                             ]
                         },
                         {
@@ -15651,7 +15651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sewing kits, rope, candles. Cloth and\nflint. There's quite a variety.\\n< Serena >"
+                                "Sewing kits, rope, candles. Cloth and flint.\nThere's quite a variety.\\n< Serena >"
                             ]
                         },
                         {
@@ -15668,7 +15668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well, it's not like I can use any of\nthese. No point in looking.\\n< Serena >"
+                                "Well, it's not like I can use any of these. No\npoint in looking.\\n< Serena >"
                             ]
                         },
                         {
@@ -15797,7 +15797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I understand it can be quite useful, but\nI doubt I'll ever have a use for it.\\n< Serena >"
+                                "I understand it can be quite useful, but I doubt\nI'll ever have a use for it.\\n< Serena >"
                             ]
                         },
                         {
@@ -16055,7 +16055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm not very discerning with swords...\nbut it seems to be of mediocre quality.\\n< Serena >"
+                                "I'm not very discerning with swords... but it\nseems to be of mediocre quality.\\n< Serena >"
                             ]
                         },
                         {
@@ -16201,7 +16201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's not a weapon befitting a noble.\nNaturally, I can't use it either.\\n< Serena >"
+                                "It's not a weapon befitting a noble. Naturally, I\ncan't use it either.\\n< Serena >"
                             ]
                         },
                         {
@@ -16330,7 +16330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A whip, huh... By the way, when do you\nuse such a weapon?\\n< Serena >"
+                                "A whip, huh... By the way, when do you use such a\nweapon?\\n< Serena >"
                             ]
                         },
                         {
@@ -16476,7 +16476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's used to smash hard objects like\nrocks. It's mainly used for expanding\nfields or digging through mines.\\n< Serena >"
+                                "It's used to smash hard objects like rocks. It's\nmainly used for expanding fields or digging\nthrough mines.\\n< Serena >"
                             ]
                         },
                         {
@@ -16622,7 +16622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It withstands rain and wind, and also\nprotects the skin from the sunlight.\\n< Serena >"
+                                "It withstands rain and wind, and also protects the\nskin from the sunlight.\\n< Serena >"
                             ]
                         },
                         {
@@ -16639,7 +16639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I want to wear it over my clothes too,\nbut the Affabilis repels it. Hmm...\\n< Serena >"
+                                "I want to wear it over my clothes too, but the\nAffabilis repels it. Hmm...\\n< Serena >"
                             ]
                         },
                         {
@@ -16768,7 +16768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It looks like it would make a nice sound\nif I hit it, but I should refrain from\ndoing that in front of the shopkeeper.\\n< Serena >"
+                                "It looks like it would make a nice sound if I hit\nit, but I should refrain from doing that in front\nof the shopkeeper.\\n< Serena >"
                             ]
                         },
                         {
@@ -16897,7 +16897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A crystallization of modern technology.\nIt boasts high defense while the armor\nitself supports its own weight to some\nextent, making it easier to move in than\nother armors.\\n< Serena >"
+                                "A crystallization of modern technology. It boasts\nhigh defense while the armor itself supports its\nown weight to some extent, making it easier to\nmove in than other armors.\\n< Serena >"
                             ]
                         },
                         {
@@ -16914,7 +16914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The surface is inscribed with fine\nmagical symbols, providing a decent\ndefense against magical attacks as well.\\n< Serena >"
+                                "The surface is inscribed with fine magical\nsymbols, providing a decent defense against\nmagical attacks as well.\\n< Serena >"
                             ]
                         },
                         {
@@ -17060,7 +17060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The armor is coated with gold that has a\nhigh magical conductivity, making it\neasier to use magic and enhancing its\npower.\\n< Serena >"
+                                "The armor is coated with gold that has a high\nmagical conductivity, making it easier to use\nmagic and enhancing its power.\\n< Serena >"
                             ]
                         },
                         {
@@ -17077,7 +17077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "However, this also means that it's more\nsusceptible to the opponent's magical\nattacks. Magical defense will have to be\nresisted by the wearer's own power.\\n< Serena >"
+                                "However, this also means that it's more\nsusceptible to the opponent's magical attacks.\nMagical defense will have to be resisted by the\nwearer's own power.\\n< Serena >"
                             ]
                         },
                         {
@@ -17094,7 +17094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well, it goes without saying that I\ncan't equip it.\\n< Serena >"
+                                "Well, it goes without saying that I can't equip\nit.\\n< Serena >"
                             ]
                         },
                         {
@@ -17223,7 +17223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I should make it clear that I can't see\nat all what's on top of this shelf from\nwhere I am.\\n< Serena >"
+                                "I should make it clear that I can't see at all\nwhat's on top of this shelf from where I am.\\n< Serena >"
                             ]
                         },
                         {

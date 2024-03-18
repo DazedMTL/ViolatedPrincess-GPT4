@@ -6531,7 +6531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I, Serena Fuoco R. Brillante D. La\nGratia, have arrived...\\n< Serena >"
+                                "I, Serena Fuoco R. Brillante D. La Gratia, have\narrived...\\n< Serena >"
                             ]
                         },
                         {
@@ -6577,7 +6577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >I will no longer tolerate such violent\natrocities."
+                                "\\n< Serena >I will no longer tolerate such violent atrocities."
                             ]
                         },
                         {
@@ -6623,7 +6623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >If you scatter and flee, I won't bother\nto chase you..."
+                                "\\n< Serena >If you scatter and flee, I won't bother to chase\nyou..."
                             ]
                         },
                         {
@@ -6815,7 +6815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >It seems you're not inclined to do so.\nVery well."
+                                "\\n< Serena >It seems you're not inclined to do so. Very well."
                             ]
                         },
                         {
@@ -6872,7 +6872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The god who illuminates this world shall\ntake your life and grant you a shameful\ndeath!\\n< Serena >"
+                                "The god who illuminates this world shall take your\nlife and grant you a shameful death!\\n< Serena >"
                             ]
                         },
                         {
@@ -10224,7 +10224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >...This is bad. Most of the magic has\ncome undone."
+                                "\\n< Serena >...This is bad. Most of the magic has come undone."
                             ]
                         },
                         {
@@ -11185,7 +11185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >You can relax now. They've left. Are you\nhurt?"
+                                "\\n< Serena >You can relax now. They've left. Are you hurt?"
                             ]
                         },
                         {
@@ -11276,7 +11276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ye-yes! Thanks to you, not a single\nscratch...!\\n< Female >"
+                                "Ye-yes! Thanks to you, not a single scratch...!\\n< Female >"
                             ]
                         },
                         {
@@ -11663,7 +11663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...I don't know the way. May I ask you\nto guide me?\\n< Serena >"
+                                "...I don't know the way. May I ask you to guide\nme?\\n< Serena >"
                             ]
                         },
                         {

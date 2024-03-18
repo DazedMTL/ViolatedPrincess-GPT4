@@ -13803,7 +13803,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I don't want to go back... I must\nescape...!\\n< Serena >"
+                                "I don't want to go back... I must escape...!\\n< Serena >"
                             ]
                         },
                         {
@@ -14170,7 +14170,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Don't be afraid... We must fight. How\ncan we overcome difficulties if we flee\nfrom the fear before us!\\n< Serena >"
+                                "Don't be afraid... We must fight. How can we\novercome difficulties if we flee from the fear\nbefore us!\\n< Serena >"
                             ]
                         },
                         {
@@ -14691,7 +14691,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "There's no need to go beyond here right\nnow.\\n< Serena >"
+                                "There's no need to go beyond here right now.\\n< Serena >"
                             ]
                         },
                         {
@@ -14958,7 +14958,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "There's no need to go beyond here right\nnow.\\n< Serena >"
+                                "There's no need to go beyond here right now.\\n< Serena >"
                             ]
                         },
                         {

@@ -9300,7 +9300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ugh, uwoah-!!! Goblins, brace\nyourselves-!\\n< Marilou >"
+                                "Ugh, uwoah-!!! Goblins, brace yourselves-!\\n< Marilou >"
                             ]
                         },
                         {
@@ -9363,7 +9363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's the girl from the guild...? Was\nshe also taking on a goblin\nextermination request?\\n< Serena >"
+                                "That's the girl from the guild...? Was she also\ntaking on a goblin extermination request?\\n< Serena >"
                             ]
                         },
                         {
@@ -10010,7 +10010,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Alright. The subjugation is complete.\nLet's go report back to the guild.\\n< Serena >"
+                                "Alright. The subjugation is complete. Let's go\nreport back to the guild.\\n< Serena >"
                             ]
                         },
                         {

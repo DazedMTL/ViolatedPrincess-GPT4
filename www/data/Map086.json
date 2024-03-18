@@ -2863,7 +2863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There were two or three books that I\nhaven't even seen in my own study.\\n< Serena >"
+                                "There were two or three books that I haven't even\nseen in my own study.\\n< Serena >"
                             ]
                         },
                         {
@@ -2888,7 +2888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I would like to ask for them to be put\non hold, but...\\n< Serena >"
+                                "I would like to ask for them to be put on hold,\nbut...\\n< Serena >"
                             ]
                         },
                         {
@@ -2913,7 +2913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'll do it! I'll put them on hold! Which\nones are they?! I'll keep them safe!\\n< Tim >"
+                                "I'll do it! I'll put them on hold! Which ones are\nthey?! I'll keep them safe!\\n< Tim >"
                             ]
                         },
                         {
@@ -2938,7 +2938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No, that won't be possible. My current\nsituation is unstable, and I can't be\nsure when I'll be able to come and buy\nthem.\\n< Serena >"
+                                "No, that won't be possible. My current situation\nis unstable, and I can't be sure when I'll be able\nto come and buy them.\\n< Serena >"
                             ]
                         },
                         {
@@ -2963,7 +2963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It would be a nuisance to the store.\nOnce things have settled down, I'll come\nback and ask again.\\n< Serena >"
+                                "It would be a nuisance to the store. Once things\nhave settled down, I'll come back and ask again.\\n< Serena >"
                             ]
                         },
                         {
@@ -3013,7 +3013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But that's amazing. To have two or three\nbooks you've never seen means you must\nhave a study as extensive as our\ncollection, right?\\n< Tim >"
+                                "But that's amazing. To have two or three books\nyou've never seen means you must have a study as\nextensive as our collection, right?\\n< Tim >"
                             ]
                         },
                         {
@@ -3087,7 +3087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh, I've slipped up. Tim-dono, please\nkeep what I just said confidential.\\n< Serena >"
+                                "Oh, I've slipped up. Tim-dono, please keep what I\njust said confidential.\\n< Serena >"
                             ]
                         },
                         {
@@ -3112,7 +3112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Just now? You mean about putting books\non hold?\\n< Tim >"
+                                "Just now? You mean about putting books on hold?\\n< Tim >"
                             ]
                         },
                         {
@@ -3162,7 +3162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Ah, right. When you think about it,\nowning so many expensive books\npersonally, just how much...\\n< Tim >"
+                                "...Ah, right. When you think about it, owning so\nmany expensive books personally, just how much...\\n< Tim >"
                             ]
                         },
                         {
@@ -3212,7 +3212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh, sorry. But there's no one else\nhere...\\n< Tim >"
+                                "Oh, sorry. But there's no one else here...\\n< Tim >"
                             ]
                         },
                         {
@@ -3237,7 +3237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Even so. I regret involving you in my\nslip of the tongue...\\n< Serena >"
+                                "Even so. I regret involving you in my slip of the\ntongue...\\n< Serena >"
                             ]
                         },
                         {
@@ -3262,7 +3262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ahaha. It's okay. I'll sew my mouth\nshut. I won't mention it again.\\n< Tim >"
+                                "Ahaha. It's okay. I'll sew my mouth shut. I won't\nmention it again.\\n< Tim >"
                             ]
                         },
                         {
@@ -3323,7 +3323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Understood... But then, this means,\nthat...\\n< Tim >"
+                                "Understood... But then, this means, that...\\n< Tim >"
                             ]
                         },
                         {
@@ -3373,7 +3373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's a secret just between the two of\nus, right?\\n< Tim >"
+                                "It's a secret just between the two of us, right?\\n< Tim >"
                             ]
                         },
                         {
@@ -3398,7 +3398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Uh... Well? I suppose that's what it\namounts to.\\n< Serena >"
+                                "Uh... Well? I suppose that's what it amounts to.\\n< Serena >"
                             ]
                         },
                         {
@@ -3473,7 +3473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "S-sorry. My face just... breaks into a\nsmile.\\n< Tim >"
+                                "S-sorry. My face just... breaks into a smile.\\n< Tim >"
                             ]
                         },
                         {
@@ -3725,7 +3725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No need, I can't stay long, I must be\ngoing now...\\n< Serena >"
+                                "No need, I can't stay long, I must be going now...\\n< Serena >"
                             ]
                         },
                         {
@@ -4332,7 +4332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sorry, but the clerk has stepped out for\na moment. He should be back shortly.\\n< Serena >"
+                                "Sorry, but the clerk has stepped out for a moment.\nHe should be back shortly.\\n< Serena >"
                             ]
                         },
                         {
@@ -4367,7 +4367,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I see. And you? What does a pregnant\nlady need here?\\n< Burdan >"
+                                "I see. And you? What does a pregnant lady need\nhere?\\n< Burdan >"
                             ]
                         },
                         {
@@ -4437,7 +4437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...The reason for coming to a bookstore\nwould be to look at books, nothing else.\\n< Serena >"
+                                "...The reason for coming to a bookstore would be\nto look at books, nothing else.\\n< Serena >"
                             ]
                         },
                         {
@@ -4995,7 +4995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yes! He's a... friend...! That's right,\nhim and I are!\\n< Tim >"
+                                "Yes! He's a... friend...! That's right, him and I\nare!\\n< Tim >"
                             ]
                         },
                         {
@@ -5059,7 +5059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Close... we... that is, in various\nways...\\n< Tim >"
+                                "Close... we... that is, in various ways...\\n< Tim >"
                             ]
                         },
                         {
@@ -5109,7 +5109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If it's a visit from a friend, then I\nshouldn't intrude. I should be taking my\nleave soon.\\n< Serena >"
+                                "If it's a visit from a friend, then I shouldn't\nintrude. I should be taking my leave soon.\\n< Serena >"
                             ]
                         },
                         {
@@ -5127,7 +5127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Actually, I have another appointment\nafter this. I didn't have much time to\nbegin with.\\n< Serena >"
+                                "Actually, I have another appointment after this. I\ndidn't have much time to begin with.\\n< Serena >"
                             ]
                         },
                         {
@@ -5152,7 +5152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I apologize for having you make tea for\nme.\\n< Serena >"
+                                "I apologize for having you make tea for me.\\n< Serena >"
                             ]
                         },
                         {
@@ -5209,7 +5209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'll stop by again when I have more\ntime.\\n< Serena >"
+                                "I'll stop by again when I have more time.\\n< Serena >"
                             ]
                         },
                         {
@@ -5779,7 +5779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah, w-welcome, Serena-san. Please make\nyourself comfortable!\\n< Tim >"
+                                "Ah, w-welcome, Serena-san. Please make yourself\ncomfortable!\\n< Tim >"
                             ]
                         },
                         {
@@ -6441,7 +6441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Ahahaha! Oh no, a customer... I'm\nsorry!\\n< Boy >"
+                                "...Ahahaha! Oh no, a customer... I'm sorry!\\n< Boy >"
                             ]
                         },
                         {
@@ -6501,7 +6501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh, I-I'm sorry. I-I'm not the\nshopkeeper, just the clerk...\\n< Boy >"
+                                "Oh, I-I'm sorry. I-I'm not the shopkeeper, just\nthe clerk...\\n< Boy >"
                             ]
                         },
                         {
@@ -6526,7 +6526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hm? Is that so? Then where is the\nshopkeeper...\\n< Serena >"
+                                "Hm? Is that so? Then where is the shopkeeper...\\n< Serena >"
                             ]
                         },
                         {
@@ -6584,7 +6584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "They've gone out to procure goods and\nwon't be back for a while...\\n< Boy >"
+                                "They've gone out to procure goods and won't be\nback for a while...\\n< Boy >"
                             ]
                         },
                         {
@@ -6640,7 +6640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh, are you looking to sell? If it's\nlisted in the catalog, I can offer you a\nprice...\\n< Boy >"
+                                "Oh, are you looking to sell? If it's listed in the\ncatalog, I can offer you a price...\\n< Boy >"
                             ]
                         },
                         {
@@ -6723,7 +6723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Wow, it's in the original language...\nUh, the title is... \"The Freedom of\nNatural Instinct\"... maybe?\\n< Boy >"
+                                "Wow, it's in the original language... Uh, the\ntitle is... \"The Freedom of Natural Instinct\"...\nmaybe?\\n< Boy >"
                             ]
                         },
                         {
@@ -6747,7 +6747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The original language is only on the\ncover.\\n< Serena >"
+                                "The original language is only on the cover.\\n< Serena >"
                             ]
                         },
                         {
@@ -6793,7 +6793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh, you're right... and there's so much\nwriting inside...\\n< Boy >"
+                                "Oh, you're right... and there's so much writing\ninside...\\n< Boy >"
                             ]
                         },
                         {
@@ -6841,7 +6841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No, this is quite normal. It's rarer to\nfind a book that's brand new...\\n< Boy >"
+                                "No, this is quite normal. It's rarer to find a\nbook that's brand new...\\n< Boy >"
                             ]
                         },
                         {
@@ -6858,7 +6858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But um... I'm sorry, it seems this book\nisn't listed in our catalog...\\n< Boy >"
+                                "But um... I'm sorry, it seems this book isn't\nlisted in our catalog...\\n< Boy >"
                             ]
                         },
                         {
@@ -6893,7 +6893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If the manager were here, they might be\nable to set a price for it...\\n< Boy >"
+                                "If the manager were here, they might be able to\nset a price for it...\\n< Boy >"
                             ]
                         },
                         {
@@ -6950,7 +6950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I see... Well, I wasn't expecting much.\nIf you can't buy it, that's fine.\\n< Serena >"
+                                "I see... Well, I wasn't expecting much. If you\ncan't buy it, that's fine.\\n< Serena >"
                             ]
                         },
                         {
@@ -7081,7 +7081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yes. Books are good. They nourish the\nbrain. A good book is like a fine meal.\\n< Serena >"
+                                "Yes. Books are good. They nourish the brain. A\ngood book is like a fine meal.\\n< Serena >"
                             ]
                         },
                         {
@@ -7127,7 +7127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ehehe, you say such nice things. My own\ntheory is that books are edible.\\n< Boy >"
+                                "Ehehe, you say such nice things. My own theory is\nthat books are edible.\\n< Boy >"
                             ]
                         },
                         {
@@ -7159,7 +7159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It seems we have similar tastes. My name\nis Serena. I'm an adventurer.\\n< Serena >"
+                                "It seems we have similar tastes. My name is\nSerena. I'm an adventurer.\\n< Serena >"
                             ]
                         },
                         {
@@ -7206,7 +7206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh, what do we have here. My name is\nTim.\\n< Tim >"
+                                "Oh, what do we have here. My name is Tim.\\n< Tim >"
                             ]
                         },
                         {
@@ -7223,7 +7223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm sort of an adventurer too. I'm not\ngood with rough stuff, so I mostly take\non these kinds of errands...\\n< Tim >"
+                                "I'm sort of an adventurer too. I'm not good with\nrough stuff, so I mostly take on these kinds of\nerrands...\\n< Tim >"
                             ]
                         },
                         {
@@ -7247,7 +7247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Is that so? Then perhaps we've crossed\npaths at the guild without knowing it.\\n< Serena >"
+                                "Is that so? Then perhaps we've crossed paths at\nthe guild without knowing it.\\n< Serena >"
                             ]
                         },
                         {
@@ -7293,7 +7293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well, I wonder about that. I don't\nreally like the atmosphere there... I\ntry to avoid going if I can...\\n< Tim >"
+                                "Well, I wonder about that. I don't really like the\natmosphere there... I try to avoid going if I\ncan...\\n< Tim >"
                             ]
                         },
                         {
@@ -7317,7 +7317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Haha, I feel the same way. The\natmosphere there isn't great. First off,\nthe air is bad. And the lighting too.\\n< Serena >"
+                                "Haha, I feel the same way. The atmosphere there\nisn't great. First off, the air is bad. And the\nlighting too.\\n< Serena >"
                             ]
                         },
                         {
@@ -7364,7 +7364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It feels like an adult's world, doesn't\nit?\\n< Tim >"
+                                "It feels like an adult's world, doesn't it?\\n< Tim >"
                             ]
                         },
                         {
@@ -7389,7 +7389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Bad adults... Ah, we've ended up talking\nabout nothing of substance.\\n< Serena >"
+                                "Bad adults... Ah, we've ended up talking about\nnothing of substance.\\n< Serena >"
                             ]
                         },
                         {
@@ -7406,7 +7406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sorry, but I must hurry along. It was\nenjoyable but I can't stay and chat for\nlong.\\n< Serena >"
+                                "Sorry, but I must hurry along. It was enjoyable\nbut I can't stay and chat for long.\\n< Serena >"
                             ]
                         },
                         {
@@ -7463,7 +7463,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Is that so? You seem to have quite the\nbelly on you... must be tough...\\n< Tim >"
+                                "Is that so? You seem to have quite the belly on\nyou... must be tough...\\n< Tim >"
                             ]
                         },
                         {
@@ -7533,7 +7533,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "If you don't mind, please come again.\nPregnant women can't move around much,\nright? Books could surely be of help to\nyou.\\n< Tim >"
+                                "If you don't mind, please come again. Pregnant\nwomen can't move around much, right? Books could\nsurely be of help to you.\\n< Tim >"
                             ]
                         },
                         {
@@ -7636,7 +7636,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "If you'd like, please come again. The\nmanager won't be back for a while, but\nwe're always updating our stock of\nbooks...\\n< Tim >"
+                                "If you'd like, please come again. The manager\nwon't be back for a while, but we're always\nupdating our stock of books...\\n< Tim >"
                             ]
                         },
                         {
@@ -7663,7 +7663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If you love books, I think you'll enjoy\nour store... that's what I believe,\nanyway...\\n< Tim >"
+                                "If you love books, I think you'll enjoy our\nstore... that's what I believe, anyway...\\n< Tim >"
                             ]
                         },
                         {
@@ -7687,7 +7687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hmm. If I find the time, I'll make sure\nto stop by again.\\n< Serena >"
+                                "Hmm. If I find the time, I'll make sure to stop by\nagain.\\n< Serena >"
                             ]
                         },
                         {
@@ -8042,7 +8042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What a cute girl she is. Eyes as red as\nrubies.\\n< Tim >"
+                                "What a cute girl she is. Eyes as red as rubies.\\n< Tim >"
                             ]
                         },
                         {
@@ -8235,7 +8235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Now, it's about time to return to the\nbrothel. I wonder what this new job will\nentail...\\n< Serena >"
+                                "Now, it's about time to return to the brothel. I\nwonder what this new job will entail...\\n< Serena >"
                             ]
                         },
                         {
@@ -8593,7 +8593,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "That is... something I would prefer not\nto be touched upon...\\n< Serena >"
+                                "That is... something I would prefer not to be\ntouched upon...\\n< Serena >"
                             ]
                         },
                         {
@@ -8617,7 +8617,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ah, s-s-s-sorry...! Right, of course...!\nHa ha...!\\n< Tim >"
+                                "Ah, s-s-s-sorry...! Right, of course...! Ha ha...!\\n< Tim >"
                             ]
                         },
                         {
@@ -8641,7 +8641,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Perhaps it was rude of me to visit the\nshop with such a figure...\\n< Serena >"
+                                "Perhaps it was rude of me to visit the shop with\nsuch a figure...\\n< Serena >"
                             ]
                         },
                         {
@@ -8701,7 +8701,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I believe I mentioned I would come by\nagain.\\n< Serena >"
+                                "I believe I mentioned I would come by again.\\n< Serena >"
                             ]
                         },
                         {
@@ -8821,7 +8821,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Thank you. For some reason, I had an\nirresistible urge to pick up a book...\\n< Serena >"
+                                "Thank you. For some reason, I had an irresistible\nurge to pick up a book...\\n< Serena >"
                             ]
                         },
                         {
@@ -8855,7 +8855,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Well then, I shall take a brief look at\nyour bookshelves. Alas, I don't have\nmuch time to stay long.\\n< Serena >"
+                                "Well then, I shall take a brief look at your\nbookshelves. Alas, I don't have much time to stay\nlong.\\n< Serena >"
                             ]
                         },
                         {
@@ -8952,7 +8952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Now then... I shall take you up on your\nkind offer.\\n< Serena >"
+                                "Now then... I shall take you up on your kind\noffer.\\n< Serena >"
                             ]
                         },
                         {
@@ -9614,7 +9614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah... he's got some work to do. He's in\nthe back right now.\\n< Burdan >"
+                                "Ah... he's got some work to do. He's in the back\nright now.\\n< Burdan >"
                             ]
                         },
                         {
@@ -9632,7 +9632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So, Burdan-san, you're taking over the\nshop in his stead?\\n< Serena >"
+                                "So, Burdan-san, you're taking over the shop in his\nstead?\\n< Serena >"
                             ]
                         },
                         {
@@ -9667,7 +9667,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Well, something like that. What does a\npregnant lady like you want with him?\\n< Burdan >"
+                                "Well, something like that. What does a pregnant\nlady like you want with him?\\n< Burdan >"
                             ]
                         },
                         {
@@ -9702,7 +9702,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Yeah, something like that. You need Tim?\nUnfortunately, he's tied up right now\nand can't come out.\\n< Burdan >"
+                                "Yeah, something like that. You need Tim?\nUnfortunately, he's tied up right now and can't\ncome out.\\n< Burdan >"
                             ]
                         },
                         {
@@ -9736,7 +9736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No, it's not so important. I just\nhappened to be in the neighborhood.\\n< Serena >"
+                                "No, it's not so important. I just happened to be\nin the neighborhood.\\n< Serena >"
                             ]
                         },
                         {
@@ -9786,7 +9786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What is it? You've been acting strange\nsince a while ago.\\n< Serena >"
+                                "What is it? You've been acting strange since a\nwhile ago.\\n< Serena >"
                             ]
                         },
                         {
@@ -9821,7 +9821,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Well, when a cute girl like you comes by\nwith such a big belly, it'd be rude not\nto look.\\n< Burdan >"
+                                "Well, when a cute girl like you comes by with such\na big belly, it'd be rude not to look.\\n< Burdan >"
                             ]
                         },
                         {
@@ -9881,7 +9881,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You must be used to being looked at,\nwith that eye-catching appearance of\nyours. You get stared at just walking\ndown the street, right?\\n< Burdan >"
+                                "You must be used to being looked at, with that\neye-catching appearance of yours. You get stared\nat just walking down the street, right?\\n< Burdan >"
                             ]
                         },
                         {
@@ -9912,7 +9912,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...I don't have the luxury to care about\nthe public eye. Not in my current state.\\n< Serena >"
+                                "...I don't have the luxury to care about the\npublic eye. Not in my current state.\\n< Serena >"
                             ]
                         },
                         {
@@ -9936,7 +9936,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Laugh if you want. I must look quite\nunsightly.\\n< Serena >"
+                                "Laugh if you want. I must look quite unsightly.\\n< Serena >"
                             ]
                         },
                         {
@@ -9996,7 +9996,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "It's only polite to give a good look\nwhen a cute girl is around, right?\\n< Burdan >"
+                                "It's only polite to give a good look when a cute\ngirl is around, right?\\n< Burdan >"
                             ]
                         },
                         {
@@ -10057,7 +10057,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You must be used to being looked at,\nwith that eye-catching appearance of\nyours. You get stared at just walking\ndown the street, right?\\n< Burdan >"
+                                "You must be used to being looked at, with that\neye-catching appearance of yours. You get stared\nat just walking down the street, right?\\n< Burdan >"
                             ]
                         },
                         {
@@ -10089,7 +10089,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...I haven't paid it any mind. I usually\ndon't interact with people, and right\nnow, I'm rather preoccupied.\\n< Serena >"
+                                "...I haven't paid it any mind. I usually don't\ninteract with people, and right now, I'm rather\npreoccupied.\\n< Serena >"
                             ]
                         },
                         {
@@ -10114,7 +10114,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I don't have the luxury to pay attention\nto my surroundings... Does my attire\nreally stand out that much?\\n< Serena >"
+                                "I don't have the luxury to pay attention to my\nsurroundings... Does my attire really stand out\nthat much?\\n< Serena >"
                             ]
                         },
                         {
@@ -10199,7 +10199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Just thinking you look delicious, that's\nall.\\n< Burdan >"
+                                "Just thinking you look delicious, that's all.\\n< Burdan >"
                             ]
                         },
                         {
@@ -10565,7 +10565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Burdan-san, the preparations are\nfinished... well...\\n< Tim >"
+                                "Burdan-san, the preparations are finished...\nwell...\\n< Tim >"
                             ]
                         },
                         {
@@ -10752,7 +10752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sorry, Serena-chan. I've got to clean up\nthe back soon.\\n< Burdan >"
+                                "Sorry, Serena-chan. I've got to clean up the back\nsoon.\\n< Burdan >"
                             ]
                         },
                         {
@@ -10826,7 +10826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah, ye-yes! Th-that's... right! And so,\nI was hoping Burdan-san could help...\\n< Tim >"
+                                "Ah, ye-yes! Th-that's... right! And so, I was\nhoping Burdan-san could help...\\n< Tim >"
                             ]
                         },
                         {
@@ -11068,7 +11068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Understood. In that case, I'll come\nback another day. It's not as if I had\nany pressing matters.\\n< Serena >"
+                                "...Understood. In that case, I'll come back\nanother day. It's not as if I had any pressing\nmatters.\\n< Serena >"
                             ]
                         },
                         {
@@ -11100,7 +11100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...I'm sorry. If you could come again...\nno...\\n< Tim >"
+                                "...I'm sorry. If you could come again... no...\\n< Tim >"
                             ]
                         },
                         {
@@ -11163,7 +11163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "We're about to start taking inventory in\nthe shop. We'll be closed for a little\nwhile.\\n< Burdan >"
+                                "We're about to start taking inventory in the shop.\nWe'll be closed for a little while.\\n< Burdan >"
                             ]
                         },
                         {
@@ -11301,7 +11301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I see. It's unfortunate, but if that's\nthe case, it can't be helped.\\n< Serena >"
+                                "I see. It's unfortunate, but if that's the case,\nit can't be helped.\\n< Serena >"
                             ]
                         },
                         {
@@ -11326,7 +11326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'll make sure to stop by once the shop\nreopens.\\n< Serena >"
+                                "I'll make sure to stop by once the shop reopens.\\n< Serena >"
                             ]
                         },
                         {
@@ -11765,7 +11765,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Let's say goodbye to Tim-sama before we\nhead back.\\n< Serena >"
+                                "Let's say goodbye to Tim-sama before we head back.\\n< Serena >"
                             ]
                         },
                         {
@@ -12019,7 +12019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This seems to be a shelf for poetry\ncollections. \"Quatrain Collection\"...?\nThe binding is oddly eye-catching... but\nnow is not the time to be buying such\nthings.\\n< Serena >"
+                                "This seems to be a shelf for poetry collections.\n\"Quatrain Collection\"...? The binding is oddly\neye-catching... but now is not the time to be\nbuying such things.\\n< Serena >"
                             ]
                         },
                         {
@@ -12148,7 +12148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A shelf for poetry collections. It seems\nto be mostly ancient works. The volumes\nare scattered, but that can't be helped\nsince the originals have been lost.\\n< Serena >"
+                                "A shelf for poetry collections. It seems to be\nmostly ancient works. The volumes are scattered,\nbut that can't be helped since the originals have\nbeen lost.\\n< Serena >"
                             ]
                         },
                         {
@@ -12277,7 +12277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This is the theology section. About half\nof these books I've already read, and\nthe other half I still need to read.\\n< Serena >"
+                                "This is the theology section. About half of these\nbooks I've already read, and the other half I\nstill need to read.\\n< Serena >"
                             ]
                         },
                         {
@@ -12406,7 +12406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This is the theology section. Ah... I\njust remembered I have to work on a\ndissertation about the problem of\nuniversals.\\n< Serena >"
+                                "This is the theology section. Ah... I just\nremembered I have to work on a dissertation about\nthe problem of universals.\\n< Serena >"
                             ]
                         },
                         {
@@ -12535,7 +12535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There are collections of comic books and\nfolktales. I'm a bit interested since I\ndon't get to read them much.\\n< Serena >"
+                                "There are collections of comic books and\nfolktales. I'm a bit interested since I don't get\nto read them much.\\n< Serena >"
                             ]
                         },
                         {
@@ -12664,7 +12664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It seems to be a shelf themed around old\nepics and adventures... but it doesn't\nlook like it'll be useful for work.\\n< Serena >"
+                                "It seems to be a shelf themed around old epics and\nadventures... but it doesn't look like it'll be\nuseful for work.\\n< Serena >"
                             ]
                         },
                         {
@@ -12793,7 +12793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There are practical books like cookbooks\nlined up. A wild plant guidebook...\nMary-sama might be pleased if I give it\nto her.\\n< Serena >"
+                                "There are practical books like cookbooks lined up.\nA wild plant guidebook... Mary-sama might be\npleased if I give it to her.\\n< Serena >"
                             ]
                         },
                         {
@@ -12922,7 +12922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There are books about health. Charms for\ngastroenteritis... The relationship\nbetween the lunar phase and headaches...\\n< Serena >"
+                                "There are books about health. Charms for\ngastroenteritis... The relationship between the\nlunar phase and headaches...\\n< Serena >"
                             ]
                         },
                         {
@@ -12950,7 +12950,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "There are also books about pregnancy.\nShould I buy one... No, if I'm going to\nspend money, it would be better to\nconsult Catherine-sama.\\n< Serena >"
+                                "There are also books about pregnancy. Should I buy\none... No, if I'm going to spend money, it would\nbe better to consult Catherine-sama.\\n< Serena >"
                             ]
                         },
                         {
@@ -12977,7 +12977,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "For now, it seems like these books are\nunnecessary for me.\\n< Serena >"
+                                "For now, it seems like these books are unnecessary\nfor me.\\n< Serena >"
                             ]
                         },
                         {
@@ -13116,7 +13116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's a panoramic view of the royal\ncapital. I wonder who the artist is.\\n< Serena >"
+                                "It's a panoramic view of the royal capital. I\nwonder who the artist is.\\n< Serena >"
                             ]
                         },
                         {
@@ -13245,7 +13245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's a distant view of the capital. I\nwonder who the artist is.\\n< Serena >"
+                                "It's a distant view of the capital. I wonder who\nthe artist is.\\n< Serena >"
                             ]
                         },
                         {
@@ -13374,7 +13374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The Principles of Being... It's an\nancient philosophy book.\\n< Serena >"
+                                "The Principles of Being... It's an ancient\nphilosophy book.\\n< Serena >"
                             ]
                         },
                         {
@@ -13503,7 +13503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Seems like a book that's been read\nhalfway through. It's not very polite to\npeek at someone else's reading.\\n< Serena >"
+                                "Seems like a book that's been read halfway\nthrough. It's not very polite to peek at someone\nelse's reading.\\n< Serena >"
                             ]
                         },
                         {

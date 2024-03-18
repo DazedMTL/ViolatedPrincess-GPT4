@@ -3561,7 +3561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Z Key: Hold down the attack button to\ncharge your attack. You can defend\nagainst enemy attacks while charging. X\nKey: Hold to lock your character's\ndirection. Press Shift while locked to\nperform an emergency evasion."
+                                "Z Key: Hold down the attack button to charge your\nattack. You can defend against enemy attacks while\ncharging. X Key: Hold to lock your character's\ndirection. Press Shift while locked to perform an\nemergency evasion."
                             ]
                         },
                         {

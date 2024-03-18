@@ -1443,7 +1443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...We don't have much of significance\nhere.\\n< Suspicious Tool Shopkeeper >"
+                                "...We don't have much of significance here.\\n< Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -1581,7 +1581,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Welcome. Oh my, what brings a young lady\nlike you to our shop?\\n< Suspicious Tool Shopkeeper >"
+                                "Welcome. Oh my, what brings a young lady like you\nto our shop?\\n< Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -1657,7 +1657,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I've been asked by someone. It's a\nspecial... item... I suppose. Anyway,\nI've come to make a delivery...\\n< Serena >"
+                                "I've been asked by someone. It's a special...\nitem... I suppose. Anyway, I've come to make a\ndelivery...\\n< Serena >"
                             ]
                         },
                         {
@@ -1681,7 +1681,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...Ah, that matter. Yes, we handle such\nthings here... Please, hand it over.\\n< Suspicious Tool Shopkeeper >"
+                                "...Ah, that matter. Yes, we handle such things\nhere... Please, hand it over.\\n< Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -1758,7 +1758,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ho ho. What a plump and healthy baby.\nMhm, the teeth are already coming in.\nThese claws look like they could yield\nsomething good too.\\n< Suspicious Tool Shopkeeper >"
+                                "Ho ho. What a plump and healthy baby. Mhm, the\nteeth are already coming in. These claws look like\nthey could yield something good too.\\n< Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -1806,7 +1806,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The eyes are beautifully shaped as\nwell-. The skull has a wide occipital\nregion, very nice. The mother must have\nbeen of good quality.\\n< Suspicious Tool Shopkeeper >"
+                                "The eyes are beautifully shaped as well-. The\nskull has a wide occipital region, very nice. The\nmother must have been of good quality.\\n< Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -1830,7 +1830,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "That... Something feels off... What will\nhappen to this child? What do you intend\nto do?\\n< Serena >"
+                                "That... Something feels off... What will happen to\nthis child? What do you intend to do?\\n< Serena >"
                             ]
                         },
                         {
@@ -1854,7 +1854,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "What use is there for a goblin, a\nmonster's baby, other than one?\\n< Suspicious Tool Shopkeeper >"
+                                "What use is there for a goblin, a monster's baby,\nother than one?\\n< Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -1871,7 +1871,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...Ah! Of course, a human baby would be\npreferable, yes? But that would be\ntroublesome here. After all, even the\ncity wouldn't stay silent about that.\\n< Suspicious Tool Shopkeeper >"
+                                "...Ah! Of course, a human baby would be\npreferable, yes? But that would be troublesome\nhere. After all, even the city wouldn't stay\nsilent about that.\\n< Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -1888,7 +1888,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Yes, anyway, for our shop, a monster's\nbaby is sufficient. We can meet the\ndemand with that. Yes.\\n< Suspicious Tool Shopkeeper >"
+                                "Yes, anyway, for our shop, a monster's baby is\nsufficient. We can meet the demand with that. Yes.\\n< Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -1905,7 +1905,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "So it really helps us when you bring in\none that's just been born, still alive,\nand of good quality.\\n< Suspicious Tool Shopkeeper >"
+                                "So it really helps us when you bring in one that's\njust been born, still alive, and of good quality.\\n< Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -1953,7 +1953,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Our shop has a give-and-take\nrelationship with adventurers. Please\nconsider us for your future needs.\\n< Suspicious Tool Shopkeeper >"
+                                "Our shop has a give-and-take relationship with\nadventurers. Please consider us for your future\nneeds.\\n< Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -1970,7 +1970,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "And in return for this, take this.\\n< Suspicious Tool Shopkeeper >"
+                                "And in return for this, take this.\\n< Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -2040,7 +2040,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "It's a bit less effective compared to\nthose derived from magic.\\n< Suspicious Tool Shopkeeper >"
+                                "It's a bit less effective compared to those\nderived from magic.\\n< Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -2064,7 +2064,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "A potion... I wonder if it will work for\nmalaise...? Even something like this\nmight help calm that woman down if I\nbring it back and have her drink it.\\n< Serena >"
+                                "A potion... I wonder if it will work for\nmalaise...? Even something like this might help\ncalm that woman down if I bring it back and have\nher drink it.\\n< Serena >"
                             ]
                         },
                         {
@@ -2112,7 +2112,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "If you ever find yourself troubled by a\nmonster's baby, please come visit us.\nInstead of cash, we'll repay you with\nspecial goods.\\n< Suspicious Tool Shopkeeper >"
+                                "If you ever find yourself troubled by a monster's\nbaby, please come visit us. Instead of cash, we'll\nrepay you with special goods.\\n< Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -2236,7 +2236,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Welcome to the magic tool shop. We won't\nbe outdone by the tool shops on the main\nstreet when it comes to practicality.\\n< Suspicious Tool Shopkeeper >"
+                                "Welcome to the magic tool shop. We won't be\noutdone by the tool shops on the main street when\nit comes to practicality.\\n< Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -2370,7 +2370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh, a customer. What brings you here\ntoday?"
+                                "Oh, a customer. What brings you here today?"
                             ]
                         },
                         {
@@ -2380,7 +2380,7 @@
                                 [
                                     "I've come to shop",
                                     "I'd like you to take in a monster's child",
-                                    "I'm looking for something specialif(v[0176]>=1)"
+                                    "if(v[0176]>=1)I'm looking for something special"
                                 ],
                                 -2,
                                 0,
@@ -3106,7 +3106,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Oops, that's a bit of a problem. We\nspecialize in monster offspring here. We\ndon't deal with human children.\\n< Suspicious Tool Shopkeeper >"
+                                "Oops, that's a bit of a problem. We specialize in\nmonster offspring here. We don't deal with human\nchildren.\\n< Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -3139,11 +3139,11 @@
                             "parameters": [
                                 [
                                     "I'll pass after all",
-                                    "Goblin childif(v[1701])",
-                                    "Orc childif(v[1702])",
-                                    "Warg's offspringif(v[1703])",
-                                    "Pigman's childif(v[1704])",
-                                    "A stallion's offspringif(v[1705])"
+                                    "if(v[1701])Goblin child",
+                                    "if(v[1702])Orc child",
+                                    "if(v[1703])Warg's offspring",
+                                    "if(v[1704])Pigman's child",
+                                    "if(v[1705])A stallion's offspring"
                                 ],
                                 0,
                                 0,
@@ -3180,7 +3180,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Is that so? Well, perhaps another time\nthen.\\n< Suspicious Tool Shopkeeper >"
+                                "Is that so? Well, perhaps another time then.\\n< Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -4268,7 +4268,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Oh, this is a stallion's offspring. Ho\nho, what a rare sight.\\n< Suspicious Tool Shopkeeper >"
+                                "Oh, this is a stallion's offspring. Ho ho, what a\nrare sight.\\n< Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -4285,7 +4285,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Did you give birth to this one,\ncustomer?\\n< Suspicious Tool Shopkeeper >"
+                                "Did you give birth to this one, customer?\\n< Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -4333,7 +4333,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "No, it's impressive that you were able\nto give birth with such a small body.\nThat means you survived mating with...\nthat. Ah, my apologies.\\n< Suspicious Tool Shopkeeper >"
+                                "No, it's impressive that you were able to give\nbirth with such a small body. That means you\nsurvived mating with... that. Ah, my apologies.\\n< Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -4350,7 +4350,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Anyway, thank you for this valuable\nitem. I must give you a proper reward.\\n< Suspicious Tool Shopkeeper >"
+                                "Anyway, thank you for this valuable item. I must\ngive you a proper reward.\\n< Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -4367,7 +4367,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Here, this is an especially effective\nspirit medicine and...\\n< Suspicious Tool Shopkeeper >"
+                                "Here, this is an especially effective spirit\nmedicine and...\\n< Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -4384,7 +4384,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "And this might be superfluous, but\nhere's an ointment for your pussy.\\n< Suspicious Tool Shopkeeper >"
+                                "And this might be superfluous, but here's an\nointment for your pussy.\\n< Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -4452,7 +4452,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "This ointment has effects that care for\nthe female genitals. In other words,\nwell... it can restore the condition, to\nsome extent.\\n< Suspicious Tool Shopkeeper >"
+                                "This ointment has effects that care for the female\ngenitals. In other words, well... it can restore\nthe condition, to some extent.\\n< Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -4500,7 +4500,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "There's also a different ointment for\nyour ass if you need it. Please feel\nfree to ask for it anytime.\\n< Suspicious Tool Shopkeeper >"
+                                "There's also a different ointment for your ass if\nyou need it. Please feel free to ask for it\nanytime.\\n< Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -4528,9 +4528,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Slime offspringif(v[1706])",
-                                    "Roper offspringif(v[1707])",
-                                    "Chimera's Childif(v[1708])",
+                                    "if(v[1706])Slime offspring",
+                                    "if(v[1707])Roper offspring",
+                                    "if(v[1708])Chimera's Child",
                                     "I don't have any particular business"
                                 ],
                                 -2,
@@ -4900,7 +4900,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Is that so? Well, perhaps another time\nthen.\\n< Suspicious Tool Shopkeeper >"
+                                "Is that so? Well, perhaps another time then.\\n< Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -4937,7 +4937,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Is that so? Well, perhaps another time\nthen.\\n< Suspicious Tool Shopkeeper >"
+                                "Is that so? Well, perhaps another time then.\\n< Suspicious Tool Shopkeeper>"
                             ]
                         },
                         {
@@ -5310,7 +5310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well, well, Serena-san, is there\nsomething you need?\\n< Andre >"
+                                "Well, well, Serena-san, is there something you\nneed?\\n< Andre >"
                             ]
                         },
                         {
@@ -5348,7 +5348,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...I'm troubled by a slime infestation.\nForgive me, but could you spare some\nmedicine?\\n< Serena >"
+                                "...I'm troubled by a slime infestation. Forgive\nme, but could you spare some medicine?\\n< Serena >"
                             ]
                         },
                         {
@@ -5365,7 +5365,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ah, the slimes from the sewer, right?\nYes, of course, that's fine. However,\nI'm sorry to ask, but could you fill\nthis bottle with some of the slime\nbefore you go?\\n< Andre >"
+                                "Ah, the slimes from the sewer, right? Yes, of\ncourse, that's fine. However, I'm sorry to ask,\nbut could you fill this bottle with some of the\nslime before you go?\\n< Andre >"
                             ]
                         },
                         {
@@ -5401,7 +5401,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You seem to be in pain. However, I'm not\nrunning a charity here... What will you\ndo?\\n< Andre >"
+                                "You seem to be in pain. However, I'm not running a\ncharity here... What will you do?\\n< Andre >"
                             ]
                         },
                         {
@@ -5419,7 +5419,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...Understood. Just give me the\nmedicine.\\n< Serena >"
+                                "...Understood. Just give me the medicine.\\n< Serena >"
                             ]
                         },
                         {
@@ -5436,7 +5436,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "We have a deal then. The privy is in the\nback, please feel free to use it.\\n< Andre >"
+                                "We have a deal then. The privy is in the back,\nplease feel free to use it.\\n< Andre >"
                             ]
                         },
                         {
@@ -5496,7 +5496,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(The scene fades to black, showing\nSerena expelling the slime)"
+                                "(The scene fades to black, showing Serena\nexpelling the slime)"
                             ]
                         },
                         {
@@ -5514,7 +5514,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(...To be reduced to such a degrading\nmethod... I am no better than that man I\ncaptured...)\\n< Serena >"
+                                "(...To be reduced to such a degrading method... I\nam no better than that man I captured...)\\n< Serena >"
                             ]
                         },
                         {
@@ -5573,7 +5573,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Don't stare so intently... It came from\nmy body.\\n< Serena >"
+                                "Don't stare so intently... It came from my body.\\n< Serena >"
                             ]
                         },
                         {
@@ -5590,7 +5590,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Oh, my apologies... But then again, I've\nobserved things from Serena-san's body\nnumerous times before.\\n< Andre >"
+                                "Oh, my apologies... But then again, I've observed\nthings from Serena-san's body numerous times\nbefore.\\n< Andre >"
                             ]
                         },
                         {
@@ -5625,7 +5625,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ah, I've been rude again. Here is the\nmedicine to expel the slime. It will\ncause the slime to be expelled from your\nbody all at once, so please use it in a\nsafe place.\\n< Andre >"
+                                "Ah, I've been rude again. Here is the medicine to\nexpel the slime. It will cause the slime to be\nexpelled from your body all at once, so please use\nit in a safe place.\\n< Andre >"
                             ]
                         },
                         {
@@ -5660,7 +5660,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "If it's alright with you, please bring\nmore slime next time.\\n< Andre >"
+                                "If it's alright with you, please bring more slime\nnext time.\\n< Andre >"
                             ]
                         },
                         {

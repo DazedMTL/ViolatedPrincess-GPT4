@@ -3331,7 +3331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "My responsibility is the cow on the\nright side. This one is different.\\n< Serena >"
+                                "My responsibility is the cow on the right side.\nThis one is different.\\n< Serena >"
                             ]
                         },
                         {
@@ -3420,7 +3420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "My responsibility is the cow on the\nright side. This one is different.\\n< Serena >"
+                                "My responsibility is the cow on the right side.\nThis one is different.\\n< Serena >"
                             ]
                         },
                         {
@@ -3497,7 +3497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I've already finished milking this one.\nLet's look for another cow.\\n< Serena >"
+                                "I've already finished milking this one. Let's look\nfor another cow.\\n< Serena >"
                             ]
                         },
                         {
@@ -3947,7 +3947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I've already finished milking this one.\nLet's look for another cow.\\n< Serena >"
+                                "I've already finished milking this one. Let's look\nfor another cow.\\n< Serena >"
                             ]
                         },
                         {
@@ -4036,7 +4036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "My responsibility is the cow on the\nright side. This one is different.\\n< Serena >"
+                                "My responsibility is the cow on the right side.\nThis one is different.\\n< Serena >"
                             ]
                         },
                         {
@@ -4125,7 +4125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "My responsibility is the cow on the\nright side. This one is different.\\n< Serena >"
+                                "My responsibility is the cow on the right side.\nThis one is different.\\n< Serena >"
                             ]
                         },
                         {
@@ -4214,7 +4214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "My responsibility is the cow on the\nright. This one is different.\\n< Serena >"
+                                "My responsibility is the cow on the right. This\none is different.\\n< Serena >"
                             ]
                         },
                         {
@@ -4664,7 +4664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I've already finished milking this one.\nLet's look for another cow.\\n< Serena >"
+                                "I've already finished milking this one. Let's look\nfor another cow.\\n< Serena >"
                             ]
                         },
                         {
@@ -5114,7 +5114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I've already finished milking this one.\nLet's look for another cow.\\n< Serena >"
+                                "I've already finished milking this one. Let's look\nfor another cow.\\n< Serena >"
                             ]
                         },
                         {
@@ -5564,7 +5564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I've already finished milking this one.\nLet's look for another cow.\\n< Serena >"
+                                "I've already finished milking this one. Let's look\nfor another cow.\\n< Serena >"
                             ]
                         },
                         {
@@ -5704,7 +5704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hmm... I've only ever seen milk in a\ncontainer, so I had only recognized it\nas such from the beginning...\\n< Serena >"
+                                "Hmm... I've only ever seen milk in a container, so\nI had only recognized it as such from the\nbeginning...\\n< Serena >"
                             ]
                         },
                         {
@@ -5759,7 +5759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Somehow, I feel strange. I may no longer\nbe able to drink milk with the same\nindifference as before.\\n< Serena >"
+                                "Somehow, I feel strange. I may no longer be able\nto drink milk with the same indifference as\nbefore.\\n< Serena >"
                             ]
                         },
                         {
@@ -5783,7 +5783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Is that so? For us, it's the opposite;\nwe don't feel anything anymore.\\n< Farmer >"
+                                "Is that so? For us, it's the opposite; we don't\nfeel anything anymore.\\n< Farmer >"
                             ]
                         },
                         {
@@ -5800,7 +5800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well, originally it's something a mother\ncow gives to her calf to drink.\\n< Farmer >"
+                                "Well, originally it's something a mother cow gives\nto her calf to drink.\\n< Farmer >"
                             ]
                         },
                         {
@@ -5817,7 +5817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The fact that we humans milk them and\ndrink it ourselves is, when you think\nabout it, quite a strange tale.\\n< Farmer >"
+                                "The fact that we humans milk them and drink it\nourselves is, when you think about it, quite a\nstrange tale.\\n< Farmer >"
                             ]
                         },
                         {
@@ -5834,7 +5834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Wonder who was the first to think of\ndrinking it...\\n< Farmer >"
+                                "Wonder who was the first to think of drinking\nit...\\n< Farmer >"
                             ]
                         },
                         {
@@ -5906,7 +5906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's right. Dairy cows are almost\nalways pregnant, you know.\\n< Farmer >"
+                                "That's right. Dairy cows are almost always\npregnant, you know.\\n< Farmer >"
                             ]
                         },
                         {
@@ -5930,7 +5930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pregnant...?? What does that have to do\nwith milk?\\n< Serena >"
+                                "Pregnant...?? What does that have to do with milk?\\n< Serena >"
                             ]
                         },
                         {
@@ -5954,7 +5954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ha, what a peculiar young lady. You must\nhave been really sheltered.\\n< Farmer >"
+                                "Ha, what a peculiar young lady. You must have been\nreally sheltered.\\n< Farmer >"
                             ]
                         },
                         {
@@ -5971,7 +5971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You see, a mother cow produces milk from\nher udders to feed her calf.\\n< Farmer >"
+                                "You see, a mother cow produces milk from her\nudders to feed her calf.\\n< Farmer >"
                             ]
                         },
                         {
@@ -5988,7 +5988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "In other words, they start producing\nmilk only after having a calf.\\n< Farmer >"
+                                "In other words, they start producing milk only\nafter having a calf.\\n< Farmer >"
                             ]
                         },
                         {
@@ -6005,7 +6005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Using this creature's habits, us clever\nhumans have the cows stay pregnant all\nyear round so they keep producing milk.\\n< Farmer >"
+                                "Using this creature's habits, us clever humans\nhave the cows stay pregnant all year round so they\nkeep producing milk.\\n< Farmer >"
                             ]
                         },
                         {
@@ -6053,7 +6053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Is it that strange to you? After all,\nnot just cows but all mammals do that.\\n< Farmer >"
+                                "Is it that strange to you? After all, not just\ncows but all mammals do that.\\n< Farmer >"
                             ]
                         },
                         {
@@ -6070,7 +6070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Even you were sucking on your mother's\nmilk until just the other day, weren't\nyou?\\n< Farmer >"
+                                "Even you were sucking on your mother's milk until\njust the other day, weren't you?\\n< Farmer >"
                             ]
                         },
                         {
@@ -6118,7 +6118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Of course. There isn't a human who grew\nup without sucking on their mother's\nmilk.\\n< Farmer >"
+                                "Of course. There isn't a human who grew up without\nsucking on their mother's milk.\\n< Farmer >"
                             ]
                         },
                         {
@@ -6166,7 +6166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...No, now that I think about it\nvaguely... I have memories of clinging\nto my wet nurse's breast...\\n< Serena >"
+                                "...No, now that I think about it vaguely... I have\nmemories of clinging to my wet nurse's breast...\\n< Serena >"
                             ]
                         },
                         {
@@ -6190,7 +6190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...So when a child is born, will the\nlord also produce milk?\\n< Serena >"
+                                "...So when a child is born, will the lord also\nproduce milk?\\n< Serena >"
                             ]
                         },
                         {
@@ -6262,7 +6262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Nah, I won't. Producing milk is the\nmother's job.\\n< Farmer >"
+                                "Nah, I won't. Producing milk is the mother's job.\\n< Farmer >"
                             ]
                         },
                         {
@@ -6279,7 +6279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If anything, it would be your job, not\nmine. The job of producing milk, that\nis.\\n< Farmer >"
+                                "If anything, it would be your job, not mine. The\njob of producing milk, that is.\\n< Farmer >"
                             ]
                         },
                         {
@@ -6426,7 +6426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Humans and cows have different breast\nsizes. It shouldn't be with such force.\\n< Farmer >"
+                                "Humans and cows have different breast sizes. It\nshouldn't be with such force.\\n< Farmer >"
                             ]
                         },
                         {
@@ -6474,7 +6474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well, think of it as practice for\nsomeday. Go on and give it a try.\\n< Farmer >"
+                                "Well, think of it as practice for someday. Go on\nand give it a try.\\n< Farmer >"
                             ]
                         },
                         {
@@ -6509,7 +6509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "When you say it like that, it makes it\neven harder to do...\\n< Serena >"
+                                "When you say it like that, it makes it even harder\nto do...\\n< Serena >"
                             ]
                         },
                         {
@@ -6622,7 +6622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Farmer >No need for any more instructions, huh?\nYou've gotten quite used to this."
+                                "\\n< Farmer >No need for any more instructions, huh? You've\ngotten quite used to this."
                             ]
                         },
                         {
@@ -6713,7 +6713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Even if I'm used to it, I'm only working\nat half the speed of you, Master.\\n< Serena >"
+                                "Even if I'm used to it, I'm only working at half\nthe speed of you, Master.\\n< Serena >"
                             ]
                         },
                         {
@@ -6737,7 +6737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well, that's because I make my living\noff of this.\\n< Farmer >"
+                                "Well, that's because I make my living off of this.\\n< Farmer >"
                             ]
                         },
                         {
@@ -6763,7 +6763,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Alright, I'm done here. Can I leave the\nlast two to you?\\n< Farmer >"
+                                "Alright, I'm done here. Can I leave the last two\nto you?\\n< Farmer >"
                             ]
                         },
                         {
@@ -6930,7 +6930,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n< Farmer >Yes, that's it. Can I leave the last two\nto you?"
+                                "\\n< Farmer >Yes, that's it. Can I leave the last two to you?"
                             ]
                         },
                         {
@@ -6988,7 +6988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Farmer >Then, I'll start cleaning up. Heh heh,\nfinished half a koku earlier than usual."
+                                "\\n< Farmer >Then, I'll start cleaning up. Heh heh, finished\nhalf a koku earlier than usual."
                             ]
                         },
                         {
@@ -7539,7 +7539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Ah, my lord. What is it? It's concerning\nwhen you stare from behind like that."
+                                "\\n< Serena >Ah, my lord. What is it? It's concerning when you\nstare from behind like that."
                             ]
                         },
                         {
@@ -7563,7 +7563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Farmer >Nah, just thinking you might not be\ntall, but you've got a pretty nice ass."
+                                "\\n< Farmer >Nah, just thinking you might not be tall, but\nyou've got a pretty nice ass."
                             ]
                         },
                         {
@@ -7611,7 +7611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Farmer >Nothin', nothin'. Don't mind me, just\nkeep going."
+                                "\\n< Farmer >Nothin', nothin'. Don't mind me, just keep going."
                             ]
                         },
                         {
@@ -8176,7 +8176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Hmm, it seems it won't come out anymore.\nYou behaved very well, good job."
+                                "\\n< Serena >Hmm, it seems it won't come out anymore. You\nbehaved very well, good job."
                             ]
                         },
                         {
@@ -8282,7 +8282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >My lord, it's finished, but... why are\nyou lying on the ground?"
+                                "\\n< Serena >My lord, it's finished, but... why are you lying\non the ground?"
                             ]
                         },
                         {
@@ -8306,7 +8306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Farmer >No, I thought maybe I could see if I did\nthis..."
+                                "\\n< Farmer >No, I thought maybe I could see if I did this..."
                             ]
                         },
                         {
@@ -8378,7 +8378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >??... Anyway, the job is done. Does this\nmean the request is complete?"
+                                "\\n< Serena >??... Anyway, the job is done. Does this mean the\nrequest is complete?"
                             ]
                         },
                         {
@@ -8472,7 +8472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Farmer >Of course, of course. This is the last\nof it. Phew- you've been a great help."
+                                "\\n< Farmer >Of course, of course. This is the last of it.\nPhew- you've been a great help."
                             ]
                         },
                         {
@@ -8489,7 +8489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Farmer >I'll make sure to speak well of you to\nthe guild too."
+                                "\\n< Farmer >I'll make sure to speak well of you to the guild\ntoo."
                             ]
                         },
                         {
@@ -8506,7 +8506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Farmer >...If possible, I'd like another\nexcellent adventurer like you to come\nhelp again."
+                                "\\n< Farmer >...If possible, I'd like another excellent\nadventurer like you to come help again."
                             ]
                         },
                         {
@@ -8530,7 +8530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >That is... I apologize, but I am also in\na hurry, so I cannot make any promises."
+                                "\\n< Serena >That is... I apologize, but I am also in a hurry,\nso I cannot make any promises."
                             ]
                         },
                         {
@@ -8554,7 +8554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >However, if circumstances allow, I shall\nvisit again."
+                                "\\n< Serena >However, if circumstances allow, I shall visit\nagain."
                             ]
                         },
                         {
@@ -8571,7 +8571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >There's a difference between horses and\ncows, but it was fun to interact with\nanimals after such a long time..."
+                                "\\n< Serena >There's a difference between horses and cows, but\nit was fun to interact with animals after such a\nlong time..."
                             ]
                         },
                         {
@@ -8595,7 +8595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Farmer >Heh heh. Is that so, is that so. Well\nthen, I'll be counting on you again."
+                                "\\n< Farmer >Heh heh. Is that so, is that so. Well then, I'll\nbe counting on you again."
                             ]
                         },
                         {
@@ -8805,7 +8805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >It finished without any problems. Please\nrecord the completion of the request."
+                                "\\n< Serena >It finished without any problems. Please record\nthe completion of the request."
                             ]
                         },
                         {
@@ -8829,7 +8829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Guild Master >Nah, I'm not talking about that... If\nthere were no problems, then that's more\nthan we could ask for..."
+                                "\\n< Guild Master >Nah, I'm not talking about that... If there were\nno problems, then that's more than we could ask\nfor..."
                             ]
                         },
                         {
@@ -8846,7 +8846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Guild Master >Well, never mind. Here's your reward for\nthis request."
+                                "\\n< Guild Master >Well, never mind. Here's your reward for this\nrequest."
                             ]
                         },
                         {
@@ -9833,7 +9833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I suppose there are countless uses for\nit on a farm like this.\\n< Serena >"
+                                "I suppose there are countless uses for it on a\nfarm like this.\\n< Serena >"
                             ]
                         },
                         {
@@ -9948,7 +9948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You scoop from here to feed the\nlivestock.\\n< Serena >"
+                                "You scoop from here to feed the livestock.\\n< Serena >"
                             ]
                         },
                         {
@@ -9965,7 +9965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I've tried it once, but it was such hard\nlabor that I quickly had a servant take\nover.\\n< Serena >"
+                                "I've tried it once, but it was such hard labor\nthat I quickly had a servant take over.\\n< Serena >"
                             ]
                         },
                         {
@@ -10080,7 +10080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "They say it's used to strike the ground\nand intimidate the livestock when they\nabsolutely won't listen.\\n< Serena >"
+                                "They say it's used to strike the ground and\nintimidate the livestock when they absolutely\nwon't listen.\\n< Serena >"
                             ]
                         },
                         {
@@ -10097,7 +10097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Judging by the dust on it, it seems it's\nhardly used around here.\\n< Serena >"
+                                "Judging by the dust on it, it seems it's hardly\nused around here.\\n< Serena >"
                             ]
                         },
                         {
@@ -10367,7 +10367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Farmer >You can't work in the stables wearing\nsuch a pretty dress, can you?"
+                                "\\n< Farmer >You can't work in the stables wearing such a\npretty dress, can you?"
                             ]
                         },
                         {
@@ -10415,7 +10415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Farmer >It's good that the child size fits you\nwell."
+                                "\\n< Farmer >It's good that the child size fits you well."
                             ]
                         },
                         {
@@ -10432,7 +10432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Farmer >So... you're used to handling livestock,\nbut you've never milked before, right?"
+                                "\\n< Farmer >So... you're used to handling livestock, but\nyou've never milked before, right?"
                             ]
                         },
                         {
@@ -10456,7 +10456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Yes. But I'm confident in my ability to\nlearn. Just show me a little and I think\nI can do it right away."
+                                "\\n< Serena >Yes. But I'm confident in my ability to learn.\nJust show me a little and I think I can do it\nright away."
                             ]
                         },
                         {
@@ -10480,7 +10480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Farmer >Heh, is that so? Well, I'm going to milk\nnow, so watch closely and learn."
+                                "\\n< Farmer >Heh, is that so? Well, I'm going to milk now, so\nwatch closely and learn."
                             ]
                         },
                         {
@@ -10564,7 +10564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Farmer >You grab it like this, and move your\nfingers like this, and like this."
+                                "\\n< Farmer >You grab it like this, and move your fingers like\nthis, and like this."
                             ]
                         },
                         {
@@ -10630,7 +10630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Farmer >There, it's coming out. Just repeat\nuntil it stops."
+                                "\\n< Farmer >There, it's coming out. Just repeat until it\nstops."
                             ]
                         },
                         {
@@ -10702,7 +10702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >I thought it would come out more slowly,\nlike a trickle..."
+                                "\\n< Serena >I thought it would come out more slowly, like a\ntrickle..."
                             ]
                         },
                         {
@@ -10726,7 +10726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Farmer >Well, these guys have their udders\npacked full of milk to the brim."
+                                "\\n< Farmer >Well, these guys have their udders packed full of\nmilk to the brim."
                             ]
                         },
                         {
@@ -10743,7 +10743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Farmer >Of course it's going to squirt out. It's\ndifferent from your mother's breasts,\nisn't it?"
+                                "\\n< Farmer >Of course it's going to squirt out. It's different\nfrom your mother's breasts, isn't it?"
                             ]
                         },
                         {
@@ -10892,7 +10892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Farmer >Well, I'd be surprised if you got it in\none go... What?"
+                                "\\n< Farmer >Well, I'd be surprised if you got it in one go...\nWhat?"
                             ]
                         },
                         {
@@ -10916,7 +10916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >I've mostly understood. May I try it\nmyself to confirm?"
+                                "\\n< Serena >I've mostly understood. May I try it myself to\nconfirm?"
                             ]
                         },
                         {
@@ -11048,7 +11048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Like this, hold it like this, and like\nthis."
+                                "\\n< Serena >Like this, hold it like this, and like this."
                             ]
                         },
                         {
@@ -11110,7 +11110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Farmer >Huh, impressive. To think you got it\nafter just one demonstration..."
+                                "\\n< Farmer >Huh, impressive. To think you got it after just\none demonstration..."
                             ]
                         },
                         {
@@ -11134,7 +11134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Being a quick learner is one of the few\ntalents I possess."
+                                "\\n< Serena >Being a quick learner is one of the few talents I\npossess."
                             ]
                         },
                         {
@@ -11210,7 +11210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Now, if there are no issues, shall we\nget started with the work at once...?"
+                                "\\n< Serena >Now, if there are no issues, shall we get started\nwith the work at once...?"
                             ]
                         },
                         {
@@ -11251,7 +11251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Farmer >Then, I'll take the left side. Can you\ntake the right side and start milking?"
+                                "\\n< Farmer >Then, I'll take the left side. Can you take the\nright side and start milking?"
                             ]
                         },
                         {
@@ -11414,7 +11414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There's still work left to do. I'm\ncounting on you to handle the cow on the\nright."
+                                "There's still work left to do. I'm counting on you\nto handle the cow on the right."
                             ]
                         },
                         {
@@ -11579,7 +11579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There's still work left to do. I'm\ncounting on you to handle the cow on the\nright."
+                                "There's still work left to do. I'm counting on you\nto handle the cow on the right."
                             ]
                         },
                         {
@@ -11744,7 +11744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There's still work left to do. I'm\ncounting on you to handle the cow on the\nright."
+                                "There's still work left to do. I'm counting on you\nto handle the cow on the right."
                             ]
                         },
                         {

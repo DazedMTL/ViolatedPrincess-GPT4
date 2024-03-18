@@ -17532,7 +17532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >I have no intention of returning until\nI've completed the request!"
+                                "\\n< Serena >I have no intention of returning until I've\ncompleted the request!"
                             ]
                         },
                         {
@@ -17757,7 +17757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >I have no intention of returning until\nthe request is complete!"
+                                "\\n< Serena >I have no intention of returning until the request\nis complete!"
                             ]
                         },
                         {
@@ -17982,7 +17982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >I have no intention of returning until\nthe request is complete!"
+                                "\\n< Serena >I have no intention of returning until the request\nis complete!"
                             ]
                         },
                         {

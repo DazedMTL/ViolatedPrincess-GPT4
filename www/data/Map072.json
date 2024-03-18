@@ -4739,7 +4739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "We will create a full unlock data for\nthe reminiscence scenes. If there is a\nsaved file with this data, all\nreminiscence scenes will be unlocked. If\nyou delete the saved data, it will\nrevert to being locked."
+                                "We will create a full unlock data for the\nreminiscence scenes. If there is a saved file with\nthis data, all reminiscence scenes will be\nunlocked. If you delete the saved data, it will\nrevert to being locked."
                             ]
                         },
                         {
@@ -5104,7 +5104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kahahaha! So this is the taste of\nvictory's wine, huh?!\\n< Erika >"
+                                "Kahahaha! So this is the taste of victory's wine,\nhuh?!\\n< Erika >"
                             ]
                         },
                         {
@@ -5128,7 +5128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "When we fought the Minotaur, I was\nrushed to the hospital and didn't even\nget a sip of alcohol.\\n< Erika >"
+                                "When we fought the Minotaur, I was rushed to the\nhospital and didn't even get a sip of alcohol.\\n< Erika >"
                             ]
                         },
                         {
@@ -5161,7 +5161,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "To think we're celebrating that victory\nnow. You're as strange as ever.\\n< Serena >"
+                                "To think we're celebrating that victory now.\nYou're as strange as ever.\\n< Serena >"
                             ]
                         },
                         {
@@ -5185,7 +5185,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Serena, you've become quite the drinker\nyourself. Did you learn to appreciate\nthe taste of alcohol in that town?\\n< Erika >"
+                                "Serena, you've become quite the drinker yourself.\nDid you learn to appreciate the taste of alcohol\nin that town?\\n< Erika >"
                             ]
                         },
                         {
@@ -5243,7 +5243,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Erika-sama, you're pregnant. You\nshouldn't be drinking too much...\\n< Serena >"
+                                "Erika-sama, you're pregnant. You shouldn't be\ndrinking too much...\\n< Serena >"
                             ]
                         },
                         {
@@ -5267,7 +5267,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ah... right. Alcohol is bad for the kid\nin my belly... wasn't it?\\n< Erika >"
+                                "Ah... right. Alcohol is bad for the kid in my\nbelly... wasn't it?\\n< Erika >"
                             ]
                         },
                         {
@@ -5315,7 +5315,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Well, I haven't slept with any other men\naround that time. It must be one of\nthose guys' seed that hit the mark.\\n< Erika >"
+                                "Well, I haven't slept with any other men around\nthat time. It must be one of those guys' seed that\nhit the mark.\\n< Erika >"
                             ]
                         },
                         {
@@ -5339,7 +5339,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I was too injured for an abortion.\nBefore I knew it, my belly got this big.\\n< Erika >"
+                                "I was too injured for an abortion. Before I knew\nit, my belly got this big.\\n< Erika >"
                             ]
                         },
                         {
@@ -5363,7 +5363,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Now that it's come to this, there's\nnothing to do but give birth. Even if\nit's a child conceived from rape, I have\nto give birth.\\n< Erika >"
+                                "Now that it's come to this, there's nothing to do\nbut give birth. Even if it's a child conceived\nfrom rape, I have to give birth.\\n< Erika >"
                             ]
                         },
                         {
@@ -5404,7 +5404,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "More importantly, Serena, you've become\nquite the drinker yourself. Did you\nlearn to appreciate the taste of alcohol\nin that town?\\n< Erika >"
+                                "More importantly, Serena, you've become quite the\ndrinker yourself. Did you learn to appreciate the\ntaste of alcohol in that town?\\n< Erika >"
                             ]
                         },
                         {
@@ -5438,7 +5438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well, I can't say I find it delicious.\nBut now, a little...\\n< Serena >"
+                                "Well, I can't say I find it delicious. But now, a\nlittle...\\n< Serena >"
                             ]
                         },
                         {
@@ -5462,7 +5462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No, actually, it still tastes strange.\nIt hits you right in the nose.\\n< Serena >"
+                                "No, actually, it still tastes strange. It hits you\nright in the nose.\\n< Serena >"
                             ]
                         },
                         {
@@ -5519,7 +5519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hahahaha. That's fine. If you start\nguzzling from a young age, you'll end up\na lush like me.\\n< Erika >"
+                                "Hahahaha. That's fine. If you start guzzling from\na young age, you'll end up a lush like me.\\n< Erika >"
                             ]
                         },
                         {
@@ -5543,7 +5543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If I could become like Erika-sama, maybe\nI should try harder to enjoy alcohol.\\n< Serena >"
+                                "If I could become like Erika-sama, maybe I should\ntry harder to enjoy alcohol.\\n< Serena >"
                             ]
                         },
                         {
@@ -5567,7 +5567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Me? Nah, my body's all battered and\nnothing's going right. There's nothing\ngood about aiming to be like me. Really,\nreally...\\n< Erika >"
+                                "Me? Nah, my body's all battered and nothing's\ngoing right. There's nothing good about aiming to\nbe like me. Really, really...\\n< Erika >"
                             ]
                         },
                         {
@@ -5602,7 +5602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's not true... I respect you. Even\nat this moment, my respect for you is\nrenewed.\\n< Serena >"
+                                "That's not true... I respect you. Even at this\nmoment, my respect for you is renewed.\\n< Serena >"
                             ]
                         },
                         {
@@ -5626,7 +5626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "In Castellum, that town, I saw much\nevil. A little kindness and how weak\npeople's hearts can be.\\n< Serena >"
+                                "In Castellum, that town, I saw much evil. A little\nkindness and how weak people's hearts can be.\\n< Serena >"
                             ]
                         },
                         {
@@ -5667,7 +5667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "At your demeanor, Erika-sama, your way\nof conducting yourself. Your strength is\ntruly formidable.\\n< Serena >"
+                                "At your demeanor, Erika-sama, your way of\nconducting yourself. Your strength is truly\nformidable.\\n< Serena >"
                             ]
                         },
                         {
@@ -5691,7 +5691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I wonder if I can behave like you from\nnow on...\\n< Serena >"
+                                "I wonder if I can behave like you from now on...\\n< Serena >"
                             ]
                         },
                         {
@@ -5829,7 +5829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yes, she was found. It took some effort\nthough. While we're here, Lady Mary is\nlooking after her.\\n< Serena >"
+                                "Yes, she was found. It took some effort though.\nWhile we're here, Lady Mary is looking after her.\\n< Serena >"
                             ]
                         },
                         {
@@ -5846,7 +5846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Not a single injury, safe and sound. I'm\ntruly glad... truly...\\n< Serena >"
+                                "Not a single injury, safe and sound. I'm truly\nglad... truly...\\n< Serena >"
                             ]
                         },
                         {
@@ -5903,7 +5903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Then this is a grand finale. A happy\nending, huh?\\n< Erika >"
+                                "Then this is a grand finale. A happy ending, huh?\\n< Erika >"
                             ]
                         },
                         {
@@ -5927,7 +5927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well, yes. Depending on what father,\nmother, and sister say...\\n< Serena >"
+                                "Well, yes. Depending on what father, mother, and\nsister say...\\n< Serena >"
                             ]
                         },
                         {
@@ -5951,7 +5951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What kind of punishment they'll give me\nis the only thing left to worry about.\\n< Serena >"
+                                "What kind of punishment they'll give me is the\nonly thing left to worry about.\\n< Serena >"
                             ]
                         },
                         {
@@ -6065,7 +6065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Man, I'm really glad. I was worried sick\nin bed every day.\\n< Erika >"
+                                "Man, I'm really glad. I was worried sick in bed\nevery day.\\n< Erika >"
                             ]
                         },
                         {
@@ -6133,7 +6133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That everything turned out okay, I'm\nreally glad...\\n< Erika >"
+                                "That everything turned out okay, I'm really\nglad...\\n< Erika >"
                             ]
                         },
                         {
@@ -6225,7 +6225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No, see, Serena. You don't get it, you\njust don't understand. Worrying about\nsomeone means being really worried.\\n< Erika >"
+                                "No, see, Serena. You don't get it, you just don't\nunderstand. Worrying about someone means being\nreally worried.\\n< Erika >"
                             ]
                         },
                         {
@@ -6242,7 +6242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Whether Serena is doing okay, if she's\nbeen able to eat, if she's found a place\nto stay, if she hasn't been deceived by\nsome bad guy, or gotten wrapped up in\nsomething terrible...\\n< Erika >"
+                                "Whether Serena is doing okay, if she's been able\nto eat, if she's found a place to stay, if she\nhasn't been deceived by some bad guy, or gotten\nwrapped up in something terrible...\\n< Erika >"
                             ]
                         },
                         {
@@ -6259,7 +6259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Lying in the hospital bed, those kinds\nof scenes would pop into my head,\ndisappear, and then come back again,\neach time making my chest tighten.\\n< Erika >"
+                                "Lying in the hospital bed, those kinds of scenes\nwould pop into my head, disappear, and then come\nback again, each time making my chest tighten.\\n< Erika >"
                             ]
                         },
                         {
@@ -6327,7 +6327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Even I felt like this. When I think\nabout how your parents must feel...\nGeez. Your sister must be feeling like\nher heart's going to burst...\\n< Erika >"
+                                "Even I felt like this. When I think about how your\nparents must feel... Geez. Your sister must be\nfeeling like her heart's going to burst...\\n< Erika >"
                             ]
                         },
                         {
@@ -6408,7 +6408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's why you really need to go and get\nscolded. It's your duty and\nresponsibility, Serena.\\n< Erika >"
+                                "That's why you really need to go and get scolded.\nIt's your duty and responsibility, Serena.\\n< Erika >"
                             ]
                         },
                         {
@@ -6489,7 +6489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Having a family that worries about\nyou is a blessing, you know. I was\nraised in an orphanage and don't even\nknow what my mother looks like.\\n< Erika >"
+                                "...Having a family that worries about you is a\nblessing, you know. I was raised in an orphanage\nand don't even know what my mother looks like.\\n< Erika >"
                             ]
                         },
                         {
@@ -6513,7 +6513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Is that so? I recall you mentioned\nbefore that you had run away from home,\nErika-sama.\\n< Serena >"
+                                "Is that so? I recall you mentioned before that you\nhad run away from home, Erika-sama.\\n< Serena >"
                             ]
                         },
                         {
@@ -6570,7 +6570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Did I say something like that? You have\na good memory.\\n< Erika >"
+                                "Did I say something like that? You have a good\nmemory.\\n< Erika >"
                             ]
                         },
                         {
@@ -6594,7 +6594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Well, running away means I left the\norphanage. I had no intention of\nbecoming a nun, that's for sure.\\n< Erika >"
+                                "...Well, running away means I left the orphanage.\nI had no intention of becoming a nun, that's for\nsure.\\n< Erika >"
                             ]
                         },
                         {
@@ -6651,7 +6651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Come to think of it, at first, I did\nintend to look for my mother. But the\nonly clue I had was her hair color.\\n< Erika >"
+                                "Come to think of it, at first, I did intend to\nlook for my mother. But the only clue I had was\nher hair color.\\n< Erika >"
                             ]
                         },
                         {
@@ -6699,7 +6699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You're really latching onto this, huh?\nFine by me.\\n< Erika >"
+                                "You're really latching onto this, huh? Fine by me.\\n< Erika >"
                             ]
                         },
                         {
@@ -6756,7 +6756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well, when my mother left me at the\norphanage, right? It seems she gave me a\ncharm to hold onto.\\n< Erika >"
+                                "Well, when my mother left me at the orphanage,\nright? It seems she gave me a charm to hold onto.\\n< Erika >"
                             ]
                         },
                         {
@@ -6773,7 +6773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It was woven into my hair. I figure it's\nprobably my mother's hair.\\n< Erika >"
+                                "It was woven into my hair. I figure it's probably\nmy mother's hair.\\n< Erika >"
                             ]
                         },
                         {
@@ -6790,7 +6790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's a bit redder than mine... like wine\nred... I wonder what kind of person she\nwas...\\n< Erika >"
+                                "It's a bit redder than mine... like wine red... I\nwonder what kind of person she was...\\n< Erika >"
                             ]
                         },
                         {
@@ -6911,7 +6911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "An adventurer? I'm sure I put up the\n'closed' sign... Really, at the worst\npossible time.\\n< Serena >"
+                                "An adventurer? I'm sure I put up the 'closed'\nsign... Really, at the worst possible time.\\n< Serena >"
                             ]
                         },
                         {
@@ -6968,7 +6968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Could be the master too. Maybe he forgot\nhis keys or something.\\n< Erika >"
+                                "Could be the master too. Maybe he forgot his keys\nor something.\\n< Erika >"
                             ]
                         },
                         {
@@ -7123,7 +7123,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "No, Erika-sama, please stay seated. I'll\nhandle this.\\n< Serena >"
+                                "No, Erika-sama, please stay seated. I'll handle\nthis.\\n< Serena >"
                             ]
                         },
                         {
@@ -7191,7 +7191,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Though Serena's got her own troubles to\ndeal with...\\n< Erika >"
+                                "Though Serena's got her own troubles to deal\nwith...\\n< Erika >"
                             ]
                         },
                         {
@@ -8236,7 +8236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Whoa, whoa! I'm so sorry!!!\\n< ??? >"
+                                "Whoa, whoa! I'm so sorry!!!\\n< ???>"
                             ]
                         },
                         {
@@ -8270,7 +8270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Are you okay? Can you stand?\\n< ??? >"
+                                "Are you okay? Can you stand?\\n< ???>"
                             ]
                         },
                         {
@@ -8308,7 +8308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Well, I just hit my face and butt.\nNothing serious...\\n< Serena >"
+                                "...Well, I just hit my face and butt. Nothing\nserious...\\n< Serena >"
                             ]
                         },
                         {
@@ -8325,7 +8325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm so sorry... I've always been a bit\nof a klutz... or rather, a total\nklutz...\\n< ??? >"
+                                "I'm so sorry... I've always been a bit of a\nklutz... or rather, a total klutz...\\n< ???>"
                             ]
                         },
                         {
@@ -8415,7 +8415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah—...um, that is...\\n< ??? >"
+                                "Ah—...um, that is...\\n< ???>"
                             ]
                         },
                         {
@@ -8443,7 +8443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Right! First things first! Greetings!!\\n< ??? >"
+                                "Right! First things first! Greetings!!\\n< ???>"
                             ]
                         },
                         {
@@ -8460,7 +8460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I am! An aspiring adventurer!\\n< ??? >"
+                                "I am! An aspiring adventurer!\\n< ???>"
                             ]
                         },
                         {
@@ -8587,7 +8587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Creating a data file to unlock all\nreminiscence scenes. If this data is\nsaved in a file, all reminiscence scenes\nwill be unlocked. If the saved data is\ndeleted, it will revert to being locked."
+                                "Creating a data file to unlock all reminiscence\nscenes. If this data is saved in a file, all\nreminiscence scenes will be unlocked. If the saved\ndata is deleted, it will revert to being locked."
                             ]
                         },
                         {
@@ -8941,7 +8941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kahahaha! So this is the sweet taste of\nvictory, huh?!\\n< Erika >"
+                                "Kahahaha! So this is the sweet taste of victory,\nhuh?!\\n< Erika >"
                             ]
                         },
                         {
@@ -8965,7 +8965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I was rushed to the hospital after that\nMinotaur incident and didn't even get a\nsip of alcohol.\\n< Erika >"
+                                "I was rushed to the hospital after that Minotaur\nincident and didn't even get a sip of alcohol.\\n< Erika >"
                             ]
                         },
                         {
@@ -8998,7 +8998,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "To think we're celebrating that victory\nnow. You're as odd as ever.\\n< Serena >"
+                                "To think we're celebrating that victory now.\nYou're as odd as ever.\\n< Serena >"
                             ]
                         },
                         {
@@ -9022,7 +9022,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Serena, you've become quite the drinker\nyourself. Did you learn to appreciate\nthe taste of alcohol in that town?\\n< Erika >"
+                                "Serena, you've become quite the drinker yourself.\nDid you learn to appreciate the taste of alcohol\nin that town?\\n< Erika >"
                             ]
                         },
                         {
@@ -9080,7 +9080,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Lady Erika, you are with child. You\nshouldn't drink too much...\\n< Serena >"
+                                "Lady Erika, you are with child. You shouldn't\ndrink too much...\\n< Serena >"
                             ]
                         },
                         {
@@ -9104,7 +9104,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ah... right. Alcohol is bad for the kid\nin my belly... wasn't it?\\n< Erika >"
+                                "Ah... right. Alcohol is bad for the kid in my\nbelly... wasn't it?\\n< Erika >"
                             ]
                         },
                         {
@@ -9152,7 +9152,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Well, I haven't slept with any other men\naround that time. It must be one of\nthose guys' seed that hit the mark.\\n< Erika >"
+                                "Well, I haven't slept with any other men around\nthat time. It must be one of those guys' seed that\nhit the mark.\\n< Erika >"
                             ]
                         },
                         {
@@ -9176,7 +9176,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I was too injured for an abortion.\nBefore I knew it, my belly had grown\nthis much.\\n< Erika >"
+                                "I was too injured for an abortion. Before I knew\nit, my belly had grown this much.\\n< Erika >"
                             ]
                         },
                         {
@@ -9200,7 +9200,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Now that it's come to this, there's\nnothing to do but give birth. Even if\nit's a child conceived from rape, I have\nto give birth.\\n< Erika >"
+                                "Now that it's come to this, there's nothing to do\nbut give birth. Even if it's a child conceived\nfrom rape, I have to give birth.\\n< Erika >"
                             ]
                         },
                         {
@@ -9241,7 +9241,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "More importantly, Serena, you've become\nquite the drinker yourself. Did you\nlearn to appreciate the taste of alcohol\nin that town?\\n< Erika >"
+                                "More importantly, Serena, you've become quite the\ndrinker yourself. Did you learn to appreciate the\ntaste of alcohol in that town?\\n< Erika >"
                             ]
                         },
                         {
@@ -9275,7 +9275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well, I can't say I find it delicious.\nBut now, a little...\\n< Serena >"
+                                "Well, I can't say I find it delicious. But now, a\nlittle...\\n< Serena >"
                             ]
                         },
                         {
@@ -9299,7 +9299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No, actually, it still tastes strange.\nIt hits you right in the nose.\\n< Serena >"
+                                "No, actually, it still tastes strange. It hits you\nright in the nose.\\n< Serena >"
                             ]
                         },
                         {
@@ -9356,7 +9356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hahahaha! That's fine. If you start\nguzzling it down from a young age,\nyou'll end up a lush like me.\\n< Erika >"
+                                "Hahahaha! That's fine. If you start guzzling it\ndown from a young age, you'll end up a lush like\nme.\\n< Erika >"
                             ]
                         },
                         {
@@ -9380,7 +9380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If I could become like Lady Erika,\nperhaps I should try harder to enjoy\nalcohol.\\n< Serena >"
+                                "If I could become like Lady Erika, perhaps I\nshould try harder to enjoy alcohol.\\n< Serena >"
                             ]
                         },
                         {
@@ -9404,7 +9404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Me? Oh no, I'm all battered and\nnothing's going right for me. There's\nnothing good about aiming to be like me.\nReally, really...\\n< Erika >"
+                                "Me? Oh no, I'm all battered and nothing's going\nright for me. There's nothing good about aiming to\nbe like me. Really, really...\\n< Erika >"
                             ]
                         },
                         {
@@ -9450,7 +9450,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "My body is just as battered. And look at\nthis belly...\\n< Serena >"
+                                "My body is just as battered. And look at this\nbelly...\\n< Serena >"
                             ]
                         },
                         {
@@ -9508,7 +9508,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "My body is just as battered. What you\nsee on the outside is just this\nbandage... but inside, it's\ncorrespondingly...\\n< Serena >"
+                                "My body is just as battered. What you see on the\noutside is just this bandage... but inside, it's\ncorrespondingly...\\n< Serena >"
                             ]
                         },
                         {
@@ -9532,7 +9532,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...which is why I am so astonished right\nnow.\\n< Serena >"
+                                "...which is why I am so astonished right now.\\n< Serena >"
                             ]
                         },
                         {
@@ -9559,7 +9559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Your condition, your behavior, Lady\nErika. The magnitude of your strength...\nhow tremendous it is.\\n< Serena >"
+                                "Your condition, your behavior, Lady Erika. The\nmagnitude of your strength... how tremendous it\nis.\\n< Serena >"
                             ]
                         },
                         {
@@ -9721,7 +9721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yes, she was found. It was a bit of a\nstruggle though. While I'm here, Lady\nMary has been taking care of her.\\n< Serena >"
+                                "Yes, she was found. It was a bit of a struggle\nthough. While I'm here, Lady Mary has been taking\ncare of her.\\n< Serena >"
                             ]
                         },
                         {
@@ -9745,7 +9745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I managed to bring her from the eastern\ntown to here... but being with me now\nseems to be quite a burden for\nSplendour.\\n< Serena >"
+                                "I managed to bring her from the eastern town to\nhere... but being with me now seems to be quite a\nburden for Splendour.\\n< Serena >"
                             ]
                         },
                         {
@@ -9762,7 +9762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Near Lady Mary's... daughter, Splendour\nseems to find peace.\\n< Serena >"
+                                "Near Lady Mary's... daughter, Splendour seems to\nfind peace.\\n< Serena >"
                             ]
                         },
                         {
@@ -9790,7 +9790,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "It's this belly. When I showed my face,\nI was cried upon... and shocked.\\n< Serena >"
+                                "It's this belly. When I showed my face, I was\ncried upon... and shocked.\\n< Serena >"
                             ]
                         },
                         {
@@ -9857,7 +9857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...What do you plan to do from here on\nout?\\n< Erika >"
+                                "...What do you plan to do from here on out?\\n< Erika >"
                             ]
                         },
                         {
@@ -9881,7 +9881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Wait here for the pick-up from Gratia.\nI've sent a letter, so they should be\narriving soon.\\n< Serena >"
+                                "Wait here for the pick-up from Gratia. I've sent a\nletter, so they should be arriving soon.\\n< Serena >"
                             ]
                         },
                         {
@@ -9905,7 +9905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But things have become serious... too\nmany things... have happened.\\n< Serena >"
+                                "But things have become serious... too many\nthings... have happened.\\n< Serena >"
                             ]
                         },
                         {
@@ -9929,7 +9929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Castellum is in an uproar right now. I\nfled as if running away... what I did\nthere, what happened while I was there.\\n< Serena >"
+                                "Castellum is in an uproar right now. I fled as if\nrunning away... what I did there, what happened\nwhile I was there.\\n< Serena >"
                             ]
                         },
                         {
@@ -9946,7 +9946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Depending on how things go, it might\nbecome an issue. At the very least, my\nfather will likely be implicated.\\n< Serena >"
+                                "Depending on how things go, it might become an\nissue. At the very least, my father will likely be\nimplicated.\\n< Serena >"
                             ]
                         },
                         {
@@ -9970,7 +9970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Before the problem comes to light, if I\ncould just be admitted to some convent,\nthat would be the best possible\nresolution.\\n< Serena >"
+                                "Before the problem comes to light, if I could just\nbe admitted to some convent, that would be the\nbest possible resolution.\\n< Serena >"
                             ]
                         },
                         {
@@ -9994,7 +9994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It will mean even more of a burden for\nmy sister, though.\\n< Serena >"
+                                "It will mean even more of a burden for my sister,\nthough.\\n< Serena >"
                             ]
                         },
                         {
@@ -10035,7 +10035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Serena, you're betting your entire\nfuture, sacrificing everything... and\nthe outcome is a life of confinement in\na convent?\\n< Erika >"
+                                "Serena, you're betting your entire future,\nsacrificing everything... and the outcome is a\nlife of confinement in a convent?\\n< Erika >"
                             ]
                         },
                         {
@@ -10052,7 +10052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "After all that effort to save Splendour-\nchan, you won't ever be able to be close\nwith her again, right?\\n< Erika >"
+                                "After all that effort to save Splendour- chan, you\nwon't ever be able to be close with her again,\nright?\\n< Erika >"
                             ]
                         },
                         {
@@ -10157,7 +10157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's not necessarily the ending I wished\nfor.\\n< Serena >"
+                                "It's not necessarily the ending I wished for.\\n< Serena >"
                             ]
                         },
                         {
@@ -10262,7 +10262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hey, let's just run away now! Why not?\nYou're just going to be thrown into a\nconvent anyway, right?\\n< Erika >"
+                                "Hey, let's just run away now! Why not? You're just\ngoing to be thrown into a convent anyway, right?\\n< Erika >"
                             ]
                         },
                         {
@@ -10319,7 +10319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Then leave that damn troublesome house\nbehind! ...That's right! Let's become\nadventurers together!\\n< Erika >"
+                                "Then leave that damn troublesome house behind!\n...That's right! Let's become adventurers\ntogether!\\n< Erika >"
                             ]
                         },
                         {
@@ -10352,7 +10352,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Sure, there'll be plenty of hardships!\nBut it's freedom! The joy and the\nsorrow, it's all yours!\\n< Erika >"
+                                "Sure, there'll be plenty of hardships! But it's\nfreedom! The joy and the sorrow, it's all yours!\\n< Erika >"
                             ]
                         },
                         {
@@ -10379,7 +10379,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "It might seem crazy with this belly and\nthese arms! But at least adventurers are\nfree! The joy and the sorrow, it's all\nyours!\\n< Erika >"
+                                "It might seem crazy with this belly and these\narms! But at least adventurers are free! The joy\nand the sorrow, it's all yours!\\n< Erika >"
                             ]
                         },
                         {
@@ -10413,7 +10413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Your life is your own, right!? Who do\nyou have to hold back for?\\n< Erika >"
+                                "Your life is your own, right!? Who do you have to\nhold back for?\\n< Erika >"
                             ]
                         },
                         {
@@ -10494,7 +10494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Truly, you are so selfish and\nimposing...\\n< Serena >"
+                                "...Truly, you are so selfish and imposing...\\n< Serena >"
                             ]
                         },
                         {
@@ -10535,7 +10535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "From the first time you spoke to me\nuntil now, you've always been concerned\nabout me.\\n< Serena >"
+                                "From the first time you spoke to me until now,\nyou've always been concerned about me.\\n< Serena >"
                             ]
                         },
                         {
@@ -10559,7 +10559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But it's impossible. I am a noble. An\nexecutor of justice and responsibility.\\n< Serena >"
+                                "But it's impossible. I am a noble. An executor of\njustice and responsibility.\\n< Serena >"
                             ]
                         },
                         {
@@ -10583,7 +10583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "To save Splendour... I sacrificed many\nthings that were endowed to me.\\n< Serena >"
+                                "To save Splendour... I sacrificed many things that\nwere endowed to me.\\n< Serena >"
                             ]
                         },
                         {
@@ -10607,7 +10607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "With each loss, I realized how\nsignificant and heavy they were. Could\nsuch great things really spring forth\nfrom within me alone?\\n< Serena >"
+                                "With each loss, I realized how significant and\nheavy they were. Could such great things really\nspring forth from within me alone?\\n< Serena >"
                             ]
                         },
                         {
@@ -10631,7 +10631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...I thought about it. You were right,\nErika-dono. Just as Lady Mary had told\nme.\\n< Serena >"
+                                "...I thought about it. You were right, Erika-dono.\nJust as Lady Mary had told me.\\n< Serena >"
                             ]
                         },
                         {
@@ -10648,7 +10648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I was built upon the love and kindness\nof my parents... no, even more people\nthan that.\\n< Serena >"
+                                "I was built upon the love and kindness of my\nparents... no, even more people than that.\\n< Serena >"
                             ]
                         },
                         {
@@ -10672,7 +10672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "To shape who I am now, how much time and\neffort must have been spent.\\n< Serena >"
+                                "To shape who I am now, how much time and effort\nmust have been spent.\\n< Serena >"
                             ]
                         },
                         {
@@ -10689,7 +10689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "How much love must have been poured into\nme.\\n< Serena >"
+                                "How much love must have been poured into me.\\n< Serena >"
                             ]
                         },
                         {
@@ -10730,7 +10730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The love that I should return to the\npeople I love... I've squandered it with\nmy own whims.\\n< Serena >"
+                                "The love that I should return to the people I\nlove... I've squandered it with my own whims.\\n< Serena >"
                             ]
                         },
                         {
@@ -10754,7 +10754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I must accept the punishment. To flee\nfrom responsibility, from sin... would\nmake me no different from the adults who\ntormented me.\\n< Serena >"
+                                "I must accept the punishment. To flee from\nresponsibility, from sin... would make me no\ndifferent from the adults who tormented me.\\n< Serena >"
                             ]
                         },
                         {
@@ -10802,7 +10802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Wait, Serena, that conclusion is wrong.\nWhy does it have to be like that?\\n< Erika >"
+                                "Wait, Serena, that conclusion is wrong. Why does\nit have to be like that?\\n< Erika >"
                             ]
                         },
                         {
@@ -10859,7 +10859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No one wants that for you... not like\nthat...\\n< Erika >"
+                                "No one wants that for you... not like that...\\n< Erika >"
                             ]
                         },
                         {
@@ -10907,7 +10907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Seeing you, Erika-dono, made me realize\nit once again.\\n< Serena >"
+                                "Seeing you, Erika-dono, made me realize it once\nagain.\\n< Serena >"
                             ]
                         },
                         {
@@ -10931,7 +10931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You surely did not run from your\nresponsibilities.\\n< Serena >"
+                                "You surely did not run from your responsibilities.\\n< Serena >"
                             ]
                         },
                         {
@@ -10948,7 +10948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The pain and hardship that resulted from\nit. You bear it all without uttering a\nsingle complaint to me.\\n< Serena >"
+                                "The pain and hardship that resulted from it. You\nbear it all without uttering a single complaint to\nme.\\n< Serena >"
                             ]
                         },
                         {
@@ -10972,7 +10972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "All that comes out of your mouth are\nwords of concern for me... I thought it\nwas amazing. That there could be someone\nso strong.\\n< Serena >"
+                                "All that comes out of your mouth are words of\nconcern for me... I thought it was amazing. That\nthere could be someone so strong.\\n< Serena >"
                             ]
                         },
                         {
@@ -10996,7 +10996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Now I bear a similar pain, and thus I\nfeel strongly. I want to be like you.\\n< Serena >"
+                                "Now I bear a similar pain, and thus I feel\nstrongly. I want to be like you.\\n< Serena >"
                             ]
                         },
                         {
@@ -11053,7 +11053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No, you're wrong. That's not me... I\nam...\\n< Erika >"
+                                "No, you're wrong. That's not me... I am...\\n< Erika >"
                             ]
                         },
                         {
@@ -11077,7 +11077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Thank you, Erika-dono. Because of you,\nmy heart is now clearer than ever\nbefore.\\n< Serena >"
+                                "Thank you, Erika-dono. Because of you, my heart is\nnow clearer than ever before.\\n< Serena >"
                             ]
                         },
                         {
@@ -11209,7 +11209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It might be filled with trivial things\nlike what I thought about each day or\nwhat I read.\\n< Serena >"
+                                "It might be filled with trivial things like what I\nthought about each day or what I read.\\n< Serena >"
                             ]
                         },
                         {
@@ -11257,7 +11257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...I'm going to get some fresh air\noutside.\\n< Serena >"
+                                "...I'm going to get some fresh air outside.\\n< Serena >"
                             ]
                         },
                         {
@@ -11346,7 +11346,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I may never come to this town again. I\nwant to take a good look and remember it\nwell.\\n< Serena >"
+                                "I may never come to this town again. I want to\ntake a good look and remember it well.\\n< Serena >"
                             ]
                         },
                         {
@@ -12093,7 +12093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Uwa, wa! I-I-I'm so sorry!!! Are you\nokay!?\\n< ??? >"
+                                "Uwa, wa! I-I-I'm so sorry!!! Are you okay!?\\n< ???>"
                             ]
                         },
                         {
@@ -12127,7 +12127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sorry... it just wouldn't open... so I,\nkind of, you know, pushed it really\nhard!\\n< ??? >"
+                                "Sorry... it just wouldn't open... so I, kind of,\nyou know, pushed it really hard!\\n< ???>"
                             ]
                         },
                         {
@@ -12182,7 +12182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Eh, really!?\\n< ??? >"
+                                "Eh, really!?\\n< ???>"
                             ]
                         },
                         {
@@ -12199,7 +12199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Uwah-cha-. Then... I might have...\nbroken it.\\n< ??? >"
+                                "Uwah-cha-. Then... I might have... broken it.\\n< ???>"
                             ]
                         },
                         {
@@ -12289,7 +12289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah-... um, that, that...\\n< ??? >"
+                                "Ah-... um, that, that...\\n< ???>"
                             ]
                         },
                         {
@@ -12317,7 +12317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Right! When in doubt, greet! That's what\ngrandpa used to say!\\n< ??? >"
+                                "Right! When in doubt, greet! That's what grandpa\nused to say!\\n< ???>"
                             ]
                         },
                         {
@@ -12334,7 +12334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I am! An aspiring adventurer!\\n< ??? >"
+                                "I am! An aspiring adventurer!\\n< ???>"
                             ]
                         },
                         {

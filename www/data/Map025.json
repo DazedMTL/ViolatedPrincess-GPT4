@@ -2241,7 +2241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...\\n< Patrol Team >"
+                                "...\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -2856,7 +2856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yo, yo, all you patrol folks. Thank you\nfor taking the time to come out here\ntoday.\\n< Demouran >"
+                                "Yo, yo, all you patrol folks. Thank you for taking\nthe time to come out here today.\\n< Demouran >"
                             ]
                         },
                         {
@@ -2873,7 +2873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Not too hot, not too cold, it's truly a\nfine day for an investigation, isn't it?\\n< Demouran >"
+                                "Not too hot, not too cold, it's truly a fine day\nfor an investigation, isn't it?\\n< Demouran >"
                             ]
                         },
                         {
@@ -2890,7 +2890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...but with it being so dark at hand, I\ndoubt the investigation will proceed.\\n< Patrol Team >"
+                                "...but with it being so dark at hand, I doubt the\ninvestigation will proceed.\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -2907,7 +2907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well, that's where we come in. We've\nprepared a special dog for this. The\nnight time actually suits us better for\nthis sort of thing.\\n< Demouran >"
+                                "Well, that's where we come in. We've prepared a\nspecial dog for this. The night time actually\nsuits us better for this sort of thing.\\n< Demouran >"
                             ]
                         },
                         {
@@ -2924,7 +2924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A dog?\\n< Patrol Team >"
+                                "A dog?\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -3124,7 +3124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...\\n< Patrol Team >"
+                                "...\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -3479,7 +3479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "How about that? Quite impressive, isn't\nit?\\n< Demouran >"
+                                "How about that? Quite impressive, isn't it?\\n< Demouran >"
                             ]
                         },
                         {
@@ -3496,7 +3496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This one has an excellent nose. Well,\nmaybe a bit too excellent. It wasn't\neasy to win its affection, and training\nwas quite a challenge.\\n< Demouran >"
+                                "This one has an excellent nose. Well, maybe a bit\ntoo excellent. It wasn't easy to win its\naffection, and training was quite a challenge.\\n< Demouran >"
                             ]
                         },
                         {
@@ -3513,7 +3513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But finally, our love got through to it,\nand we managed to teach it its place, so\nto speak.\\n< Demouran >"
+                                "But finally, our love got through to it, and we\nmanaged to teach it its place, so to speak.\\n< Demouran >"
                             ]
                         },
                         {
@@ -3530,7 +3530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So I thought, why not bring it along for\nthis investigation? Its keen sense of\nsmell might come in handy. Yes.\\n< Demouran >"
+                                "So I thought, why not bring it along for this\ninvestigation? Its keen sense of smell might come\nin handy. Yes.\\n< Demouran >"
                             ]
                         },
                         {
@@ -3547,7 +3547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "With its proud nose that pokes into\neverything, it'll surely lead us to\nsolve this case, right? Right, Nicola?\\n< Demouran >"
+                                "With its proud nose that pokes into everything,\nit'll surely lead us to solve this case, right?\nRight, Nicola?\\n< Demouran >"
                             ]
                         },
                         {
@@ -3831,7 +3831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The whole squad has been doting on it\nfrom morning till night!\\n< City Police >"
+                                "The whole squad has been doting on it from morning\ntill night!\\n< City Police>"
                             ]
                         },
                         {
@@ -3848,7 +3848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah--hyahyahya!!\\n< City Police >"
+                                "Ah--hyahyahya!!\\n< City Police>"
                             ]
                         },
                         {
@@ -3865,7 +3865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hee-heeheehee!!!\\n< City Police >"
+                                "Hee-heeheehee!!!\\n< City Police>"
                             ]
                         },
                         {
@@ -3882,7 +3882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Gyahyee---!!!\\n< City Police >"
+                                "Gyahyee---!!!\\n< City Police>"
                             ]
                         },
                         {
@@ -3970,7 +3970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Serena-san!\\n< Patrol Team >"
+                                "Serena-san!\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -4080,7 +4080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I figured you'd bring some backup,\nbut...\\n< Demouran >"
+                                "I figured you'd bring some backup, but...\\n< Demouran >"
                             ]
                         },
                         {
@@ -4097,7 +4097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "To think you'd resort to kids. Has the\npatrol team really been driven into a\ncorner that much?\\n< City Police >"
+                                "To think you'd resort to kids. Has the patrol team\nreally been driven into a corner that much?\\n< City Police>"
                             ]
                         },
                         {
@@ -4145,7 +4145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Heh heh. Well, if you're looking to pick\na fight, I'm not opposed to giving you\none.\\n< Demouran >"
+                                "Heh heh. Well, if you're looking to pick a fight,\nI'm not opposed to giving you one.\\n< Demouran >"
                             ]
                         },
                         {
@@ -4162,7 +4162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You do realize that if you make the\nfirst move, you'll be the one at fault?\\n< Demouran >"
+                                "You do realize that if you make the first move,\nyou'll be the one at fault?\\n< Demouran >"
                             ]
                         },
                         {
@@ -4238,7 +4238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Last time I didn't want to make a big\ndeal out of it. Gave you a light\npunishment...\\n< Demouran >"
+                                "Last time I didn't want to make a big deal out of\nit. Gave you a light punishment...\\n< Demouran >"
                             ]
                         },
                         {
@@ -4255,7 +4255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But this time you're a criminal with no\nexcuses.\\n< Demouran >"
+                                "But this time you're a criminal with no excuses.\\n< Demouran >"
                             ]
                         },
                         {
@@ -4341,7 +4341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Be prepared for your life to be over,\nalright?\\n< Demouran >"
+                                "Be prepared for your life to be over, alright?\\n< Demouran >"
                             ]
                         },
                         {
@@ -4365,7 +4365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "As if we'd let you annihilate us without\na fight!\\n< Serena >"
+                                "As if we'd let you annihilate us without a fight!\\n< Serena >"
                             ]
                         },
                         {
@@ -4401,7 +4401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Everyone, let's do this! We're going to\ntake back our captain!\\n< Patrol Team >"
+                                "Everyone, let's do this! We're going to take back\nour captain!\\n< Patrol Team>"
                             ]
                         },
                         {
@@ -4418,7 +4418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "UOOOOOOOOOO!!!\\n< Patrol Team >"
+                                "UOOOOOOOOOO!!!\\n< Patrol Team>"
                             ]
                         },
                         {

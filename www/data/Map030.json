@@ -2505,7 +2505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Wha...t... A green, infant... A goblin\nbaby? This is..."
+                                "\\n< Serena >Wha...t... A green, infant... A goblin baby? This\nis..."
                             ]
                         },
                         {
@@ -2567,7 +2567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Ugh, uuu... Wha, what...! Just looking\nat it... makes my chest feel uneasy...!"
+                                "\\n< Serena >Ugh, uuu... Wha, what...! Just looking at it...\nmakes my chest feel uneasy...!"
                             ]
                         },
                         {
@@ -2879,7 +2879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Ha-... I ended up running away without\nthinking..."
+                                "\\n< Serena >Ha-... I ended up running away without thinking..."
                             ]
                         },
                         {
@@ -2903,7 +2903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Even though it's just a powerless\ninfant, the mere fact that it resembles\na human makes it feel so repulsive..."
+                                "\\n< Serena >Even though it's just a powerless infant, the mere\nfact that it resembles a human makes it feel so\nrepulsive..."
                             ]
                         },
                         {
@@ -2927,7 +2927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Extermination... is it... okay...? After\nall, a single one won't survive for\nlong."
+                                "\\n< Serena >Extermination... is it... okay...? After all, a\nsingle one won't survive for long."
                             ]
                         },
                         {
@@ -2951,7 +2951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >Rather, I don't want to go back to the\nhut..."
+                                "\\n< Serena >Rather, I don't want to go back to the hut..."
                             ]
                         },
                         {
@@ -2975,7 +2975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >However, if I return without proof of\nsubjugation again, the Master will scold\nme..."
+                                "\\n< Serena >However, if I return without proof of subjugation\nagain, the Master will scold me..."
                             ]
                         },
                         {
@@ -3144,7 +3144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Guild Master >Yes... yes. I thought as much..."
+                                "\\n< Guild Master>Yes... yes. I thought as much..."
                             ]
                         },
                         {
@@ -3211,7 +3211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\V[2501]\\n< Serena > left. Good, good.  With this, the\nmatter is settled."
+                                "\\V[2501]\\n< Serena > left. Good, good.  With this, the matter is\nsettled."
                             ]
                         },
                         {
@@ -4014,7 +4014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(Dragged into a nest...? Pinned down by\ngoblins... There are roughly seven of\nthem around...)\\n< Serena >"
+                                "(Dragged into a nest...? Pinned down by goblins...\nThere are roughly seven of them around...)\\n< Serena >"
                             ]
                         },
                         {
@@ -4031,7 +4031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The ring is here... If only I could\ngenerate the Affabilis...\\n< Serena >"
+                                "The ring is here... If only I could generate the\nAffabilis...\\n< Serena >"
                             ]
                         },
                         {
@@ -4393,7 +4393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Aaahhh! My clothes...! Let go! Don't\nlook!!\\n< Serena >"
+                                "Aaahhh! My clothes...! Let go! Don't look!!\\n< Serena >"
                             ]
                         },
                         {
@@ -4450,7 +4450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(Damn it... My concentration... is\ndisrupted...! Because of something like\nthis... I can't regenerate my\nequipment...!)\\n< Serena >"
+                                "(Damn it... My concentration... is disrupted...!\nBecause of something like this... I can't\nregenerate my equipment...!)\\n< Serena >"
                             ]
                         },
                         {
@@ -4845,7 +4845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What is this... It's not an attack...\nWhat am I being subjected to... What are\nthe goblins doing...?\\n< Serena >"
+                                "What is this... It's not an attack... What am I\nbeing subjected to... What are the goblins\ndoing...?\\n< Serena >"
                             ]
                         },
                         {
@@ -5111,7 +5111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Stop it... Don't bring \"that\" any closer\nto me... It's something very vile...!\\n< Serena >"
+                                "Stop it... Don't bring \"that\" any closer to me...\nIt's something very vile...!\\n< Serena >"
                             ]
                         },
                         {
@@ -5128,7 +5128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(It seems like something I shouldn't\nsee...!)\\n< Serena >"
+                                "(It seems like something I shouldn't see...!)\\n< Serena >"
                             ]
                         },
                         {
@@ -5338,7 +5338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pushing, pressing against me...! Eh!?\nNo...!\\n< Serena >"
+                                "Pushing, pressing against me...! Eh!? No...!\\n< Serena >"
                             ]
                         },
                         {
@@ -6200,7 +6200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh la la! Goblins! Getting it on in\nbroad daylight!\\n< Erika >"
+                                "Oh la la! Goblins! Getting it on in broad\ndaylight!\\n< Erika >"
                             ]
                         },
                         {
@@ -6336,7 +6336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Seriously, that was a close shave if I\never saw one!\\n< Erika >"
+                                "Seriously, that was a close shave if I ever saw\none!\\n< Erika >"
                             ]
                         },
                         {
@@ -6360,7 +6360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Can't be helped then! Consider this a\nfavor I'm doing for you!\\n< Erika >"
+                                "Can't be helped then! Consider this a favor I'm\ndoing for you!\\n< Erika >"
                             ]
                         },
                         {
@@ -6867,7 +6867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah-tch, ptooey... Damn goblins are so\ndamn slimy...!\\n< Erika >"
+                                "Ah-tch, ptooey... Damn goblins are so damn\nslimy...!\\n< Erika >"
                             ]
                         },
                         {
@@ -6908,7 +6908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm fine. My apologies, Erika-sama... I\nowe you one.\\n< Serena >"
+                                "I'm fine. My apologies, Erika-sama... I owe you\none.\\n< Serena >"
                             ]
                         },
                         {
@@ -6932,7 +6932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Be more careful. Even weaklings like\nthem have the strength to kill a human.\\n< Erika >"
+                                "Be more careful. Even weaklings like them have the\nstrength to kill a human.\\n< Erika >"
                             ]
                         },
                         {
@@ -6980,7 +6980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Alright. Shall we head back? ...But not\nin that state, obviously.\\n< Erika >"
+                                "Alright. Shall we head back? ...But not in that\nstate, obviously.\\n< Erika >"
                             ]
                         },
                         {
@@ -6997,7 +6997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'll go look for some clothes or cloth\nyou can wrap yourself in.\\n< Erika >"
+                                "I'll go look for some clothes or cloth you can\nwrap yourself in.\\n< Erika >"
                             ]
                         },
                         {
@@ -7213,7 +7213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It was a different kind of fear, not\njust pain or the fear of death...\\n< Serena >"
+                                "It was a different kind of fear, not just pain or\nthe fear of death...\\n< Serena >"
                             ]
                         },
                         {
@@ -7237,7 +7237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It feels like it will haunt my dreams. I\ndoubt I'll be able to forget it for a\nwhile...\\n< Serena >"
+                                "It feels like it will haunt my dreams. I doubt\nI'll be able to forget it for a while...\\n< Serena >"
                             ]
                         },
                         {
@@ -7399,7 +7399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sounds like you had quite the ordeal.\\n< Guild Master >"
+                                "Sounds like you had quite the ordeal.\\n< Guild Master>"
                             ]
                         },
                         {
@@ -7447,7 +7447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "How about it? Had enough of being an\nadventurer? It's painful, dangerous, and\nto top it off, stinks.\\n< Guild Master >"
+                                "How about it? Had enough of being an adventurer?\nIt's painful, dangerous, and to top it off,\nstinks.\\n< Guild Master>"
                             ]
                         },
                         {
@@ -7529,7 +7529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But what I must do lies ahead. If so,\nthen I shall proceed. There's nothing to\ndo but continue.\\n< Serena >"
+                                "But what I must do lies ahead. If so, then I shall\nproceed. There's nothing to do but continue.\\n< Serena >"
                             ]
                         },
                         {
@@ -7553,7 +7553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Tch.\\n< Guild Master >"
+                                "Tch.\\n< Guild Master>"
                             ]
                         },
                         {
@@ -7570,7 +7570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well... at least the goblins are gone\nnow. Consider the quest complete.\\n< Guild Master >"
+                                "Well... at least the goblins are gone now.\nConsider the quest complete.\\n< Guild Master>"
                             ]
                         },
                         {
@@ -7587,7 +7587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Here, your reward. Go get some sleep,\neat, and take a bath.\\n< Guild Master >"
+                                "Here, your reward. Go get some sleep, eat, and\ntake a bath.\\n< Guild Master>"
                             ]
                         },
                         {
@@ -7678,7 +7678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena > \\V[2501] left... Is this the end of the\nmatter then."
+                                "\\n< Serena > \\V[2501] left... Is this the end of the matter\nthen."
                             ]
                         },
                         {

@@ -5688,7 +5688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >There are still goblins left. We can't\nturn back now."
+                                "\\n< Serena >There are still goblins left. We can't turn back\nnow."
                             ]
                         },
                         {
@@ -5719,7 +5719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >If you're worried, it might be wise to\nprepare now while we can."
+                                "\\n< Serena >If you're worried, it might be wise to prepare now\nwhile we can."
                             ]
                         },
                         {
@@ -5923,7 +5923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >There are still goblins left. We can't\nafford to turn back now."
+                                "\\n< Serena >There are still goblins left. We can't afford to\nturn back now."
                             ]
                         },
                         {
@@ -5954,7 +5954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >If you're worried, it might be wise to\nprepare now while we have the chance."
+                                "\\n< Serena >If you're worried, it might be wise to prepare now\nwhile we have the chance."
                             ]
                         },
                         {
@@ -6410,7 +6410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >There are still goblins left. We can't\nturn back now."
+                                "\\n< Serena >There are still goblins left. We can't turn back\nnow."
                             ]
                         },
                         {
@@ -6441,7 +6441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >If you're worried, it might be a good\nidea to prepare now while we can."
+                                "\\n< Serena >If you're worried, it might be a good idea to\nprepare now while we can."
                             ]
                         },
                         {

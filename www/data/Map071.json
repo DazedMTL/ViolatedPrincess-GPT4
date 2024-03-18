@@ -5194,7 +5194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What!? Surrounded by slimes!? Are you\ntrying to kill me!?\\n< Serena >"
+                                "What!? Surrounded by slimes!? Are you trying to\nkill me!?\\n< Serena >"
                             ]
                         },
                         {
@@ -5464,7 +5464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Heh-heh-heh-heh...!\\n< ??? >"
+                                "Heh-heh-heh-heh...!\\n< ???>"
                             ]
                         },
                         {
@@ -5481,7 +5481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What's the matter, what's the matter?\nAre my slime buddies too scary for you\nto follow?\\n<Gi >"
+                                "What's the matter, what's the matter? Are my slime\nbuddies too scary for you to follow?\\n< Gi >"
                             ]
                         },
                         {
@@ -5498,7 +5498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Then get lost, brat! This is my kingdom!\nNo one can catch me!\\n<Gi >"
+                                "Then get lost, brat! This is my kingdom! No one\ncan catch me!\\n< Gi >"
                             ]
                         },
                         {
@@ -5564,7 +5564,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...Ah... It's scary... Indeed, slimes\nare... yeah.\\n< Serena >"
+                                "...Ah... It's scary... Indeed, slimes are... yeah.\\n< Serena >"
                             ]
                         },
                         {
@@ -5633,7 +5633,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Heh-heh-heh? So what are you gonna do?\nGot anything else you can do besides\ntucking your tail and running away?\\n<Gi >"
+                                "Heh-heh-heh? So what are you gonna do? Got\nanything else you can do besides tucking your tail\nand running away?\\n< Gi >"
                             ]
                         },
                         {
@@ -5764,7 +5764,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...It took a lot of courage to get this\nfar.\\n< Serena >"
+                                "...It took a lot of courage to get this far.\\n< Serena >"
                             ]
                         },
                         {
@@ -5781,7 +5781,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "But when it comes down to it. All of\nthis is your fault.\\n< Serena >"
+                                "But when it comes down to it. All of this is your\nfault.\\n< Serena >"
                             ]
                         },
                         {
@@ -5805,7 +5805,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Huh...?\\n<Gi >"
+                                "Huh...?\\n< Gi >"
                             ]
                         },
                         {
@@ -5867,7 +5867,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "If I weigh my anger against my fear,\nright now my anger just barely wins out.\\n< Serena >"
+                                "If I weigh my anger against my fear, right now my\nanger just barely wins out.\\n< Serena >"
                             ]
                         },
                         {
@@ -5929,7 +5929,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "That's why I can step forward. Move\nahead. I won't be satisfied until I've\nstruck you down.\\n< Serena >"
+                                "That's why I can step forward. Move ahead. I won't\nbe satisfied until I've struck you down.\\n< Serena >"
                             ]
                         },
                         {
@@ -5953,7 +5953,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Kid, can't you see my slime buddies?\\n<Gi >"
+                                "Kid, can't you see my slime buddies?\\n< Gi >"
                             ]
                         },
                         {
@@ -6064,7 +6064,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I can see them. But they'll be out of\nsight soon enough.\\n< Serena >"
+                                "I can see them. But they'll be out of sight soon\nenough.\\n< Serena >"
                             ]
                         },
                         {
@@ -6205,7 +6205,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Heh-heh-heh? So what are you gonna do?\nGot anything else you can do besides\ntucking your tail and running away?\\n<Gi >"
+                                "Heh-heh-heh? So what are you gonna do? Got\nanything else you can do besides tucking your tail\nand running away?\\n< Gi >"
                             ]
                         },
                         {
@@ -6291,7 +6291,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Truly, the world is a vast place. Ever\nsince I came to this town, it's been one\nsurprise after another.\\n< Serena >"
+                                "Truly, the world is a vast place. Ever since I\ncame to this town, it's been one surprise after\nanother.\\n< Serena >"
                             ]
                         },
                         {
@@ -6315,7 +6315,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hey...?\\n<Gi >"
+                                "Hey...?\\n< Gi >"
                             ]
                         },
                         {
@@ -6377,7 +6377,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "To think there's a human who can\ncommunicate with slimes. No wonder you\ncould make the sewers your stronghold.\\n< Serena >"
+                                "To think there's a human who can communicate with\nslimes. No wonder you could make the sewers your\nstronghold.\\n< Serena >"
                             ]
                         },
                         {
@@ -6401,7 +6401,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Kid, can't you see my slime buddies?\\n<Gi >"
+                                "Kid, can't you see my slime buddies?\\n< Gi >"
                             ]
                         },
                         {
@@ -6540,7 +6540,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Of course I can see them. But they'll be\nout of sight soon.\\n< Serena >"
+                                "Of course I can see them. But they'll be out of\nsight soon.\\n< Serena >"
                             ]
                         },
                         {
@@ -6633,7 +6633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No way. You really can't see them after\nall!\\n<Gi >"
+                                "No way. You really can't see them after all!\\n< Gi >"
                             ]
                         },
                         {
@@ -7093,7 +7093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ack!?\\n<Gi >"
+                                "Ack!?\\n< Gi >"
                             ]
                         },
                         {
@@ -7117,7 +7117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...So you had something this huge hidden\naway. But your surprise attack failed.\\n< Serena >"
+                                "...So you had something this huge hidden away. But\nyour surprise attack failed.\\n< Serena >"
                             ]
                         },
                         {
@@ -7183,7 +7183,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Kukuu-! Damn it! Despite that huge\nbelly, you're surprisingly nimble,\naren't you!\\n<Gi >"
+                                "Kukuu-! Damn it! Despite that huge belly, you're\nsurprisingly nimble, aren't you!\\n< Gi >"
                             ]
                         },
                         {
@@ -7210,7 +7210,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Kukuu-! Damn it! You're not just some\nbrat after all!\\n<Gi >"
+                                "Kukuu-! Damn it! You're not just some brat after\nall!\\n< Gi >"
                             ]
                         },
                         {
@@ -7306,7 +7306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Criminal Gi. You're going to tell me\neverything about the source of the\npoison.\\n< Serena >"
+                                "Criminal Gi. You're going to tell me everything\nabout the source of the poison.\\n< Serena >"
                             ]
                         },
                         {
@@ -7330,7 +7330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Damn it... I won't let myself get\ncaught...!\\n<Gi >"
+                                "Damn it... I won't let myself get caught...!\\n< Gi >"
                             ]
                         },
                         {
@@ -7400,7 +7400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "My slime buddies! Protect me! Kill that\nbrat!\\n<Gi >"
+                                "My slime buddies! Protect me! Kill that brat!\\n< Gi >"
                             ]
                         },
                         {
@@ -7417,7 +7417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Crawl up her ass and turn her insides\ninto jammy mush! Melt her and eat her\nalive!\\n<Gi >"
+                                "Crawl up her ass and turn her insides into jammy\nmush! Melt her and eat her alive!\\n< Gi >"
                             ]
                         },
                         {
@@ -7454,7 +7454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...!\\n< Giant Slime >"
+                                "...!\\n< Giant Slime>"
                             ]
                         },
                         {
@@ -8106,7 +8106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ngh, ugh... To be overpowered by a mere\nslime...!\\n< Serena >"
+                                "Ngh, ugh... To be overpowered by a mere slime...!\\n< Serena >"
                             ]
                         },
                         {
@@ -8154,7 +8154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Gya-hahaha! Look at this, you brat! This\nis my power! The military might of my\nkingdom!!!\\n<Gi >"
+                                "Gya-hahaha! Look at this, you brat! This is my\npower! The military might of my kingdom!!!\\n< Gi >"
                             ]
                         },
                         {
@@ -8233,7 +8233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Good girl! Well done! That's enough!\nHand that kid over to me!\\n<Gi >"
+                                "Good girl! Well done! That's enough! Hand that kid\nover to me!\\n< Gi >"
                             ]
                         },
                         {
@@ -8250,7 +8250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "With my adult dick, heheh! Adults and\nkids! Men and women!\\n<Gi >"
+                                "With my adult dick, heheh! Adults and kids! Men\nand women!\\n< Gi >"
                             ]
                         },
                         {
@@ -8267,7 +8267,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'll thoroughly engrave the difference\nin our standings into you--!!\\n<Gi >"
+                                "I'll thoroughly engrave the difference in our\nstandings into you--!!\\n< Gi >"
                             ]
                         },
                         {
@@ -8338,7 +8338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Hey?\\n<Gi >"
+                                "...Hey?\\n< Gi >"
                             ]
                         },
                         {
@@ -8484,7 +8484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hey!? Damn it, listen to me! You low-\nintelligence monster!\\n<Gi >"
+                                "Hey!? Damn it, listen to me! You low- intelligence\nmonster!\\n< Gi >"
                             ]
                         },
                         {
@@ -8754,7 +8754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Nnghk!? Ah!? It's entering... bit by\nbit...!\\n< Serena >"
+                                "Nnghk!? Ah!? It's entering... bit by bit...!\\n< Serena >"
                             ]
                         },
                         {
@@ -9184,7 +9184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Uuuu... Inside my body, it's...! Like\nthis... ughh...!\\n< Serena >"
+                                "Uuuu... Inside my body, it's...! Like this...\nughh...!\\n< Serena >"
                             ]
                         },
                         {
@@ -9356,7 +9356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Aaah, no good, no good! Can't stop\nit...!\\n< Serena >"
+                                "Aaah, no good, no good! Can't stop it...!\\n< Serena >"
                             ]
                         },
                         {
@@ -9824,7 +9824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What, when... What does it want to\ndo...! Not to kill, nor to devour...!\\n< Serena >"
+                                "What, when... What does it want to do...! Not to\nkill, nor to devour...!\\n< Serena >"
                             ]
                         },
                         {
@@ -9881,7 +9881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's disgusting, disgusting,\ndisgusting...!\\n< Serena >"
+                                "It's disgusting, disgusting, disgusting...!\\n< Serena >"
                             ]
                         },
                         {
@@ -10023,7 +10023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Is it searching for something...? It\nseems to be groping around...\\n< Serena >"
+                                "Is it searching for something...? It seems to be\ngroping around...\\n< Serena >"
                             ]
                         },
                         {
@@ -10122,7 +10122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Damn it all! Having fun all by\nyourself!!!\\n<Gi >"
+                                "Damn it all! Having fun all by yourself!!!\\n< Gi >"
                             ]
                         },
                         {
@@ -10139,7 +10139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I am the king! The king's orders are\nabsolute!\\n<Gi >"
+                                "I am the king! The king's orders are absolute!\\n< Gi >"
                             ]
                         },
                         {
@@ -10195,7 +10195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I said kill her before, but that was\njust a slip of the tongue! Cancel that!\nIt's my turn to have fun now! Hey!\\n<Gi >"
+                                "I said kill her before, but that was just a slip\nof the tongue! Cancel that! It's my turn to have\nfun now! Hey!\\n< Gi >"
                             ]
                         },
                         {
@@ -10251,7 +10251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Don't mess with me, you bastard...! Hey!\\n<Gi >"
+                                "Don't mess with me, you bastard...! Hey!\\n< Gi >"
                             ]
                         },
                         {
@@ -10280,7 +10280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Geh!?\\n<Gi >"
+                                "Geh!?\\n< Gi >"
                             ]
                         },
                         {
@@ -11248,7 +11248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Pugy!?\\n<Gi >"
+                                "Pugy!?\\n< Gi >"
                             ]
                         },
                         {
@@ -11451,7 +11451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Phew... Did the slime run away?\nShould I consider myself lucky...\\n< Serena >"
+                                "...Phew... Did the slime run away? Should I\nconsider myself lucky...\\n< Serena >"
                             ]
                         },
                         {
@@ -11513,7 +11513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Or is it thanks to this man passing out?\nFor a moment, the slime's movement\nclearly stopped...\\n< Serena >"
+                                "Or is it thanks to this man passing out? For a\nmoment, the slime's movement clearly stopped...\\n< Serena >"
                             ]
                         },
                         {
@@ -11623,7 +11623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's a pain coming from inside my\nbody... An unknown pain. It had its way\nwith me, even if it was for a short\ntime...\\n< Serena >"
+                                "It's a pain coming from inside my body... An\nunknown pain. It had its way with me, even if it\nwas for a short time...\\n< Serena >"
                             ]
                         },
                         {
@@ -11647,7 +11647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The sensation of it moving around inside\nmy stomach was disgustingly terrible...\\n< Serena >"
+                                "The sensation of it moving around inside my\nstomach was disgustingly terrible...\\n< Serena >"
                             ]
                         },
                         {
@@ -11671,7 +11671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's terrifying to even imagine what\nwould have happened if I had been\nabsorbed by it...\\n< Serena >"
+                                "It's terrifying to even imagine what would have\nhappened if I had been absorbed by it...\\n< Serena >"
                             ]
                         },
                         {
@@ -11767,7 +11767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "With my current strength. And there's a\nbig man lying in front of me. Although\nI've achieved my goal, more or less...\\n< Serena >"
+                                "With my current strength. And there's a big man\nlying in front of me. Although I've achieved my\ngoal, more or less...\\n< Serena >"
                             ]
                         },
                         {
@@ -11829,7 +11829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The real problem is how to carry this\nguy upstairs. That's the difficult\npart...\\n< Serena >"
+                                "The real problem is how to carry this guy\nupstairs. That's the difficult part...\\n< Serena >"
                             ]
                         },
                         {
@@ -12244,7 +12244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Heehee... My slime darlings... My\ninvincible kingdom...!\\n<Gi >"
+                                "...Heehee... My slime darlings... My invincible\nkingdom...!\\n< Gi >"
                             ]
                         },
                         {
@@ -12299,7 +12299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ugh... heh, heheh.\\n<Gi >"
+                                "Ugh... heh, heheh.\\n< Gi >"
                             ]
                         },
                         {
@@ -12431,7 +12431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh my, you're quite strong for someone\nso young! Truly strong! Oh, I am\nthoroughly impressed!!\\n<Gi >"
+                                "Oh my, you're quite strong for someone so young!\nTruly strong! Oh, I am thoroughly impressed!!\\n< Gi >"
                             ]
                         },
                         {
@@ -12486,7 +12486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Eheheh... That's my only redeeming\nfeature...\\n<Gi >"
+                                "Eheheh... That's my only redeeming feature...\\n< Gi >"
                             ]
                         },
                         {
@@ -12510,7 +12510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hah... I thought adult men were supposed\nto be more respectable...\\n< Serena >"
+                                "Hah... I thought adult men were supposed to be\nmore respectable...\\n< Serena >"
                             ]
                         },
                         {
@@ -12534,7 +12534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ever since coming to this town, it's\nbeen one disappointment after another.\nOr is it just the people here who are\nspecial?\\n< Serena >"
+                                "Ever since coming to this town, it's been one\ndisappointment after another. Or is it just the\npeople here who are special?\\n< Serena >"
                             ]
                         },
                         {
@@ -12565,7 +12565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Speaking of special. How were you\ncontrolling those slimes?\\n< Serena >"
+                                "...Speaking of special. How were you controlling\nthose slimes?\\n< Serena >"
                             ]
                         },
                         {
@@ -12606,7 +12606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Eh?... Ah, well... hehe, controlling,\nyou say... I didn't do anything...\\n<Gi >"
+                                "Eh?... Ah, well... hehe, controlling, you say... I\ndidn't do anything...\\n< Gi >"
                             ]
                         },
                         {
@@ -12654,7 +12654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ehehe... then just for you, big sis,\nsecretly, you know? I'll share my trade\nsecret with you...\\n<Gi >"
+                                "Ehehe... then just for you, big sis, secretly, you\nknow? I'll share my trade secret with you...\\n< Gi >"
                             ]
                         },
                         {
@@ -12769,7 +12769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Inside this bottle here... there's a\nlittle secret packed inside.\\n<Gi >"
+                                "Inside this bottle here... there's a little secret\npacked inside.\\n< Gi >"
                             ]
                         },
                         {
@@ -12786,7 +12786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If you have this bottle, the slimes\nwon't attack me... I mean, the owner...\nno, to be precise, they won't attack the\none holding this bottle.\\n<Gi >"
+                                "If you have this bottle, the slimes won't attack\nme... I mean, the owner... no, to be precise, they\nwon't attack the one holding this bottle.\\n< Gi >"
                             ]
                         },
                         {
@@ -12834,7 +12834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Black liquid...? What is it? Some kind\nof potion?\\n< Serena >"
+                                "Black liquid...? What is it? Some kind of potion?\\n< Serena >"
                             ]
                         },
                         {
@@ -12858,7 +12858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yeah, something like that.\\n<Gi >"
+                                "Yeah, something like that.\\n< Gi >"
                             ]
                         },
                         {
@@ -12882,7 +12882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hah... But isn't this a major discovery?\nThis town has been struggling to control\nslimes for sure.\\n< Serena >"
+                                "Hah... But isn't this a major discovery? This town\nhas been struggling to control slimes for sure.\\n< Serena >"
                             ]
                         },
                         {
@@ -12899,7 +12899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "With this liquid, how much could that\nstruggle be reduced. There are surely\nmany more applications...\\n< Serena >"
+                                "With this liquid, how much could that struggle be\nreduced. There are surely many more\napplications...\\n< Serena >"
                             ]
                         },
                         {
@@ -12923,7 +12923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...If such a thing existed, there would\nhave been no need to be involved in the\ndistribution of poison.\\n< Serena >"
+                                "...If such a thing existed, there would have been\nno need to be involved in the distribution of\npoison.\\n< Serena >"
                             ]
                         },
                         {
@@ -12964,7 +12964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Nah. I just found this thing. It's not\nlike I made it or anything.\\n<Gi >"
+                                "Nah. I just found this thing. It's not like I made\nit or anything.\\n< Gi >"
                             ]
                         },
                         {
@@ -12981,7 +12981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Why, with just this one bottle, selling\nit wouldn't bring in more than a small\nsum, right?\\n<Gi >"
+                                "Why, with just this one bottle, selling it\nwouldn't bring in more than a small sum, right?\\n< Gi >"
                             ]
                         },
                         {
@@ -12998,7 +12998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "And as for using it for something else,\nwell, that's beyond my brain...\\n<Gi >"
+                                "And as for using it for something else, well,\nthat's beyond my brain...\\n< Gi >"
                             ]
                         },
                         {
@@ -13022,7 +13022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So you decided to use it to sell poison\nin the sewers instead.\\n< Serena >"
+                                "So you decided to use it to sell poison in the\nsewers instead.\\n< Serena >"
                             ]
                         },
                         {
@@ -13046,7 +13046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's an irredeemable folly. A discovery\nthat could change the world, stuffed\ninto such a cheap bottle...\\n< Serena >"
+                                "It's an irredeemable folly. A discovery that could\nchange the world, stuffed into such a cheap\nbottle...\\n< Serena >"
                             ]
                         },
                         {
@@ -13070,7 +13070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No no, that's where you're wrong. The\nfact that this bottle looks cheap is\nprecisely the point!\\n<Gi >"
+                                "No no, that's where you're wrong. The fact that\nthis bottle looks cheap is precisely the point!\\n< Gi >"
                             ]
                         },
                         {
@@ -13118,7 +13118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It looks poorly made and fragile,\ndoesn't it? That's why you can do this.\\n<Gi >"
+                                "It looks poorly made and fragile, doesn't it?\nThat's why you can do this.\\n< Gi >"
                             ]
                         },
                         {
@@ -13135,7 +13135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Throw it as a distraction!\\n<Gi >"
+                                "Throw it as a distraction!\\n< Gi >"
                             ]
                         },
                         {
@@ -13849,7 +13849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oof... puh... why the heck...?\\n<Gi >"
+                                "Oof... puh... why the heck...?\\n< Gi >"
                             ]
                         },
                         {
@@ -14123,7 +14123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If you're prepared, it's easy to strike\nwith a sound fist in the direction of\nthe noise without seeing.\\n< Serena >"
+                                "If you're prepared, it's easy to strike with a\nsound fist in the direction of the noise without\nseeing.\\n< Serena >"
                             ]
                         },
                         {
@@ -14147,7 +14147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Damn it... ugh!\\n<Gi >"
+                                "Damn it... ugh!\\n< Gi >"
                             ]
                         },
                         {
@@ -14195,7 +14195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...But the contents of the bottle I was\njust splashed with...\\n< Serena >"
+                                "...But the contents of the bottle I was just\nsplashed with...\\n< Serena >"
                             ]
                         },
                         {
@@ -14212,7 +14212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So it escaped on its own, was it a\nslime? A black slime... I've never heard\nof such a thing...\\n< Serena >"
+                                "So it escaped on its own, was it a slime? A black\nslime... I've never heard of such a thing...\\n< Serena >"
                             ]
                         },
                         {
@@ -14236,7 +14236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It might be listed in the monster\nencyclopedia. I should check it later.\\n< Serena >"
+                                "It might be listed in the monster encyclopedia. I\nshould check it later.\\n< Serena >"
                             ]
                         },
                         {
@@ -14253,7 +14253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...There's an ominous feeling about just\nleaving it behind.\\n< Serena >"
+                                "...There's an ominous feeling about just leaving\nit behind.\\n< Serena >"
                             ]
                         },
                         {

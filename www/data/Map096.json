@@ -4048,7 +4048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I have no intention of going any further\naway from town.\\n< Serena >"
+                                "I have no intention of going any further away from\ntown.\\n< Serena >"
                             ]
                         },
                         {
@@ -4697,7 +4697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I feel like I spend more time climbing\nup and down these mountain paths than\nactually hunting monsters.\\n< Adventurer >"
+                                "I feel like I spend more time climbing up and down\nthese mountain paths than actually hunting\nmonsters.\\n< Adventurer >"
                             ]
                         },
                         {
@@ -4714,7 +4714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Maybe I should just live in the\nmountains at this point.\\n< Adventurer >"
+                                "Maybe I should just live in the mountains at this\npoint.\\n< Adventurer >"
                             ]
                         },
                         {
@@ -4819,7 +4819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This place is known as the Carriage\nBreaker Hill. The slope is so steep that\nit's tough for carriages to pass\nthrough.\\n< Adventurer >"
+                                "This place is known as the Carriage Breaker Hill.\nThe slope is so steep that it's tough for\ncarriages to pass through.\\n< Adventurer >"
                             ]
                         },
                         {
@@ -4836,7 +4836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "My dream, you see, is to gradually even\nout this hill to make it a gentler\nslope.\\n< Adventurer >"
+                                "My dream, you see, is to gradually even out this\nhill to make it a gentler slope.\\n< Adventurer >"
                             ]
                         },
                         {
@@ -4853,7 +4853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If I do that, the wind might blow\nthrough Castellum much better, I\nreckon...\\n< Adventurer >"
+                                "If I do that, the wind might blow through\nCastellum much better, I reckon...\\n< Adventurer >"
                             ]
                         },
                         {
@@ -5041,7 +5041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It must have been drenched by the rain\nand battered by the wind. The letters\nare hard to make out."
+                                "It must have been drenched by the rain and\nbattered by the wind. The letters are hard to make\nout."
                             ]
                         },
                         {
@@ -5170,7 +5170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I wonder if a passing carriage dropped\nit. It seems to be empty inside.\\n< Serena >"
+                                "I wonder if a passing carriage dropped it. It\nseems to be empty inside.\\n< Serena >"
                             ]
                         },
                         {
@@ -5299,7 +5299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "With monsters emerging like this, even\ngathering firewood is a struggle.\\n< Serena >"
+                                "With monsters emerging like this, even gathering\nfirewood is a struggle.\\n< Serena >"
                             ]
                         },
                         {
@@ -5316,7 +5316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "We must reduce the monsters' strength\nbefore winter comes, or else the town\nwill freeze over if people can't enter\nthe forest.\\n< Serena >"
+                                "We must reduce the monsters' strength before\nwinter comes, or else the town will freeze over if\npeople can't enter the forest.\\n< Serena >"
                             ]
                         },
                         {
@@ -5462,7 +5462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "We shouldn't carelessly touch firewood\nin places like this. It might be the\ntown's property.\\n< Serena >"
+                                "We shouldn't carelessly touch firewood in places\nlike this. It might be the town's property.\\n< Serena >"
                             ]
                         },
                         {
@@ -5676,7 +5676,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "So this is the mountain trail. If I go\nright, I'll head towards the neighboring\ncountry. It seems the monsters are on\nthis side of the mountain.\\n< Serena >"
+                                "So this is the mountain trail. If I go right, I'll\nhead towards the neighboring country. It seems the\nmonsters are on this side of the mountain.\\n< Serena >"
                             ]
                         },
                         {

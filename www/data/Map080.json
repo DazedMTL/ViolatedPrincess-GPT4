@@ -1657,7 +1657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >\"The person from before is gone too.\nThere must be a hidden door somewhere.\""
+                                "\\n< Serena >\"The person from before is gone too. There must be\na hidden door somewhere.\""
                             ]
                         },
                         {
@@ -1681,7 +1681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >\"Time to use the password I was taught\nearlier.\""
+                                "\\n< Serena >\"Time to use the password I was taught earlier.\""
                             ]
                         },
                         {
@@ -1705,7 +1705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n< Serena >\"Ah-... 'When shall the three of us meet\nagain.'"
+                                "\\n< Serena >\"Ah-... 'When shall the three of us meet again.'"
                             ]
                         },
                         {
