@@ -1,1 +1,5746 @@
-{"autoplayBgm": false, "autoplayBgs": false, "battleback1Name": "", "battleback2Name": "", "bgm": {"name": "", "pan": 0, "pitch": 100, "volume": 90}, "bgs": {"name": "", "pan": 0, "pitch": 100, "volume": 90}, "disableDashing": false, "displayName": "", "encounterList": [], "encounterStep": 30, "height": 20, "note": "", "parallaxLoopX": false, "parallaxLoopY": false, "parallaxName": "", "parallaxShow": true, "parallaxSx": 0, "parallaxSy": 0, "scrollType": 0, "specifyBattleback": false, "tilesetId": 34, "width": 20, "data": [5367, 5375, 5751, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 5751, 5371, 5374, 5373, 5750, 5757, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 5757, 5747, 5750, 5751, 5756, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 5753, 5756, 5757, 1552, 1552, 1552, 1552, 1552, 5367, 5371, 5370, 5370, 5370, 5370, 5374, 5367, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 5367, 5373, 5746, 5746, 5746, 5746, 5746, 5746, 5373, 5367, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 5373, 5750, 5752, 5752, 5752, 5752, 5752, 5752, 5747, 5373, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 5367, 5751, 5756, 4146, 4132, 4132, 4132, 4132, 4148, 5753, 5751, 5367, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 5365, 5757, 4146, 4113, 4112, 4112, 4112, 4112, 4114, 4148, 5757, 5365, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 5365, 4146, 4113, 4112, 4112, 4112, 4112, 4112, 4112, 4114, 4148, 5365, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 5365, 4128, 4112, 4112, 4112, 4112, 4112, 4112, 4112, 4112, 4136, 5365, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 5365, 4152, 4120, 4112, 4112, 4112, 4112, 4112, 4112, 4116, 4150, 5365, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 5373, 5367, 4128, 4112, 4112, 4112, 4112, 4112, 4112, 4136, 5367, 5373, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 5747, 5373, 4128, 4112, 4112, 4112, 4112, 4112, 4112, 4136, 5373, 5750, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 5753, 5751, 5371, 5370, 5374, 4112, 4112, 5371, 5370, 5374, 5751, 5756, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 5757, 5747, 5746, 5750, 4140, 4140, 5747, 5746, 5750, 5757, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 5753, 5752, 5756, 1552, 1552, 5753, 5752, 5756, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 0, 0, 0, 3024, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3032, 0, 0, 0, 0, 0, 0, 3024, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3032, 0, 0, 0, 0, 0, 3042, 3009, 3008, 3012, 3036, 3036, 3036, 3036, 3036, 3036, 3036, 3036, 3016, 3008, 3010, 3044, 0, 0, 0, 3042, 3009, 3008, 3012, 3046, 0, 0, 0, 0, 0, 0, 0, 0, 3048, 3016, 3008, 3010, 3028, 3028, 3028, 3009, 3008, 3008, 3032, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3024, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3012, 3046, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3048, 3016, 3008, 3008, 3008, 3008, 3008, 3008, 3032, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3024, 3008, 3008, 3008, 3008, 3008, 3008, 3032, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3024, 3008, 3008, 3008, 3008, 3008, 3008, 3032, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3024, 3008, 3008, 3008, 3008, 3008, 3008, 3032, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3024, 3008, 3008, 3008, 3008, 3008, 3008, 3032, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3024, 3008, 3008, 3008, 3008, 3008, 3008, 3032, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3024, 3008, 3008, 3008, 3008, 3008, 3008, 3032, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3024, 3008, 3008, 3008, 3008, 3008, 3008, 3032, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3024, 3008, 3008, 3008, 3008, 3008, 3008, 3010, 3044, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3042, 3009, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3010, 3044, 0, 0, 0, 3042, 3044, 0, 0, 0, 3042, 3009, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3010, 3028, 3028, 3028, 3009, 3010, 3028, 3028, 3028, 3009, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 3008, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 251, 0, 0, 0, 96, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 251, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 250, 0, 0, 0, 0, 0, 0, 0, 0, 364, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 51, 66, 67, 50, 243, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 243, 0, 0, 0, 201, 59, 74, 75, 58, 69, 69, 0, 0, 0, 0, 0, 0, 0, 0, 0, 243, 0, 0, 346, 313, 0, 0, 0, 348, 77, 77, 0, 0, 242, 242, 0, 0, 0, 0, 0, 243, 0, 364, 0, 0, 0, 0, 0, 0, 0, 344, 80, 0, 242, 250, 0, 0, 0, 0, 0, 251, 0, 365, 0, 0, 0, 0, 0, 0, 0, 0, 88, 0, 250, 248, 0, 0, 0, 0, 0, 224, 0, 224, 224, 0, 0, 0, 0, 0, 0, 0, 224, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 80, 0, 0, 0, 0, 0, 0, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 88, 0, 0, 0, 0, 0, 224, 88, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], "events": [null, {"id": 1, "name": "EV001", "note": "", "pages": [{"conditions": {"actorId": 1, "actorValid": false, "itemId": 1, "itemValid": false, "selfSwitchCh": "A", "selfSwitchValid": false, "switch1Id": 1, "switch1Valid": false, "switch2Id": 1, "switch2Valid": false, "variableId": 1, "variableValid": false, "variableValue": 0}, "directionFix": false, "image": {"characterIndex": 0, "characterName": "", "direction": 2, "pattern": 0, "tileId": 0}, "list": [{"code": 121, "indent": 0, "parameters": [1406, 1406, 0]}, {"code": 201, "indent": 0, "parameters": [0, 203, 10, 9, 0, 2]}, {"code": 117, "indent": 0, "parameters": [2]}, {"code": 117, "indent": 0, "parameters": [12]}, {"code": 242, "indent": 0, "parameters": [1]}, {"code": 230, "indent": 0, "parameters": [60]}, {"code": 223, "indent": 0, "parameters": [[-255, -255, -255, 0], 1, true]}, {"code": 222, "indent": 0, "parameters": []}, {"code": 230, "indent": 0, "parameters": [60]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 1]}, {"code": 401, "indent": 0, "parameters": ["-------Several years later"]}, {"code": 241, "indent": 0, "parameters": [{"name": "M18_Ero4 ", "volume": 90, "pitch": 100, "pan": 0}]}, {"code": 122, "indent": 0, "parameters": [925, 925, 0, 0, 205]}, {"code": 117, "indent": 0, "parameters": [391]}, {"code": 230, "indent": 0, "parameters": [120]}, {"code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 40, false]}, {"code": 121, "indent": 0, "parameters": [50, 50, 0]}, {"code": 122, "indent": 0, "parameters": [1, 1, 0, 0, 0]}, {"code": 122, "indent": 0, "parameters": [221, 221, 0, 2, 1, 3]}, {"code": 122, "indent": 0, "parameters": [236, 236, 0, 0, 0]}, {"code": 122, "indent": 0, "parameters": [109, 109, 0, 0, 1]}, {"code": 122, "indent": 0, "parameters": [108, 108, 0, 0, 2]}, {"code": 122, "indent": 0, "parameters": [105, 105, 0, 0, 3]}, {"code": 122, "indent": 0, "parameters": [106, 106, 0, 0, 11]}, {"code": 122, "indent": 0, "parameters": [107, 107, 0, 0, 10]}, {"code": 117, "indent": 0, "parameters": [738]}, {"code": 205, "indent": 0, "parameters": [-1, {"list": [{"code": 41, "parameters": ["シーン-異教徒END", 0], "indent": null}, {"code": 16, "indent": null}, {"code": 33, "indent": null}, {"code": 0}], "repeat": false, "skippable": false, "wait": true}]}, {"code": 505, "indent": 0, "parameters": [{"code": 41, "parameters": ["シーン-異教徒END", 0], "indent": null}]}, {"code": 505, "indent": 0, "parameters": [{"code": 16, "indent": null}]}, {"code": 505, "indent": 0, "parameters": [{"code": 33, "indent": null}]}, {"code": 222, "indent": 0, "parameters": []}, {"code": 111, "indent": 0, "parameters": [0, 1300, 1]}, {"code": 356, "indent": 1, "parameters": ["回想セーブ 異教徒バッドエンド"]}, {"code": 0, "indent": 1, "parameters": []}, {"code": 412, "indent": 0, "parameters": []}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["Ahhhhh!!\\n< Serena >"]}, {"code": 117, "indent": 0, "parameters": [6]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["Ohh...uh. So this is the feel of Venus's beautiful\nprincess... huh!\\n< Man >"]}, {"code": 122, "indent": 0, "parameters": [221, 221, 0, 2, 1, 3]}, {"code": 122, "indent": 0, "parameters": [105, 105, 0, 0, 3]}, {"code": 122, "indent": 0, "parameters": [106, 106, 0, 0, 22]}, {"code": 122, "indent": 0, "parameters": [107, 107, 0, 0, 6]}, {"code": 117, "indent": 0, "parameters": [738]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["Ugh...hnnn...!\\n< Serena >"]}, {"code": 122, "indent": 0, "parameters": [221, 221, 0, 2, 1, 3]}, {"code": 122, "indent": 0, "parameters": [236, 236, 0, 0, 1]}, {"code": 117, "indent": 0, "parameters": [738]}, {"code": 117, "indent": 0, "parameters": [6]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["I decided the moment I saw you. I decided when\nBatbayar showed you off.\\n< Man >"]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["You were going to be mine.\\n< Man >"]}, {"code": 122, "indent": 0, "parameters": [221, 221, 0, 2, 1, 3]}, {"code": 122, "indent": 0, "parameters": [236, 236, 0, 0, 2]}, {"code": 117, "indent": 0, "parameters": [738]}, {"code": 117, "indent": 0, "parameters": [6]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["I've always thought of doing this...! Hnnn!!\\n< Man >"]}, {"code": 205, "indent": 0, "parameters": [-1, {"list": [{"code": 34, "indent": null}, {"code": 0}], "repeat": false, "skippable": false, "wait": true}]}, {"code": 505, "indent": 0, "parameters": [{"code": 34, "indent": null}]}, {"code": 122, "indent": 0, "parameters": [925, 925, 0, 0, 0]}, {"code": 117, "indent": 0, "parameters": [391]}, {"code": 122, "indent": 0, "parameters": [932, 932, 0, 0, 2]}, {"code": 122, "indent": 0, "parameters": [926, 926, 0, 0, 161]}, {"code": 117, "indent": 0, "parameters": [392]}, {"code": 122, "indent": 0, "parameters": [933, 933, 0, 0, 118]}, {"code": 117, "indent": 0, "parameters": [397]}, {"code": 122, "indent": 0, "parameters": [221, 221, 0, 0, 3]}, {"code": 122, "indent": 0, "parameters": [223, 223, 0, 0, 2]}, {"code": 122, "indent": 0, "parameters": [241, 241, 0, 0, 1]}, {"code": 122, "indent": 0, "parameters": [105, 105, 0, 0, 7]}, {"code": 122, "indent": 0, "parameters": [106, 106, 0, 0, 6]}, {"code": 122, "indent": 0, "parameters": [107, 107, 0, 0, 11]}, {"code": 117, "indent": 0, "parameters": [738]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["Ahhhh!\\n< Serena >"]}, {"code": 122, "indent": 0, "parameters": [236, 236, 0, 0, 4]}, {"code": 122, "indent": 0, "parameters": [221, 221, 0, 0, 1]}, {"code": 122, "indent": 0, "parameters": [241, 241, 0, 0, 0]}, {"code": 122, "indent": 0, "parameters": [1024, 1024, 0, 0, 1]}, {"code": 122, "indent": 0, "parameters": [105, 105, 0, 0, 7]}, {"code": 122, "indent": 0, "parameters": [106, 106, 0, 0, 32]}, {"code": 122, "indent": 0, "parameters": [107, 107, 0, 0, 10]}, {"code": 117, "indent": 0, "parameters": [738]}, {"code": 117, "indent": 0, "parameters": [6]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["Hahaha! It took five years...!\\n< Man >"]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["Your, this place... is better than I imagined! My\ninterest is unending! My blood won't settle down!\\n< Man >"]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["Are all women from the northern territories like\nthis?\\n< Man >"]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["This battle is almost over. The plains will become\none. Then, it's time to ravage the empire's\nterritory...\\n< Man >"]}, {"code": 122, "indent": 0, "parameters": [236, 236, 0, 0, 0]}, {"code": 117, "indent": 0, "parameters": [738]}, {"code": 117, "indent": 0, "parameters": [6]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["Next time, it might be interesting to pass through\nthe great forest and invade the northern\nterritories... eh!\\n< Man >"]}, {"code": 122, "indent": 0, "parameters": [925, 925, 0, 0, 202]}, {"code": 117, "indent": 0, "parameters": [391]}, {"code": 205, "indent": 0, "parameters": [-1, {"list": [{"code": 33, "indent": null}, {"code": 0}], "repeat": false, "skippable": false, "wait": true}]}, {"code": 505, "indent": 0, "parameters": [{"code": 33, "indent": null}]}, {"code": 122, "indent": 0, "parameters": [221, 221, 0, 2, 1, 3]}, {"code": 122, "indent": 0, "parameters": [105, 105, 0, 0, 7]}, {"code": 122, "indent": 0, "parameters": [106, 106, 0, 0, 12]}, {"code": 122, "indent": 0, "parameters": [107, 107, 0, 0, 10]}, {"code": 117, "indent": 0, "parameters": [738]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["Ah...ah...! Ugh...!\\n< Serena >"]}, {"code": 122, "indent": 0, "parameters": [1, 1, 0, 0, 1]}, {"code": 250, "indent": 0, "parameters": [{"name": "Move1", "volume": 90, "pitch": 100, "pan": 0}]}, {"code": 117, "indent": 0, "parameters": [6]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["Mo-mmy...\\n< Child >"]}, {"code": 122, "indent": 0, "parameters": [221, 221, 0, 2, 1, 3]}, {"code": 122, "indent": 0, "parameters": [105, 105, 0, 0, 3]}, {"code": 122, "indent": 0, "parameters": [106, 106, 0, 0, 7]}, {"code": 122, "indent": 0, "parameters": [107, 107, 0, 0, 11]}, {"code": 117, "indent": 0, "parameters": [738]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["!!! You...! Why have you returned...!\\n< Serena >"]}, {"code": 117, "indent": 0, "parameters": [6]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["General. We've captured Batbayar's brats.\\n< Subordinate >"]}, {"code": 122, "indent": 0, "parameters": [221, 221, 0, 2, 1, 3]}, {"code": 122, "indent": 0, "parameters": [236, 236, 0, 0, 1]}, {"code": 117, "indent": 0, "parameters": [738]}, {"code": 117, "indent": 0, "parameters": [6]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["Good work. Hahaha. They're an ugly bunch, nothing\nlike their mother. Does Batbayar's blood run\nstrong in them?\\n< Man >"]}, {"code": 122, "indent": 0, "parameters": [221, 221, 0, 2, 1, 3]}, {"code": 122, "indent": 0, "parameters": [236, 236, 0, 0, 2]}, {"code": 117, "indent": 0, "parameters": [738]}, {"code": 117, "indent": 0, "parameters": [6]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["Hmm... one is missing? There was a brash older\nkid, wasn't there?\\n< Man >"]}, {"code": 117, "indent": 0, "parameters": [6]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["My apologies. They resisted.\\n< Subordinate >"]}, {"code": 122, "indent": 0, "parameters": [221, 221, 0, 2, 1, 3]}, {"code": 122, "indent": 0, "parameters": [105, 105, 0, 0, 3]}, {"code": 122, "indent": 0, "parameters": [106, 106, 0, 0, 38]}, {"code": 122, "indent": 0, "parameters": [107, 107, 0, 0, 10]}, {"code": 122, "indent": 0, "parameters": [109, 109, 0, 0, 2]}, {"code": 117, "indent": 0, "parameters": [738]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["Ahhh...!\\n< Serena >"]}, {"code": 122, "indent": 0, "parameters": [236, 236, 0, 0, 0]}, {"code": 117, "indent": 0, "parameters": [738]}, {"code": 117, "indent": 0, "parameters": [6]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["If you haven't let them escape, it doesn't matter.\\n< Man >"]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["After all, what we're going to do is the same.\\n< Man >"]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["Then.\\n< Subordinate >"]}, {"code": 122, "indent": 0, "parameters": [221, 221, 0, 2, 1, 3]}, {"code": 122, "indent": 0, "parameters": [223, 223, 0, 0, 0]}, {"code": 122, "indent": 0, "parameters": [105, 105, 0, 0, 1]}, {"code": 122, "indent": 0, "parameters": [106, 106, 0, 0, 21]}, {"code": 122, "indent": 0, "parameters": [107, 107, 0, 0, 11]}, {"code": 117, "indent": 0, "parameters": [738]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["Stop, stop it!\\n< Serena >"]}, {"code": 122, "indent": 0, "parameters": [221, 221, 0, 2, 1, 3]}, {"code": 122, "indent": 0, "parameters": [236, 236, 0, 0, 2]}, {"code": 117, "indent": 0, "parameters": [738]}, {"code": 117, "indent": 0, "parameters": [6]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["Hmm--?\\n< Man >"]}, {"code": 122, "indent": 0, "parameters": [221, 221, 0, 2, 1, 3]}, {"code": 122, "indent": 0, "parameters": [105, 105, 0, 0, 3]}, {"code": 122, "indent": 0, "parameters": [106, 106, 0, 0, 27]}, {"code": 122, "indent": 0, "parameters": [107, 107, 0, 0, 6]}, {"code": 117, "indent": 0, "parameters": [738]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["Please...! Spare the children...!\\n< Serena >"]}, {"code": 117, "indent": 0, "parameters": [6]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["They're not kids you wanted to have, are they? A\nwoman brought as spoils of war...\\n< Man >"]}, {"code": 122, "indent": 0, "parameters": [221, 221, 0, 2, 1, 3]}, {"code": 122, "indent": 0, "parameters": [105, 105, 0, 0, 3]}, {"code": 122, "indent": 0, "parameters": [106, 106, 0, 0, 28]}, {"code": 122, "indent": 0, "parameters": [107, 107, 0, 0, 10]}, {"code": 117, "indent": 0, "parameters": [738]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["The children are innocent... they're all good\nkids...!\\n< Serena >"]}, {"code": 122, "indent": 0, "parameters": [221, 221, 0, 2, 1, 3]}, {"code": 122, "indent": 0, "parameters": [105, 105, 0, 0, 3]}, {"code": 122, "indent": 0, "parameters": [106, 106, 0, 0, 5]}, {"code": 122, "indent": 0, "parameters": [107, 107, 0, 0, 10]}, {"code": 117, "indent": 0, "parameters": [738]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["The only light I've found in this captive life...\\n< Serena >"]}, {"code": 117, "indent": 0, "parameters": [6]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["Mommy... why are you naked? Who is that man?\\n< Child >"]}, {"code": 122, "indent": 0, "parameters": [221, 221, 0, 2, 1, 3]}, {"code": 122, "indent": 0, "parameters": [105, 105, 0, 0, 3]}, {"code": 122, "indent": 0, "parameters": [106, 106, 0, 0, 38]}, {"code": 122, "indent": 0, "parameters": [107, 107, 0, 0, 10]}, {"code": 117, "indent": 0, "parameters": [738]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["This is...hnn! It's nothing... nothing at all...!\\n< Serena >"]}, {"code": 117, "indent": 0, "parameters": [6]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["Mommy? Your face is red...\\n< Child >"]}, {"code": 122, "indent": 0, "parameters": [221, 221, 0, 2, 1, 3]}, {"code": 122, "indent": 0, "parameters": [105, 105, 0, 0, 7]}, {"code": 122, "indent": 0, "parameters": [106, 106, 0, 0, 11]}, {"code": 122, "indent": 0, "parameters": [107, 107, 0, 0, 7]}, {"code": 117, "indent": 0, "parameters": [738]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["It's okay, it's all right...hnnk! ...That's\nwhy...!\\n< Serena >"]}, {"code": 122, "indent": 0, "parameters": [236, 236, 0, 0, 5]}, {"code": 117, "indent": 0, "parameters": [738]}, {"code": 117, "indent": 0, "parameters": [6]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["Hmph. Even if they're kids, you'd think they'd be\na bit sharper at that age.\\n< Man >"]}, {"code": 122, "indent": 0, "parameters": [236, 236, 0, 0, 3]}, {"code": 117, "indent": 0, "parameters": [738]}, {"code": 117, "indent": 0, "parameters": [6]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["Seems like the seed wasn't good. Or maybe it's the\neducation? You must have doted on them.\\n< Man >"]}, {"code": 122, "indent": 0, "parameters": [221, 221, 0, 2, 1, 3]}, {"code": 122, "indent": 0, "parameters": [105, 105, 0, 0, 2]}, {"code": 122, "indent": 0, "parameters": [106, 106, 0, 0, 24]}, {"code": 122, "indent": 0, "parameters": [107, 107, 0, 0, 11]}, {"code": 117, "indent": 0, "parameters": [738]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["Be quiet... be quiet...!\\n< Serena >"]}, {"code": 122, "indent": 0, "parameters": [221, 221, 0, 2, 1, 3]}, {"code": 122, "indent": 0, "parameters": [236, 236, 0, 0, 1]}, {"code": 122, "indent": 0, "parameters": [105, 105, 0, 0, 1]}, {"code": 122, "indent": 0, "parameters": [106, 106, 0, 0, 23]}, {"code": 122, "indent": 0, "parameters": [107, 107, 0, 0, 7]}, {"code": 117, "indent": 0, "parameters": [738]}, {"code": 117, "indent": 0, "parameters": [6]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["Rest assured. My seed is of better quality than\nBatbayar's. I'll make you bear a replacement soon\nenough. A better one.\\n< Man >"]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["If you're going to nurse anyway, it's better to do\nso with a strong child born from superior seed,\nright?\\n< Man >"]}, {"code": 122, "indent": 0, "parameters": [221, 221, 0, 2, 1, 3]}, {"code": 122, "indent": 0, "parameters": [236, 236, 0, 0, 5]}, {"code": 122, "indent": 0, "parameters": [105, 105, 0, 0, 3]}, {"code": 122, "indent": 0, "parameters": [106, 106, 0, 0, 27]}, {"code": 122, "indent": 0, "parameters": [107, 107, 0, 0, 10]}, {"code": 117, "indent": 0, "parameters": [738]}, {"code": 117, "indent": 0, "parameters": [6]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["Take them away.\\n< Man >"]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["E-ji----!!!\\n< Child >"]}, {"code": 250, "indent": 0, "parameters": [{"name": "Move1", "volume": 90, "pitch": 100, "pan": 0}]}, {"code": 205, "indent": 0, "parameters": [2, {"list": [{"code": 35, "indent": null}, {"code": 1, "indent": null}, {"code": 39, "indent": null}, {"code": 0}], "repeat": false, "skippable": false, "wait": false}]}, {"code": 505, "indent": 0, "parameters": [{"code": 35, "indent": null}]}, {"code": 505, "indent": 0, "parameters": [{"code": 1, "indent": null}]}, {"code": 505, "indent": 0, "parameters": [{"code": 39, "indent": null}]}, {"code": 205, "indent": 0, "parameters": [3, {"list": [{"code": 1, "indent": null}, {"code": 39, "indent": null}, {"code": 0}], "repeat": false, "skippable": false, "wait": true}]}, {"code": 505, "indent": 0, "parameters": [{"code": 1, "indent": null}]}, {"code": 505, "indent": 0, "parameters": [{"code": 39, "indent": null}]}, {"code": 122, "indent": 0, "parameters": [221, 221, 0, 2, 1, 3]}, {"code": 122, "indent": 0, "parameters": [236, 236, 0, 0, 4]}, {"code": 122, "indent": 0, "parameters": [223, 223, 0, 0, 1]}, {"code": 122, "indent": 0, "parameters": [105, 105, 0, 0, 7]}, {"code": 122, "indent": 0, "parameters": [106, 106, 0, 0, 38]}, {"code": 122, "indent": 0, "parameters": [107, 107, 0, 0, 11]}, {"code": 122, "indent": 0, "parameters": [109, 109, 0, 0, 3]}, {"code": 117, "indent": 0, "parameters": [738]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["Aaaa-----!!!!!!\\n< Serena >"]}, {"code": 205, "indent": 0, "parameters": [-1, {"list": [{"code": 33, "indent": null}, {"code": 0}], "repeat": false, "skippable": false, "wait": true}]}, {"code": 505, "indent": 0, "parameters": [{"code": 33, "indent": null}]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["Now, now, don't cry. This is the way of a chaotic\nworld. The fate of the steppes.\\n< Man >"]}, {"code": 250, "indent": 0, "parameters": [{"name": "Blow2", "volume": 90, "pitch": 100, "pan": 0}]}, {"code": 122, "indent": 0, "parameters": [221, 221, 0, 0, 4]}, {"code": 122, "indent": 0, "parameters": [105, 105, 0, 0, 7]}, {"code": 122, "indent": 0, "parameters": [106, 106, 0, 0, 6]}, {"code": 122, "indent": 0, "parameters": [107, 107, 0, 0, 10]}, {"code": 117, "indent": 0, "parameters": [738]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["Ugh!\\n< Serena >"]}, {"code": 117, "indent": 0, "parameters": [6]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["A fine woman has the duty to bear stronger\nchildren. It's her responsibility.\\n< Man >"]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["Leaving behind weak seed is a sin against our\nancestors.\\n< Man >"]}, {"code": 122, "indent": 0, "parameters": [105, 105, 0, 0, 1]}, {"code": 122, "indent": 0, "parameters": [106, 106, 0, 0, 2]}, {"code": 122, "indent": 0, "parameters": [107, 107, 0, 0, 7]}, {"code": 117, "indent": 0, "parameters": [738]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["You...! How dare you...! How dare you...!\\n< Serena >"]}, {"code": 117, "indent": 0, "parameters": [6]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["Hahaha, that's right, those eyes. The eyes of a\nmother who has had her children taken away. I\nwanted to see those eyes!\\n< Man >"]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["I'll make a replacement for you soon enough. You\njust need to keep bearing my children.\\n< Man >"]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["Children of the man you hate. The avengers of our\nchildren, the offspring.\\n< Man >"]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["They will be our children. They will grow up smart\nand strong. Just imagining them invading your\nhomeland...\\n< Man >"]}, {"code": 101, "indent": 0, "parameters": ["", 0, 2, 2]}, {"code": 401, "indent": 0, "parameters": ["Makes my heart leap with excitement, doesn't it?\nHahaha, I'm looking forward to it. I'm so looking\nforward to it...\\n< Man >"]}, {"code": 242, "indent": 0, "parameters": [3]}, {"code": 230, "indent": 0, "parameters": [30]}, {"code": 221, "indent": 0, "parameters": []}, {"code": 111, "indent": 0, "parameters": [0, 1300, 0]}, {"code": 251, "indent": 1, "parameters": []}, {"code": 246, "indent": 1, "parameters": [1]}, {"code": 355, "indent": 1, "parameters": ["Scene_Recollection.prototype.rngd_exit_scene();"]}, {"code": 0, "indent": 1, "parameters": []}, {"code": 412, "indent": 0, "parameters": []}, {"code": 353, "indent": 0, "parameters": []}, {"code": 0, "indent": 0, "parameters": []}], "moveFrequency": 3, "moveRoute": {"list": [{"code": 0, "parameters": []}], "repeat": true, "skippable": false, "wait": false}, "moveSpeed": 3, "moveType": 0, "priorityType": 0, "stepAnime": false, "through": false, "trigger": 3, "walkAnime": true}], "x": 5, "y": 3}, {"id": 2, "name": "子供", "note": "", "pages": [{"conditions": {"actorId": 1, "actorValid": false, "itemId": 1, "itemValid": false, "selfSwitchCh": "A", "selfSwitchValid": false, "switch1Id": 1, "switch1Valid": false, "switch2Id": 1, "switch2Valid": false, "variableId": 1, "variableValid": true, "variableValue": 1}, "directionFix": false, "image": {"tileId": 0, "characterName": "シーン-異教徒END", "direction": 8, "pattern": 1, "characterIndex": 6}, "list": [{"code": 0, "indent": 0, "parameters": []}], "moveFrequency": 3, "moveRoute": {"list": [{"code": 0, "parameters": []}], "repeat": true, "skippable": false, "wait": false}, "moveSpeed": 3, "moveType": 0, "priorityType": 1, "stepAnime": false, "through": false, "trigger": 0, "walkAnime": true}, {"conditions": {"actorId": 1, "actorValid": false, "itemId": 1, "itemValid": false, "selfSwitchCh": "A", "selfSwitchValid": false, "switch1Id": 1, "switch1Valid": false, "switch2Id": 1, "switch2Valid": false, "variableId": 1, "variableValid": true, "variableValue": 2}, "directionFix": false, "image": {"tileId": 0, "characterName": "", "direction": 8, "pattern": 1, "characterIndex": 6}, "list": [{"code": 0, "indent": 0, "parameters": []}], "moveFrequency": 3, "moveRoute": {"list": [{"code": 0, "parameters": []}], "repeat": true, "skippable": false, "wait": false}, "moveSpeed": 3, "moveType": 0, "priorityType": 0, "stepAnime": false, "through": false, "trigger": 0, "walkAnime": true}], "x": 9, "y": 13}, {"id": 3, "name": "部下", "note": "", "pages": [{"conditions": {"actorId": 1, "actorValid": false, "itemId": 1, "itemValid": false, "selfSwitchCh": "A", "selfSwitchValid": false, "switch1Id": 1, "switch1Valid": false, "switch2Id": 1, "switch2Valid": false, "variableId": 1, "variableValid": true, "variableValue": 1}, "directionFix": false, "image": {"tileId": 0, "characterName": "モブ HK_異教徒01-1", "direction": 8, "pattern": 1, "characterIndex": 1}, "list": [{"code": 0, "indent": 0, "parameters": []}], "moveFrequency": 3, "moveRoute": {"list": [{"code": 0, "parameters": []}], "repeat": true, "skippable": false, "wait": false}, "moveSpeed": 3, "moveType": 0, "priorityType": 1, "stepAnime": false, "through": false, "trigger": 0, "walkAnime": true}, {"conditions": {"actorId": 1, "actorValid": false, "itemId": 1, "itemValid": false, "selfSwitchCh": "A", "selfSwitchValid": false, "switch1Id": 1, "switch1Valid": false, "switch2Id": 1, "switch2Valid": false, "variableId": 1, "variableValid": true, "variableValue": 2}, "directionFix": false, "image": {"tileId": 0, "characterName": "", "direction": 8, "pattern": 1, "characterIndex": 6}, "list": [{"code": 0, "indent": 0, "parameters": []}], "moveFrequency": 3, "moveRoute": {"list": [{"code": 0, "parameters": []}], "repeat": true, "skippable": false, "wait": false}, "moveSpeed": 3, "moveType": 0, "priorityType": 0, "stepAnime": false, "through": false, "trigger": 0, "walkAnime": true}], "x": 10, "y": 13}, null]}
+{
+    "autoplayBgm": false,
+    "autoplayBgs": false,
+    "battleback1Name": "",
+    "battleback2Name": "",
+    "bgm": {
+        "name": "",
+        "pan": 0,
+        "pitch": 100,
+        "volume": 90
+    },
+    "bgs": {
+        "name": "",
+        "pan": 0,
+        "pitch": 100,
+        "volume": 90
+    },
+    "disableDashing": false,
+    "displayName": "",
+    "encounterList": [],
+    "encounterStep": 30,
+    "height": 20,
+    "note": "",
+    "parallaxLoopX": false,
+    "parallaxLoopY": false,
+    "parallaxName": "",
+    "parallaxShow": true,
+    "parallaxSx": 0,
+    "parallaxSy": 0,
+    "scrollType": 0,
+    "specifyBattleback": false,
+    "tilesetId": 34,
+    "width": 20,
+    "data": [
+        5367,
+        5375,
+        5751,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        5751,
+        5371,
+        5374,
+        5373,
+        5750,
+        5757,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        5757,
+        5747,
+        5750,
+        5751,
+        5756,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        5753,
+        5756,
+        5757,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        5367,
+        5371,
+        5370,
+        5370,
+        5370,
+        5370,
+        5374,
+        5367,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        5367,
+        5373,
+        5746,
+        5746,
+        5746,
+        5746,
+        5746,
+        5746,
+        5373,
+        5367,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        5373,
+        5750,
+        5752,
+        5752,
+        5752,
+        5752,
+        5752,
+        5752,
+        5747,
+        5373,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        5367,
+        5751,
+        5756,
+        4146,
+        4132,
+        4132,
+        4132,
+        4132,
+        4148,
+        5753,
+        5751,
+        5367,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        5365,
+        5757,
+        4146,
+        4113,
+        4112,
+        4112,
+        4112,
+        4112,
+        4114,
+        4148,
+        5757,
+        5365,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        5365,
+        4146,
+        4113,
+        4112,
+        4112,
+        4112,
+        4112,
+        4112,
+        4112,
+        4114,
+        4148,
+        5365,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        5365,
+        4128,
+        4112,
+        4112,
+        4112,
+        4112,
+        4112,
+        4112,
+        4112,
+        4112,
+        4136,
+        5365,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        5365,
+        4152,
+        4120,
+        4112,
+        4112,
+        4112,
+        4112,
+        4112,
+        4112,
+        4116,
+        4150,
+        5365,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        5373,
+        5367,
+        4128,
+        4112,
+        4112,
+        4112,
+        4112,
+        4112,
+        4112,
+        4136,
+        5367,
+        5373,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        5747,
+        5373,
+        4128,
+        4112,
+        4112,
+        4112,
+        4112,
+        4112,
+        4112,
+        4136,
+        5373,
+        5750,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        5753,
+        5751,
+        5371,
+        5370,
+        5374,
+        4112,
+        4112,
+        5371,
+        5370,
+        5374,
+        5751,
+        5756,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        5757,
+        5747,
+        5746,
+        5750,
+        4140,
+        4140,
+        5747,
+        5746,
+        5750,
+        5757,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        5753,
+        5752,
+        5756,
+        1552,
+        1552,
+        5753,
+        5752,
+        5756,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        1552,
+        0,
+        0,
+        0,
+        3024,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3032,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3024,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3032,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3042,
+        3009,
+        3008,
+        3012,
+        3036,
+        3036,
+        3036,
+        3036,
+        3036,
+        3036,
+        3036,
+        3036,
+        3016,
+        3008,
+        3010,
+        3044,
+        0,
+        0,
+        0,
+        3042,
+        3009,
+        3008,
+        3012,
+        3046,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3048,
+        3016,
+        3008,
+        3010,
+        3028,
+        3028,
+        3028,
+        3009,
+        3008,
+        3008,
+        3032,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3024,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3012,
+        3046,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3048,
+        3016,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3032,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3024,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3032,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3024,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3032,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3024,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3032,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3024,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3032,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3024,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3032,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3024,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3032,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3024,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3032,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3024,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3010,
+        3044,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3042,
+        3009,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3010,
+        3044,
+        0,
+        0,
+        0,
+        3042,
+        3044,
+        0,
+        0,
+        0,
+        3042,
+        3009,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3010,
+        3028,
+        3028,
+        3028,
+        3009,
+        3010,
+        3028,
+        3028,
+        3028,
+        3009,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        3008,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        251,
+        0,
+        0,
+        0,
+        96,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        251,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        250,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        364,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        51,
+        66,
+        67,
+        50,
+        243,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        243,
+        0,
+        0,
+        0,
+        201,
+        59,
+        74,
+        75,
+        58,
+        69,
+        69,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        243,
+        0,
+        0,
+        346,
+        313,
+        0,
+        0,
+        0,
+        348,
+        77,
+        77,
+        0,
+        0,
+        242,
+        242,
+        0,
+        0,
+        0,
+        0,
+        0,
+        243,
+        0,
+        364,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        344,
+        80,
+        0,
+        242,
+        250,
+        0,
+        0,
+        0,
+        0,
+        0,
+        251,
+        0,
+        365,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        88,
+        0,
+        250,
+        248,
+        0,
+        0,
+        0,
+        0,
+        0,
+        224,
+        0,
+        224,
+        224,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        224,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        80,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        80,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        88,
+        0,
+        0,
+        0,
+        0,
+        0,
+        224,
+        88,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "events": [
+        null,
+        {
+            "id": 1,
+            "name": "EV001",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": false,
+                        "variableValue": 0
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "characterIndex": 0,
+                        "characterName": "",
+                        "direction": 2,
+                        "pattern": 0,
+                        "tileId": 0
+                    },
+                    "list": [
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                1406,
+                                1406,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 201,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                203,
+                                10,
+                                9,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                2
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                12
+                            ]
+                        },
+                        {
+                            "code": 242,
+                            "indent": 0,
+                            "parameters": [
+                                1
+                            ]
+                        },
+                        {
+                            "code": 230,
+                            "indent": 0,
+                            "parameters": [
+                                60
+                            ]
+                        },
+                        {
+                            "code": 223,
+                            "indent": 0,
+                            "parameters": [
+                                [
+                                    -255,
+                                    -255,
+                                    -255,
+                                    0
+                                ],
+                                1,
+                                true
+                            ]
+                        },
+                        {
+                            "code": 222,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 230,
+                            "indent": 0,
+                            "parameters": [
+                                60
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "-------Several years later"
+                            ]
+                        },
+                        {
+                            "code": 241,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "name": "M18_Ero4 ",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                925,
+                                925,
+                                0,
+                                0,
+                                205
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                391
+                            ]
+                        },
+                        {
+                            "code": 230,
+                            "indent": 0,
+                            "parameters": [
+                                120
+                            ]
+                        },
+                        {
+                            "code": 223,
+                            "indent": 0,
+                            "parameters": [
+                                [
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                40,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 121,
+                            "indent": 0,
+                            "parameters": [
+                                50,
+                                50,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                1,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                221,
+                                221,
+                                0,
+                                2,
+                                1,
+                                3
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                236,
+                                236,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                109,
+                                109,
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                108,
+                                108,
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                105,
+                                105,
+                                0,
+                                0,
+                                3
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                106,
+                                106,
+                                0,
+                                0,
+                                11
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                107,
+                                107,
+                                0,
+                                0,
+                                10
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                738
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [
+                                -1,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 41,
+                                            "parameters": [
+                                                "シーン-異教徒END",
+                                                0
+                                            ],
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 16,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 33,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 41,
+                                    "parameters": [
+                                        "シーン-異教徒END",
+                                        0
+                                    ],
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 16,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 33,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 222,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                1300,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 356,
+                            "indent": 1,
+                            "parameters": [
+                                "回想セーブ 異教徒バッドエンド"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Ahhhhh!!\\n< Serena >"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                6
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Ohh...uh. So this is the feel of Venus's beautiful\nprincess... huh!\\n< Man >"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                221,
+                                221,
+                                0,
+                                2,
+                                1,
+                                3
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                105,
+                                105,
+                                0,
+                                0,
+                                3
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                106,
+                                106,
+                                0,
+                                0,
+                                22
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                107,
+                                107,
+                                0,
+                                0,
+                                6
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                738
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Ugh...hnnn...!\\n< Serena >"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                221,
+                                221,
+                                0,
+                                2,
+                                1,
+                                3
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                236,
+                                236,
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                738
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                6
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I decided the moment I saw you. I decided when\nBatbayar showed you off.\\n< Man >"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "You were going to be mine.\\n< Man >"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                221,
+                                221,
+                                0,
+                                2,
+                                1,
+                                3
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                236,
+                                236,
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                738
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                6
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I've always thought of doing this...! Hnnn!!\\n< Man >"
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [
+                                -1,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 34,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 34,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                925,
+                                925,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                391
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                932,
+                                932,
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                926,
+                                926,
+                                0,
+                                0,
+                                161
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                392
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                933,
+                                933,
+                                0,
+                                0,
+                                118
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                397
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                221,
+                                221,
+                                0,
+                                0,
+                                3
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                223,
+                                223,
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                241,
+                                241,
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                105,
+                                105,
+                                0,
+                                0,
+                                7
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                106,
+                                106,
+                                0,
+                                0,
+                                6
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                107,
+                                107,
+                                0,
+                                0,
+                                11
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                738
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Ahhhh!\\n< Serena >"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                236,
+                                236,
+                                0,
+                                0,
+                                4
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                221,
+                                221,
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                241,
+                                241,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                1024,
+                                1024,
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                105,
+                                105,
+                                0,
+                                0,
+                                7
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                106,
+                                106,
+                                0,
+                                0,
+                                32
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                107,
+                                107,
+                                0,
+                                0,
+                                10
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                738
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                6
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Hahaha! It took five years...!\\n< Man >"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Your, this place... is better than I imagined! My\ninterest is unending! My blood won't settle down!\\n< Man >"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Are all women from the northern territories like\nthis?\\n< Man >"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "This battle is almost over. The plains will become\none. Then, it's time to ravage the empire's\nterritory...\\n< Man >"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                236,
+                                236,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                738
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                6
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Next time, it might be interesting to pass through\nthe great forest and invade the northern\nterritories... eh!\\n< Man >"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                925,
+                                925,
+                                0,
+                                0,
+                                202
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                391
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [
+                                -1,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 33,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 33,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                221,
+                                221,
+                                0,
+                                2,
+                                1,
+                                3
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                105,
+                                105,
+                                0,
+                                0,
+                                7
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                106,
+                                106,
+                                0,
+                                0,
+                                12
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                107,
+                                107,
+                                0,
+                                0,
+                                10
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                738
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Ah...ah...! Ugh...!\\n< Serena >"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                1,
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 250,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "name": "Move1",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                6
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Mo-mmy...\\n< Child >"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                221,
+                                221,
+                                0,
+                                2,
+                                1,
+                                3
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                105,
+                                105,
+                                0,
+                                0,
+                                3
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                106,
+                                106,
+                                0,
+                                0,
+                                7
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                107,
+                                107,
+                                0,
+                                0,
+                                11
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                738
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "!!! You...! Why have you returned...!\\n< Serena >"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                6
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "General. We've captured Batbayar's brats.\\n< Subordinate >"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                221,
+                                221,
+                                0,
+                                2,
+                                1,
+                                3
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                236,
+                                236,
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                738
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                6
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Good work. Hahaha. They're an ugly bunch, nothing\nlike their mother. Does Batbayar's blood run\nstrong in them?\\n< Man >"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                221,
+                                221,
+                                0,
+                                2,
+                                1,
+                                3
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                236,
+                                236,
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                738
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                6
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Hmm... one is missing? There was a brash older\nkid, wasn't there?\\n< Man >"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                6
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "My apologies. They resisted.\\n< Subordinate >"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                221,
+                                221,
+                                0,
+                                2,
+                                1,
+                                3
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                105,
+                                105,
+                                0,
+                                0,
+                                3
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                106,
+                                106,
+                                0,
+                                0,
+                                38
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                107,
+                                107,
+                                0,
+                                0,
+                                10
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                109,
+                                109,
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                738
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Ahhh...!\\n< Serena >"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                236,
+                                236,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                738
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                6
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "If you haven't let them escape, it doesn't matter.\\n< Man >"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "After all, what we're going to do is the same.\\n< Man >"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Then.\\n< Subordinate >"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                221,
+                                221,
+                                0,
+                                2,
+                                1,
+                                3
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                223,
+                                223,
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                105,
+                                105,
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                106,
+                                106,
+                                0,
+                                0,
+                                21
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                107,
+                                107,
+                                0,
+                                0,
+                                11
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                738
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Stop, stop it!\\n< Serena >"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                221,
+                                221,
+                                0,
+                                2,
+                                1,
+                                3
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                236,
+                                236,
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                738
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                6
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Hmm--?\\n< Man >"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                221,
+                                221,
+                                0,
+                                2,
+                                1,
+                                3
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                105,
+                                105,
+                                0,
+                                0,
+                                3
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                106,
+                                106,
+                                0,
+                                0,
+                                27
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                107,
+                                107,
+                                0,
+                                0,
+                                6
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                738
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Please...! Spare the children...!\\n< Serena >"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                6
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "They're not kids you wanted to have, are they? A\nwoman brought as spoils of war...\\n< Man >"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                221,
+                                221,
+                                0,
+                                2,
+                                1,
+                                3
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                105,
+                                105,
+                                0,
+                                0,
+                                3
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                106,
+                                106,
+                                0,
+                                0,
+                                28
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                107,
+                                107,
+                                0,
+                                0,
+                                10
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                738
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "The children are innocent... they're all good\nkids...!\\n< Serena >"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                221,
+                                221,
+                                0,
+                                2,
+                                1,
+                                3
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                105,
+                                105,
+                                0,
+                                0,
+                                3
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                106,
+                                106,
+                                0,
+                                0,
+                                5
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                107,
+                                107,
+                                0,
+                                0,
+                                10
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                738
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "The only light I've found in this captive life...\\n< Serena >"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                6
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Mommy... why are you naked? Who is that man?\\n< Child >"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                221,
+                                221,
+                                0,
+                                2,
+                                1,
+                                3
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                105,
+                                105,
+                                0,
+                                0,
+                                3
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                106,
+                                106,
+                                0,
+                                0,
+                                38
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                107,
+                                107,
+                                0,
+                                0,
+                                10
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                738
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "This is...hnn! It's nothing... nothing at all...!\\n< Serena >"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                6
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Mommy? Your face is red...\\n< Child >"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                221,
+                                221,
+                                0,
+                                2,
+                                1,
+                                3
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                105,
+                                105,
+                                0,
+                                0,
+                                7
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                106,
+                                106,
+                                0,
+                                0,
+                                11
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                107,
+                                107,
+                                0,
+                                0,
+                                7
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                738
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "It's okay, it's all right...hnnk! ...That's\nwhy...!\\n< Serena >"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                236,
+                                236,
+                                0,
+                                0,
+                                5
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                738
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                6
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Hmph. Even if they're kids, you'd think they'd be\na bit sharper at that age.\\n< Man >"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                236,
+                                236,
+                                0,
+                                0,
+                                3
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                738
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                6
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Seems like the seed wasn't good. Or maybe it's the\neducation? You must have doted on them.\\n< Man >"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                221,
+                                221,
+                                0,
+                                2,
+                                1,
+                                3
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                105,
+                                105,
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                106,
+                                106,
+                                0,
+                                0,
+                                24
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                107,
+                                107,
+                                0,
+                                0,
+                                11
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                738
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Be quiet... be quiet...!\\n< Serena >"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                221,
+                                221,
+                                0,
+                                2,
+                                1,
+                                3
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                236,
+                                236,
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                105,
+                                105,
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                106,
+                                106,
+                                0,
+                                0,
+                                23
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                107,
+                                107,
+                                0,
+                                0,
+                                7
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                738
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                6
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Rest assured. My seed is of better quality than\nBatbayar's. I'll make you bear a replacement soon\nenough. A better one.\\n< Man >"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "If you're going to nurse anyway, it's better to do\nso with a strong child born from superior seed,\nright?\\n< Man >"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                221,
+                                221,
+                                0,
+                                2,
+                                1,
+                                3
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                236,
+                                236,
+                                0,
+                                0,
+                                5
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                105,
+                                105,
+                                0,
+                                0,
+                                3
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                106,
+                                106,
+                                0,
+                                0,
+                                27
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                107,
+                                107,
+                                0,
+                                0,
+                                10
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                738
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                6
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Take them away.\\n< Man >"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "E-ji----!!!\\n< Child >"
+                            ]
+                        },
+                        {
+                            "code": 250,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "name": "Move1",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [
+                                2,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 35,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 1,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 39,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": false
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 35,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 1,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 39,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [
+                                3,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 1,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 39,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 1,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 39,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                221,
+                                221,
+                                0,
+                                2,
+                                1,
+                                3
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                236,
+                                236,
+                                0,
+                                0,
+                                4
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                223,
+                                223,
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                105,
+                                105,
+                                0,
+                                0,
+                                7
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                106,
+                                106,
+                                0,
+                                0,
+                                38
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                107,
+                                107,
+                                0,
+                                0,
+                                11
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                109,
+                                109,
+                                0,
+                                0,
+                                3
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                738
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Aaaa-----!!!!!!\\n< Serena >"
+                            ]
+                        },
+                        {
+                            "code": 205,
+                            "indent": 0,
+                            "parameters": [
+                                -1,
+                                {
+                                    "list": [
+                                        {
+                                            "code": 33,
+                                            "indent": null
+                                        },
+                                        {
+                                            "code": 0
+                                        }
+                                    ],
+                                    "repeat": false,
+                                    "skippable": false,
+                                    "wait": true
+                                }
+                            ]
+                        },
+                        {
+                            "code": 505,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "code": 33,
+                                    "indent": null
+                                }
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Now, now, don't cry. This is the way of a chaotic\nworld. The fate of the steppes.\\n< Man >"
+                            ]
+                        },
+                        {
+                            "code": 250,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "name": "Blow2",
+                                    "volume": 90,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                221,
+                                221,
+                                0,
+                                0,
+                                4
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                105,
+                                105,
+                                0,
+                                0,
+                                7
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                106,
+                                106,
+                                0,
+                                0,
+                                6
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                107,
+                                107,
+                                0,
+                                0,
+                                10
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                738
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Ugh!\\n< Serena >"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                6
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "A fine woman has the duty to bear stronger\nchildren. It's her responsibility.\\n< Man >"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Leaving behind weak seed is a sin against our\nancestors.\\n< Man >"
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                105,
+                                105,
+                                0,
+                                0,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                106,
+                                106,
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 122,
+                            "indent": 0,
+                            "parameters": [
+                                107,
+                                107,
+                                0,
+                                0,
+                                7
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                738
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "You...! How dare you...! How dare you...!\\n< Serena >"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                6
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Hahaha, that's right, those eyes. The eyes of a\nmother who has had her children taken away. I\nwanted to see those eyes!\\n< Man >"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I'll make a replacement for you soon enough. You\njust need to keep bearing my children.\\n< Man >"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Children of the man you hate. The avengers of our\nchildren, the offspring.\\n< Man >"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "They will be our children. They will grow up smart\nand strong. Just imagining them invading your\nhomeland...\\n< Man >"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Makes my heart leap with excitement, doesn't it?\nHahaha, I'm looking forward to it. I'm so looking\nforward to it...\\n< Man >"
+                            ]
+                        },
+                        {
+                            "code": 242,
+                            "indent": 0,
+                            "parameters": [
+                                3
+                            ]
+                        },
+                        {
+                            "code": 230,
+                            "indent": 0,
+                            "parameters": [
+                                30
+                            ]
+                        },
+                        {
+                            "code": 221,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 111,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                1300,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 251,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 246,
+                            "indent": 1,
+                            "parameters": [
+                                1
+                            ]
+                        },
+                        {
+                            "code": 355,
+                            "indent": 1,
+                            "parameters": [
+                                "Scene_Recollection.prototype.rngd_exit_scene();"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": []
+                        },
+                        {
+                            "code": 412,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 353,
+                            "indent": 0,
+                            "parameters": []
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 3,
+                    "walkAnime": true
+                }
+            ],
+            "x": 5,
+            "y": 3
+        },
+        {
+            "id": 2,
+            "name": "子供",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": true,
+                        "variableValue": 1
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "シーン-異教徒END",
+                        "direction": 8,
+                        "pattern": 1,
+                        "characterIndex": 6
+                    },
+                    "list": [
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                },
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": true,
+                        "variableValue": 2
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "",
+                        "direction": 8,
+                        "pattern": 1,
+                        "characterIndex": 6
+                    },
+                    "list": [
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 9,
+            "y": 13
+        },
+        {
+            "id": 3,
+            "name": "部下",
+            "note": "",
+            "pages": [
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": true,
+                        "variableValue": 1
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "モブ HK_異教徒01-1",
+                        "direction": 8,
+                        "pattern": 1,
+                        "characterIndex": 1
+                    },
+                    "list": [
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 1,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                },
+                {
+                    "conditions": {
+                        "actorId": 1,
+                        "actorValid": false,
+                        "itemId": 1,
+                        "itemValid": false,
+                        "selfSwitchCh": "A",
+                        "selfSwitchValid": false,
+                        "switch1Id": 1,
+                        "switch1Valid": false,
+                        "switch2Id": 1,
+                        "switch2Valid": false,
+                        "variableId": 1,
+                        "variableValid": true,
+                        "variableValue": 2
+                    },
+                    "directionFix": false,
+                    "image": {
+                        "tileId": 0,
+                        "characterName": "",
+                        "direction": 8,
+                        "pattern": 1,
+                        "characterIndex": 6
+                    },
+                    "list": [
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": []
+                        }
+                    ],
+                    "moveFrequency": 3,
+                    "moveRoute": {
+                        "list": [
+                            {
+                                "code": 0,
+                                "parameters": []
+                            }
+                        ],
+                        "repeat": true,
+                        "skippable": false,
+                        "wait": false
+                    },
+                    "moveSpeed": 3,
+                    "moveType": 0,
+                    "priorityType": 0,
+                    "stepAnime": false,
+                    "through": false,
+                    "trigger": 0,
+                    "walkAnime": true
+                }
+            ],
+            "x": 10,
+            "y": 13
+        },
+        null
+    ]
+}
