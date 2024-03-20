@@ -483,8 +483,8 @@
         "name": "Eastern Town",
         "order": 47,
         "parentId": 0,
-        "scrollX": 2234.6666666666665,
-        "scrollY": 3864.8888888888887
+        "scrollX": 2430.222222222222,
+        "scrollY": 3170.6666666666665
     },
     {
         "id": 55,
@@ -2041,7 +2041,7 @@
         "order": 226,
         "parentId": 65,
         "scrollX": 1005.3333333333334,
-        "scrollY": 593.7777777777778
+        "scrollY": 558.2222222222222
     },
     {
         "id": 228,
@@ -2058,8 +2058,8 @@
         "name": "<Pickup Room> After the Black Slime",
         "order": 228,
         "parentId": 65,
-        "scrollX": 1139,
-        "scrollY": 628
+        "scrollX": 1012.4444444444445,
+        "scrollY": 558.2222222222222
     },
     {
         "id": 230,
